@@ -1,0 +1,52 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# pndrdashboard
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+O Objetivo do aplicativo pndrdashboard é funcionar como peça do Sistema Nacional de Informações do Desenvolvimento Regional, para assegurar o _acompanhamento da dinâmica regional brasileira_ e *o monitoramento e avaliação da PNDR*.
+
+## Instalação
+
+Você pode instalar a versão de desenvolvimento do pndrdashboard assim:
+
+``` r
+remotes::install_github("rodrigoesborges/painelpndr")
+```
+
+## Estrutura objetivo do painel
+
+O painel oferece três módulos:
+1. Painel da Dinâmica Regional;
+2. Painel de Instrumentos de Financiamento;
+3. Painel de Instrumenos de Planejamento;
+
+### Painel da Dinâmica Regional
+Dois submódulos:
+- Dashboard
+- Mapas
+
+Filtros disponíveis:
+
+- Ano;
+- Indicador Principal (Objetivos, Eixos Estratégicos, OGU, Fundos Constitucionais, Benefícios Tributários);
+- Subindicador: (ex. Índice de Centralidade);
+- Região/ Sub-Região Especial: (Faixa de Fronteira, Semiárido, Rides);
+- Estado;
+- Região Imediata;
+- Município;
+- Tipologia da PNDR;
