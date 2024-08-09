@@ -31,12 +31,12 @@ mod_setup_dashboard_ui <- function(id){
         bottom = 0,
         style = paste0("background-color: ", panel_bgcolor,";",
                        "text-align: center;",
-                       "z-index: 100000;"),
+                       "z-index: 1000;"),
         img(
           src = "www/circ.gif",
           style = paste0("position: fixed;",
-                         "top: calc(50vh - 5px);",
-                         "left: calc(50vw - 8px);")
+                         "top: calc(50vh - 100px);",
+                         "left: calc(50vw - 100px);")
         ))),
 
     # setup Button
