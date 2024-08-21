@@ -6,6 +6,7 @@
 #' @noRd
 app_server <- function(input, output, session) {
   RV <- reactiveValues()
+  mod_framegov_server("framegov_1")
   mod_setup_dashboard_server("setup_dashboard_1")
   mod_LandingPage_server("LandingPage_1")
 #  mod_convergência_server("convergência_1")

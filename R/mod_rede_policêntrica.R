@@ -7,16 +7,18 @@
 #' @noRd
 #'
 #' @importFrom shiny NS tagList
+obj2 <- readRDS("dadostat/Painel de Indicadores/Cálculo Painel de Indicadores/9_ind_objetivo_2.RDS")
+
 mod_rede_policêntrica_ui <- function(id){
   ns <- NS(id)
   tagList(
-    fluidPage(
-      sliderInput(ns('ano'),"Ano",2015,2022,2022,animate=T,ticks=F,animationOptions(interval=1000,loop=F,playButton = icon('play'))),
+   # fluidPage(
+      sliderInput(ns('ano'),"Ano",2015,2022,2022,animate=T,ticks=F,animationOptions(interval=2500,loop=F,playButton = icon('play'))),
       selectInput(ns("indicador"),"indicador",choices = unique(obj2$variavel),selected = ""),
       div(shinybusy::add_busy_spinner(spin = "fading-circle", position = "bottom-right",timeout=200),
           #leafgl::leafglOutput(ns("mapabase"),height='99vh')
           mapgl::maplibreOutput(ns("mapabase")))
-    )
+#    )
 
   )
 }

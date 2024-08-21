@@ -13,7 +13,8 @@ app_ui <- function(request) {
     # Your application UI logic
     mod_setup_dashboard_ui("setup_dashboard_1"),
     mod_LandingPage_ui("LandingPage_1"),
-    mod_rede_policêntrica_ui("rede_policêntrica_1"),
+    mod_framegov_ui("framegov_1")
+
  )
 }
 
