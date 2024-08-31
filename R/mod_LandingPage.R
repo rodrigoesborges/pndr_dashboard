@@ -8,6 +8,7 @@
 #'
 #' @importFrom shiny NS tagList
 #'
+obj2 <- readRDS("dadostat/Painel de Indicadores/Cálculo Painel de Indicadores/9_ind_objetivo_2.RDS")
 
 mypallet <- function(data, indicator) {
   # If data has positive and negative values, pallet is divergent and centred in 0
@@ -50,7 +51,9 @@ mod_LandingPage_ui <- function(id){
               tags$style(HTML("@keyframes fade2 {
                    to {
                    visibility: hidden;
-                   height: 0px;
+                   opacity:0;
+                   z-index: 1;
+                   transition: visibility 0s 2s, opacity 2s linear z-index 5s linear;
                    }
                   };"))),
    div(id=ns("splashmdr"),
