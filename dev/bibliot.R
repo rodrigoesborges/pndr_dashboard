@@ -2,8 +2,9 @@ library(bibliometrix)
 library(openalexR)
 options(openalexR.mailto="rodrigo@borges.net.br")
 #Sys.setenv("CHROMOTE_CHROME"="opt/google/chrome-linux64/chrome")
-query_oa <- 'pndr OR polycentr* OR ("central places" AND network)'
+query_oa <- 'pndr OR polycentr* OR ("central places" AND network) OR ("medium sized cities" AND ("policy" or "policies"))'
 
+query_oa <- 'zopp method*'
 oa_biblio <- oa_fetch(entity="works",
                       default.search=query_oa,
                       is_paratext="false",
@@ -19,7 +20,7 @@ oa_biblio <- oa_fetch(entity="works",
 
 
 ##ADiciona autoria completa de obras indicadas como truncadas em lista de autores
-oa_detalhe <- c("W2097137004", "W2151464048", "W2482077161", "W4400221903", "W4307537905", "W2588962111")
+oa_detalhe <- c("W2097137004", "W2151464048", "W2482077161", "W4400221903", "W3111454827","W4307537905", "W2588962111")
 
 oa_comp <- lapply(oa_detalhe,\(x) oa_fetch(identifier=x,
                                            mailto = oa_email()))
@@ -32,23 +33,13 @@ saveRDS(oa_biblio,"dadostat/oa_biblio.rds")
 
 saveRDS(oa2bibliometrix(oa_biblio),"dadostat/oa_biblio_x.rds")
 
-oaxbal <- biblioAnalysis(oax)
+#oax <- oa2bibliometrix(oa_biblio)
 
-keywords <- names(oaxbal$ID)
+#oaxbal <- biblioAnalysis(oax)
 
+#keywords <- names(oaxbal$ID)
 
-###WOS
-wosdf <- bibliometrix::convert2df(
-  list.files(path="dadostat/WosCategoriesRefino",
-             pattern="savedrecs.*\\.txt",full.names=T),
-  dbsource = "wos",format="plaintext")
-
-wosdfr <- bibliometrix::convert2df(
-  list.files(path="dadostat/poli_centr_apenas",
-             pattern="savedrecs.*\\.txt",full.names=T),
-  dbsource = "wos",format="plaintext")
-
-saveRDS(wosdfr,"dadostat/wosbrx.rds")
+##OPEN ALEX POST PROC
 
 oabibx <- readRDS("dadostat/oa_biblio_x.rds")
 oabibr <- readRDS("dadostat/oa_biblio.rds")
@@ -59,7 +50,7 @@ oabibxf <- oabibx|>dplyr::filter(!grepl("COMPUTER SCIENCE",ID), !grepl("BIOLOGY"
 
 oabibxf <- oabibx|>dplyr::filter(grepl("ECONO",ID) | grepl("SOCI",ID) | grepl("URBAN",ID) |
                                    grepl("PUBLIC",ID) | grepl("POLIT",ID) |
-                                 grepl("PLAN",ID))
+                                   grepl("PLAN",ID))
 
 ##Arbitrary, for getting when sustained production started
 oabibxf <- oabibxf|>dplyr::filter(PY>1930)
@@ -78,20 +69,23 @@ work_kww <- work_kw|>
 
 work_kww <- work_kww|>mutate(across(keyword,forcats::as_factor))
 
-kwlevels <- levels(work_kww$keyword)
+kwle <- levels(work_kww$keyword)
 
-kwlevels <- data.frame(kworigs=paste0(kwlevels,collapse=";"))|>
-  tidyr::separate_longer_position(kworigs,width=49995)
+kwlevels <- data.frame(kworigs=paste0(kwle,collapse="; "))|>
+  tidyr::separate_longer_position(kworigs,width=45000)
 
-kwlevels <- kwlevels|>mutate(across(kworigs,\(x){gsub(";","; ",x)}))
+#kwlevels <- kwlevels|>mutate(across(kworigs,\(x){gsub(";","; ",x)}))
 
-kwlevels[4,] <- substr(kwlevels$kworigs[1],49996,nchar(kwlevels$kworigs[1]))
+kwlevels[1,] <- paste0(kwlevels$kworigs[1],substr(kwlevels$kworigs[2],1,16),collapse="")
+kwlevels[2,] <- substr(kwlevels$kworigs[2],18,nchar(kwlevels$kworigs[2]))
+kwlevels[3,] <- paste0("A",kwlevels$kworigs[3])
+#kwlevels[4,] <- substr(kwlevels$kworigs[1],49996,nchar(kwlevels$kworigs[1]))
 
 #kwlevels[6,] <- substr(kwlevels$kworigs[3],49981,nchar(kwlevels$kworigs[3]))
 
-kwlevels$kworigs[1] <- substr(kwlevels$kworigs[1],1,49994)
+#kwlevels$kworigs[1] <- substr(kwlevels$kworigs[1],1,49994)
 
-kwlevels$kworigs[2] <- substr(kwlevels$kworigs[2],1,49989)
+#kwlevels$kworigs[2] <- substr(kwlevels$kworigs[2],1,49989)
 
 
 googlesheets4::gs4_auth()
@@ -118,14 +112,16 @@ trad <- googlesheets4::gs4_get(
     paste0(format.Date(Sys.Date(),"%Y%m%d"),"-bibliometrixpndr"))) |>
   googlesheets4::read_sheet()
 
-nkwlevels <- data.frame(kwtrad =paste0(toupper(trad$`label_pt-BR`[c(1,4,2,5,3)]),collapse=""))
+nkwlevels <- data.frame(kwtrad =paste0(toupper(trad$`label_pt-BR`[c(1,2,3,4)]),collapse=";"))
+nkwlevels$kwtrad <- gsub(";;",";",nkwlevels)
 
 nkwlevels <- nkwlevels|>
   tidyr::separate_longer_delim(kwtrad,delim=";")
 
-nkwlevels[372,1] <- "Preço de Oferta(Vendedor)"
+nkwlevels[694,1] <- "Preço de Oferta(Vendedor)"
 
 nkwlevels$kwtrad <- stringr::str_trim(nkwlevels$kwtrad)
+
 
 subforcatslevels <- levels(work_kww$keyword)
 names(subforcatslevels) <- nkwlevels$kwtrad
@@ -145,3 +141,25 @@ if (nrow(fwork_kw)==sum(fwork_kw$workid==oabibxf$id_oa)) {
 saveRDS(oabibxf,"dadostat/oabxfpt.rds")
 #workid= oabibxf$id_oa, keywordsai=oabibxf$ID)
 
+
+###WOS
+wosdf <- bibliometrix::convert2df(
+  list.files(path="dadostat/WosCategoriesRefino",
+             pattern="savedrecs.*\\.txt",full.names=T),
+  dbsource = "wos",format="plaintext")
+
+wosdfr <- bibliometrix::convert2df(
+  list.files(path="dadostat/poli_centr_apenas",
+             pattern="savedrecs.*\\.txt",full.names=T),
+  dbsource = "wos",format="plaintext")
+
+saveRDS(wosdfr,"dadostat/wosbrx.rds")
+
+
+
+library(rscopus)
+rscopus::set_api_key(Sys.getenv("SCOPUS_API"))
+
+zopp <- rscopus::scopus_search( 'TITLE-ABS-KEY(zopp AND method*)',
+                        headers= c(Origin = "https://salas.grupo.pro.br"),api_key = get_api_key(),
+                        view = "STANDARD",  count =25)
