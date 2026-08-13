@@ -1,0 +1,1499 @@
+---
+fontsize: 12pt
+portuguese: true # default is Portuguese / alternatively english may be selected
+output:
+  midrmodelos::word_doc:
+    font: "Georgia"
+    number_sections: true
+    toc: false
+toc-title: "Sumário" 
+abstract-title: ""
+bibliography: [bib/references.bib, bib/packages.bib]
+bibliographystyle: bib/bibstyle.bst
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include = FALSE}
+# settings --> keep this chunk as it is!
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, 
+  warning = FALSE, error = FALSE, cache = TRUE,
+  fig.path='figs/', cache.path = 'cache/')
+```
+
+```{r load-packages, include = FALSE}
+# packages
+library(knitr)
+library(kableExtra)
+library(xtable)
+library(tidyverse)
+library(bibliometrix)
+library(flextable)
+```
+
+```{r generate-package-refs, include=FALSE}
+Sys.setlocale("LC_TIME", "pt_BR.UTF-8")
+# Create a bib database for R packages used above
+# NOTE: RUN THIS CODE CHUNK MANUALLY TO CREATE FILE BEFORE KNITTING
+options(scipen=9999)
+knitr::write_bib(
+  x = c(.packages(), 'bookdown', 'rmarkdown', 
+    # Add here now all packages that are loaded above:
+    'knitr', 'kableExtra', 'xtable', 'tidyverse','bibliometrix','openalexR','flextable','ggspatial','ggthemes','cowplot','brazilmaps','geobr','ipeadatar'),
+  file = 'bib/packages.bib'
+)
+```
+
+```{r load-data,include=F}
+oanal <- readRDS("data/oa_zot_an.rds")
+pcicid <- readODS::read_ods("../../dadostat/PCI-cidades_ri_intermediarias.ods")[1:3]
+sumanal <- summary(oanal)
+novopac <- read_csv2("data/tabelanovopac.csv")
+load("data/fcfdata.rda")
+load("data/biblio09.rda")
+base <- financ_mun|>group_by(ano,pci)|>summarize(cpcind=weighted.mean(indcpc,populacao),across(c(vlr_contrato,populacao,pib_milhoes,vlr_real,pib_real),\(x) sum(x,na.rm=T)),"inflação(índice)"=first(inflacao_i))|>ungroup()|>mutate(credpib=round(vlr_contrato/pib_milhoes/1e4,2),credpc=vlr_real/populacao,pci=case_when(pci ~ "Sim", T ~ "Não"),across(c(contains("vlr"), populacao),\(x){round(x/1e6,3)}),across(where(is.numeric),\(x){formatC(round(x,3),big.mark=".",decimal.mark=",",format="fg")}))
+
+names(base) <- c("Ano","Part. P.C.I","Índice de Crédito p.c.","Crédito Total FCF (R$ mi)","População\n(milhões)","PIB corrente(R$ mi)","Crédito Total Real FCF (R$ mi de out/2024)", "PIB (R$ mi de ago/2024)","I. Inflação(2024/10=100)","Crédito FCF (% PIB)","Crédito p.c. (R$ out/2024)")
+names(base) <- gsub("de Crédito","de\nCrédito",gsub("FCF","\nFCF",gsub("\\(","\n(",names(base))))
+
+base[base==0] <- NA
+base[base==Inf] <- NA
+
+#baixa coleção atualizada de documentos sobre a temática da biblioteca Zotero
+# download.file("http://127.0.0.1:23119/better-bibtex/export/collection?/1/0-0-0-Artigos-Laburados/2024-desenvolvimento_regional.biblatex",destfile="bib/references.bib",method="curl")
+```
+
+::: {custom-style="Abstract"}
+Relatório sobre o Objetivo II da Política Nacional de Desenvolimento Regional - 
+PNDR (Inciso II do Art. 3º do Decreto
+no 11.962/2024) e estratégias correlacionadas com revisão documental;
+mapeamento dos insruments e ações implementadas; sistematização e análise de 
+dados primários e secundários; análise e/ou proposição de indicadores e 
+critérios de avaliação; avaliação da coerência interna da
+política e sua articulação com outras políticas públicas; identificação
+de possíveis incoerências e fragilidades, pontos fortes e fracos;
+proposição de medidas para o aperfeiçoamento da política, com base nos
+resultados da avaliação e em boas práticas nacionais e internacionais,
+além de priorização das medidas de acordo com sua viabilidade técnica, política 
+e financeira.
+
+:::
+
+::: {custom-style="Title"}
+Produto 1
+:::
+
+::: {custom-style="Subtitle"}
+Relatório Técnico sobre o Objetivo II da Política Nacional de Desenvolvimento
+Regional: consolidar rede policêntrica de cidades, para a desconcentração e 
+interiorização do desenvolvimento regional e do País
+:::
+
+::: {custom-style="Author"}
+Rodrigo E. S. Borges
+:::
+
+::: {custom-style="Date"}
+Brasília, `r format.Date(as.Date('2024-11-01'),'%B de %Y.')`
+:::
+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|------------------------------------------------------------------------|
+| **Nome do Consultor**: Rodrigo Emmanuel Santana Borges                                                                                                                                                                                                                                                                                                                                                                           |
+| **Número do Contrato**: 12.400.123                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Servidor Responsável**: Rafael Luis Giacomin (MIDR)                                                                                                                                                                                                                                                                                                                                                                            |
+| **Data da Entrega**: 05/11/2024                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Classificação**                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Áreas Temáticas**: Governo Federal, Governança Regional e Territorial                                                                                                                                                                                                                                                                                                                                                          |
+| Política Nacional de Desenvolvimento Regional                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Palavras-Chave**: Rede Policêntrica de cidades, Cidades Intermediadoras, 
+Locais Centrais, Desenvolvimento Regional                                                                                                                                                                                                                                                                                                              |
+| **Resumo**                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Qual Objetivo da Consultoria?**                                                                                                                                                                                                                                                                                                                                                                                                |
+| O objetivo geral desta contratação é contribuir, por meio de consultoria individual, com apoio técnico especializado ao Ministério da Integração e do Desenvolvimento Regional, no suporte ao processo de monitoramento e avaliação dos instrumentos, estratégias, objetivos e eixos da PNDR e seus instrumentos na realização de estudos, pesquisas e análises, proposição de metodologias e elaboração de relatórios técnicos. |
+| **Qual Objetivo Primário do Produto?**                                                                                                                                                                                                                                                                                                                                                                                           |
+| Relatório técnico sobre o Objetivo II da PNDR (Inciso II do Art. 3º do Decreto no 11.962/2024) e estratégias correlacionadas.                                                                                                                                                                                                                                                                                                    |
+| **Qual a Finalidade do Produto?**                                                                                                                                                                                                                                                                                                                                                                                                |
+| Dar subsídios para desenvolver mecanismos e instrumentos inovadores de formulação, implementação e monitoramento de programas ligados ao Objetivo II da PNDR, em particular instrumentos de planejamento e gestão regional e territorial                                                                                                                                                                              |
+| **Quais os Resultados Alcançados mais relevantes?**                                                                                                                                                                                                                                                                                                                                                                              |
+| Avaliação panorâmica do Objetivo II da PNDR, do ponto de vista teórico, de práticas internacionais, de implementação, de coerência interna e articulação a outras políticas públicas, além de sugerir prioridades para proposições de aperfeiçoamentos da política.                                                                                                                                                              |
+| **O que se deve fazer com o produto para potencializar o seu uso?**                                                                                                                                                                                                                                                                                                                                                              |
+| Analisá-lo em relação às definições contratuais do conteúdo dos produtos e adequação aos objetivos, geral e específicos da contratação.                                                                                                                                                                                                                                                                                          |
+| **O Produto contribui com qual objetivo imediato e qual/quais indicador/indicadores de desenvolvimento do PCT/BRA/IICA/23/002 - GOVERNANÇA REGIONAL E TERRITORIAL?**                                                                                                                                                                                                                                                             |
+| Objetivo Imediato 1: Desenvolver mecanismos e instrumentos inovadores de formulação, implementação e monitoramento de políticas e programas regionais e territoriais. Contribui para indicador e resultado 1.1 - de desenvolvimento de instrumentos de planejamento e gestão regional e territorial.                                                                                                                             |
+
+# Introdução
+
+O Objetivo II da Nova PNDR visa "consolidar uma rede policêntrica de
+cidades, em apoio à desconcentração e interiorização do
+desenvolvimento regional do País, de forma a considerar as especificidades de
+cada região"[@brasilDecretoNo119622024]. Este objetivo visa estabelecer uma
+harmonia entre os centros urbanos, promovendo polos de influência em
+variadas escalas, que funcionem como pontos-chave de uma rede integrada.
+A presente estrutura urbana do Brasil é marcada por divisões e
+concentração, sobretudo nas regiões Norte, Nordeste e Centro-Oeste, o
+que compromete a união territorial e a diminuição das disparidades
+regionais.
+
+A proposta desse objetivo e da própria PNDR, historicamente, não é
+recente. A definição da primeira PNDR em 2007 com objetivo de um Brasil
+menos assimétrico, baseou-se em um grande estudo encomendado pelo
+Ministério responsável pelo desenvolvimento regional. Este, em um
+compêndio de 7 volumes, sugeria a construção de um Brasil policêntrico,
+identificando macropolos e subpolos que, com políticas adequadas,
+poderiam se tornar centros de
+desenvolvimento[@dinizEstudoDimensaoTerritorial2008]. A rede deveria
+incluir tanto áreas urbanas quanto rurais, reconhecendo a
+interdependência entre elas. A meta era, e continua sendo, garantir que
+as cidades menores e as áreas rurais tenham acesso a serviços e
+oportunidades, melhorando a qualidade de vida e promovendo a permanência
+da população no campo. [@brasilOsObjetivosPrioritarios2019]
+
+Os fundamentos conceituais e teóricos para a intervenção pública em
+diversas escalas na promoção de novas cidades como locais centrais, ou
+novas centralidades, remetem a pensamento desenvolvido desde o
+pós-guerra em particular nos âmbitos das ciências regionais, geografia,
+ciências políticas e sociais.
+
+De acordo com uma abordagem bastante 
+referenciada[@santinhaPrincipioCoesaoTerritorial2014], o
+desenvolvimento policêntrico baseia-se em que:
+
+1.  A organização do território se dá em torno das cidades, pelo que se
+    devem fortalecer suas capacidades de atratividade e desenvolvimento;
+2.  As cidades são os elos para criar uma rede interurbana, cuja
+    integração pode ser aprimorada por meio de redes de
+    complementaridade e de sinergia;
+3.  As interações entre essas cidades são facilitadas tanto por redes de
+    infraestrutura física e virtual, quanto por relações institucionais
+    e estratégias conjuntas de desenvolvimento.
+
+As sucessivas crises desde a Grande Recessão de 2008, dificuldades de
+governança, inexistência de plano ou estratégia de desenvolvimento
+regional suficientemente delineada e a impossibilidade de aprovar a
+criação do Fundo Nacional de Desenvolvimento Regional (FNDR), definido como
+vertebrante para a PNDR dificultaram, junto a mudanças de orientação
+ultraliberalizantes, a profundidade e extensão em que foi possível
+materializar ações para o desenvolvimento regional e fortalecimento de
+novas centralidades médias no país.
+
+Toda forma, em resposta a estímulos do mercado mundial e por estratégias
+e disponibilidades localizadas, isto é, não de forma planejada e
+integrada, assistiu-se, no Brasil, a uma grande mudança da rede urbana,
+com crescimento de cidades médias e impulso a novos centros para além
+das megalópoles e grandes capitais [@brasilCensoDemografico20222024].
+
+E, mais importante, a orientação governamental federal atual é de
+prioridade ao desenvolvimento socioeconômico e ambiental, em geral, e ao
+desenvolvimento regional, em particular. A meta da neoindustrialização e
+da retomada de investimentos públicos em serviços públicos - como o caso
+do Complexo Industrial da Saúde, prioridade do Novo Plano de Aceleração
+do Crescimento (PAC) - mostram-se protoestratégias de desenvolvimento,
+plasmadas também no Plano Plurianual 2024-2027 [@brasilLeiNo148022024].
+
+Tal importância é recorrentemente posta em evidência. Entre 2023 e 2024,
+assistiu-se à edição da Nova PNDR[@brasilDecretoNo119622024]. Com a
+aprovação da reforma tributária, foi possível, neste momento histórico,
+instituir o FNDR, ainda dependente de regulamentação. 
+O objetivo de fortalecimento de novas centralidades
+para a interiorização e redução da intensa polarização existente no
+tecido social não só se manteve como é, atualmente, foco do esforço
+estruturante de programa e ação do MIDR dentro da PNDR.
+
+Nesse contexto, insere-se o presente relatório, o qual procura contribuir
+com o processo de monitoramento e avaliação dos instrumentos,
+estratégias e eixos da PNDR correlacionados ao Objetivo II da Política, tal
+como expresso no Inciso II do Art. 3º do Decreto 11.962/2024. Para tal,
+lança-se mão de uma série de métodos complementares.
+
+Inicia-se com uma revisão documental, tanto institucional como
+conceitual. Do primeiro ângulo, possibilitou-se analogias e realce de
+inovações em relação a momentos pretéritos da política de
+desenvolvimento regional. Além disso, e em conjunto com mapeamento
+preliminar conceitual bibliométrico, insere-se a ação para
+fortalecimento de um país mais policêntrico no contexto da ciência e
+de práticas internacionais.
+
+Na sequência, mostra-se o resultado de mapeamento de instrumentos e
+ações em implementação. Revela-se, desta forma, a decidida ação para
+enfrentar o problema objeto da política, ao tempo em que fica evidente
+certa dificuldade institucional na materialização inicial da nova etapa
+de intervenção pública para convergência regional relativa.
+
+A análise se volta, a partir daí, na sistematização de dados na forma de
+indicadores. Destacam-se elementos da construção do Painel de
+Indicadores da PNDR atinentes ao Objetivo II. Além disso, acrescentam-se
+indicadores financeiros e indicadores já embutidos no planejamento e
+no processo orçamentário do governo federal.
+
+Conclui-se com uma avaliação de potencialidades e desafios, com
+sugestões, a partir de considerações sobre viabilidade, para avançar com a
+implementação, monitoramento e avaliação dos esforços e ações voltados à
+consolidação de um país mais policêntrico.
+
+# Revisão Documental
+
+A revisão documental é uma técnica metodológica fundamental para a
+análise de políticas públicas e planejamento estratégico, especialmente
+no contexto do desenvolvimento regional, como é o caso do Objetivo II da
+Nova PNDR. A relevância dessa abordagem reside na capacidade de acessar
+uma vasta gama de informações, tanto históricas quanto contemporâneas,
+que fornecem uma base sólida para a avaliação de políticas e a
+formulação de novas estratégias. Ao reunir documentos oficiais,
+relatórios técnicos, estudos acadêmicos e outras fontes pertinentes, é
+possível obter uma visão abrangente dos desafios e avanços na promoção
+de um Brasil policêntrico. A metodologia permite identificar
+continuidades, rupturas e inovações no campo das políticas regionais,
+além de fornecer _insights_ valiosos para o aprimoramento das ações em
+curso.
+
+No contexto da PNDR, a revisão documental ganha importância ao agregar
+elementos conceituais e de mapeamento de medidas, evidenciando como o
+desenvolvimento policêntrico tem sido tratado ao longo do tempo. A
+técnica permite traçar a evolução da política de desconcentração urbana
+e suas interfaces com áreas como planejamento territorial, economia
+regional e governança. Além disso, possibilita a identificação de
+lacunas ou inconsistências na implementação das políticas, o que é
+essencial para propor ajustes ou novas intervenções. Com essa
+metodologia, é possível realizar um mapeamento preciso das ações e
+instrumentos utilizados para consolidar uma rede de cidades mais
+equilibrada e conectada, como prevê o Objetivo II.
+
+A seção será estruturada em três subseções principais, cada uma
+abordando um aspecto complementar da revisão documental. A primeira
+subseção será dedicada a uma revisão bibliométrica da literatura
+científica internacional sobre policentrismo. Utilizando bases de dados
+acadêmicas, serão identificadas as publicações mais relevantes e
+influentes no campo, permitindo compreender as tendências teóricas e
+práticas em diferentes contextos regionais. Esta revisão ajudará a
+situar o Brasil dentro do panorama internacional, identificando boas
+práticas e conceitos que podem ser adaptados ao contexto brasileiro. A
+análise quantitativa das publicações permitirá também verificar quais
+áreas têm recebido mais atenção, e onde existem oportunidades para novos
+estudos e intervenções.
+
+Na segunda subseção, será realizada uma análise qualitativa de textos
+selecionados _ad hoc_ que se mostram particularmente relevantes para o
+tema. Ao invés de uma revisão exaustiva, essa subseção buscará
+aprofundar-se em documentos específicos, como relatórios institucionais,
+decretos governamentais e estudos de caso regionais que tratam da
+temática do policentrismo. Esses textos serão analisados com o intuito
+de captar nuances e detalhamentos que uma abordagem puramente
+quantitativa não alcançaria. A análise qualitativa permitirá observar
+como os conceitos de redes policêntricas e centralidades emergentes
+estão sendo aplicados em diferentes realidades, além de fornecer uma
+leitura crítica das políticas implementadas até o momento.
+
+Por fim, a terceira subseção será dedicada ao mapeamento de instrumentos
+e ações em implementação para a consolidação de uma rede policêntrica de
+cidades no Brasil. Essa subseção terá caráter prático, concentrando-se
+na identificação de políticas públicas, programas governamentais e
+investimentos que estão sendo direcionados para o fortalecimento de
+novos polos regionais. Será feito um levantamento das principais
+iniciativas já em andamento, tanto em nível federal quanto regional,
+analisando como essas ações contribuem para o alcance do Objetivo II da
+PNDR. O mapeamento incluirá também a identificação de desafios
+enfrentados na implementação dessas políticas, como a coordenação
+intergovernamental e o financiamento, fornecendo uma visão clara dos
+avanços e obstáculos na materialização de uma rede urbana mais
+equilibrada no Brasil.
+
+## Análise bibliométrica de trabalhos sobre policentrismo
+A bibliometria, enquanto campo interdisciplinar, utiliza abordagens quantitativas
+para analisar a produção e disseminação do conhecimento científico. 
+Enriquece, assim métodos de levantamento e revisão documental como o presente.
+Em outra palavras, ela permite mapear e analisar o estado da arte de determinado 
+campo do conhecimento, utilizando métodos estatísticos e 
+matemáticos para examinar publicações científicas e institucionais, identificar 
+autores e instituições influentes, revelar temas emergentes e, de forma geral, 
+compreender a estrutura e a dinâmica de áreas específicas do saber. 
+Compreender a literatura científica relevante a temas como desenvolvimento 
+regional, centralidades na rede urbana, cidades intermediadoras,planejamento urbano, 
+entre outros, apoia a construção de políticas públicas mais eficazes e 
+**baseadas em evidências**.
+
+Este levantamento bibliométrico foi realizado utilizando o software 
+R (R Core Team, 2023), uma linguagem de programação gratuita e de código aberto 
+amplamente utilizada para análise estatística e geração de gráficos. 
+Especificamente, empregou-se o pacote "bibliometrix" (Aria & Cuccurullo, 2017),
+uma ferramenta robusta dentro do ambiente R, desenvolvida especificamente para 
+análises bibliométricas. O "bibliometrix" oferece um conjunto completo de 
+funções para importar dados de diversas bases bibliográficas, realizar análises 
+estatísticas descritivas, criar visualizações informativas como mapas de 
+co-citação e co-ocorrência de palavras-chave, e identificar autores, periódicos 
+e áreas de pesquisa mais relevantes. A escolha dessa ferramenta se justifica por 
+sua versatilidade, capacidade de processar grandes volumes de dados e pela 
+qualidade dos resultados gerados^[Detalhes da forma de implementação da análise bibliométrica podem ser consultados 
+ao final do relatório (cf. **[Anexo](#anexo-detalhamento-de-métodos)**).].
+
+As informações básicas da coleção dos
+`r format(as.numeric(principais_infos[ grepl("Documentos",principais_infos$Descrição),]$Resultados[1]),big.mark=".")`
+trabalhos obtidos como resposta à consulta seguem na figura
+**\@ref(fig:maininfo)**:
+
+```{r maininfo,fig.cap = "Informações básicas do conjunto bibliográfico\\label{fig:maininfo}", out.width='95%'}
+
+knitr::include_graphics("images/01_informação_principal.png")
+```
+
+
+Como se nota na figura \@ref(fig:annualprod), a produção de documentos
+sobre os assuntos pesquisados explodiu do período de 1995 a 2018, verificando-se
+forte queda no período da pandemia por COVID-19. O período pós-pandemia
+assistiu publicações crescentes novamente, mas a produção em 2024 pode
+mostrar arrefecimento ou queda da produção:
+
+```{r annualprod,fig.cap = "Produção Anual de Trabalhos ligados à temática\\label{fig:annualprod}", out.width='60%'}
+ggplot2::ggplot(sumanal$AnnualProduction|>
+dplyr::mutate(across(`Year   `,\(x){as.numeric(as.character(x))}))|>
+dplyr::rename(Ano=`Year   `,Trabalhos=Articles)|>
+                    dplyr::filter(Ano<2024),aes(x=Ano,y=Trabalhos))+
+geom_line()+theme_minimal()
+```
+
+
+Um diagrama de evolução temática[@coboApproachDetectingQuantifying2011] 
+identifica _clusters_
+de assuntos em diferentes períodos de tempo e analisa como esses _clusters_
+evoluem ao longo do tempo. O resultado é um mapa que mostra a conexão entre
+temas em diferentes períodos.
+É obtido a partir de um conjunto de dados bibliométricos que contenha
+informações sobre publicações, como títulos, resumos e palavras-
+chave, como os obtidos (cf. **[Anexo](#anexo-detalhamento-de-métodos)**). 
+
+O algoritmo utilizado envolve principalmente a identificação de _clusters_ 
+temáticos a partir do conjunto de palavras-chave e referências entre os escritos. 
+Isto é, os termos presentes no mapa de evolução temática não são escolhidos 
+pelo pesquisador que o aplica, mas pela rotina 
+algorítmica, garantindo reprodutibilidade e reduzindo escopo de escolhas 
+arbitrárias ou mais subjetivas.
+
+O resultado é como um mapa que ajuda a entender como os temas de pesquisa
+evoluem ao longo do tempo, identificando tendências e mudanças no foco
+das pesquisas. Os fluxos de conexões principais de temas 'separáveis' ao longo do
+período são ilustrados, o que destaca o ocaso de algum tema ou alguma forma de 
+adoção ou utilização de um tema. 
+É possível ter uma noção da evolução temática do conjunto bibliográfico
+em questão na figura
+\@ref(fig:evolucaot):
+
+```{r evolucaot,fig.cap = "Mapa de evolução temática - Palavras-chave mapeadas com IA - 1941-2024\\label{fig:evolucaot}", out.width='95%'}
+
+knitr::include_graphics("images/04_evolucao_tematica.png")
+```
+
+Verifica-se, por exemplo, como o agrupamento temático de 
+desenvolvimento regional, bem forte ao longo de quatro décadas e meia 
+(1941-1984), deixa de figurar como grupo isolável entre os principais nas duas 
+décadas seguintes, para ser retomado em trabalhos cuja ênfase temática em 
+sociologia era bastante presente. Os agrupamentos temáticos distinguíveis e mais 
+importantes nos últimos 9 anos mantiveram número reduzido: sociologia, ciências 
+empresariais, geografia, ciência política e psicologia.
+
+No diagrama consolidado de posição estratégica por quadrantes  
+(\@ref(fig:diagramatematico)), é possível ver que os dois grupos de temas de maior 
+desenvolvimento e relevância, ou mais importantes temas motores, são ligados, o 
+primeiro à sociologia, política (neste caso, referente ao termo inglês _policy_) 
+e temas-chave latino-americanos, e o segundo, à China, negócios 
+(ciências empresariais) e um tema discrepante de contexto em arqueologia. 
+É possível verificar a emergência do tratamento do tema de policentrismo ou 
+redes policêntricas vinculado à saúde pela pandemia por COVID-19. De fato, o grupo 
+temático composto por psicologia,medicamento/saúde e coronavirus/covid-19 é o único 
+que se mostrou no quadrante de nicho temático, correspondete a uma grande densidade 
+combinada com média-baixa relevância para o campo como um todo.
+O grupo temático que une geografia e economia figura como tema básico, com certa 
+tendência para declínio:
+
+```{r diagramatematico,fig.cap = "Diagrama de dinâmica estratégica temática\\label{fig:diagramatematico}", out.width='75%',out.height='75%',fig.show='hold', fig.align='center'}
+
+knitr::include_graphics(
+  c("images/05_mapa_tematico.png"))
+```
+
+
+
+As palavras-chave mais recorrentes podem ser observadas na nuvem de
+palavras abaixo:
+
+```{r nuvemi,fig.cap = "Nuvem de palavras-chave dos trabalhos selecionados\\label{fig:nuvemi}", out.width='95%'}
+
+knitr::include_graphics("images/07_wordcloud.png")
+```
+
+Esta representação oferece um panorama da difusão das palavras ou assuntos, 
+mais do que do agrupamento diferenciável ou conexão temática. Observa-se, aqui, 
+a presença de temas ecológicos e ambientais - termos como sustentabilidade, 
+planejamento ambiental, desenvolvimento sustentável.
+
+A mudança de ênfase no tempo nesse acervo bibliográfico é visível no
+diagrama de temas em tendência (\@ref(fig:trendingt)). Esta representação visual 
+mostra, na linha do tempo plasmada no eixo horizontal, termos mais importantes 
+com início e fim das linhas que representam cada um indicando, respectivamente, 
+sua primeira e última aparição ou utilização no conjunto literário tratado,e 
+círculos nas lina demarcadndo o ano em que o termo entre os 3 termos principais 
+(critério para que o tema esteja disposto no diagrama). O tamanho dos círculos, 
+por sua vez, evidencia a intensidade em relação aos demais termos princpais 
+presentes na literatura.
+
+```{r trendingt,fig.cap = "Temas em tendência (_trending topics_)\\label{fig:trendingt}", out.width='95%',out.height='180%'}
+
+knitr::include_graphics("images/08_trending_topics.png")
+```
+
+Temas como união soviética e comunismo figuram entre as primeiras tendências, ao 
+tempo em que temas como pandemia, ciência ambiental, ordenamento territorial e 
+economia solidária figuram como tendências de aparição e relevância recentes.
+
+Para fechar este apartado bibliométrico, oferece-se sucinta análise sobre os 
+autores principais. Os diagramas abaixo mostram, o primeiro 
+(**\@ref(fig:autoresa)**), os autores individualmente mais 
+relevantes por período, e o segundo(**\@ref(fig:autores)**), redes de colaboração, em termos principalmente de co-autorias e co-citação. 
+
+A primeira figura entrega um panorama da produção dos 14 principais autores mais 
+relevantes, por ano, com produções dentro dos assuntos ora em tela. As 
+linhas marcadas com círculos possuem interpretação similar à descrita acima para 
+o diagrama de termos em tendência.
+
+Nota-se a presença de autores brasileiros como João Mendes,
+Clélio Diniz entre os mais relevantes e com produção longeva do acervo 
+selecionado, além de Aristides Neto e Fernando de Macedo, aquele com destaque no 
+último quinquênio, este já há uma década marcando presença significativa.
+
+```{r autoresa,fig.cap = "Produção de Principais Autores no Tempo\\label{fig:autoresa}", out.width='95%',out.height='185%',fig.show='hold', fig.align='center'}
+
+knitr::include_graphics(
+  "images/06_producao_autor_tempo.png")
+```
+
+As redes de colaboração mais importantes, plasmadas no seguinte diagrama, mostram 
+coletivos com densidade variável e em geral razoável, ainda que pouco colaboram 
+entre si, formando cinco praticamente "redes-ilha"^[Ressalte-se que essas 
+características consideram apenas a produção relevante para o objeto deste 
+escrito, isto é, pode(ria) haver colaboração entre autores de distintas 
+sub-redes em outros temas, o que fica fora de consideração para as reflexões e 
+ilustrações ora apresentadas].
+
+```{r autores,fig.cap = "Redes de colaboração entre autores em temas selecionados\\label{fig:autores}", out.width='95%',out.height='95%',fig.show='hold', fig.align='center'}
+
+knitr::include_graphics(
+  "images/09_rede_de_colaboracao.png")
+```
+
+No caso das redes de colaboração vinculadas ao Brasil de autores de textos que 
+seguiram a consulta temática, nota-se uma rede cujo autor central é o economista, 
+professor da UNICAMP, Fernando Cézar de Macedo, tendo como participantes 
+remarcados Leonardo Porto, Rodrigo Portugual, Murilo Pires e Gislaine Quaglio.
+De outro lado, nota-se uma rede ainda menos hierarquizada, com dois autores centrais:
+o economista, servidor do IPEA, Aristides Monteiro Neto, e o geógrafo, servidor do 
+Ministério da Integração e Desenvolvimento Regional, João Mendes da Rocha Neto, 
+de que participam com destaque Lucileia Aparecida Colombo, Rahpael de Oliveira 
+Silva, Adriana Melo Alves e Guilherme Resende. Note-se que, como ilustrado no 
+diagrama, neste caso detectou-se colaboração entre essas redes, que envolve 
+um autor central de cada rede, Fernando de Macedo e Aristides Monteiro Neto, 
+além de colaboração daquele e Raphael Silva.
+
+## Análise de documentos-chave para a política pública no Brasil
+
+Apresentada a análise, expansão e características do conteúdo e trabalho
+científico-institucional coletivo realizado em torno da temática de redes
+policêntricas, passemos a tratar de alguns documentos-chave específicos
+para a política pública de desenvolvimento regional no Brasil ligados
+às cidades intermediadoras.
+
+O texto para discussão do IPEA, nº 2.649 "Ensaios Operacionais para a 
+Identificação de Cidades Médias"[@mouraTD2649Ensaios2021] foca em metodologias 
+operativas para a identificação de cidades médias, oferecendo _insights_ sobre
+classificação e desenvolvimento urbano. Em contraste, "Contribuições
+para uma agenda urbana de integração regional" de Ernesto Pereira
+Galindo [@galindoContribuicoesParaUma2023] aborda a necessidade de uma agenda de 
+integração regional, propondo uma tipologia de redes urbanas para promover uma
+estrutura urbana mais policêntrica no Brasil.
+
+O documento"Entre o urbano e o regional: as metrópoles e os fundos
+constitucionais de financiamento"[@portugalEntreUrbanoRegional2024] explora a 
+relação entre as áreas metropolitanas e o desenvolvimento regional no Brasil, 
+com foco nos mecanismos de financiamento constitucional que sustentam a
+infraestrutura e os serviços urbanos. Discute como esses recursos
+financeiros são cruciais para enfrentar os desafios enfrentados pelas
+regiões metropolitanas, incluindo as pressões da urbanização e as
+disparidades socioeconômicas. O trabalho enfatiza a necessidade de
+políticas eficazes que integrem o planejamento urbano e regional para
+aumentar a sustentabilidade e a resiliência das cidades.
+
+Voltando ao documento supracitado de Galindo (2023), este enfatiza o conceito 
+de redes urbanas policêntricas, defendendo uma distribuição mais equilibrada 
+das funções urbanas entre múltiplos centros para melhorar a integração regional 
+no Brasil. Em contraste, Portugal (2024) discute os mecanismos financeiros que
+sustentam as áreas metropolitanas, destacando o papel dos lugares
+centrais no desenvolvimento regional e a importância do financiamento
+para enfrentar os desafios urbanos. Juntos, esses trabalhos contribuem
+para a compreensão de como o policentrismo e os lugares centrais podem
+moldar a política urbana e o planejamento regional no Brasil.
+
+Em 2024, preparou-se o 'Relatório de Monitoramento da PNDR e seus
+Instrumentos' pela Secretaria de Desenvolvimento Regional do Ministério
+da Integração e Desenvolvimento
+Regional[@brasilRelatorioMonitoramentoPNDR2024]. Elementos importantes
+quanto à abordagem e formas de monitoramento são descritos.
+
+O documento fornece uma análise do papel das cidades de médio porte e
+cidades intermediárias dentro do contexto da Política Nacional de
+Desenvolvimento Regional (PNDR). Ele enfatiza a importância dessas
+cidades na promoção do desenvolvimento regional por meio de redes
+policêntricas que melhoram a conectividade e a colaboração entre os
+centros urbanos. O relatório destaca estratégias para fortalecer o
+tecido econômico e social dessas cidades, promovendo um crescimento
+regional equilibrado e um desenvolvimento sustentável.
+
+Às páginas 35 a 38 do escrito, discute-se a importância das cidades
+intermediárias no contexto da rede policêntrica de municípios,
+destacando seu papel como facilitadoras do desenvolvimento regional.
+Essas cidades são vistas como pontos estratégicos para a implementação
+de políticas públicas que promovem a integração econômica e social entre
+áreas urbanas e rurais.
+
+O relatório enfatiza que o fortalecimento dessas cidades pode contribuir
+para a descentralização do crescimento urbano, melhorando a qualidade de
+vida e a acessibilidade a serviços essenciais. Além disso, menciona a
+necessidade de investimentos direcionados para infraestrutura e
+capacitação local, a fim de potencializar suas funções dentro da rede
+policêntrica.
+
+Ao fim de 2023, foi publicado o terceiro volume da série
+"Desenvolvimento Regional: políticas, estratégias e perspectivas"
+[@monteironetoDesenvolvimentoRegionalNo2023].O primeiro capítulo do
+livro aborda a rede urbana brasileira, com destaque para a formação de
+um padrão policêntrico e a atuação das cidades intermediadoras. A rede
+urbana se estrutura hierarquicamente, com grandes cidades oferecendo
+serviços especializados para centros menores.
+
+No entanto, conforme os autores, esse sistema reflete profundas
+desigualdades, em especial em regiões periféricas. O conceito de
+policentrismo busca promover um desenvolvimento regional mais
+equilibrado, fortalecendo centralidades em diferentes escalas. Cidades
+intermediárias têm papel crucial na interiorização do desenvolvimento,
+atuando como pontos de conexão e distribuição de fluxos econômicos e
+sociais .
+
+O capítulo 3 do livro **"Desenvolvimento Regional no 
+Brasil"**[@macedoDesenvolvimentoRegionalNo2023]
+concentra-se na análise da agenda institucional de políticas públicas,
+com ênfase nas superintendências regionais de desenvolvimento, incluindo
+a Sudene, Sudam e Sudeco. O foco principal é a capacidade dessas
+instituições de formular e implementar políticas regionais de
+desenvolvimento em alinhamento com a Política Nacional de
+Desenvolvimento Regional (PNDR). O capítulo explora como essas
+superintendências conseguem coordenar suas ações com outros órgãos
+federais e locais e se mostram eficazes na formulação de políticas
+públicas. Ele também destaca o papel essencial das cidades
+intermediárias, as quais funcionam como pontos cruciais para a
+integração entre grandes centros urbanos e áreas rurais, fomentando o
+desenvolvimento socioeconômico regional.
+
+A relação entre os Fundos Constitucionais de Financiamento (FCFs) e o
+fortalecimento da rede policêntrica de cidades é discutida dentro do
+contexto da Política Nacional de Desenvolvimento Regional (PNDR). Esses
+fundos, que incluem o FNE (Nordeste), FCO (Centro-Oeste) e FNO (Norte),
+desempenham um papel crucial na promoção do desenvolvimento regional
+equilibrado, proporcionando financiamento acessível para atividades
+produtivas em áreas fora dos grandes centros urbanos. Isto é, colocam-se como 
+ferramentas de incentivo para as cidades intermediárias, no financiamento de 
+projetos que podem expandir suas infraestruturas e fortalecer suas
+economias. Ao apoiar o crescimento de cidades médias e pequenas, os FCFs ajudam 
+a mitigar a concentração econômica e demográfica em grandes metrópoles, 
+favorecendo uma rede mais policêntrica de cidades, conforme os objetivos da PNDR.
+
+O capítulo salienta, no entanto, que, embora esses fundos sejam estratégicos, 
+a falta de direcionamento preciso e a atuação de interesses políticos podem 
+desvirtuar seu papel, desviando o foco do fortalecimento de redes policêntricas 
+para atender demandas localizadas e específicas de grandes grupos econômicos.
+
+Enfatiza-se na obra também a necessidade, para fins de uma política industrial
+regionalizada, de
+
+> Compatibilizar as políticas regionais e de infraestrutura com a visão
+> de um país policêntrico, com vistas a atenuar a megaconcentração
+> metropolitana e distribuir melhor a população no território,
+> preservadas as áreas de proteção , especialmente a Amazônia não
+> antropizada.(@macedoDesenvolvimentoRegionalNo2023, p. 242)
+
+Por fim, entre os temas desse livro que destacam a descentralização da rede 
+urbana brasileira, a expansão com interiorização das instituições 
+universitárias no Brasil também figura como elemento-chave de apoio às 
+iniciativas difusoras e
+inovadoras nas cidades intermediárias (@macedoDesenvolvimentoRegionalNo2023, 
+cap. 11,p. 381)
+
+## Síntese da revisão
+
+Há um interesse crescente no fortalecimento de redes urbanas policêntricas através da priorização de núcleos intermediários. De maneira mais recente, a China tem ganhado destaque nesse contexto, assim como o Brasil. Esses países têm implementado políticas que buscam equilibrar o desenvolvimento urbano, promovendo o crescimento de cidades intermediárias para descongestionar metrópoles e distribuir de forma mais equitativa os recursos econômicos e sociais.
+
+Embora o tema seja bastante mencionado, não está exatamente explícito encadeamento lógico dos processos socioeconômicos resultantes na contribuição mais eficaz das políticas voltadas para cidades intermediárias na redução da desigualdade. Isto é, é ao menos aparente uma lacuna na literatura e nas análises políticas que conectem diretamente essas iniciativas ao impacto mensurável na diminuição das disparidades socioeconômicas, indicando a necessidade de estudos mais aprofundados.
+
+Os desafios de implementação dessas políticas são significativos no Brasil. A longo prazo, o fortalecimento do Fundo Nacional de Desenvolvimento Regional (FNDR) é essencial. No curto prazo, há a necessidade de alinhar de forma mais eficaz os fundos constitucionais, os benefícios fiscais e as demais intervenções regionais e setoriais, garantindo que os recursos sejam direcionados de maneira coerente e estratégica para promover o desenvolvimento equilibrado das regiões.
+
+Por fim, no contexto contemporâneo da economia brasileira, a todo momento é posta uma forte restrição orçamentária. A contenção forçada de investimentos públicos representa, assim, um verdadeiro obstáculo para a implementação plena dessas políticas. As limitações financeiras exigem uma gestão eficiente dos recursos disponíveis e a busca por fontes alternativas de financiamento, além de priorização estratégica dos investimentos para alcançar os objetivos propostos.
+
+### Mecanismo da eficácia de política para cidades intermediadoras
+
+Tendo como pano de fundo e base exemplificativa a revisão acima, construímos os 
+diagramas a seguir para ilustrar, de uma maneira bastante simplificada, 
+mecanismos pelos quais uma intervenção pública que dê prioridade para núcleos 
+intermediários na rede urbana policêntrica podem levar a uma redução da 
+desigualdade maior e/ou mais distribuída que políticas focadas exclusivamente 
+em pontos mais periféricos. 
+
+Em ambos casos, considera-se a limitação de recursos disponíveis, de modo que 
+não todas as áreas prioritárias recebem o mesmo apoio da política regional.  
+A localidade *A* representa a metrópole principal. A denominada de *B*, um elo 
+intermediário. Já *C*, *D*, e *E* são cidades ou locais mais periféricos e de 
+menor desenvolvimento relativo (considerados de tamanho similar no segmento 
+da rede escolhido para análise). Considera-se que a vinculação entre elo 
+intermediário e elos mais reduzidos é forte, ao formar mercado de trabalho 
+único subrregional, mas hierarquizado, em torno do centro local, microrregional. 
+O contexto maior da rede policêntrica evidencia-se em mais cidades/nós 
+acizentados e com menor opacidade (mais apagados). O foco do argumento será 
+dado na parte da rede ilustrada com maior intensidade e vividez nas cores.
+
+A situação inicial (pré-intervenção) é aquela representada nas figuras com 
+fundo branco. Os efeitos da política são destacados por meio das áreas 
+hachuradas que expandem as figuras iniciais (em azul e verde frutos do 
+impacto direto ou indireto da intervenção). As setas representam transmissão de 
+estímulo, com orientação da origem para o  destino (ponta da seta). Uma última 
+suposição, razoável, é de que os estímulos indiretos de elos pequenos para maiores 
+seja individualmente menor para estes, pela relação hierárquica e diferenças de 
+escala entre elos, mas, dependendo da quantidade de elos menores com estímulo, 
+o efeito relativo para o(s) local(is) central(is) maior(es) pode ser maior que o
+resultado individual para ao menos um dos núcleos menores.
+
+Na parte da rede policêntrica ressaltada para análise, propõe-se uma medida o mais simplificada da desigualdade, medida pela razão entre o tamanho de *A* e o elo menos desenvolvido e não priorizado em intervenções posteriores, tomado pela cidade 
+*E*,  isto é, **A/E**^[Na situação inicial, conforme os pressupostos, similar a _A/C_ e _A/D_].
+
+O primeiro diagrama mostra contexto e efeitos de uma política concentrada e direta em locais mais vulneráveis e periféricos, o que, na tipologia regional atual, indicaria regiões de baixa renda, possivelmente de média ou baixo dinamismo. A limitação orçamentária leva à atuação em duas das três regiões na situação hipotética, além de algumas do restante da rede ao fundo.
+
+```{r prd1,fig.cap = "Ilustração de Política Regional via regiões mais desfavorecidas\\label{fig:prd1}", out.width='85%'}
+
+knitr::include_graphics("images/2024-ilustracao-eficacia-politica-cidade-intermediaria-PRD - 1.svg")
+```
+
+Os estímulos resultam em expansão relativa maior das áreas menores, como se 
+procurou ressaltar visualmente, mesmo para o restante da rede. Redundam em 
+efeitos indiretos consideráveis. O efeito total para uma localidade como a 
+representada em _E_, não coberta pela intervenção dada a restrição fiscal, 
+supõe-se relativamente pequeno. Para a metrópole principal, por outro lado, o 
+impulso indireto pode se acumular com aquele da implementação da política no 
+restante da rede, e, ainda que pequeno, pode ser considerável. 
+
+O quadro mostra resultado bastante possível: que o impacto em _A_ possa ter 
+ordem de grandeza similar ou até algo maior como esboçado, do que na 
+região _E_, não alcançada diretamente pela política dada a insuficiência de 
+recursos disponíveis para a intervenção. Assim, a redução da desigualdade no 
+segmento, medida por **A/E**, seria atenuada significativamente, anulada, ou até 
+negativa como na figura^[Haveria várias possibilidades de interação e 
+resultado (para o que se chama atenção no restante da rede), mas o risco  de 
+que o efeito comentado domine vários segmentos e até a rede inteira parece mais 
+que plausível, provável.].
+
+O segundo esquema refere-se a uma política interventiva de redução de 
+desigualdade via estímulo às cidades intermediárias:
+
+
+```{r prdci,fig.cap = "Ilustração de Política Regional via regiões intermediadoras\\label{fig:prdci}", out.width='85%'}
+
+knitr::include_graphics("images/2024-ilustracao-eficacia-politica-cidade-intermediaria-PRD - CI.svg")
+```
+
+
+Nesta situação, supõe-se que o centro intermediário _B_ recebe uma política que 
+estimula à maior oferta relativa de bens e serviços **não complementares aos que 
+oferece _A_**, e o **mais complementares possível** em relação aos locais 
+menores. Dessa forma, o estímulo total para _A_ é reduzido. O efeito de 
+_spill over_ , ou de arrasto, nas localidades menos centrais _C_, _D_ e _E_ , é 
+significativo pela estreiteza das relações com _B_. O impacto total nas regiões 
+menos desenvolvidas ilustrado não é tão forte quanto em _B_. O resultado para o 
+segmento esquematizado mostra agora situação distinta. Ao impactar de forma 
+mais intensa nos elos menores, a redução da desigualdade no segmento da rede, 
+medida pela nova razão (pós-intervenção) _A/E_ , parece-nos, ficaria assegurada 
+em maior medida, como se buscou retratar no diagrama. 
+
+Neste caso, quanto mais distribuída a política para outros segmentos com 
+cidades intermediárias em microrregiões com a presença dos núcleos mais 
+frágeis, tanto maior a possibilidade da redução da desigualdade replicar-se 
+até mesmo na rede em seu conjunto.
+
+Ainda que procedida a reflexão de forma muito simplificada, estão presentes 
+elementos necessários ou mais oportunos, destacados de distintas formas na literatura revisada, para a eficácia de uma política de desenvolvimento regional com 
+ênfase em centros médios, no contexto de escassez de capacidade interventiva:
+
+ - A ênfase em ampliar oferta de bens e serviços não complementares à metrópole 
+nas cidades intermediadoras, isto é, concorrentes a oferta daquela[^Este 
+elemento está presente na argumentação de prioridade em 'retirar a pressão nas 
+metrópoles derivada da concentração da oferta de determinados bens e serviços. 
+Também é notado, como outro exemplo, na ênfase de maior distribuição de 
+equipamentos públicos para cidades médias, equipamentos estes que compõem
+a oferta previamente concentrada na metrópole, ou, como infraestrutura, que 
+elevam a viabilidade de relocalização de atividades.];
+
+ - A maior eficácia potencial para segmentos da rede que contenham cidades 
+ intermediadoras e elos menores dos mais frágeis da rede completa^[A 
+ priorização tal como arquitetada no passado e no presente da PNDR - como 
+ exposto nas páginas seguintes - pode ser interpretada como resposta a essa 
+ característica ou dimensão, no sentido de aproveitar os limitados recursos 
+ onde possam produzir melhores resultados. Nesse caso concreto, priorizar 
+ cidades intermediárias em microrregiões consideradas de baixa renda ou 
+ média-baixa - isto é, com presença significativa de cidades com estas 
+ características - referenciadas acima como núcleos mais frágeis];
+ 
+ - O aumento da eficácia potencial correspodente à maior estreiteza 
+ da divisão e de mercado de trabalho subrregionais em torno da cidade 
+ intermediadora alvo da intervenção^[Já que a uma maior ligação dos 
+ distintos nós territoriais, maiores efeitos de arrasto para o entorno dos 
+ subcentros estimulados, critério presente na priorização de primeiras cidades 
+a participarem do Progama Cidades Intermediadoras, como mostrado abaixo].
+ 
+
+# Mapeamento de Instrumentos e ações implementadas
+
+A retomada político-institucional do desenvolvimento e desenvolvimento
+regionais se dá, em particular, no impulso à agenda ora em pauta, do
+fortalecimento de uma rede mais policêntrica de cidades.
+
+Em particular, mapearam-se as seguintes ações e instrumentos
+governamentais:
+
+-   Atualização da tipologia regional de desenvolvimento;
+
+-   Disposição crescente em Planos Regionais de Desenvolvimento;
+
+-   Iniciativas intersetoriais do Governo Federal relacionáveis ao objetivo 2;
+
+-   Edição da Nova Política Nacional de Desenvolvimento Regional (Nova PNDR);
+
+-   Criação/consolidação de áreas de natureza tática e estratégica estruturantes para a PNDR;
+
+-   Articulação e edição do Programa Cidades Intermediadoras;
+
+Vejamos a seguir de forma mais detalhada cada um dos itens elencados.
+
+## Atualizações da Tipologia Regional de Desenvolvimento:
+O resultado de estudos realizados durante 2017, publicados em 2018[@brasilPropostaAtualizacaoTipologia2017],
+revelou uma significativa mudança na classificação das microrregiões do IBGE, 
+de acordo com as tipologias da PNDR.
+
+Verificou-se que quase a metade (207 das 557) das microrregiões tiveram suas 
+classificações modificadas, a partir da atualização naquele momento, dos dados, 
+conforme a tipologia da política estabelecida em lei em 2007. 
+
+Passados mais de 10 anos, a atualização das tipologias e dos mapas de 
+referência da PNDR mostrava-se necessária para refletir sobre a dinâmica 
+regional contemporânea do Brasil.
+Como indicado na primeira seção, diversas ações governamentais e mudanças das 
+condições de mercado, como o aprofundamento da inserção pouco favorável ao 
+Brasil nas relações internacionais - de comércio, investimento e participação 
+em cadeias globais de valor[@Borges2015] - em padrão denominado seja como 
+"padrão de reprodução exportador de especialização produtiva" ou  de 
+"especialização regressiva", seja de outra 
+forma[@macedoDesenvolvimentoRegionalNo2023].
+
+Os esforços de atualização e reclassificação redundaram, em 2018, na publicação 
+sua publicação em portaria^[@brasilPORTARIA34182018]. Duas inovações chamam a 
+atenção: a adoção de nove tipos, em vez das quatro na tipologia anterior, e a 
+classificação dos municípios com base nessas novas tipologias. 
+
+A nova classificação combina três níveis de renda (alta, média e baixa) com três
+níveis de desempenho econômico, medidos pela variação do PIB per capita 
+(alto, médio e baixo dinamismo), resultando nas seguintes tipologias: 
+alta renda e alto dinamismo, alta renda e médio dinamismo, alta renda e baixo 
+dinamismo, média renda e alto dinamismo, média renda e médio dinamismo, média 
+renda e baixo dinamismo, baixa renda e alto dinamismo, baixa renda e médio 
+dinamismo e, por fim, baixa renda e baixo dinamismo.
+
+Nessa proposta de tipologia, utilizou-se as regiões imediatas do IBGE para todo
+o Brasil, à exceção da região Norte, ajustadas a maior ao verificar o processo de espacialização e produção de cartogramas. Um elemento digno de nota é que os 
+dados base principais utilizados para estimar os indicadores foram referentes 
+a, no máximo, o período de 2012 a 2014. Isso significa que, mesmo sendo a mais 
+atualizada, tal tipologia já está bem datada.
+
+Em 2018, o IBGE também realizou novas pesquisas para atualizar a pesquisa 
+"Regiões de Influência das Cidades" (IBGE, 2019).
+Nos mapas a seguir, é possível ver ambas as classificações.
+
+
+```{r regic,fig.cap = "Regiões Imediatas - Regiões de Influência das Cidades - 2019\\label{fig:regic}", out.width='95%'}
+
+knitr::include_graphics("images/10_regic.png")
+```
+
+```{r tipatualiz,fig.cap = "Regiões Imediatas - PCI 2024\\label{fig:tipatualiz}", out.width='95%'}
+
+knitr::include_graphics("images/11_tipologia2018.png")
+```
+
+Entre 2018 e 2022, não houve avanços na institucionalização e posta em vigor da
+tipologia atualizada em 2018. Apenas em 2023, com o novo governo, decretou-se a 
+vigência da nova tipologia. Atualmente, em 2024, estão em curso trabalhos no Ministério da Integração e Desenvolvimento Social para nova atualização da tipologia 
+(Projeto MIDR-IICA, Cooperação Técnica BRA/IICA/23/002
+contrato n. 12400106 – PCT/IICA/2024). Após a comparação das distintas 
+metodologias, avançar-se-á na proposição da atualização da tipologia de 
+referência.
+
+
+## Ênfase na pluricentralidade por Planos Nacional e Regionais
+
+A tradução no terreno, em ações e resultados, da realização do objetivo II da 
+PNDR requer o reconhecimento da pluricentralidade de forma transversal nas 
+distintas etapas e dimensões da intervenção pública, desde o momento inicial de 
+planejamento das políticas públicas. 
+Dessa forma, é crucial verificar se, nos instrumentos de planejamento principais 
+de implementação da PNDR, aumentou o papel e meta de maior pluricentralidade.
+
+Ao buscar na literatura, de fato, encontram-se evidências dessa prioridade 
+aumentada para o assunto e como parte da priorização de destinação de ações e 
+recursos. João Mendes e outros ressaltam a presença crescente para cidades 
+intermediadoras nos planos macrorregionais de desenvolvimento vigentes:
+
+> Consoante às determinações da nova PNDR, as superintendências (Sudam,
+> Sudene e Sudeco) produziram seus respectivos planos macrorregionais de
+> desenvolvimento (PRDA, PRDNE e PDCO), alinhados à política regional e
+> às agendas macrorregionais produzidas no âmbito do GT1-PNDR. Conforme
+> Colombo(2021), os governos estaduais participaram ativamente das
+> consultas, definindo uma abordagem territorial que permite a
+> utilização de regiõe s geográficas intermediárias, valorizando o
+> urbano e o rural e também, priorizando as cidades médias como novas
+> centralidades regionais - cidades intermediadoras. A elaboração dos
+> planos contou com participação da sociedad e civil e de membros do
+> governo federal, por intermédio de grupos temáticos de especialistas
+> do MDR e do Ministério da Economia[@monteironetoPoliticasTerritoriaisEm2023, 
+p. 96].
+
+
+Os Planos Regionais de Desenvolvimento (PRDA, PRDCO e PRDNE) inserem o
+objetivo de estimular a formação de uma rede mais policêntrica de
+cidades, fortalecendo as cidades intermediárias como elos essenciais
+para a interiorização do desenvolvimento. No PRDA (Plano Regional de
+Desenvolvimento da Amazônia), a ênfase está na redução das desigualdades
+regionais e intrarregionais, promovendo cidades médias como novos polos
+regionais. O plano busca integrar áreas urbanas e rurais de forma
+equilibrada, reconhecendo as particularidades amazônicas e incentivando
+setores como agricultura, turismo e infraestrutura, de forma que o
+desenvolvimento não se concentre em poucas 
+localidades[@brasilRelatorioMonitoramentoPNDR2024; @monteironetoPoliticasTerritoriaisEm2023].
+
+No PRDCO (Plano Regional de Desenvolvimento do Centro-Oeste), a
+prioridade é fortalecer as pequenas e médias cidades, criando áreas de
+crescimento policêntrico, com incentivos ao empreendedorismo local e à
+formação de _clusters_ econômicos. O objetivo é descentralizar o
+desenvolvimento, atualmente concentrado no eixo
+Brasília-Anápolis-Goiânia, e criar novos centros urbanos capazes de
+dinamizar as economias regionais. Já o PRDNE (Plano Regional de
+Desenvolvimento do Nordeste) foca na infraestrutura, inovação
+tecnológica e inclusão social, propondo que as cidades intermediárias
+liderem a redução das desigualdades, com estratégias que incentivem a
+economia digital e parcerias público-privadas.
+
+Em que pese a importância de que constem formalmente dos planos regionais, a 
+atuação efetiva no direcionamento de fundos constituicionais para essa 
+prioridade não está, ainda, garantida, conforme visto na seção anterior. Em 
+particular, o Tribunal de Contas da União tem realizado procedimentos de 
+auditoria e fiscalização, verificando inconsistências e sugerindo medidas 
+nesse sentido.
+
+## Iniciativas intersetoriais do Governo Federal
+Várias iniciativas intersetoriais foram lançadas pelo Governo Federal a partir 
+de 2023. As mais importantes que têm relação com o objeto deste relatório foram:
+
+ - O Novo PAC (Ago/2023);
+ - O Plano Plurianual (PPA) 2024-207 (jan/2024);
+ - A Reforma Tributária;
+  
+### O Novo PAC
+Art. 1º : Objetivo V - promover o desenvolvimento inclusivo, social e regional;
+
+Em termos de número de obras, aos `r nrow(pcicid)` municípios previstos para a 
+primeira etapa do Programa Cidades Intermediárias (ver abaixo) foram designadas 
+participar do Novo PAC 817 obras ou empreendimentos. Isso quer dizer que tais municípios 
+receberão quase 1,6 vezes o que representam no total de municípios 
+(ver tabela abaixo).
+
+```{r novopacpci,out.width='85%'}
+
+kable(novopac|>
+        rename("PCI"=PCIv1,"Obras Diretas"=obras_diretas,"Proporção (%)"=proporcao,
+                             "Cidades" = cidades, "Proporção (%) das Cidades"= propcidades,
+               "Proporção Obras-Cidades"=prop_obras_cidades)|>
+        mutate(across(contains("Propor"),\(x){round(x*100,1)}))|>
+               mutate(across(where(is.numeric),\(x) formatC(x,decimal.mark = ",",big.mark = ".",format="fg"))),
+      caption = "Empreendimentos na 1ª resolução CGPAC/Novo PAC(dez/2023)\\label{tabela:novopac}")
+
+```
+
+
+### O PPA 2024-2027
+O Plano Plurianual (PPA) 2024-2027 demonstra uma clara articulação com a Política Nacional de Desenvolvimento Regional (PNDR), especialmente no que tange ao objetivo 2 da PNDR relacionado ao desenvolvimento de cidades intermediárias. Essa sinergia é evidenciada pela presença de indicadores, diretrizes e programas no PPA que visam à redução das desigualdades sociais e regionais, promovendo o crescimento equilibrado das diversas regiões do país.
+
+Entre os indicadores-chave do PPA, destacam-se elementos fundamentais para a promoção da equidade e a redução da pobreza, como a taxa de extrema pobreza e a razão entre as rendas dos 10% mais ricos e os 40% mais pobres. Além disso, o PPA apresenta projeções de elevação do rendimento domiciliar per capita, com maior ênfase relativa nas regiões Norte e Nordeste, indicando um compromisso com o desenvolvimento dessas áreas historicamente menos favorecidas.
+
+Os valores e diretrizes do PPA reforçam esse compromisso ao incorporar princípios como a promoção da redução das desigualdades sociais e regionais e a valorização da diversidade cultural e regional. Especificamente, a Diretriz 2 enfatiza a necessidade de reduzir tais desigualdades, enquanto a Diretriz 3 ressalta a importância de valorizar a diversidade cultural e regional, alinhando-se diretamente aos objetivos da PNDR.
+
+No Eixo 2 do PPA, dedicado ao Desenvolvimento Econômico e Sustentabilidade Socioambiental e Climática, são destacados os desafios centrais de promover um desenvolvimento que resulte em uma prosperidade mais bem distribuída pelas regiões do país. Esse enfoque reconhece a importância de integrar aspectos econômicos, sociais e ambientais para alcançar um crescimento sustentável e inclusivo, fundamental para o fortalecimento das cidades intermediárias.
+
+Dentro dos objetivos estratégicos do PPA, o objetivo 2.14 é particularmente relevante, pois visa a reduzir as desigualdades regionais com maior equidade de oportunidades. O indicador-chave associado a esse objetivo é a razão entre o PIB per capita regional e o PIB per capita nacional, o que permite avaliar o grau de convergência econômica entre as diferentes regiões e monitorar o progresso na redução das disparidades regionais.
+
+Para operacionalizar esses objetivos, o PPA inclui programas finalísticos como o 0407 e o 5601. O Programa 0407 busca apoiar a elaboração de instrumentos de planejamento e gestão urbanos municipais ou interfederativos que abordem a adaptação das cidades às mudanças climáticas e à transformação digital, com foco no aumento do número de cidades médias, grandes e regiões metropolitanas engajadas nessas ações. Já o Programa 5601, denominado "Cidades Melhores", tem como objetivo geral reduzir desigualdades socioterritoriais por meio do desenvolvimento urbano integrado, democrático, acessível, inclusivo e sustentável, alinhando-se diretamente ao objetivo 2 da PNDR relacionado às cidades intermediárias.
+
+### A Reforma Tributária
+
+A Reforma tributária aprovada em 2024 buscou equacionar e arrefecer a guerra 
+fiscal derivada do manejo estadual de alíquotas de ICMS efetivas por meio de 
+programas de concessão de benefícios. Considerando que as compensações para 
+unidades federativas que perderão ao longo e a partir do fim da transição para
+as novas regras tenham sido bem balizadas, apenas o fato de dirimir a guerra
+fiscal pode contribuir para um desenvolvimento regional mais equilibrado, mais 
+passível de manejo pelas estratégias de desenvolvimento governamentais.
+
+A importância no longo prazo para o desenvolvimento regional, a PNDR e o objetivo
+de fortalecimento de rede mais policêntrica de cidades, vai, no entanto, muito
+além. Ficou instituído, finalmente, o Fundo Nacional de Desenvolvimento Regional.
+Esse novo instrumento, previsto há anos, permitirá fortalecer as ações do MIDR
+vinculadas ao planejamento regional, ampliando a capacidade de impacto da política
+regional para além dos fundos constitucionais e decisões das superintendências de
+desenvolvimento regional.
+
+## A Nova PNDR
+
+A necessidade de atualização da PNDR é reconhecida há, pelo menos, 10 anos. Porém,
+entre a grande crise econômica brasileira de 2015-2016 e o período conservador e 
+mais extremadamente liberal, mesmo a iniciativa mais avançada, de Projeto de Lei 
+no Senado brasileiro[@brasilProjetoLeiSenado2015] que dispunha sobre a matéria, 
+não prosperara.
+
+Após retomada a prioridade para ação estratégica e olhar para o desenvolvimento 
+regional, estabeleceu-se por Decreto a Nova PNDR[@brasilDecretoNo119622024]. Foi 
+possível aproveitar o acúmulo condensado no projeto de lei referido.
+
+Conforme descrito, o impulso a uma rede menos assimétrica, mais policêntrica de
+cidades, consta como um dos quatro objetivos principais da política. A acepção da
+rede policêntrica é explicitada na Nova PNDR enfatizando o papel de cidades 
+intermediadoras e o papel que podem cumprir e motivam a ação do Estado:
+
+> rede policêntrica de cidades - estruturação de redes de cidades que se
+> conformam no território como intermediadoras de bens e serviços públicos 
+> para os seus entornos, e que cumprem funções específicas e complementares,
+> com o papel de atenuar a pressão sobre as metrópoles e as capitais dos Estados.
+
+Adicionalmente, o decreto determina como ações estratégicas da PNDR a 
+estruturação tanto de um sistema de governança do desenvolvimento regional, como 
+de modelo de planejamento integrado multiescalar, e 
+*a implementação do Núcleo de Inteligência Regional* no MIDR e nas 
+Superintendências Regionais de Desenvolvimento. Iniciativas fundamentais para que 
+o objetivo 2 e demais sejam traduzidos em práticas coerentes, condizentes e mais 
+fortes, como veremos a seguir.
+
+A operacionalização pela via das regiões geográficas imediatas tal como 
+estabelecidas pelo IBGE consta do decreto da nova política. Tanto a tipologia 
+atualmente em vigor, em atualização, quanto os parâmetros de ação do Programa 
+Cidades Intermediadoras (ver abaixo), correspondem à determinação.
+
+Ainda do ponto de vista essencial da governança, define-se órgão decisório e 
+executor: a Câmara de Políticas de Integração Nacional e Desenvolvimento. Composta 
+por Ministros de Estado de áreas chave como do MIDR, também prevê como membros 
+do seu Comitê-Executivo, representantes das Superintendências de Desenvolvimento 
+da Amazônia, Nordeste e Centro-Oeste, e representantes dos consórcios 
+interestaduais de desenvolvimento sustentável.
+ 
+
+## Progressos na estruturação e consolidação do NIR e SNIDR
+As Seções I e II do Capítulo IV do decreto da Nova PNDR estabelecem mecanismos
+de monitoramento e avaliação para fortalecer a integração e o desenvolvimento 
+regional. O Núcleo de Inteligência Regional (Seção I) atua como um centro 
+permanente de assessoramento técnico, com foco em gerar conhecimento sobre 
+a Política Nacional de Desenvolvimento Regional (PNDR). Já o Sistema Nacional 
+de Informações do Desenvolvimento Regional (Seção II) visa monitorar e avaliar 
+ações e instrumentos da PNDR, facilitando o intercâmbio de informações entre 
+diversos órgãos governamentais e entidades, promovendo a coordenação regional.
+
+Esses mecanismos contribuem diretamente para o Objetivo da busca em
+consolidar uma rede policêntrica de cidades. O compartilhamento e o 
+monitoramento de dados regionais fortalecem o planejamento integrado, 
+incentivando o desenvolvimento coordenado de centros urbanos e suas 
+regiões circundantes, essencial para a construção dessa rede interconectada 
+de cidades.
+
+Nesse contexto, verificamos em ações finalizadas e em curso do MIDR, avanço nas 
+áreas estruturantes de monitoramento e inteligência, como o Núcleo de 
+Inteligência Regional (SDR/MIDR), com a construção do Sistema Nacional de 
+Informações de Desenvolvimento Regional (SNIDR), em fase de consolidação em
+ torno do Painel de Indicadores de Desenvolvimento Regional;
+
+O Painel, em desenvolvimento junto a uma equipe especializada de docentes e 
+pesquisadores da Universidade Federal de Minas Gerais (UFMG), inclui métricas 
+relacionadas à convergência do desenvolvimento socioeconômico regional. 
+
+As análises dos mapas temáticos evidenciam grandes concentrações relativas de municípios 
+com baixos índices socioeconômicos (Baixo-Baixo) nas regiões Norte e Nordeste 
+do Brasil, e melhores indicadores (Alto-Alto) no Sul e Sudeste. 
+O uso de ferramentas como o I de Moran Local destaca a autocorrelação espacial dos
+municípios, evidenciando aglomerações e _outliers_. Essas informações são
+relevantes para identificar desigualdades na rede urbana.
+
+Os indicadores escolhidos para o painel e para o monitoramento desse objetivo da PNDR
+foram[@brasilRelatorioMonitoramentoPNDR2024], :
+
+-   Índice de Centralidade: Mede a capacidade de um município de atrair
+    pessoas e atividades econômicas, sendo calculado pela relação entre
+    a população urbana e rural e a presença de serviços e infraestrutura
+    (como transporte, educação, saúde). Quanto maior o valor, mais
+    central é o município.
+
+-   Razão de Primazia Populacional Estadual: Calculado pela divisão da
+    população do maior município de um estado pela população total do
+    estado. Indica a concentração populacional em um município principal
+    em relação ao restante do estado.
+
+-   Razão de Primazia Econômica Estadual: Obtido pela divisão do Produto
+    Interno Bruto (PIB) do município mais rico do estado pelo PIB total
+    do estado. Avalia a concentração da atividade econômica em um único
+    município comparado ao restante do estado.
+    
+    
+## O Programa Cidades Intermediadoras de 2024
+
+A retomada da discussão e avanço para aprovação e publicação do Programa Cidades
+Intermediadoras (PCI/2024), primeiro programa voltado para alcance do objetivo 2
+da Nova PNDR é a ação mais diretamente importante identificada no mapeamento.
+
+Em primeiro lugar, o PCI foi ajustado para adequação ao arranjo federativo 
+brasileiro. Municípios são unidades mínimas, participantes das unidades de ação 
+das regiões imediatas definidas *dentro de cada UF*. Foi feita articulação com 
+os demais entes federativos,estaduais, para definição das primeiras regiões 
+de implementação (ver mapa abaixo).
+
+O Programa é cuidadosamente estruturado em aderência à tipologia de 
+desenvolvimento regional e à PNDR.
+
+
+Na Nota Técnica Conjunta 2, de 08 de agosto de 2024, descreve-se a inclusão 
+de cidades intermediadoras nas operações de
+financiamento para micro e pequenas empresas e operações de investimento
+da seguinte forma:
+
+> "1) Capital de Giro Isolado: O financiamento é permitido apenas para
+>     micro e pequenas empresas conforme definido pela Lei Complementar 
+>     nº 123/2006. Para outras empresas, o financiamento é restrito 
+>     àquelas localizadas nas cidades selecionadas que fazem parte de 
+>     programas alinhados aos objetivos da PNDR, incluindo o Programa 
+>     Cidades Intermediadoras.
+>
+> 2)  Operações de Investimento (≥ R\$ 5 milhões): O financiamento total
+>     está disponível para produtos e insumos adquiridos de fornecedores
+>     dentro da mesma macrorregião do projeto. Para outros itens, até
+>     60% do investimento pode ser financiado nas cidades selecionadas
+>     vinculadas à PNDR, como o Programa Cidades Intermediadoras,
+>     enquanto apenas 40% é permitido em outras localidades.
+>
+> 3)  Operações de Investimento (\< R\$ 5 milhões): O financiamento
+>     total do projeto está disponível para tomadores de pequeno porte.
+>     Semelhante aos investimentos maiores, até 60% do investimento pode
+>     ser financiado nas cidades selecionadas sob a PNDR, incluindo o
+>     Programa Cidades Intermediadoras, e 40% em outras áreas."
+
+
+```{r pciri,fig.cap = "Regiões Imediatas - PCI 2024\\label{fig:pciri}", out.width='95%'}
+
+knitr::include_graphics("images/13_mapa_pci_ri.png")
+```
+
+O Programa Cidades Intermediadoras tem como objetivo central o fortalecimento e desenvolvimento dessas cidades para melhorar sua integração produtiva, infraestrutura e oferta de serviços públicos. Entre os problemas identificados estão a baixa complexidade produtiva, alta informalidade, precariedade urbana e uma limitada capacidade fiscal e financeira. O programa busca reverter essas condições ao associar as cidades intermediárias aos princípios de dinamização econômica e aprimoramento dos serviços públicos.
+
+Uma das principais metas do programa é promover o desenvolvimento produtivo por meio de arranjos locais que fomentem a complementaridade, sustentabilidade e inovação, visando tornar as cidades intermediárias mais produtivas e integradas ao mercado nacional. Além disso, destaca-se a necessidade de ampliar a infraestrutura econômica, como energia, logística, transportes e telecomunicações, elementos essenciais para o crescimento econômico dessas áreas.
+
+No campo da infraestrutura urbana, o programa se concentra na ampliação do acesso à habitação, saneamento, mobilidade urbana e serviços comunitários. A melhoria nessas áreas é vista como crucial para a qualidade de vida da população e para atrair investimentos. O fortalecimento da capacidade dos municípios em captar e gerir recursos também é um ponto estratégico, o que inclui a formação de consórcios públicos e cooperação federativa para a gestão associada de serviços públicos.
+
+Outra frente importante é a promoção de agendas territoriais focadas em resiliência territorial e o uso adequado de instrumentos de financiamento e investimentos públicos. Isso garante que as especificidades regionais sejam respeitadas e que os municípios estejam aptos a aproveitar oportunidades de desenvolvimento econômico sustentável.
+
+O programa também visa a utilização de mecanismos de financiamento variados, como fundos setoriais, concessões, PPPs e debêntures de infraestrutura, além de parcerias com bancos regionais e internacionais. A ideia é proporcionar uma gama de instrumentos financeiros que ampliem as possibilidades de investimento para o desenvolvimento urbano e produtivo dessas regiões.
+
+Por fim, o sucesso do programa depende de uma governança eficiente, promovendo uma agenda integrada tanto verticalmente (entre os níveis federativos) quanto horizontalmente (entre diferentes setores). A transferência de conhecimento e boas práticas de gestão, apoiada por instituições como o Conselho Nacional de Desenvolvimento Regional (CNDR), será essencial para o fortalecimento dessas cidades intermediárias no cenário nacional.
+
+
+# Sistematização de dados e indicadores mais relevantes
+
+Conforme exposto, o atual arcabouço de políticas públicas atinentes às dimensões 
+do desenvolvimento regional, em geral,e do impulso a um maior policentrismo na 
+malha urbano-rural brasileira, não só é significativo, como está em processo de 
+transformações que tem potencial de dar um salto qualitativo na área.
+
+Nesse sentido, mais do que apresentar um panorama geral brasileiro, suas 
+desigualdades e morfologia em movimento^[Para uma visão nesse sentido, cf. 
+[@brasilRelatorioMonitoramentoPNDR2024]], optou-se pela provisão de elementos que 
+contribuam para oferecer um panorama inicial de situação e contexto específico sobre 
+os municípios componentes das regiões imediatas definidas para a primeira edição 
+do Programa Cidades Intermediadoras - PCI. 
+
+Assim, nesta seção, são levantados dados secundários de relevo para a delinear 
+o campo de atuação e desafios para implementação do PCI. Este processo visa 
+criar um panorama abrangente das regiões escolhidas, permitindo a sugestão de 
+critérios e indicadores que retratam as condições socioeconômicas e a capacidade 
+de atração econômica dessas localidades, sua variação, e elementos para o 
+monitoramento da política. Os mapas apresentados auxiliam na compreensão 
+espacial das desigualdades regionais e na definição das áreas prioritárias 
+para intervenções.
+
+## Estrutura socioeconômica relativa das regiões iniciais do Programa Cidades Intermediadoras
+
+Comecemos com um panorama comparativo das regiões escolhidas para o PCI. 
+Seu formato e definições, é importante lembrar, foram fruto da acertada busca de 
+adaptar as metodologias ao arranjo federativo brasileiro, respeitando as 
+especificidades locais e principais atores públicos a envolver.
+
+```{r panorte,fig.cap = "Região Norte - 2015 e 2021 - RI PCI\\label{fig:panorte}", out.width='95%'}
+
+knitr::include_graphics("images/3.1-panorama-pci-norte.png")
+```
+
+As figuras apresentadas, como os mapas da Região Norte (Figura 4.1), 
+Região Nordeste (Figura 4.2), Sudeste, Sul e Centro-Oeste, evidenciam as 
+transformações ocorridas entre 2015 e 2021 nos indicadores de primazia e 
+centralidade econômica^[O indicador de centralidade econômica construído 
+e constante do Painel de Indicadores da PNDR já incorpora o tamanho populacional 
+como parte dos pesos, e este figurou como critério de desempate para definição 
+das regiões contempladas nesta primeira etapa do PCI, pelo qual optou-se por 
+não levá-lo em consideração de forma isolada].
+
+Em todas as regiões, os indicadores de primazia econômica (PIB região/PIB UF) 
+mostraram-se relativamente baixos e com pouca variação ^[Note-se que não foram 
+re-escalados para que a máxima primazia de cada estado fosse 1, para manter 
+comparabilidade espacial e temporal.], pelo que deixou-se constar apenas nas 
+miniaturas dos mapas.
+
+Na Região Norte, do ponto de vista da centralidade econômica, as regiões imediatas  
+ocidentais - Oiapoque, Breves e Araguaína tiveram dinâmica relativa um pouco 
+favorável, com algumas cidades mudando para cima de faixa no indicador de 
+centralidade^[Para a produção dos mapas, optou-se por normalizar entre 0 e 1 
+os valores do indicador em relação ao máximo geral de toda a série para chegar 
+a um indicador comparável espacial e temporalmente, e com interpretação um 
+pouco mais intuitiva.].
+
+Não se constata o mesmo ao longo do período para aquelas mais ao sul e ocidente 
+- Rorainópolis, Tefé, Cruzeiro do Sul e Ji-Paraná. Do ponto de vista estrutural,
+a região de Ji-Paraná destoa um pouco das anteriores por sua centralidade maior, 
+comprovada pela inexistência de municípios na faixa mais baixa de centralidade 
+(valores entre 0 e 0,25) e concentração relativa maior de cidades nas duas 
+faixas mais altas. 
+
+
+```{r pane,fig.cap = "Região Nordeste - 2015 e 2021 - RI PCI\\label{fig:pane}", out.width='95%'}
+
+knitr::include_graphics("images/3.2-panorama-pci-nordeste.png")
+```
+
+Na região Nordeste(\@ref(fig:pane)), as posições de centralidade das cidades 
+contempladas pelo PCI tampouco evidenciam grande alteração. Em todas as regiões 
+imediatas, no máximo um ou dois municípios mostraram alteração na faixa em que 
+estavam classificados. Nos casos de Parnaíba e Serra Talhada, em particular, 
+nota posição a menor de dois municípios.
+
+A região de Araçuaí, no Sudeste(\@ref(fig:panse)), apresentou pouca dinâmica: 
+apenas um município, José Gonçalves de Minas, alçou-se de centralidade baixa 
+para média. Em Itapeva, Apiaí, intermediário em 2015, passou a figurar 
+em posição de alta centralidade em 2021. Igualmente, na região de Rio Bonito 
+(RJ), Cachoeiras de Macacu também elevou seu grau de centralidade. Nesse 
+contexto,destoa um pouco a seleção desta região no Programa, algo certamente 
+devido à limitação do desenho de governança com papel central dado a governos 
+estaduais.
+
+Em São Mateus, não se produziram mudanças suficientes para alterar, no mesmo 
+período, a classificação dos municípios que compõem a região. 
+
+```{r panse,fig.cap = "Região Sudeste - 2015 e 2021 - RI PCI\\label{fig:panse}", out.width='95%'}
+
+knitr::include_graphics("images/3.3-panorama-pci-sudeste.png")
+```
+
+
+Na Região Sul(\@ref(fig:pansul)), Todas as regiões imediatas, entre 2015 e 2021, 
+apresentaram dinâmica considerável quanto à posição de centralidade. Em 2021, 
+ao menos um município antes intermediário chegou ao grupo de alta centralidade 
+em 2021 nas três regiões dessa área. Para o caso da microrregião de Uruguaiana, 
+não obstante, é preciso remarcar que seus municípios tiveram perdas 
+consideráveis por conta da calamidade ambiental com as chuvas de 2024.
+
+```{r pansul,fig.cap = "Região Sul - 2015 e 2021 - RI PCI\\label{fig:pansul}", out.width='95%'}
+
+knitr::include_graphics("images/3.4-panorama-pci-sul.png")
+```
+
+Por fim, no Centro-Oeste (\@ref(fig:panco)), a estabilidade na hierarquia dos municípios entre 2015 
+e 2021 mostrou-se praticamente inalterada. Apenas um município na Região de 
+Posse/Campos Belos alçou-se do grupo intermediário ao alto.
+
+O panorama apresentado ressalta a relevância de analisar a topologia socioeconômica 
+municipal das regiões imediatas-alvo e sua dinâmica, ao pensar sobre o 
+monitoramento das ações do programa. Por outro lado, fica patente a oportunidade 
+posta em verificar em mais detalhe, para além das faixas ou grupo, a situação 
+em cada momento. É o caso dos indicadores de primazia econômica estadual, 
+por exemplo.
+
+
+```{r panco,fig.cap = "Região Centro-Oeste - 2015 e 2021 - RI PCI\\label{fig:panco}", out.width='95%'}
+
+knitr::include_graphics("images/3.5-panorama-pci-centroeste.png")
+```
+
+O formato de ranking escolhido para indicadores de centralidade, 
+na primeira versão do Painel de Indicadores da 
+PNDR, permanece relevante para uma visão mais simplificada e distanciada, 
+de conjunto, inicial, sob a perspectiva do segundo objetivo  da PNDR. Não obstante,
+implica perda de bastante informação. Assim, sugere-se aprofundamento sobre o 
+potencial e eventuais deficiências da forma de 
+normalização do indicador de centralidade apresentada.
+
+### Panorama do financiamento via FCFs para o PCI
+
+Para uma visão de contexto das atuais áreas prioritárias do PCI na dimensão 
+de financiamento regional, optou-se por retratar a evolução do crédito 
+_per capita_ contratado em cada município por meio dos Fundos Constitucionais 
+de Financiamento (FCF), principal ferramenta direta da União para o 
+desenvolvimento regional.
+
+Os dados abertos dos fundos, disponíveis pelo Ministério de Integração e 
+Desenvolvimento Regional, foram deflacionados pelo IGP-M, comparados à evolução 
+do PIB municipal disponível até 2021 e da população residente tal como estimada 
+pelo IBGE. 
+
+```{r fcfpib}
+
+as_flextable(
+  base|>select(-c(4,6,9)),max_row = 20)|>
+  flextable::theme_booktabs()|>
+  flextable::font(fontname = "Lato Light")|>
+  flextable::fontsize(size=9)|>
+  flextable::fontsize(size=9,part="header")|>
+  set_table_properties(layout = "fixed",
+                       width=0.95,
+                       word_title ="Crédito originado dos Fundos Constitucionais de Financiamento\n - 2019 a 2024 -\n indicadores selecionados",
+                       word_description="Elaboração Própria.")|>
+  flextable::width(j=c(6),width=2,unit="cm")|>
+  flextable::width(j=c(1:3,7),width=1.6,unit="cm")|>
+  flextable::width(j=c(3),width=1.8,unit="cm")|>
+  flextable::width(j=c(5,8),width=2.1,unit="cm")|>
+  flextable::align(part="header",align="center")|>
+  flextable::delete_part("footer")|>
+  flextable::add_footer_lines(values="Elaboração Própria a partir de dados abertos de MIDR,IBGE e IPEA.")|>
+  flextable::add_header_lines("Tabela 4.1: Crédito originado dos Fundos \nConstitucionais de Financiamento\n - 2019 a 2024 -\n indicadores selecionados")
+
+```
+
+A partir de dados relativos ao PIB, serão apresentadas considerações 
+analíticas iniciais. Por fim, foi composto um índice a partir da razão entre o crédito 
+_per capita_ municipal das regiões selecionadas e a média _per capita_ dentre o 
+conjunto de municípios com contratos de financiamento em cada unidade federativa.
+
+A tabela acima (4.1) ilustra a evolução, entre 2019 e 2024, do crédito concedido 
+com fonte nos Fundos Constitucionais de Financiamento. Nota-se como, em proporção 
+ao PIB, o crédito via FCF alcançou entre 3,5 e 4% para municípios atualmente 
+partícipes do Programa Cidades Intermediadoras, aproximadamente o dobro, em 
+termos relativos, do que os demais municípios recebedores de tal tipo de 
+crédito.
+
+Por outro lado, o crédito total em termos reais sofreu forte redução entre 2019 
+e 2021 (-27%),principalmente entre 2019 e 2020, mas também em 2021, passando de 
+R$ 68,4 bilhões de reais (a preços de outubro de 2024) para R$ 50,3 bilhões. 
+A partir de então, houve aumentos, o mais forte até quando há dados completos 
+anuais consolidados, 
+em 2023(+24,7%), o que praticamente restaurou o montante para o patamar de 2019.
+
+Após um redução de diferenças entre o crédito concedido a cidades contempladas e 
+não contempladas pelo Programa Cidades Intermediadoras, em 2024 já se evidencia 
+a prioridade naquelas, quando o crédito _per capita_ tem chegado a ser mais 
+de 50% maior para as últimas.
+
+Os mapas a seguir apresentam, para 2019 e 2023, o índice do volume de crédito 
+_per capita_. Ficam claras diferenças regionais maiores  no acesso a 
+essa forma de financiamento. As Figuras \@ref(fig:fcfno) a  \@ref(fig:fcfco) mostram os 
+valores de crédito _per capita_ nas Regiões Norte, Nordeste, Sudeste e Centro-Oeste, 
+respectivamente, com o Nordeste apresentando os maiores níveis de financiamento 
+relativo à média.
+
+Na Região Norte, em 2019, o crédito _per capita_ médio nos municípios 
+partícipes do PCI, salvo na região de Araguaína e Ji-Paraná, não superou a média 
+dentre municípios receptores nos respectivos estados. 
+
+
+```{r fcfno,fig.cap = "Região Norte - Volume de Crédito _per capita_\\label{fig:fcfno}", out.width='93%',out.height='93%'}
+
+knitr::include_graphics("images/3.6-fcf-pci-norte.png")
+```
+
+Em 2023, por sua vez, 
+foi visível a mudança na distribuição relativa do financiamento: Cruzeiro do Sul, 
+Araguaína e Ji-Paraná passam a contar com mais municípios cujo índice de crédito 
+_per capita_ está acima de 100, além de contarem com maiores mínimos, máximos e 
+médias. Setorialmente, agropecuária e mineração são grandes receptores de 
+crédito.
+
+Na Região Nordeste, a concentração relativa quanto aos recursos contratados foi  
+maior ainda em 2019. Itabaiana e Mossoró foram as únicas regiões com mais de um 
+terço dos municípios com volume de crédito _per capita_ superior à média estadual 
+daqueles que receberam recursos. A variabilidade deste indicador entre municípios 
+partícipes do PCI é a mais alta entre todas as macrorregiões, como se vê pela 
+diferença entre o menor mínimo municipal e o maior máximo (refletido também 
+na escala de tamanho dos círculos que representam o volume de crédito 
+_per capita_ relativo em cada município). 
+
+Em 2023, a variabilidade diminuiu, mantida a primeira colocação nacional nesta
+dimensão. Além disso, pode-se verificar que todas as regiões imediatas prioritárias 
+para a atual edição do PCI, à exceção de Itapipoca, passaram a conter municípios 
+com índice relativo de volume de crédito por residente. 
+
+Essa mudança deve ser reflexo da tradução efetiva do disposto no último Plano de 
+Desenvolvimento Regional do Nordeste pela atuação da SUDENE e BNB.
+
+No Sudeste, as regiões de Itapeva e Rio Bonito nãoo receberam recursos oriundos dos 
+Fundos Constitucionais, uma vez não fazem parte das áreas de atuação das 
+Superintendências Regionais de Desenvolvimento. 
+
+```{r fcfne,fig.cap = "Região Nordeste - Volume de Crédito _per capita_\\label{fig:fcfne}", out.width='93%',out.height='93%'}
+
+knitr::include_graphics("images/3.7-fcf-pci-nordeste.png")
+```
+
+As Regiões de Araçuaí e São Mateus, por outro lado, foram incluídas 
+como área de atuação da SUDENE desde tempos pretéritos. Os indicadores de crédito 
+relativo _per capita_, nestas regiões, mostram que a recepção relativa de 
+financiamento dos FCF foi reforçada em 2023.
+
+```{r fcfse,fig.cap = "Região Sudeste - Volume de Crédito _per capita_\\label{fig:fcfse}", out.width='80%',out.height='80%'}
+
+knitr::include_graphics("images/3.8-fcf-pci-sudeste.png")
+```
+
+
+Por fim, passando para a macrorregião Centro-Oeste, comprova-se a menor 
+variabilidade, por conta de menores valores máximos de valor contratado por 
+pessoa nas três regiões prioritárias incluídas no Programa. 
+
+
+```{r fcfco,fig.cap = "Região Centro-Oeste - Volume de Crédito _per capita_\\label{fig:fcfco}", out.width='80%',out.height='80%'}
+
+knitr::include_graphics("images/3.9-fcf-pci-centroeste.png")
+```
+
+
+A situação em 2023 reflete que a maior parte dos municípios enfocados possui 
+financiamento relativo superior à média em cada UF, com espaço para maior avanço 
+concentrado na região de Posses/Campos Belos.
+
+# Considerações finais
+
+A promoção de uma rede urbana policêntrica, conforme previsto no Objetivo II da PNDR, é essencial para descentralizar o desenvolvimento no Brasil. Essa estratégia visa criar polos urbanos de influência em diferentes escalas, permitindo uma distribuição mais equilibrada das atividades econômicas e serviços públicos, promovendo uma integração territorial mais justa e inclusiva. O fortalecimento das cidades intermediárias e sua capacidade de atrair atividades produtivas são fatores cruciais nesse processo.
+
+Superar a histórica concentração do desenvolvimento em poucas metrópoles é um dos grandes desafios para a efetivação de uma rede policêntrica de cidades. As regiões Norte, Nordeste e Centro-Oeste, identificadas no relatório como as mais afetadas pelas desigualdades socioeconômicas, devem ser priorizadas nas políticas de desenvolvimento, de modo a reduzir as disparidades regionais e promover o crescimento sustentável.
+
+A sistematização de dados e a criação de indicadores específicos para o monitoramento das políticas de desenvolvimento regional são fundamentais para garantir a eficácia das intervenções. A construção do Painel de Indicadores da PNDR representa um passo importante nesse sentido, permitindo que o acompanhamento das ações seja feito de maneira precisa, e que ajustes sejam realizados quando necessário.
+
+Dentre os indicadores sugeridos para o monitoramento das ações, destacam-se o Índice de Centralidade e as razões de Primazia Populacional e Econômica. Esses indicadores oferecem uma visão clara da capacidade de atração das cidades e da concentração econômica e populacional em grandes centros urbanos. A redução dessas concentrações é um objetivo-chave na construção de uma rede urbana mais equilibrada.
+
+O impacto dos investimentos públicos em infraestrutura e serviços nas cidades intermediárias também merece atenção. Fortalecer essas áreas é uma estratégia fundamental para aliviar a pressão sobre os grandes centros, melhorar a qualidade de vida nas regiões periféricas e promover um desenvolvimento mais equitativo em todo o território nacional.
+
+Acompanhando continuamente os indicadores propostos, será possível identificar pontos de vulnerabilidade na rede urbana e direcionar ações corretivas de forma mais eficiente. A experiência adquirida com a implementação de políticas em cidades de médio porte poderá ser replicada em outras regiões com características semelhantes, favorecendo a expansão de uma rede de desenvolvimento descentralizada.
+
+O monitoramento das políticas deve considerar as transformações econômicas e sociais, bem como as crises que afetam o país. A capacidade de adaptação das cidades intermediárias a novas realidades será um fator decisivo para garantir o êxito de uma rede policêntrica robusta e resiliente.
+
+O financiamento regional, por meio de instrumentos como o Fundo Nacional de Desenvolvimento Regional (FNDR), terá um papel central na viabilização das ações necessárias. É fundamental que os recursos disponíveis sejam alinhados com as metas de desenvolvimento regional, e que o monitoramento da aplicação desses fundos seja realizado para evitar distorções.
+
+A integração de informações e a análise contínua por meio do Sistema Nacional de Informações de Desenvolvimento Regional (SNIDR) são igualmente importantes para o sucesso das políticas de desenvolvimento regional. A coordenação entre diferentes órgãos e entidades governamentais, viabilizada por esse sistema, permitirá uma visão ampla e integrada das ações e resultados alcançados.
+
+A Nova PNDR, ao propor a criação de uma rede mais policêntrica, alinha-se com as melhores práticas internacionais em planejamento regional. O Brasil pode se beneficiar da experiência de outros países que promoveram o desenvolvimento de cidades intermediárias, utilizando essas experiências como referência para a execução de suas políticas. O acompanhamento contínuo dessas práticas poderá oferecer insights valiosos para ajustes na estratégia nacional.
+
+A atuação intersetorial do governo federal, por meio de programas como o Novo PAC e o Plano Plurianual 2024-2027, reforça o compromisso com o desenvolvimento regional. Monitorar o impacto dessas iniciativas em cidades intermediárias será crucial para garantir que as metas de descentralização sejam atingidas e que os benefícios se espalhem de maneira equitativa.
+
+A oferta ampliada de serviços públicos e privados, como saúde, educação e infraestrutura urbana, nas cidades intermediárias, é essencial para melhorar a qualidade de vida da população e atrair novos investimentos. O sucesso dessas políticas pode ser medido por meio de indicadores sociais, que também devem ser integrados ao Painel de Indicadores da PNDR para uma análise mais abrangente.
+
+A participação ativa da sociedade civil e dos governos estaduais é um componente importante para a efetividade das políticas de desenvolvimento regional. A governança eficiente dessas iniciativas, monitorada de perto, pode assegurar que as diferentes esferas de governo trabalhem de forma coordenada para atingir os objetivos propostos.
+
+O fortalecimento de arranjos produtivos locais e a diversificação da economia nas cidades intermediárias são prioridades claras para o desenvolvimento de uma rede policêntrica. Monitorar a criação de empregos e a evolução da capacidade produtiva dessas cidades pode fornecer uma indicação clara sobre o sucesso das intervenções nessas áreas.
+
+Em última análise, as perspectivas para o desenvolvimento de uma rede urbana policêntrica no Brasil são promissoras. Contudo, seu sucesso depende de uma implementação coordenada, monitoramento contínuo e a flexibilidade para adaptar as políticas às novas realidades que surgirem. Uma rede integrada e equilibrada de cidades será crucial para o futuro do desenvolvimento regional no país.
+
+# Anexo A: detalhamento de métodos
+
+\label{anexo}
+
+A análise bibliométrica realizada foi feita a partir dos métodos padrão 
+disponíveis pelo pacote bibliometrix e a base de dados abertos de 
+metadados de publicação openalex (acessível via openalexR). 
+Primeiramente, as bibliotecas são
+carregadas e uma consulta foi definida para buscar trabalhos acadêmicos
+relacionados a determinados termos. Os dados são então recuperados da
+API OpenAlex, e detalhes adicionais de obras específicas são obtidos e
+combinados em um único conjunto de dados. Após a combinação, os dados
+são salvos em arquivos para uso posterior.
+
+
+Foi realizada uma busca em bases de dados com consultas equivalentes à
+seguinte:
+
+|      (brazil OR brasil) AND (pndr OR polycentr\* OR ("central places" AND network) OR ("medium sized cities" AND ("policy" or "policies")))
+
+Para restringir um pouco a temática, foi realizado filtro equivalente a
+que o campo de palavars-chave mapeadas contivesse:
+
+|     '"ECONO" OR "SOCI" OR "URBAN" OR "PUBLIC" OR "POLIT" OR "PLAN"'
+
+
+A seguir, foi realizada uma análise bibliométrica nos dados, e
+palavras-chave foram extraídas. Dados do Web of Science (WOS) são
+convertidos para um formato adequado e filtrados para incluir apenas
+áreas de interesse. O processo incluiu a tradução de palavras-chave
+usando a API do Google Sheets, para onde as palavras foram enviadas,
+traduzidas, e então substituídas nos dados. Finalmente, o conjunto de
+dados filtrado e traduzido foi salvo, completando o ciclo de análise e
+preparação de dados bibliométricos.
+
+Após comparação de buscas entre as bases de Web of Sciences, Scopus e
+Open Alex, verificou-se com boa qualidade esta última, escolhida então
+pela facilidade no acesso aberto para replicabilidade.
+
+Para enriquecimento da base obtida, no subconjunto *ad hoc* de textos selecionado,
+realizou-se a descarga dos artigos/textos em pdf, aplicando reconhecimento ótico de 
+caracteres (OCR) quando necessário, e utilizando script com importação de ferramenta
+de machine learning em python^[python -m spacy download en_core_web_sm
+e python -m spacy download pt_core_news_sm] para identificação de palavras-chave 
+via processamento do texto completo.
+
+Todas as análises foram realizadas usando o software estatístico R
+(versão `r paste(R.Version()$major, R.Version()$minor, sep = ".")`)
+[@R-base]. Este relatório, incluindo tabelas e figuras, foi gerado
+usando os pacotes 'rmarkdown' (versão `r packageVersion("rmarkdown")`)
+[@R-rmarkdown], 'knitr' (versão `r packageVersion("knitr")`) [@R-knitr],
+'kableExtra' (versão `r packageVersion("kableExtra")`) [@R-kableExtra],
+'xtable' (versão `r packageVersion("xtable")`) [@R-xtable] , e
+'tidyverse' (versão `r packageVersion("tidyverse")`) [@R-tidyverse].
+
+# Anexo B: Lista de cidades selecionadas para o PCI (versão pré-final)
+\label{anexob}
+
+```{r cidadespci,out.width='85%'}
+
+kable(pcicid,
+      caption = "Cidades selecionadas para 1ª Edição do PCI(ago/2024)\\label{tabela:pcicid}")
+
+```
+
+# Legislação referenciada 
+
+AÇÕES ORÇAMENTÁRIAS INTEGRANTES DA LEI ORÇAMENTÁRIA PARA 2024 20WQ - GESTÃO DE POLÍTICAS DE DESENVOLVIMENTO REGIONAL, ORDENAMENTO TERRITORIAL. 2024. Disponível em: https://sei.mi.gov.br/sei/controlador.php?acao=documento_download_anexo&acao_origem=procedimento_visualizar&id_anexo=2158377&arvore=1&infra_sistema=100000100&infra_unidade_atual=110001271&infra_hash=07b518483fab65e6b6dabc42a175c960f0c34a8728ab65197166ca0983a72df1. Acesso em: 5 set. 2024.
+
+BRASIL, C. C. Decreto nº 11.962 de 22 de março de 2024. Dispõe sobre a Política Nacional de Desenvolvimento Regional. Decreto, n. 11.962, 25 mar. 2024a. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d11962.htm. Acesso em: 5 set. 2024.
+BRASIL, C. C. Lei nº 14.802, de 10 de janeiro de 2024. Institui o Plano Plurianual da União para o período de 2024 a 2027. 10 jan. 2024b. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/l14802.htm. Acesso em: 5 set. 2024.
+
+BRASIL, M. da I. N. PORTARIA N. 34, DE 18 DE JANEIRO DE 2018. Atualiza a classificação das microrregiões segundo a tipologia do Política Nacional de Desenvolvimento Regional – PNDR, e dá outras providências. Portaria, n. 34, 18 jan. 2018. 
+BRASIL, S. F. Projeto de Lei do Senado no 375, de 2015. Institui a Política Nacional de Desenvolvimento Regional e dá outras providências. Diário do Senado Federal, 15 jul. 2015. 
+
+PORTARIA MIN N° 954 DE 24/11/2010 - PNDR I. 25 nov. 2010. Disponível em: https://sei.mi.gov.br/sei/controlador.php?acao=documento_download_anexo&acao_origem=procedimento_visualizar&id_anexo=337956&arvore=1&infra_sistema=100000100&infra_unidade_atual=110001271&infra_hash=1819e945b324c09d541965d0164b51c34f9b4233e30463177dc748e338f055f1. Acesso em: 25 jul. 2024.
+
+PORTARIA Nº 1.642, DE 9 DE MAIO DE 2023. INSTITUI O PROGRAMA DE DESENVOLVIMENTO DAS CAPACIDADES PARA INTEGRAÇÃO E DESENVOLVIMENTO REGIONAL (PCDR) NO ÂMBITO DO MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL (MIDR). 9 maio 2023. Disponível em: https://sei.mi.gov.br/sei/controlador.php?acao=documento_download_anexo&acao_origem=procedimento_visualizar&id_anexo=2244132&arvore=1&infra_sistema=100000100&infra_unidade_atual=110001271&infra_hash=509dfdbf138ea5d544c3c50c3395a23fcbbdde87afba8032845a0a3ac29adc75. Acesso em: 12 ago. 2024.
+
+# Referências
