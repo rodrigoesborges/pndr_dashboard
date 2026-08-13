@@ -1,11 +1,12 @@
 ###CRIAR/ EXTENDER APENAS CONSULTA - recortes geograficos
 
-bdn <- "aedidb"
-ubd <- "aedi"
-bdh <- "127.0.0.1"
-bds <- "aEd1#man@gR"
 
-con <- DBI::dbConnect(RPostgres::Postgres(),user=ubd,password = bds,host = bdh,dbname=bdn)
+
+con <- DBI::dbConnect(RPostgres::Postgres(),
+                      user=Sys.getenv("userdb"),
+                      password = Sys.getenv('passwddbdev'),
+                      host = Sys.getenv('hostdbdev'),
+                      dbname=Sys.getenv('tdbname'))
 ###Criar a VIEW so com municipios
 
 #  consulta

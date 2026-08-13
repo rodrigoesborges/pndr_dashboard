@@ -14,6 +14,6 @@ basemap$codmun <- as.numeric(as.character(trunc(basemap$code_muni/10)))
 basemap <- basemap |>st_cast('MULTIPOLYGON')|>st_cast('POLYGON')
 basemap <- st_as_sf(basemap)|>st_transform(4326)
 
-
+basemap <- sf::st_make_valid(basemap)
 
 usethis::use_data(basemap, overwrite = TRUE)
