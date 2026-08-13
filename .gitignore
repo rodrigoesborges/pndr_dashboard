@@ -1,1 +1,16 @@
 .Rproj.user
+
+# Secrets / credentials
+.Renviron
+.env*
+*.env
+data-raw/credenciais*
+
+# Session artifacts
+.RData
+.Rhistory
+
+# Local databases & dumps
+*.sqlite
+*.sqlite-journal
+*.dumpfile.sql

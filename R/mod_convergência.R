@@ -16,7 +16,7 @@ mod_convergência_ui <- function(id){
   ns <- NS(id)
 
   tagList(
-    h1("Objetivo 2 - Rede Policêntrica de Cidades"),
+    h1("Objetivo 1 - Convergência"),
 
   leafletOutput("mapabase", width = "100%", height = paste0("calc(100vh - ", 120, "px)")),
   )
