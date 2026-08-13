@@ -38,7 +38,7 @@ sumanal <- summary(oanal)
 
 gptchatteR::chatter.auth(Sys.getenv("OPENAI_API_KEY"))
 
-gptchatteR::chatter.create(model="gpt-4o-mini",temperature=0,max_tokens=16384)
+gptchatteR::chatter.create(model="gpt-4o-mini",temperature=0.05,max_tokens=16384)
 
 
 chatter.feed("Use o R. Não inclua '<code>' na resposta. Só responda com código.\n")
@@ -69,7 +69,26 @@ Sys.setenv("OPENAI_MAX_TOKENS" = "2048")
 resposta <- chatgpt::explain_code()
 
 
-# explcollectb <- chattr(paste0("Explique para inserir em um relatório o procedimento feito no script "),stream=F)
+ explcollectb <- chattr(paste0("Explique para leitores não especializados o significado do mapa de evolução temática criado com a execução da função bibliometrix::thematicEvolution e bibliometrix::plotThematicEvolution"),stream=T)
+
+# A função `bibliometrix::theEvolution` é usada para a evolução
+# de temas em um conjunto de dados bibliométricos. Ela identifica clusters
+# temáticos em diferentes períodos de tempo e analisa como esses clusters
+# evoluem ao longo do tempo. O resultado é um mapa que mostra a conexão entre
+# temas em diferentes períodos.
+
+# A função `bibliomet::plotThematicEvolution` é usada para visualizar o
+# resultado da análise de evolução temática. Ela gera um gráfico que ilustra
+# como os temas identificados evoluem ao longo do tempo, mostrando as
+# conexões entre eles.
+
+# Para usar essas funções, você precisa de um conjunto de dados bibliométricos
+# que contenha informações sobre publicações, como títulos, resumos e palavras-
+# chave. A análise geralmente envolve os seguintes passos:
+
+# 1. Carregar os dados bibliicos.
+# 2. Executar a função `thematicEvolution` para identificar clusters temáticos.
+# 3. Usar `plotThematicEvolution` para visualizar a evolução dos temas.
 
 #
 # explique_codigo <- \(code=clipr::read_clip(allow_non_interactive = T)) {
