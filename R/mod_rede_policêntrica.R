@@ -7,11 +7,12 @@
 #' @noRd
 #'
 #' @importFrom shiny NS tagList
-obj2 <- readRDS("dadostat/Painel de Indicadores/Cálculo Painel de Indicadores/9_ind_objetivo_2.RDS")
+obj2 <-  readRDS("data-raw/9_ind_objetivo_2.RDS")
 
 mod_rede_policêntrica_ui <- function(id){
   ns <- NS(id)
   tagList(
+      h1("Objetivo 2 - Rede Policêntrica - maplibreGL"),
    # fluidPage(
       sliderInput(ns('ano'),"Ano",2015,2022,2022,animate=T,ticks=F,animationOptions(interval=2500,loop=F,playButton = icon('play'))),
       selectInput(ns("indicador"),"indicador",choices = unique(obj2$variavel),selected = ""),
@@ -31,55 +32,7 @@ mod_rede_policêntrica_server <- function(id){
     ns <- session$ns
 
 
-    # output$mapabase <- leaflet::renderLeaflet({
-    #   leaflet::leaflet(
-    #     options = leaflet::leafletOptions(
-    #       zoomControl = FALSE,
-    #       boxZoom = TRUE,
-    #       doubleClickZoom = FALSE,
-    #       zoomSnap = 0,
-    #       zoomDelta = 0.25,
-    #       maxZoom = 10,
-    #       minZoom = 2,
-    #       maxBoundsViscosity = 1,
-    #       preferCanvas = TRUE,
-    #       worldCopyJump = FALSE
-    #     )) |>
-    #   leaflet::addMapPane("base", zIndex = 5) |>
-    #     leaflet::addMapPane("polygons", zIndex = 400) |>
-    #     leaflet::addMapPane("highlightes", zIndex = 413)|>
-    #     leaflet::addMapPane("labels", zIndex = 415) |>
-    #     leaflet::addProviderTiles(
-    #       leaflet::providers$CartoDB.PositronNoLabels,
-    #     options = leaflet::providerTileOptions(
-    #       maxZoom = 10,
-    #       pane = "base"
-    #     )
-    #   ) |>
-    #     leaflet::addProviderTiles(
-    #       leaflet::providers$CartoDB.PositronOnlyLabels,
-    #     options = leaflet::providerTileOptions(
-    #       maxZoom = 10,
-    #       pane = "labels"
-    #     )
-    #   )|>
-    #     leaflet::addPolygons(
-    #       data=basemap,
-    #       color = "#FCFCFC",
-    #       opacity=0.1,
-    #       label = basemap$name_muni,
-    #       weight = 1,
-    #       highlightOptions = leaflet::highlightOptions(
-    #         color = "red",
-    #         fillOpacity = 0.7,
-    #         bringToFront = TRUE),
-    #       options = leaflet::pathOptions(
-    #         pane = "highlightes"
-    #       )
-    #     )|>
-    #     leaflet::setMaxBounds(-74,6,-40,-34) |>
-    #     leaflet::setView(-47.9292, -15.7801, zoom = 5)
-    # })|>bindCache("basemap")
+
     output$mapabase <- mapgl::renderMaplibre({
       mapgl::maplibre(style = mapgl::carto_style("positron")) |>
         mapgl::fit_bounds(basemap, animate = TRUE) #|>
@@ -142,24 +95,6 @@ mod_rede_policêntrica_server <- function(id){
         )
 
     }) |>bindEvent(input$indicador,input$ano)
-    # observe({
-    #      camada <- metemapa()
-    #      proxy <- leaflet::leafletProxy("mapabase")
-    #      #colourvalues::color_values_rgb(camada$value,include_alpha = F)
-    #      pal <- leaflet::colorNumeric(palette = "Reds", domain = NULL,na.color = "transparent")
-    #      print("adicionando_camada")
-    #      memoise::memoise(proxy|> leafgl::addGlPolygons(
-    #        data = camada,
-    #        fillColor =    ~pal(camada$value),
-    #
-    #        fillOpacity = 0.5,
-    #        smoothFactor = 0.5,
-    #         color = "lightgray",
-    #        opacity=0.8,
-    #        weight = 1,
-    #        options = list(zIndex=6,leaflet::pathOptions(pane='polygons',zIndex=10))
-    #      )
-    #            )}) |>bindEvent(input$indicador,input$ano)
 
   })
 }

@@ -8,11 +8,28 @@
 #' @noRd
 app_ui <- function(request) {
   tagList(
+    tags$style(HTML("
+    .selectize-input {
+      background-color: black !important;
+      color: white !important;
+    }
+    .selectize-dropdown {
+      background-color: black !important;
+      color: white !important;
+    }
+    .selectize-dropdown-content .option {
+      background-color: black !important;
+      color: white !important;
+    }
+    .selectize-input::placeholder {
+      color: white !important;
+    }
+  ")),
     # Leave this function for adding external resources
     golem_add_external_resources(),
     # Your application UI logic
-    mod_setup_dashboard_ui("setup_dashboard_1"),
-    mod_LandingPage_ui("LandingPage_1"),
+    #mod_setup_dashboard_ui("setup_dashboard_1"),
+    #mod_LandingPage_ui("LandingPage_1"),
     mod_framegov_ui("framegov_1")
 
  )

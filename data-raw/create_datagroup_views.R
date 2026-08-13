@@ -1,16 +1,12 @@
 library(RPostgres)
 
-bdn <- "painelpndr"
-ubd <- "usr_cggi_admin"
-bdh <- "10.214.50.169"
-bds <- "anbhdbregrvdf@2024"
+con <- DBI::dbConnect(
+  RPostgres::Postgres(),
+  user=Sys.getenv('userdb'),
+  password = Sys.getenv('passwddbdev'),
+  host = Sys.getenv('hostdbdev'),
+  dbname=Sys.getenv('tdbname'))
 
-# bdn <- "aedidb"
-# ubd <- "aedi"
-# bdh <- "127.0.0.1"
-# bds <- "aEd1#man@gR"
-
-con <- DBI::dbConnect(RPostgres::Postgres(),user=ubd,password = bds,host = bdh,dbname=bdn)
 ###Vamos gerar a consulta da VIEW
 
 resultadod <- readr::read_csv2("dadostat/2015.csv")
@@ -116,5 +112,5 @@ DBI::dbExecute(con,
 
 
 
-mapply(query_objetivo,rep(grupos_objs,each=9),anoq=2015:2023,USE.NAMES=F)
+mapply(query_objetivo,rep(grupos_objs,each=11 ),anoq=2014:2024,USE.NAMES=F)
 

@@ -8,7 +8,7 @@
 #'
 #' @importFrom shiny NS tagList
 #'
-obj2 <- readRDS("dadostat/Painel de Indicadores/Cálculo Painel de Indicadores/9_ind_objetivo_2.RDS")
+obj2 <- readRDS("data-raw/9_ind_objetivo_2.RDS")
 
 mypallet <- function(data, indicator) {
   # If data has positive and negative values, pallet is divergent and centred in 0
