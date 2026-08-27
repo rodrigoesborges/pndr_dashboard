@@ -1,7 +1,8 @@
-# DEPRECATED (2026-08-25): use o pacote {raisqlr} (remotes::install_github("rodrigoesborges/raisqlr"));
-# ver dev/rais_via_raisqlr.R. Este script e historico: variante REMOTA (38.242.154.34)
-# e usa catalog$dbfile como dbname (quirk). A carga v0.1 foi feita pela variante localhost
-# (temp_consolida_catalogo_pgsql.R) e pelo raisqlr.
+# DEPRECATED (2026-08-25) como pipeline principal: use {raisqlr}
+# (remotes::install_github("rodrigoesborges/raisqlr")); ver dev/rais_via_raisqlr.R.
+# Este arquivo (variante localhost) foi o loader das cargas 2024-definitiva e
+# 2025-preliminar (scripts/rais_v0_to_v0.1/ no pndr_coord) e segue valido
+# como fallback; nao usar para anos novos em dialeto COMT sem o conversor.
 #curlftpfs -o cache=no -s -d -v -o uid=1001,gid=1001,allow_other,umask=002,direct_io ftp://ftp.mtps.gov.br/pdet/microdados/rais mte_rais
 
 
@@ -161,7 +162,7 @@ catalog_rais <- function( output_dir ,ftpmount="coleta/cache/mte_rais", ... ){
 
 }
 
-datavault_rais <- function( catalog , datavault_dir , skipExist = TRUE ) {
+datavault_rais <- datavault_rais <- function( catalog , datavault_dir , skipExist = TRUE ) {
 
   # get common directory
   basedirais <- get_common_dir( tolower( catalog$full_path ) )
@@ -219,8 +220,8 @@ build_rais <-
     library( R.utils )
 
     # create temporary
-    tf <- tempfile()
-    tf2 <- tempfile()
+    tf <- tempfile(tmpdir='coleta/cache/cachetmp')
+    tf2 <- tempfile(tmpdir = 'coleta/cache/cachetmp')
     td <- file.path( tempdir() , "unzips" )
 
     # preemptive clearing
@@ -260,7 +261,10 @@ build_rais <-
       } else {
         archive_extract( normalizePath( tf ) , dir = td )
         this_data_file <- list.files( td , full.names = TRUE )
-        this_data_file <- grep( "\\.csv|\\.txt$", this_data_file, value = TRUE, ignore.case = TRUE )
+        # RAIS 2024 definitiva ships inner files named "*.COMT" (not csv/txt):
+        # fall back to whatever was extracted when the usual filter is empty.
+        these_csv_txt <- grep( "\\.(csv|txt)$", this_data_file, value = TRUE, ignore.case = TRUE )
+        if ( length( these_csv_txt ) > 0 ) this_data_file <- these_csv_txt
       }
 
       # count lines
@@ -331,8 +335,7 @@ build_rais <-
       }
 
       # copy to output file
-      file.copy( tf2 , catalog[ i , "output_filename" ] )
-        file.remove( tf2 )
+      file.rename( tf2 , catalog[ i , "output_filename" ] )
 
       # remove temporary
       suppressWarnings( unlink( td , recursive = TRUE ) )
@@ -403,7 +406,7 @@ monetdb_rais <- function( catalog , chunk.size = as.integer( 10^6 ) ) {
 
     # define formato final da coluna
     data_structure <- as.data.frame( data_structure )
-    data_structure$col_format <- apply( data_structure[ , -1 ] , 1 , function( y ) { ifelse( any( tolower(y) %in% c( "character", "date" ) ) , "character" ,"numeric" ) } )
+    data_structure$col_format <- apply( data_structure[ , -1 , drop = FALSE ] , 1 , function( y ) { ifelse( any( tolower(y) %in% c( "character", "date" ) ) , "character" ,"numeric" ) } )
 
     # cria estrutura final
     data_structure <- data_structure[ , c( "column_name" , "col_format" ) ]
@@ -485,7 +488,7 @@ monetdb_rais <- function( catalog , chunk.size = as.integer( 10^6 ) ) {
 }
 
 # cria base de dados postgres
-postgres_rais <- function( catalog , chunk.size = as.integer( 10^6 ),userais="mte_rais",passwordrais="aEd1#man@gRpublicrais", hostprais="38.242.154.34") {
+postgres_rais <- function( catalog , chunk.size = as.integer( 10^6 ),userais="mte_rais",passwordrais="aEd1#man@gRpublicrais", hostprais="localhost") {
 
   # load libraries
   library( DBI )
@@ -496,8 +499,8 @@ postgres_rais <- function( catalog , chunk.size = as.integer( 10^6 ),userais="mt
   dir.create( dirname( unique( catalog[ , "dbfile" ] )[[1]] ) , recursive = TRUE , showWarnings = FALSE )
 
   # connect to database
-  db <- dbConnect(  RPostgreSQL::PostgreSQL(), dbname=unique( catalog[ , "dbfile" ] )[[1]], user=userais,password=passwordrais,
-               host=hostprais,port=5432     )
+  db <- dbConnect(  RPostgreSQL::PostgreSQL(), dbname=userais, user=userais,password=passwordrais,
+                    host=hostprais,port=5432     )
 
   # split by table
   list_catalog <- split( catalog , catalog$db_tablename )
@@ -533,7 +536,7 @@ postgres_rais <- function( catalog , chunk.size = as.integer( 10^6 ),userais="mt
 
     # define formato final da coluna
     data_structure <- as.data.frame( data_structure )
-    data_structure$col_format <- apply( data_structure[ , -1 ] , 1 , function( y ) { ifelse( any( tolower(y) %in% c( "character", "date" ) ) , "character" ,"numeric" ) } )
+    data_structure$col_format <- apply( data_structure[ , -1 , drop = FALSE ] , 1 , function( y ) { ifelse( any( tolower(y) %in% c( "character", "date" ) ) , "character" ,"numeric" ) } )
 
     # cria estrutura final
     data_structure <- data_structure[ , c( "column_name" , "col_format" ) ]
@@ -614,15 +617,3 @@ postgres_rais <- function( catalog , chunk.size = as.integer( 10^6 ),userais="mt
 
 }
 
-  ##OBS RAIS 2020 - CBO  0000-1 INVALIDA DEIXA O CAMPO COMO TEXTO - MANUALMENTE AJUSTADO POSTGRESQL
-
-con <-
-  DBI::dbConnect(  RPostgreSQL::PostgreSQL(), dbname=unique( catalog[ , "dbfile" ] )[[1]], user=userais,password=passwordrais,
-                   host=hostprais,port=5432     )
-
-DBI::dbExecute(con, "UPDATE rais_vinculo_2020 SET cbo_ocupacao_2002 = 00001 WHERE cbo_ocupacao_2002 = '0000-1'")
-
-DBI::dbExecute(con, "ALTER TABLE rais_vinculo_2020 ALTER COLUMN cbo_ocupacao_2002 TYPE NUMERIC USING cbo_ocupacao_2002::numeric")
-#rais_dblocal <- build_rais(raiscatalogd|>dplyr::filter(!grepl("egado",full_path)))
-
-#saveRDS(rais_dblocal,"data-raw/2023-1985-catalogo-completo-rais.rds")

@@ -1,3 +1,6 @@
+# DEPRECATED (2026-08-25): use raisqlr::rais_create_indexes(years) — mesmo
+# conjunto de indices, IF NOT EXISTS e opcao CONCURRENTLY. Este script
+# historico contem os loops 2013:2023 originais.
 ### Cria indexes nas tabelas de vínculos do banco postgresql da RAIS criado
 
 userais="mte_rais"
