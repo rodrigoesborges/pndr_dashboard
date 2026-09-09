@@ -1,0 +1,993 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;32897585,58;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;TotalReceitas;Total Receitas;2852831,81;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;31469466,77;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2852831,81;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;616525,75;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;564305,72;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;373782,87;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;9131,83;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;353277,95;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;335281,60;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;17996,35;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";11373,09;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;190522,85;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;190522,85;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;52220,03;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;52220,03;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;153776,52;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;153776,52;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;175737,26;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;175737,26;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;175737,26;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;713134,14;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.13.00.00;1.6.0.0.13.00.00 - Serviços Administrativos;44860,00;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Demais Receitas de Serviços;668274,14;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;29552443,96;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2852831,81;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;28761469,24;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2852831,81;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;16654611,86;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2292166,41;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;11959703,79;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2290378,05;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;11956524,10;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2289742,21;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;3179,69;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;635,84;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;190058,33;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;11547,94;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;178510,39;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;3129522,62;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;239499,62;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;899257,48;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;8942,16;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1788,36;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;227627,86;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;3223479,36;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;560665,40;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2805991,13;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;560665,40;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2555529,10;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;511105,76;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;239232,96;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;47846,48;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;8566,08;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;1713,16;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;2662,99;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;83174,39;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;334313,84;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;8883378,02;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;6850613,15;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2032764,87;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;790974,72;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;710974,72;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.02.00.00;1.7.6.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;163418,26;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;547556,46;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;80000,00;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;80000,00;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;257849,14;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;13005,31;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;13005,31;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;120848,21;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;120848,21;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;120848,21;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;34039,13;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;17120,59;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.2.00.00.00;1.9.3.2.00.00.00 - Receita da Dívida Ativa Não Tributária;16918,54;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;89956,49;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;1427094,81;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;1427094,81;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;1427094,81;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;956304,75;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;489600,00;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.02.00.00;2.4.7.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;408000,00;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;58704,75;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;470790,06;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.01.00.00;2.4.7.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;103000,00;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;367790,06;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.0.0.0.00.00.00;7.0.0.0.00.00.00 - Receitas Correntes Intraorçamentárias;1024,00;14997
+2014;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.6.0.0.00.00.00;7.6.0.0.00.00.00 - Receita de Serviços Intraorçamentária;1024,00;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;36856655,57;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;3035216,07;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;34385973,20;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;3035216,07;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;923874,50;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;813731,37;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;502358,54;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;9398,88;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;491367,66;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;337447,80;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;153919,86;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";1592,00;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;311372,83;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;311372,83;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;110143,13;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;110143,13;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;275311,40;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;275311,40;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;125181,83;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;125181,83;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;125181,83;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;754033,67;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.18.00.00;1.6.0.0.18.00.00 - Serviços de Reparação, Manutenção e Instalação;7524,15;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.41.00.00;1.6.0.0.41.00.00 - Serviços de Captação, Adução, Tratamento, Reserva e Distribuição de Água;562880,54;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.42.00.00;1.6.0.0.42.00.00 - Serviços de Coleta, Transporte, Tratamento e Destino Final de Esgotos;165424,58;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.48.00.00;1.6.0.0.48.00.00 - Serviços de Religamento de Água;3490,25;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;14714,15;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;31982947,90;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;3035216,07;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;31631277,40;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;3035216,07;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;18459392,49;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2409457,42;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;12707863,25;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2407542,47;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;12704859,11;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2406941,65;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;3004,14;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;600,82;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;143453,57;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;8465,86;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;134940,79;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.90.00;1.7.2.1.22.90.00 - Outras Transferências Decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;46,92;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;4177639,41;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;386677,39;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1034184,09;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;9574,78;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1914,95;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;3372925,01;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;625758,65;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;3139038,61;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;625758,65;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2818436,56;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;563687,31;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;296353,03;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;59270,60;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;14003,74;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;2800,74;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;10245,28;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;233886,40;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;9798959,90;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;7469868,84;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2329091,06;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;351670,50;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;351670,50;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;351670,50;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;324623,90;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;14399,28;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;14399,28;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;260920,15;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;260920,15;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;260920,15;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;12625,32;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;9692,04;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;6023,21;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.13.00.00;1.9.3.1.13.00.00 - Receita da Dívida Ativa do Imposto sobre Serviços de Qualquer Natureza ¿ ISS;331,93;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.99.00.00;1.9.3.1.99.00.00 - Receita da Dívida Ativa de Outros Tributos;3336,90;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.2.00.00.00;1.9.3.2.00.00.00 - Receita da Dívida Ativa Não Tributária;2933,28;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;36679,15;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;2468461,50;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;2468461,50;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;2468461,50;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;2066951,36;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;163200,00;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.02.00.00;2.4.7.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;797724,56;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;1106026,80;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;401510,14;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;401510,14;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.0.0.0.00.00.00;7.0.0.0.00.00.00 - Receitas Correntes Intraorçamentárias;2220,87;14997
+2015;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.6.0.0.00.00.00;7.6.0.0.00.00.00 - Receita de Serviços Intraorçamentária;2220,87;14997
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;38046156,43;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;3501526,56;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;38046156,43;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;3501526,56;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;706497,76;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;618555,57;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;398579,38;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;9661,42;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;374983,36;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;371625,54;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;3357,82;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";13934,60;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;219976,19;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;219976,19;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;87942,19;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;87942,19;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;251589,63;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;251589,63;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;136721,99;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;136721,99;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;136721,99;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;862184,31;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.18.00.00;1.6.0.0.18.00.00 - Serviços de Reparação, Manutenção e Instalação;6926,86;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.41.00.00;1.6.0.0.41.00.00 - Serviços de Captação, Adução, Tratamento, Reserva e Distribuição de Água;644582,52;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.42.00.00;1.6.0.0.42.00.00 - Serviços de Coleta, Transporte, Tratamento e Destino Final de Esgotos;184625,82;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.48.00.00;1.6.0.0.48.00.00 - Serviços de Religamento de Água;4030,50;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;22018,61;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;35945891,72;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;3501526,56;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;35945891,72;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;3501526,56;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;20876317,22;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2746132,52;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;14731784,80;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2743904,00;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;14728873,89;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2743321,90;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2910,91;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;582,10;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;123170,71;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;7768,37;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;115402,34;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;4599153,17;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;340772,66;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1070264,32;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;11142,72;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2228,52;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;28,84;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;4047427,13;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;755394,04;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;3806010,76;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;755394,04;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;3456357,22;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;691271,30;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;311107,35;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;62221,27;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;10385,97;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;1901,47;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;28160,22;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;241416,37;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;11022147,37;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;8341503,82;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2680643,55;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;143271,02;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;15815,70;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;970,66;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.38.00.00;1.9.1.1.38.00.00 - Multas e Juros de Mora do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;108,06;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.99.00.00;1.9.1.1.99.00.00 - Multas e Juros de Mora de Outros Tributos;862,60;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.3.00.00.00;1.9.1.3.00.00.00 - Multas e Juros de Mora da Dívida Ativa dos Tributos;204,05;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.3.11.00.00;1.9.1.3.11.00.00 - Multas e Juros de Mora da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;43,05;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.3.99.00.00;1.9.1.3.99.00.00 - Multas e Juros de Mora da Dívida Ativa de Outros Tributos;161,00;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;14640,99;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;99891,75;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;99891,75;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;99891,75;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;11323,56;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;10953,61;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;6642,56;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.99.00.00;1.9.3.1.99.00.00 - Receita da Dívida Ativa de Outros Tributos;4311,05;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.2.00.00.00;1.9.3.2.00.00.00 - Receita da Dívida Ativa Não Tributária;369,95;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.2.99.00.00;1.9.3.2.99.00.00 - Receita da Dívida Ativa Não Tributária de Outras Receitas;369,95;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;16240,01;14949
+2016;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;16240,01;14949
+2017;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;1022698,11;14903
+2017;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1022698,11;14903
+2017;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;909210,63;14903
+2017;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;909210,63;14903
+2017;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;651,00;14903
+2017;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;651,00;14903
+2017;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;651,00;14903
+2017;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;651,00;14903
+2017;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;112836,48;14903
+2017;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;112836,48;14903
+2017;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;112836,48;14903
+2017;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;112836,48;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;41827714,27;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;3466445,15;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;40791238,54;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3466445,15;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1093208,32;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;996922,47;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;223119,54;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;223119,54;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;223119,54;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;773802,93;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;43097,60;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;43097,60;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;730705,33;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.1.0;1.1.1.8.02.1.0 Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação;730705,33;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;96285,85;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;12256,81;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;12256,81;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;84029,04;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;84029,04;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;325150,68;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;325150,68;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;57145,90;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;57145,90;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;57145,90;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;57145,90;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;975019,97;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;951961,47;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;951961,47;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;23058,50;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.99.0.0;1.6.9.0.99.0.0 - Outros Serviços;23058,50;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;38143298,89;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3466445,15;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;23532555,46;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2790380,05;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;23532555,46;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2790380,05;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;15166949,70;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2788745,74;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;15166949,70;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2788745,74;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;242937,10;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;242937,10;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;6471607,57;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;211334,10;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1108626,96;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;1108626,96;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;8171,82;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1634,31;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;8171,82;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1634,31;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;84394,00;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.1.0;1.7.1.8.10.1.0 Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;84394,00;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;238534,21;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4252292,48;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;676065,10;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;4252292,48;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;676065,10;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;3410957,57;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;676065,10;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;3410957,57;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;676065,10;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;379857,92;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;461476,99;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.1.0;1.7.2.8.10.1.0 Transferências de Convênio dos Estados para o Sistema Único de Saúde ¿ SUS;461476,99;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;10358450,95;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;10358450,95;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;10358450,95;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;197414,78;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;739,91;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;173293,42;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;70520,38;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;102773,04;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;102773,04;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;23381,45;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;23381,45;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;23381,45;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1036475,73;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1036475,73;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;581917,62;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;581917,62;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;581917,62;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;454558,11;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;454558,11;14903
+2018;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;454558,11;14903
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);45981910,32;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3902200,65;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;45083985,92;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3902200,65;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1222353,79;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1042022,31;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;348393,70;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;348393,70;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;348393,70;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;693628,61;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;169291,17;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;127557,76;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;41733,41;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;524337,44;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;524337,44;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;180331,48;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;49597,88;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;49597,88;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;130733,60;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;130733,60;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;422913,71;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;422913,71;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;49832,87;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;49832,87;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;49832,87;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;49832,87;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;1141556,90;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;1141556,90;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;1141556,90;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;42110034,05;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3902200,65;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;25472649,14;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3031650,26;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;25472649,14;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;3031650,26;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;16471299,79;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;3031650,26;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;15156381,22;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3031275,93;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;668879,14;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;644167,18;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1872,25;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;374,33;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;240130,75;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;6602,73;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;233528,02;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";4194829,95;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;4194829,95;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1104048,08;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;463484,97;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;2340,00;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;356822,80;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;281400,31;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.08.0.0;1.7.1.8.08.0.0 Transferências Advindas de Emendas Parlamentares Individuais;2000000,00;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;669833,81;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;792506,76;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4764668,17;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;870550,39;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;4764668,17;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;870550,39;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;4371514,38;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;870550,39;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;3916758,47;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;783351,50;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;422507,27;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;84500,98;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;13489,98;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;2697,91;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;18758,66;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;50000,00;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;343153,79;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;11872716,74;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;11872716,74;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;11872716,74;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;137294,60;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;118469,41;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;118469,41;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;118469,41;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;18825,19;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;18825,19;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;18825,19;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;897924,40;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;897924,40;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;306600,00;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;306600,00;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;306600,00;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.2.0;2.4.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;306600,00;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;591324,40;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;591324,40;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;591324,40;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;591324,40;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);45981910,32;14986
+2019;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3902200,65;14986
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);50825757,62;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3797169,41;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;49735268,27;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3797169,41;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1300482,09;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1168605,46;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;481412,89;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;481412,89;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;471934,47;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;9478,42;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;687192,57;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;152840,08;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;140899,33;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;11940,75;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;534352,49;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;534352,49;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;131876,63;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;46634,03;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;46634,03;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;85242,60;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;85242,60;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;411674,42;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;411674,42;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;20307,13;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;20307,13;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;20307,13;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;20307,13;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;1237969,83;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;1237969,83;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;1237969,83;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;46434504,28;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3797169,41;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;32073386,62;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2887871,41;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;32073386,62;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2887871,41;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;15740171,63;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2887871,41;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14437965,59;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2887592,81;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;649713,78;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;651098,98;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1393,28;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;278,60;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;233184,44;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;893,42;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;232291,02;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";7268163,86;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;4558715,42;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;2709448,44;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;1506656,00;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.1.0;1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;1506656,00;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1179395,19;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;459272,40;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;421350,16;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;298772,63;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;2897872,29;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;598075,93;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;2649867,28;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;5075157,05;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;909298,00;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;5075157,05;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;909298,00;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;4562610,05;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;909298,00;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;4083573,70;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;816714,56;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;448415,22;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;89682,57;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;14504,73;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;2900,87;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;16116,40;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;423855,00;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;88692,00;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;9285960,61;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;9285960,61;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;9285960,61;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;330330,52;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;268795,70;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;70989,59;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;70989,59;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.00.0.0;1.9.2.8.00.0.0 - Indenizações, Restituições e Ressarcimentos - Específicas para Estados/DF/Municípios;197806,11;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.01.0.0;1.9.2.8.01.0.0 - Indenizações- Específicas para Estados/DF/Municípios;197806,11;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;61534,82;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;61534,82;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;61534,82;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1090489,35;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1090489,35;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;756703,31;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;756703,31;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;265592,00;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.1.0;2.4.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;265592,00;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;491111,31;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;491111,31;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;333786,04;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;333786,04;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;333786,04;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;333786,04;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);50825757,62;16178
+2020;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3797169,41;16178
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);60965833,57;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4889523,79;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;59038277,69;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4889523,79;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1791449,86;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1640665,78;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;578233,36;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;578233,36;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;573152,24;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;5081,12;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;1062432,42;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;345285,47;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;334604,84;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;10680,63;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;717146,95;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;717146,95;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;150784,08;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;76863,04;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;76863,04;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;73921,04;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;73921,04;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;584753,11;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;584753,11;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;149932,16;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;149932,16;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;149932,16;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;149932,16;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;1444100,32;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;1425700,99;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;1425700,99;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;18399,33;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.99.0.0;1.6.9.0.99.0.0 - Outros Serviços;18399,33;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;54566647,63;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4889523,79;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;38518068,66;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3882287,55;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;38518068,66;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;3882287,55;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;21013702,71;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;3882287,55;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;19409745,17;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3881948,76;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;850752,82;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;751510,42;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1694,30;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;338,79;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;375973,93;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;773,39;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;375200,54;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;9344787,37;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;7576982,01;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção Especializada;881205,36;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;886600,00;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;177769,25;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.3.0;1.7.1.8.04.3.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Vigilância em Saúde;177769,25;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1467836,72;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;542032,87;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;306247,04;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;318853,13;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;300703,68;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;5723721,95;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;399168,61;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;15108,12;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;5205558,22;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1007236,24;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;5205558,22;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;1007236,24;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;5046610,42;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;1007236,24;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;4540655,64;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;908130,99;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;475971,35;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;95193,80;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;19557,65;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;3911,45;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;10425,78;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 - Outras Transferências dos Estados;158947,80;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;10843020,75;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;10843020,75;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;10843020,75;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;501394,61;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;214800,30;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;214800,30;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;214800,30;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;286594,31;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;286594,31;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;286594,31;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1927555,88;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;290102,55;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;290102,55;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;290102,55;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1637453,33;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;465390,19;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;465390,19;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;234914,00;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.2.0;2.4.1.8.04.2.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Especializada;234914,00;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;230476,19;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;230476,19;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1172063,14;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 - Transferências dos Estados, Distrito Federal, e de suas Entidades;1172063,14;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;1172063,14;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;1172063,14;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);60965833,57;16147
+2021;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4889523,79;16147
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);80216330,56;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);6422325,07;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;77133114,88;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;6422325,07;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;3053199,87;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2526496,40;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;444475,08;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;425894,94;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";18580,14;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1310432,12;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1310432,12;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1260986,86;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;49445,26;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;771589,20;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;771589,20;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;771589,20;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;526703,47;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;302765,60;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;302765,60;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;223937,87;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;223937,87;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;631319,03;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;631319,03;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;459588,56;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;459588,56;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;459588,56;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;459588,56;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;1544260,36;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;1541971,91;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.00.0.0;1.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais;1541971,91;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.01.0.0;1.6.1.1.01.0.0 - Serviços Administrativos e Comerciais Gerais;1541971,91;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;2288,45;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;71144984,07;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;6422325,07;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;48365937,74;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;4838239,82;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;26427575,05;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;4838239,82;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;26425853,33;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;4837895,55;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;24189479,08;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;4837895,55;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;1241194,58;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;995179,67;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1721,72;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;344,27;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;586832,12;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;586832,12;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;1260,41;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;585571,71;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;8387634,86;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;8387634,86;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;7073502,12;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;835077,60;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;473118,23;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;5936,91;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;1530592,64;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;669048,28;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;429922,40;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;431621,96;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;10737488,82;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;409072,96;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;286741,29;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;18536,64;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;268204,65;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;8914858,03;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1584085,25;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;7936638,31;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1584085,25;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;7223303,78;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1444660,60;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;675441,16;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;135087,62;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;21685,57;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;4337,03;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;16207,80;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;202696,00;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;202696,00;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;775523,72;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;36000,00;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.52.0.0;1.7.2.9.52.0.0 - Transferências de Recursos Destinados a Programas de Educação;739523,72;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.0.00.0.0;1.7.4.0.00.0.0 - Transferências de Instituições Privadas;381733,50;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.1.00.0.0;1.7.4.1.00.0.0 - Transferências de Instituições Privadas;381733,50;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.1.99.0.0;1.7.4.1.99.0.0 - Outras Transferências de Instituições Privadas;381733,50;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;13482434,80;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;13482434,80;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.0.00.0.0;1.7.9.0.00.0.0 - Demais Transferências Correntes;20,00;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.1.00.0.0;1.7.9.1.00.0.0 - Transferências de Pessoas Físicas;20,00;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.1.99.0.0;1.7.9.1.99.0.0 - Outras Transferências de Pessoas Físicas;20,00;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;299762,99;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;299762,99;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;299762,99;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;299762,99;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;3083215,68;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;3083215,68;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1136020,50;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;252588,00;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.0.0;2.4.1.1.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;30404,00;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.1.0;2.4.1.1.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;30404,00;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.0.0;2.4.1.1.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;222184,00;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.2.0;2.4.1.1.51.2.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Especializada;222184,00;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;238750,00;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;238750,00;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;644682,50;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.51.0.0;2.4.1.9.51.0.0 - Transferência Especial da União;644682,50;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1947195,18;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;1947195,18;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.50.0.0;2.4.2.2.50.0.0 - Transferências de Convênios dos Estados para o Sistema Único de Saúde ¿ SUS;500000,00;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.0.0;2.4.2.2.99.0.0 - Outras Transferências de Convênio dos Estados e DF e de Suas Entidades;1447195,18;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);80216330,56;16116
+2022;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);6422325,07;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);97221452,61;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);6662010,79;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;83480273,52;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;6662010,79;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;3141057,83;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2862284,96;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;398672,19;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;365487,43;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";33184,76;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1684220,23;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1684220,23;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1588255,99;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;95964,24;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;779392,54;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;779392,54;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;779392,54;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;278772,87;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;114429,42;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;114429,42;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;164343,45;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;164343,45;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;670989,06;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;670989,06;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;392511,50;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;392511,50;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;392511,50;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;392511,50;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;1813226,02;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;1813226,02;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.00.0.0;1.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais;1813226,02;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.01.0.0;1.6.1.1.01.0.0 - Serviços Administrativos e Comerciais Gerais Prestados por Entidades e Órgãos Públicos em Geral;1813226,02;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;77127578,68;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;6662010,79;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;53288509,69;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;4962394,02;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;27257435,57;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;4962394,02;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;27255590,33;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;4962025,06;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;24824276,41;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;4962025,06;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;2431313,92;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1845,24;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;368,96;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;529954,60;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;529954,60;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;1100,63;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;528853,97;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;9762583,65;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;9762583,65;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;6818080,91;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;2026809,29;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;256751,83;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;6000,00;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;3000,00;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;651941,62;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;1873860,29;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;727145,82;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;586665,64;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;396717,88;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;163330,95;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;12226245,22;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;842028,27;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;796402,09;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;21325,44;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;775076,65;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;9549398,95;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1699616,77;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;8357677,47;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1670865,17;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;7445158,05;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1489031,48;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;884440,38;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;176887,43;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;24731,89;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;4946,26;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;3347,15;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;1191721,48;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;28751,60;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;36000,00;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.52.0.0;1.7.2.9.52.0.0 - Transferências de Recursos Destinados a Programas de Educação;1011963,50;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.53.0.0;1.7.2.9.53.0.0 - Cota-Parte da Transferência da Compensação Financeira das Perdas com Arrecadação de ICMS - LC nº 194/2022;143757,98;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.9.53.0.0;1.7.2.9.53.0.0 - Cota-Parte da Transferência da Compensação Financeira das Perdas com Arrecadação de ICMS - LC nº 194/2022;28751,60;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.0.00.0.0;1.7.4.0.00.0.0 - Transferências de Instituições Privadas;340000,00;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.1.00.0.0;1.7.4.1.00.0.0 - Transferências de Instituições Privadas;340000,00;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.1.99.0.0;1.7.4.1.99.0.0 - Outras Transferências de Instituições Privadas;340000,00;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;13949670,04;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;13949670,04;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;334910,43;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;1148,47;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;1148,47;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.07.0.0;1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;1148,47;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;333761,96;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;333761,96;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;333761,96;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;13741179,09;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;13741179,09;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;10114672,11;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;1458918,00;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.0.0;2.4.1.1.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1458918,00;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.1.0;2.4.1.1.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1458918,00;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.00.0.0;2.4.1.2.00.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE ;866104,26;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.0.0;2.4.1.2.50.0.0 - Transferências de Recursos Destinados a Programas de Educação;866104,26;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.9.0;2.4.1.2.50.9.0 - Outras transferências destinadas a Programas de Educação;866104,26;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;4134332,35;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;4134332,35;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;3655317,50;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.51.0.0;2.4.1.9.51.0.0 - Transferência Especial da União;3655317,50;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3626506,98;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;3626506,98;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.0.0;2.4.2.2.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;3626506,98;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);97221452,61;16116
+2023;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);6662010,79;16116
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);113307958,21;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);7879539,72;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;99702580,17;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;7879539,72;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;3928789,24;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;3683933,26;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;313747,53;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;279563,21;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";34184,32;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;2294413,56;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;2294413,56;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;2135053,99;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;159359,57;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;1075772,17;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;1075772,17;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;1075772,17;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;244855,98;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;138319,48;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;138319,48;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;106536,50;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;106536,50;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;900198,80;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;900198,80;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;728785,74;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;728785,74;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;728785,74;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;728785,74;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;1988461,63;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;1988461,63;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.00.0.0;1.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais;1988461,63;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.01.0.0;1.6.1.1.01.0.0 - Serviços Administrativos e Comerciais Gerais Prestados por Entidades e Órgãos Públicos em Geral;1988461,63;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;91610194,84;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;7879539,72;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;64216643,39;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;5730328,58;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;31607706,95;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;5730328,58;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;31590280,21;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;5726843,35;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;28634218,63;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;5726843,35;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;2956061,58;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;17426,74;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3485,23;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;570611,10;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;359,94;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;570251,16;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;1637,82;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;568613,34;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;12708080,29;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;12708080,29;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;8355209,14;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;3346311,96;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;251624,10;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;12000,00;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;742935,09;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;2719470,90;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;1670521,38;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;535923,20;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;309839,62;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;203186,70;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;14091191,65;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;1551901,71;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;967680,79;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.57.0.0;1.7.1.9.57.0.0 - Transferência Especial da União;813419,68;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;16538,40;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.60.0.0;1.7.1.9.60.0.0 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022;137602,66;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;120,05;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;11284320,25;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2149211,14;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;10761951,02;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2149211,14;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;9731776,63;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1946355,16;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;977542,32;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;197008,30;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;29238,98;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;5847,68;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;23393,09;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;522369,23;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;36000,00;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.52.0.0;1.7.2.9.52.0.0 - Transferências de Recursos Destinados a Programas de Educação;255600,00;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;230769,23;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;16109231,20;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;16109231,20;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;546149,92;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;2541,73;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;2541,73;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.07.0.0;1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;2541,73;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;542589,01;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;542589,01;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;542589,01;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;1019,18;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;1019,18;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;1019,18;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.2.0;1.9.9.9.99.2.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Primárias;1019,18;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;13605378,04;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;13605378,04;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;9344099,10;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.00.0.0;2.4.1.2.00.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE ;1378438,98;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.0.0;2.4.1.2.50.0.0 - Transferências de Recursos Destinados a Programas de Educação;1378438,98;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.9.0;2.4.1.2.50.9.0 - Outras transferências destinadas a Programas de Educação;1378438,98;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;6779079,80;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;6779079,80;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1186580,32;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.51.0.0;2.4.1.9.51.0.0 - Transferência Especial da União;1186580,32;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4261278,94;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;4261278,94;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.0.0;2.4.2.2.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;4261278,94;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);113307958,21;15896
+2024;Prefeitura Municipal de Quixelô - CE;2311355;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);7879539,72;15896

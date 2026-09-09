@@ -1,0 +1,974 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;111395441,51;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;TotalReceitas;Total Receitas;5198363,09;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;109650771,92;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;5198363,09;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;5250327,86;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;5238845,06;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;690124,78;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;38613,44;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;488137,39;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;488137,39;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";163373,95;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;4548720,28;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;4548720,28;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;11482,80;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;11482,80;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;1461025,81;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.1.0.00.00.00;1.2.1.0.00.00.00 - Contribuições Sociais;1228676,87;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.1.0.29.00.00;1.2.1.0.29.00.00 - Contribuições para o Regime Próprio de Previdência do Servidor Público;1228676,87;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.1.0.29.07.00;1.2.1.0.29.07.00 - Contribuição do Servidor Ativo Civil para o Regime Próprio;1228676,87;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;232348,94;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;1535896,77;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;1535896,77;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.9.00.00.00;1.3.2.9.00.00.00 - Outras Receitas de Valores Mobiliários;1535896,77;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;144814,11;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Demais Receitas de Serviços;144814,11;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;100702184,41;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;5198363,09;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;98435040,62;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;5198363,09;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;51516716,26;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;4587490,01;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;24671374,36;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;4583029,37;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;23918786,94;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;4580567,42;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;12310,44;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2461,95;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.30.00;1.7.2.1.01.30.00 - Cota-Parte da Contribuição do Salário-Educação;740276,98;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;1679769,46;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;357135,06;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.90.00;1.7.2.1.22.90.00 - Outras Transferências Decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;1322634,40;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;21216386,21;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;1622683,92;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1814291,56;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;22303,32;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;4460,64;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;489907,43;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;8132368,82;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;610873,08;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;3475002,13;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;610873,08;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;3045367,06;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;610873,08;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;398824,92;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;23264,24;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7545,91;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;4657366,69;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;38785955,54;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;21513575,01;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;17272380,53;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;2267143,79;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;2267143,79;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.01.00.00;1.7.6.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;2267143,79;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;556522,96;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;101985,61;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;101985,61;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;454537,35;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;4537,79;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.0.0.00.00.00;2.2.0.0.00.00.00 - Alienação de Bens;4537,79;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.2.0.00.00.00;2.2.2.0.00.00.00 - Alienação de Bens Imóveis;4537,79;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.0.0.0.00.00.00;7.0.0.0.00.00.00 - Receitas Correntes Intraorçamentárias;1740131,80;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.2.0.0.00.00.00;7.2.0.0.00.00.00 - Receitas de Contribuições Intraorçamentárias;1740131,80;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.2.1.0.00.00.00;7.2.1.0.00.00.00 - Contribuições Sociais Intraorçamentárias;1740131,80;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.2.1.0.29.00.00;7.2.1.0.29.00.00 - Contribuições para o Regime Próprio de Previdência do Servidor Público Intraorçamentárias;1740131,80;63497
+2014;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.2.1.0.29.01.00;7.2.1.0.29.01.00 - Contribuição Patronal de Servidor Ativo Civil para o Regime Próprio Intraorçamentária;1740131,80;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;70265547,00;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;67372410,01;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;1688333,18;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;1622969,03;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;1266795,19;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;243806,91;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;472380,61;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;472380,61;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";550607,67;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;356173,84;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;356173,84;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;65364,15;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;65364,15;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;969298,85;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.1.0.00.00.00;1.2.1.0.00.00.00 - Contribuições Sociais;969298,85;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.1.0.29.00.00;1.2.1.0.29.00.00 - Contribuições para o Regime Próprio de Previdência do Servidor Público;969298,85;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.1.0.29.07.00;1.2.1.0.29.07.00 - Contribuição do Servidor Ativo Civil para o Regime Próprio;969298,85;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;1800709,03;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;1800459,63;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.1.00.00.00;1.3.2.1.00.00.00 - Juros de Títulos de Renda;1800459,63;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.9.0.00.00.00;1.3.9.0.00.00.00 - Outras Receitas Patrimoniais;249,40;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;154857,15;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.47.00.00;1.6.0.0.47.00.00 - Serviços de Iluminação Pública;154857,15;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;62671563,84;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;62671563,84;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;30788583,24;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;16848156,79;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;16796881,63;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;51275,16;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;179458,60;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;179458,60;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;9748718,98;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;1284086,69;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;2653404,28;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;19129,11;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;55628,79;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;3159450,92;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2859450,92;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2735660,60;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;123790,32;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;300000,00;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;28723529,68;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;13573067,37;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;15150462,31;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;87647,96;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;43823,98;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;43823,98;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.38.00.00;1.9.1.1.38.00.00 - Multas e Juros de Mora do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;43823,98;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;43823,98;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.2.00.00.00;1.9.3.2.00.00.00 - Receita da Dívida Ativa Não Tributária;43823,98;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.0.0.0.00.00.00;7.0.0.0.00.00.00 - Receitas Correntes Intraorçamentárias;2893136,99;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.2.0.0.00.00.00;7.2.0.0.00.00.00 - Receitas de Contribuições Intraorçamentárias;2893136,99;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.2.1.0.00.00.00;7.2.1.0.00.00.00 - Contribuições Sociais Intraorçamentárias;2893136,99;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.2.1.0.29.00.00;7.2.1.0.29.00.00 - Contribuições para o Regime Próprio de Previdência do Servidor Público Intraorçamentárias;2893136,99;63497
+2015;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.2.1.0.29.01.00;7.2.1.0.29.01.00 - Contribuição Patronal de Servidor Ativo Civil para o Regime Próprio Intraorçamentária;2893136,99;63497
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;121095794,25;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;TotalReceitas;Total Receitas;6618058,65;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;118263613,55;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;6618058,65;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;4428537,79;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;4338150,12;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;1341540,98;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.01.00.00;1.1.1.2.01.00.00 - Imposto sobre a Propriedade Territorial Rural - ITR;41539,39;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;1135255,44;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;1135255,44;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";164746,15;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;2996609,14;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;2996609,14;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;90387,67;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;90387,67;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;2053937,35;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.1.0.00.00.00;1.2.1.0.00.00.00 - Contribuições Sociais;1657239,51;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.1.0.29.00.00;1.2.1.0.29.00.00 - Contribuições para o Regime Próprio de Previdência do Servidor Público;1657239,51;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.1.0.29.01.00;1.2.1.0.29.01.00 - Contribuição Patronal de Servidor Ativo Civil para o Regime Próprio;1657239,51;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;396697,84;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;1752621,22;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;1052616,22;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;1051694,22;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.8.00.00.00;1.3.2.8.00.00.00 - Remuneração dos Investimentos do Regime Próprio de Previdência do Servidor;922,00;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.9.0.00.00.00;1.3.9.0.00.00.00 - Outras Receitas Patrimoniais;700005,00;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;479899,46;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;479899,46;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;109534234,79;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;6618058,65;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;109534234,79;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;6618058,65;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;56264932,03;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;5888473,78;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;29442368,88;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;5888473,78;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;29429271,25;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;5885854,25;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;13097,63;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2619,53;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;230581,54;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;230581,54;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;21516678,81;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;1998944,75;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;2771967,49;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;19411,70;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;284978,86;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;4233331,70;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;729584,87;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;4233331,70;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;729584,87;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;3647924,33;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;729584,87;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;477746,18;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;28339,89;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;79321,30;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;49035971,06;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;23819922,13;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;25216048,93;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;14382,94;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;14382,94;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;14382,94;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;852972,29;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.0.0.00.00.00;2.2.0.0.00.00.00 - Alienação de Bens;647927,27;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.1.0.00.00.00;2.2.1.0.00.00.00 - Alienação de Bens Móveis;645778,60;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.2.0.00.00.00;2.2.2.0.00.00.00 - Alienação de Bens Imóveis;2148,67;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;205045,02;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;205045,02;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;205045,02;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;205045,02;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.0.0.0.00.00.00;7.0.0.0.00.00.00 - Receitas Correntes Intraorçamentárias;1979208,41;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.2.0.0.00.00.00;7.2.0.0.00.00.00 - Receitas de Contribuições Intraorçamentárias;1979208,41;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.2.1.0.00.00.00;7.2.1.0.00.00.00 - Contribuições Sociais Intraorçamentárias;1979208,41;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.2.1.0.29.00.00;7.2.1.0.29.00.00 - Contribuições para o Regime Próprio de Previdência do Servidor Público Intraorçamentárias;1979208,41;63821
+2016;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.2.1.0.29.01.00;7.2.1.0.29.01.00 - Contribuição Patronal de Servidor Ativo Civil para o Regime Próprio Intraorçamentária;1979208,41;63821
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;113291991,63;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;Total Receitas;5984181,53;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;110776575,18;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;5984181,53;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;4611178,64;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;3967770,99;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;1904364,99;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;36997,23;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;1836077,39;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;1836077,39;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";31290,37;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;2063406,00;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;2063406,00;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;235543,10;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;235543,10;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.00.00;1.1.3.0.00.00.00 - Contribuição de Melhoria;407864,55;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.02.00.00;1.1.3.0.02.00.00 - Contribuição de Melhoria para Expansão da Rede de Iluminação Pública na Cidade;407864,55;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;1381526,59;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.00.00;1.2.1.0.00.00.00 - Contribuições Sociais;1381526,59;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.29.00.00;1.2.1.0.29.00.00 - Contribuições para o Regime Próprio de Previdência do Servidor Público;1381526,59;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.29.07.00;1.2.1.0.29.07.00 - Contribuição do Servidor Ativo Civil para o Regime Próprio;1381526,59;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;575805,71;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;575805,71;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;575805,71;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;104008252,28;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;5984181,53;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;101876119,72;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;5984181,53;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;52930629,48;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;5211471,99;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;28386618,53;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;5207316,15;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;28368310,89;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;5203654,77;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;18307,64;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;3661,38;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;322932,39;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;302226,66;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.90.00;1.7.2.1.22.90.00 - Outras Transferências Decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;20705,73;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;19527887,61;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;2073126,67;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;2524738,65;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;20779,56;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;4155,84;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;74546,07;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;4657365,75;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;772709,54;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;4517765,73;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;772709,54;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;3863549,07;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;772709,54;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;514742,31;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;33272,56;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;106201,79;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;139600,02;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;44288124,49;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;23832437,37;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;20455687,12;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;2132132,56;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;53800,00;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;53800,00;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;2078332,56;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.01.00.00;1.7.6.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;2078332,56;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;199811,96;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;199811,96;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;199811,96;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;207577,50;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;207577,50;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;207577,50;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;207577,50;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;207577,50;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.0.0.0.00.00.00;7.0.0.0.00.00.00 - Receitas Correntes Intraorçamentárias;2307838,95;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.0.0.00.00.00;7.2.0.0.00.00.00 - Receitas de Contribuições Intraorçamentárias;2307838,95;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.0.00.00.00;7.2.1.0.00.00.00 - Contribuições Sociais Intraorçamentárias;2307838,95;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.0.29.00.00;7.2.1.0.29.00.00 - Contribuições para o Regime Próprio de Previdência do Servidor Público Intraorçamentárias;2307838,95;64123
+2017;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.0.29.01.00;7.2.1.0.29.01.00 - Contribuição Patronal de Servidor Ativo Civil para o Regime Próprio Intraorçamentária;2307838,95;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;102822549,19;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;5818328,31;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;98391936,07;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;5818328,31;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;6431945,85;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;5165994,89;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1712848,40;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1712848,40;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1712848,40;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;3453146,49;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;291881,20;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;104338,11;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;187543,09;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;3161265,29;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;3161265,29;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;278174,38;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;42269,77;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;42269,77;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;235904,61;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;235904,61;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;987776,58;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.8.00.0.0;1.1.3.8.00.0.0 - Contribuição de Melhoria - Específica de Estados, DF e Municípios;987776,58;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;1569103,86;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;1569103,86;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.04.0.0;1.2.1.0.04.0.0 - Contribuição para o Regime Próprio de Previdência Social - RPPS;1569103,86;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.04.2.0;1.2.1.0.04.2.0 - Contribuição do Servidor Ativo Civil para o RPPS;1569103,86;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;20206,91;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;22,00;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.99.0.0;1.3.1.0.99.0.0 - Outras Receitas Imobiliárias;22,00;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;20184,91;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;20184,91;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.4.0;1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;20184,91;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;743096,01;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;743096,01;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.02.0.0;1.6.1.0.02.0.0 - Inscrição em Concursos e Processos Seletivos;743096,01;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;88333540,71;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;5818328,31;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;34351519,64;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;5562949,23;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;34351519,64;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;5562949,23;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;30232600,34;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;5559002,54;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;30217470,58;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;5555977,95;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;15129,76;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3024,59;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;462074,81;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;462074,81;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;3531489,26;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;964466,58;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;14540,00;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;1586230,40;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;787998,98;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;178253,30;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;21527,64;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;3946,69;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;21527,64;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;3946,69;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;103827,59;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;6085440,85;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;255379,08;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;6085440,85;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;255379,08;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;4169533,43;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;255379,08;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2929591,20;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;255379,08;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;501118,68;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;189016,39;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;84286,48;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.9.0;1.7.2.8.01.9.0 Outras Transferências dos Estados;465520,68;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;1915907,42;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;47896580,22;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;47896580,22;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;47896580,22;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;1294042,73;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;1294042,73;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.03.0.0;1.9.9.0.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores;1222719,13;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;71323,60;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;4041,52;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;67282,08;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1994892,27;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1994892,27;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1765046,84;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1765046,84;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;364816,00;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 Outras Transferências da União;1400230,84;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;229845,43;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;229845,43;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.05.0.0;2.4.2.8.05.0.0 Transferências de Recursos Destinados a Programas de Educação;229845,43;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.0.0.0.00.0.0;7.0.0.0.00.0.0 - Receitas Correntes - Intraorçamentárias;2435720,85;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.2.0.0.00.0.0;7.2.0.0.00.0.0 - Contribuições - Intraorçamentárias;2435720,85;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.2.1.0.00.0.0;7.2.1.0.00.0.0 - Contribuições Sociais - Intraorçamentárias;2435720,85;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.2.1.0.04.0.0;7.2.1.0.04.0.0 - Contribuição para o Regime Próprio de Previdência Social - RPPS - Intraorçamentárias;2435720,85;64123
+2018;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.2.1.0.04.1.0;7.2.1.0.04.1.0 - Contribuição Patronal de Servidor Ativo Civil para o RPPS - Intraorçamentárias;2435720,85;64123
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);139582558,40;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);7034347,96;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;139295609,63;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;7034347,96;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;8791883,66;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;4945021,07;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;2657640,91;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;2657640,91;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;2359049,45;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;298591,46;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;2287380,16;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;389918,55;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;106594,43;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;283324,12;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;1897461,61;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;1897461,61;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;988472,12;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;988472,12;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;988472,12;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;2858390,47;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.8.00.0.0;1.1.3.8.00.0.0 - Contribuição de Melhoria - Específica de Estados, DF e Municípios;2858390,47;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.8.02.0.0;1.1.3.8.02.0.0 - Contribuição de Melhoria para Expansão da Rede de Iluminação Pública na Cidade;2858390,47;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;1237012,04;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;1237012,04;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.00.0.0;1.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e Municípios;1237012,04;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.01.0.0;1.2.1.8.01.0.0 - Contribuição do Servidor Civil para o Plano de Seguridade Social - CPSSS - Específico de EST/DF/MUN;1237012,04;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.01.1.0;1.2.1.8.01.1.0 - CPSSS do Servidor Civil Ativo;1237012,04;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;167788,50;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;167788,50;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;167788,50;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;123602,49;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.4.0;1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;44186,01;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;128913963,49;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;7034347,96;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;92849102,67;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;6044994,41;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;92849102,67;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;6044994,41;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;32841887,14;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;6044994,41;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;32823715,04;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;6041360,11;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;18172,10;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3634,30;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;465423,43;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;465423,43;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";27085539,20;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;27085539,20;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;4749812,38;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;1024057,12;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;15000,00;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;1794145,18;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;743590,80;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1173019,28;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;23698665,87;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;2413691,84;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1594082,81;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;6116176,82;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;989353,55;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;6116176,82;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;989353,55;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;5916176,82;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;989353,55;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;4946769,05;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;989353,55;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;599229,53;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;37429,14;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;51236,10;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.9.0;1.7.2.8.01.9.0 Outras Transferências dos Estados;281513,00;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;200000,00;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;29948684,00;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;29948684,00;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;29948684,00;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;184961,94;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;184961,94;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.03.0.0;1.9.9.0.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores;184961,94;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;286948,77;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;286948,77;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;286948,77;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;286948,77;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;95706,91;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;95706,91;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 Outras Transferências da União;191241,86;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasIntraOrcamentarias;RECEITAS (INTRA-ORÇAMENTÁRIAS) (II);2807974,98;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.0.0.0.00.0.0;7.0.0.0.00.0.0 - Receitas Correntes;2807974,98;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.2.0.0.00.0.0;7.2.0.0.00.0.0 - Contribuições;2807974,98;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.2.1.0.00.0.0;7.2.1.0.00.0.0 - Contribuições Sociais;2807974,98;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.2.1.8.00.0.0;"7.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e 
+ Municípios";2807974,98;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.2.1.8.03.0.0;7.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN;2807974,98;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.2.1.8.03.1.0;7.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo;2807974,98;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);142390533,38;65044
+2019;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);7034347,96;65044
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);147887525,27;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);6736627,98;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;147392757,77;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;6736627,98;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;10153141,81;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;6474726,51;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;3149780,30;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;3149780,30;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;3149780,30;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;3324946,21;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;357088,33;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;75524,80;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;281563,53;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;2967857,88;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;2967857,88;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;298718,82;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;298718,82;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.02.0.0;1.1.2.8.02.0.0 - Taxas pela Prestação de Serviços;298718,82;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.02.9.0;1.1.2.8.02.9.0 - Taxas pela Prestação de Serviços - Outras;298718,82;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;3379696,48;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.8.00.0.0;1.1.3.8.00.0.0 - Contribuição de Melhoria - Específica de Estados, DF e Municípios;3379696,48;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.8.02.0.0;1.1.3.8.02.0.0 - Contribuição de Melhoria para Expansão da Rede de Iluminação Pública na Cidade;3379696,48;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;2487845,49;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;2487845,49;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.00.0.0;1.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e Municípios;2487845,49;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.01.0.0;1.2.1.8.01.0.0 - Contribuição do Servidor Civil para o Plano de Seguridade Social - CPSSS - Específico de EST/DF/MUN;2487845,49;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.01.1.0;1.2.1.8.01.1.0 - CPSSS do Servidor Civil Ativo;2487845,49;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;56009,65;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;56009,65;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;56009,65;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;40872,51;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.4.0;1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;15137,14;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;134188528,55;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;6736627,98;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;97891613,77;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;5765513,92;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;97891613,77;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;5765513,92;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;31424069,58;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;5765513,92;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;31415518,07;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;5763803,72;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;8551,51;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1710,20;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;463666,42;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;463666,42;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";25628165,70;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;19899350,29;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;5728815,41;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;3520037,92;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;660781,62;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;9600,00;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;2136175,80;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;713480,50;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;49226,79;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;25766343,23;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;2409785,72;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;8630318,41;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;7792489,97;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;971114,06;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;7792489,97;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;971114,06;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;5937891,71;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;971114,06;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;4855571,64;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;971114,06;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;633924,37;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;35470,06;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;45869,88;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.9.0;1.7.2.8.01.9.0 Outras Transferências dos Estados;367055,76;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;1828598,26;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;26000,00;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;28504424,81;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;28504424,81;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;28504424,81;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;507232,27;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;507232,27;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.03.0.0;1.9.9.0.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores;507227,27;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;5,00;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;5,00;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;494767,50;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;494767,50;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;349290,42;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;349290,42;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;349290,42;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;349290,42;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;145477,08;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;145477,08;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;145477,08;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;145477,08;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasIntraOrcamentarias;RECEITAS (INTRA-ORÇAMENTÁRIAS) (II);2379348,50;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.0.0.0.00.0.0;7.0.0.0.00.0.0 - Receitas Correntes;2379348,50;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.0.0.00.0.0;7.2.0.0.00.0.0 - Contribuições;2379348,50;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.0.00.0.0;7.2.1.0.00.0.0 - Contribuições Sociais;2379348,50;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.8.00.0.0;"7.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e 
+ Municípios";2379348,50;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.8.03.0.0;7.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN;2379348,50;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.8.03.1.0;7.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo;2379348,50;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);150266873,77;65296
+2020;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);6736627,98;65296
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);187815565,35;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);8958337,96;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;184142791,51;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;8958337,96;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;12330893,17;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;8614368,83;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;4711551,68;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;4711551,68;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;4711551,68;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;3902817,15;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;574483,49;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;88312,39;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;486171,10;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;3328333,66;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;3328333,66;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;460073,70;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;274576,56;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;223810,67;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;50765,89;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;185497,14;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;5045,29;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.1.0;1.1.2.8.01.1.0 - Taxa de Fiscalização de Vigilância Sanitária;5045,29;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.02.0.0;1.1.2.8.02.0.0 - Taxas pela Prestação de Serviços;180451,85;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.02.9.0;1.1.2.8.02.9.0 - Taxas pela Prestação de Serviços - Outras;180451,85;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;3256450,64;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.8.00.0.0;1.1.3.8.00.0.0 - Contribuição de Melhoria - Específica de Estados, DF e Municípios;3256450,64;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.8.02.0.0;1.1.3.8.02.0.0 - Contribuição de Melhoria para Expansão da Rede de Iluminação Pública na Cidade;3256450,64;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;2677537,04;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;2677537,04;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.00.0.0;1.2.1.8.00.0.0 - Contribuições Sociais Específicas de Estados, DF e Municípios;2677537,04;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.01.0.0;1.2.1.8.01.0.0 - Contribuição do Servidor Civil para o Plano de Seguridade Social - CPSSS - Específico de EST/DF/MUN;2677537,04;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.01.1.0;1.2.1.8.01.1.0 - CPSSS do Servidor Civil Ativo;2677537,04;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;2270359,93;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;433653,23;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;433653,23;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;395127,65;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.4.0;1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;38525,58;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.0.00.0.0;1.3.6.0.00.0.0 - Cessão de Direitos;1836706,70;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.0.01.0.0;1.3.6.0.01.0.0 - Cessão do Direito de Operacionalização de Pagamentos;1836706,70;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.0.01.1.0;1.3.6.0.01.1.0 - Cessão do Direito de Operacionalização de Pagamentos;1836706,70;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;166341848,05;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;8958337,96;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;113156444,42;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;7757334,60;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;113156444,42;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;7757334,60;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;41986433,05;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;7757334,60;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;41970723,97;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;7754192,93;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;15709,08;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3141,67;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;749569,49;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;749569,49;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;23922791,47;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;22894098,98;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;1028692,49;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;3860696,48;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;702277,90;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;9720,00;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;2132061,80;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;1016636,78;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;39702758,85;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;1919633,10;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;1014561,98;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;9577000,55;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1201003,36;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;9577000,55;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;1201003,36;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;7019505,24;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;1201003,36;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;6005017,80;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;1201003,36;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;682025,95;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;51152,93;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;30662,40;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.9.0;1.7.2.8.01.9.0 - Outras Transferências dos Estados;250646,16;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;2503116,31;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 - Transferências de Estados destinadas à Assistência Social;54379,00;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;43608403,08;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;43608403,08;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;43608403,08;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;522153,32;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;522153,32;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.03.0.0;1.9.9.0.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores;292421,98;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;229731,34;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;229731,34;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;3672773,84;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;3672773,84;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;2925144,84;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;2925144,84;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;2925144,84;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;2925144,84;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;747629,00;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 - Transferências dos Estados, Distrito Federal, e de suas Entidades;747629,00;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.03.0.0;2.4.2.8.03.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;747629,00;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasIntraOrcamentarias;RECEITAS (INTRA-ORÇAMENTÁRIAS) (II);5094159,41;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.0.0.0.00.0.0;7.0.0.0.00.0.0 - Receitas Correntes;5094159,41;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.0.0.00.0.0;7.2.0.0.00.0.0 - Contribuições;5094159,41;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.0.00.0.0;7.2.1.0.00.0.0 - Contribuições Sociais;5094159,41;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.8.00.0.0;7.2.1.8.00.0.0 - Contribuições Sociais Específicas de Estados, DF e   Municípios;5094159,41;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.8.03.0.0;7.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN;5094159,41;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.8.03.1.0;7.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo;5094159,41;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);192909724,76;65544
+2021;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);8958337,96;65544
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);239045413,87;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);11196971,20;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;238975657,90;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;11196971,20;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;15932879,23;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;12310344,31;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;609207,75;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;113117,99;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";496089,76;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;7353678,61;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;7353678,61;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;7353678,61;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;4347457,95;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;4347457,95;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;4347457,95;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;303935,44;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;271206,03;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;221164,81;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;44886,05;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;5155,17;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;32729,41;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;32729,41;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;3318599,48;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.00.0.0;1.1.3.1.00.0.0 - Contribuição de Melhoria;3318599,48;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.51.0.0;1.1.3.1.51.0.0 - Contribuição de Melhoria para Expansão da Rede de Iluminação Pública na Cidade;3318599,48;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;4829109,71;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;4829109,71;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.00.0.0;1.2.1.5.00.0.0 - Contribuições para Regimes Próprios de Previdência e Sistema de Proteção Social;4829109,71;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.01.0.0;1.2.1.5.01.0.0 - Contribuição do Servidor Civil;4829109,71;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.01.1.0;1.2.1.5.01.1.0 - Contribuição do Servidor Civil Ativo;4829109,71;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;2301957,35;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;2301957,35;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;2301957,35;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;2043487,76;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.04.0.0;1.3.2.1.04.0.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;258469,59;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;215633217,01;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;11196971,20;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;154103909,87;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;9662356,86;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;52776639,83;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;9662356,86;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;52758415,17;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;9658712,08;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;48652552,75;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;9658712,08;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;2119016,39;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;1986846,03;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;18224,66;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3644,78;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;1169076,17;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;1169076,17;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;1169076,17;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;31220395,52;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;31207008,37;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;31207008,37;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.99.0.0;1.7.1.3.99.0.0 - Outras Transferências de Recursos do Sistema Único de Saúde - SUS;13387,15;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;3713814,35;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;791209,05;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;8340,00;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;1975874,00;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;938391,30;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;57962002,23;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;1617202,11;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;4000000,00;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.52.0.0;1.7.1.7.52.0.0 - Transferências de Convênios da União Destinadas a Programas de Assistência Social;4000000,00;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1644779,66;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1644779,66;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;13694116,26;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1534614,34;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;8669065,56;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1534614,34;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;7673073,03;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1534614,34;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;903538,39;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;44803,43;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;47650,71;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;5025050,70;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;47835190,88;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;47835190,88;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;278494,60;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;57500,00;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;57500,00;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.06.0.0;1.9.2.2.06.0.0 - Restituição de Despesas de Exercícios Anteriores;57500,00;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;220994,60;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;220994,60;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;220994,60;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.2.0;1.9.9.9.99.2.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Primárias;220994,60;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;69755,97;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;69755,97;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;67632,00;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;67632,00;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.0.0;2.4.1.1.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;43632,00;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.1.0;2.4.1.1.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;43632,00;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.99.0.0;2.4.1.1.99.0.0 - Outras Transferências de Recursos do Sistema Único de Saúde - SUS;24000,00;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2123,97;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.00.0.0;2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados;2123,97;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.99.0.0;2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados;2123,97;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasIntraOrcamentarias;RECEITAS (INTRA-ORÇAMENTÁRIAS) (II);5507224,14;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.0.0.0.00.0.0;7.0.0.0.00.0.0 - Receitas Correntes;5507224,14;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.0.0.00.0.0;7.2.0.0.00.0.0 - Contribuições;5507224,14;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.0.00.0.0;7.2.1.0.00.0.0 - Contribuições Sociais;5507224,14;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.5.00.0.0;7.2.1.5.00.0.0 - Contribuições para Regimes Próprios de Previdência e Sistema de Proteção Social;5507224,14;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.5.02.0.0;7.2.1.5.02.0.0 - Contribuição Patronal - Servidor Civil;5507224,14;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.5.02.1.0;7.2.1.5.02.1.0 - Contribuição Patronal - Servidor Civil Ativo;5507224,14;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);244552638,01;65788
+2022;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);11196971,20;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);217641223,67;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);11378312,61;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;217641223,67;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;11378312,61;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;13694409,06;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;9344521,10;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;544051,50;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;65991,28;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";478060,22;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;4711071,36;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;4711071,36;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;3988624,72;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;722446,64;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;4089398,24;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;4089398,24;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;4089398,24;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;309363,83;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;299157,96;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;243654,33;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;49590,50;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;5913,13;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;10205,87;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;10205,87;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;4040524,13;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.00.0.0;1.1.3.1.00.0.0 - Contribuição de Melhoria;4040524,13;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.51.0.0;1.1.3.1.51.0.0 - Contribuição de Melhoria para Expansão da Rede de Iluminação Pública na Cidade;4040524,13;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;896221,70;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;896221,70;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.00.0.0;1.2.1.5.00.0.0 - Contribuições para Regimes Próprios de Previdência e Sistema de Proteção Social;896221,70;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.01.0.0;1.2.1.5.01.0.0 - Contribuição do Servidor Civil;896221,70;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.01.1.0;1.2.1.5.01.1.0 - Contribuição do Servidor Civil Ativo;896221,70;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;1161902,99;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;1161902,99;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;1161902,99;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;725859,28;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.04.0.0;1.3.2.1.04.0.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;436043,71;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;201814286,75;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;11378312,61;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;146702755,47;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;9936116,46;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;54589442,45;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;9936116,46;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;54567083,02;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;9931644,71;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;52386510,69;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;9931644,71;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;2180572,33;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;22359,43;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;4471,75;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;1055983,27;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;1055983,27;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;1055983,27;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;28946014,05;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;28946014,05;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;26741667,63;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;2204346,42;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;4310583,82;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;896294,15;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;2410497,00;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;760508,51;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;243284,16;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;53580231,03;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;1906235,33;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;20000,00;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.52.0.0;1.7.1.7.52.0.0 - Transferências de Convênios da União Destinadas a Programas de Assistência Social;20000,00;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;2294265,52;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;58544,64;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;2235720,88;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;9188429,37;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1442196,15;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;8410300,23;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1442196,15;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;7210981,82;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1442196,15;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;1153427,15;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;36331,94;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;9559,32;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;713834,00;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;64295,14;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;64295,14;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;45923101,91;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;45923101,91;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;74403,17;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;74403,17;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;74403,17;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;74403,17;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.2.0;1.9.9.9.99.2.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Primárias;74403,17;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasIntraOrcamentarias;RECEITAS (INTRA-ORÇAMENTÁRIAS) (II);1148644,93;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.0.0.0.00.0.0;7.0.0.0.00.0.0 - Receitas Correntes;1148644,93;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.0.0.00.0.0;7.2.0.0.00.0.0 - Contribuições;1148644,93;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.0.00.0.0;7.2.1.0.00.0.0 - Contribuições Sociais;1148644,93;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.5.00.0.0;7.2.1.5.00.0.0 - Contribuições para Regimes Próprios de Previdência e Sistema de Proteção Social;1148644,93;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.5.02.0.0;7.2.1.5.02.0.0 - Contribuição Patronal - Servidor Civil;1148644,93;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.5.02.1.0;7.2.1.5.02.1.0 - Contribuição Patronal - Servidor Civil Ativo;1148644,93;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);218789868,60;65788
+2023;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);11378312,61;65788
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);267088190,03;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);13064704,68;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;267088190,03;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;13064704,68;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;17499699,46;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;13825513,58;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;347257,90;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;25070,04;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";322187,86;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;6829338,50;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;6829338,50;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;6649061,61;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;180276,89;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;6648917,18;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;6648917,18;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;6648917,18;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;89360,28;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;77639,76;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;10177,65;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;64442,00;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;3020,11;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;11720,52;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;11720,52;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;3584825,60;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.00.0.0;1.1.3.1.00.0.0 - Contribuição de Melhoria;3584825,60;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.51.0.0;1.1.3.1.51.0.0 - Contribuição de Melhoria para Expansão da Rede de Iluminação Pública na Cidade;3584825,60;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;6014760,68;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;6014760,68;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.00.0.0;1.2.1.5.00.0.0 - Contribuições para Regimes Próprios de Previdência e Sistema de Proteção Social;6014760,68;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.01.0.0;1.2.1.5.01.0.0 - Contribuição do Servidor Civil;6014760,68;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.01.1.0;1.2.1.5.01.1.0 - Contribuição do Servidor Civil Ativo;6014760,68;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;694357,86;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;12207,69;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.00.0.0;1.3.1.1.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;12207,69;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.99.0.0;1.3.1.1.99.0.0 - Outras Receitas Imobiliárias;12207,69;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;682150,17;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;682150,17;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;488241,50;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.04.0.0;1.3.2.1.04.0.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;193908,67;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;242878664,72;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;13064704,68;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;177013498,15;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;11381130,26;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;62361880,49;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;11381130,26;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;60224645,31;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;10953683,37;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;60224645,31;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;10953683,37;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2137235,18;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;427446,89;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;1141395,80;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;1141395,80;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;1141395,80;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;31728500,60;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;31658194,00;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;28102618,23;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;3555575,77;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.99.0.0;1.7.1.3.99.0.0 - Outras Transferências de Recursos do Sistema Único de Saúde - SUS;70306,60;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;9239134,06;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;5686701,52;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;2455894,00;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;690165,14;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;406373,40;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;70217329,25;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;1786014,05;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;539243,90;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;52961,92;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;486281,98;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;10519324,94;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1683574,42;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;9649882,59;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1683574,42;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;8417873,29;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1683574,42;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;1122234,63;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;44338,29;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;65436,38;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;869442,35;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;55345841,63;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;55345841,63;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;707,31;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;707,31;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;707,31;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;707,31;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.1.0;1.9.9.9.99.1.0 - Outras Receitas Administradas pela RFB;707,31;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasIntraOrcamentarias;RECEITAS (INTRA-ORÇAMENTÁRIAS) (II);1431262,74;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.0.0.0.00.0.0;7.0.0.0.00.0.0 - Receitas Correntes;1431262,74;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.0.0.00.0.0;7.2.0.0.00.0.0 - Contribuições;1431262,74;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.0.00.0.0;7.2.1.0.00.0.0 - Contribuições Sociais;1431262,74;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.5.00.0.0;7.2.1.5.00.0.0 - Contribuições para Regimes Próprios de Previdência e Sistema de Proteção Social;1431262,74;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.5.02.0.0;7.2.1.5.02.0.0 - Contribuição Patronal - Servidor Civil;1431262,74;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.5.02.1.0;7.2.1.5.02.1.0 - Contribuição Patronal - Servidor Civil Ativo;1431262,74;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);268519452,77;59563
+2024;Prefeitura Municipal de Coroatá - MA;2103604;MA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);13064704,68;59563

@@ -1,0 +1,913 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;14455987,94;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1561563,39;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;13788753,20;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1561563,39;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;548595,71;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;540955,71;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;102830,16;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;3868,00;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;96042,16;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;96042,16;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";2920,00;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;438125,55;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;438125,55;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;7640,00;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;6707,80;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;932,20;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;88601,76;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;88601,76;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;88601,76;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;13065687,20;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1561563,39;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;13034487,20;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1561563,39;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;8651100,67;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1316881,24;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;6874723,45;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1316567,32;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6872491,77;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1316121,03;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2231,68;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;446,29;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;102606,01;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;102606,01;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;966825,80;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;187386,74;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;386201,18;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1569,60;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;313,92;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;131787,89;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1253121,53;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;244682,15;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1253121,53;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;244682,15;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1223411,79;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;244682,15;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;27285,89;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;1230,10;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1193,75;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;3130265,00;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2984409,32;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;145855,68;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;31200,00;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;31200,00;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;31200,00;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;85868,53;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;10923,30;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;10923,30;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;10923,30;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;74945,23;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;667234,74;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;667234,74;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;447056,55;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;447056,55;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;48000,00;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.02.00.00;2.4.2.1.02.00.00 - Transferências de Recursos Destinados a Programas de Educação;399056,55;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;220178,19;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;164114,62;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;164114,62;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;56063,57;5945
+2014;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.02.00.00;2.4.7.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;56063,57;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;15627410,66;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1636468,15;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;14607188,17;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1636468,15;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;338765,05;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;332300,45;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;120769,49;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;4772,08;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;114597,41;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;114597,41;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";1400,00;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;211530,96;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;211530,96;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;6464,60;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;6464,60;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;99795,99;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;99795,99;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;99795,99;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;73120,00;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.13.00.00;1.6.0.0.13.00.00 - Serviços Administrativos;73120,00;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;14068340,22;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1636468,15;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;13986290,22;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1636468,15;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;8931998,71;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1383830,02;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7302635,08;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1383509,39;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7300544,12;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1383091,27;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2090,96;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;418,12;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;77540,51;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;77540,51;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1045571,75;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;162460,97;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;340950,82;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1603,18;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;320,63;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;1236,40;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1305052,86;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;252638,13;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1301537,04;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;252638,13;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1263191,60;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;252638,13;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;32480,46;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;1133,19;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;4731,79;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;3515,82;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;3749238,65;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3517594,66;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;231643,99;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;82050,00;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;50850,00;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;50850,00;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;31200,00;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;31200,00;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;27166,91;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;9509,51;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;9509,51;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;9509,51;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;17657,40;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;1020222,49;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;1020222,49;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;723549,25;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;723549,25;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;260800,00;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.02.00.00;2.4.2.1.02.00.00 - Transferências de Recursos Destinados a Programas de Educação;462749,25;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;296673,24;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;128482,50;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;128482,50;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;168190,74;5945
+2015;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.02.00.00;2.4.7.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;168190,74;5945
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;19412964,50;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1845570,78;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;18293926,55;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1845570,78;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;525751,58;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;519732,35;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;280989,67;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;6908,33;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;270599,90;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;270599,90;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";3481,44;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;238742,68;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;238742,68;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;6019,23;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;6019,23;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;110963,94;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;110963,94;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;110963,94;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;16171576,01;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1845570,78;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;16140376,01;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1845570,78;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;10287059,49;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1576596,29;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8462813,52;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1576271,81;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7899259,75;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1575787,25;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;328018,19;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);233112,39;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2423,19;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;484,56;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;66288,10;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;66288,10;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1204437,15;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;209818,27;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;340143,33;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1622,88;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;324,48;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;1936,24;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1438530,51;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;268974,49;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1400579,76;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;268974,49;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1344873,52;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;268974,49;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;41678,96;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;922,26;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;13105,02;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;5859,70;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;32091,05;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;4414786,01;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;4025489,37;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;389296,64;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;31200,00;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;31200,00;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;31200,00;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;1485635,02;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;1462493,00;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;1462493,00;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;1462493,00;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;23142,02;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;23142,02;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;1119037,95;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;1119037,95;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;454473,97;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;454473,97;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;100000,00;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.02.00.00;2.4.2.1.02.00.00 - Transferências de Recursos Destinados a Programas de Educação;354473,97;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;664563,98;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;298182,50;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;298182,50;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;366381,48;5971
+2016;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.02.00.00;2.4.7.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;366381,48;5971
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;17374559,71;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1786629,83;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;16614734,71;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1786629,83;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;565014,65;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;564114,65;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;8413,27;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;1730,00;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;6683,27;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;6683,27;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;555701,38;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;555701,38;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;900,00;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;900,00;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;104016,01;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;104016,01;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;104016,01;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;15935426,60;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1786629,83;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;15935426,60;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1786629,83;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;10164278,75;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1498128,85;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8167243,21;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1498128,85;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7489223,67;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1497817,66;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;332933,20;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);343498,54;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1587,80;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;311,19;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;86992,63;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;86992,63;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1263211,19;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;306081,06;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;339142,54;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1608,12;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1491495,77;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;288500,98;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1485636,07;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;288500,98;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1429490,82;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;288500,98;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;38449,85;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;17695,40;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;5859,70;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;4279652,08;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;4014875,50;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;264776,58;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;10277,45;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;10277,45;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;10277,45;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.02.00.00;1.9.2.2.02.00.00 - Restituições de Benefícios não Desembolsados;10277,45;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;759825,00;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.00.00;2.2.0.0.00.00.00 - Alienação de Bens;36900,00;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.00.00;2.2.1.0.00.00.00 - Alienação de Bens Móveis;36900,00;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;722925,00;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;722925,00;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;722925,00;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;600000,00;5996
+2017;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.03.00.00;2.4.7.1.03.00.00 - Transferências de Convênios da União Destinadas a Programas de Saneamento Básico;122925,00;5996
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;19336098,51;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1917740,78;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;17729430,18;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;1917740,78;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;548381,79;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;547816,79;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;168266,11;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;168266,11;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;168266,11;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;379550,68;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;5100,00;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;1100,00;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;4000,00;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;374450,68;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;374450,68;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;565,00;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;565,00;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;565,00;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;45354,63;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;3343,53;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.99.0.0;1.3.1.0.99.0.0 - Outras Receitas Imobiliárias;3343,53;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;42011,10;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;42011,10;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;42011,10;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;17130674,80;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;1917740,78;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;10869070,49;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1603297,79;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;10869070,49;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1603297,79;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8719714,55;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1603297,79;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8014272,33;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1602854,16;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;355945,00;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;347278,67;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2218,55;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;443,63;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;194394,70;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;194394,70;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;1293087,28;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;247419,72;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;408702,21;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;155980,77;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;6600,00;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;120726,00;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;67608,59;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;57786,85;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1282,08;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1282,08;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;4469,95;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1680786,25;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;314442,99;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1680786,25;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;314442,99;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1680786,25;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;314442,99;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1572215,97;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;314442,99;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;45502,25;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;14225,77;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.5.0;1.7.2.8.01.5.0 Outras Participações na Receita dos Estados;31200,00;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.9.0;1.7.2.8.01.9.0 Outras Transferências dos Estados;17642,26;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4580818,06;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4580818,06;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4580818,06;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;5018,96;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;5018,96;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;5018,96;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;5018,96;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1606668,33;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;138200,00;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;138200,00;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes;138200,00;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1468468,33;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;783488,33;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;783488,33;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;783488,33;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;684980,00;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;684980,00;6020
+2018;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;684980,00;6020
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);22202041,17;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2158180,93;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;20495359,15;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2158180,93;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;332206,19;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;332206,19;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;174224,82;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;174224,82;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;174224,82;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;157981,37;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;800,00;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;800,00;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;157181,37;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;157181,37;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;33914,63;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;1335,33;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.99.0.0;1.3.1.0.99.0.0 - Outras Receitas Imobiliárias;1335,33;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;32579,30;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;32579,30;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;32579,30;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;1450,00;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;1450,00;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.02.0.0;1.6.1.0.02.0.0 - Inscrição em Concursos e Processos Seletivos;1450,00;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;20125988,73;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2158180,93;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;13130609,40;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1748313,55;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;13130609,40;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1748313,55;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9498706,60;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1748313,55;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8739568,11;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1747913,33;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;385693,31;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;371443,74;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2001,44;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;400,22;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;134658,39;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;134658,39;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";2207297,84;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;2207297,84;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;439021,81;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.1.0;1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;439021,81;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;386283,20;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;182565,26;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;6240,00;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;120040,00;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;77437,94;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;464641,56;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1838911,63;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;346426,46;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1838911,63;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;346426,46;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1797080,77;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;346426,46;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1732133,29;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;346426,46;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;53135,70;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;3225,60;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;8586,18;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;21225,78;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;20216,20;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;388,88;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;388,88;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5156467,70;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;63440,92;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;5156467,70;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;63440,92;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;5156467,70;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;63440,92;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;1799,60;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;1799,60;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;1799,60;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;1799,60;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1706682,02;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1706682,02;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1706682,02;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1706682,02;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.05.0.0;2.4.1.8.05.0.0 Transferências de Recursos Destinados a Programas de Educação;228912,00;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;1477770,02;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.5.0;2.4.1.8.10.5.0 - Transferências de Convênios da União destinadas a Programas de Saneamento Básico;895919,00;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;581851,02;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);22202041,17;5994
+2019;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2158180,93;5994
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);22799742,21;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2036916,58;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;21570910,21;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2036916,58;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;420607,40;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;420607,40;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;213060,44;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;213060,44;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;213060,44;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;207546,96;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;875,12;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;875,12;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;206671,84;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;206671,84;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;13716,13;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;935,41;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.99.0.0;1.3.1.0.99.0.0 - Outras Receitas Imobiliárias;935,41;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;12780,72;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;12780,72;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;12780,72;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;21136574,70;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2036916,58;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;14206591,97;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1669153,53;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;14206591,97;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1669153,53;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9097540,30;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1669153,53;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8344047,33;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1668809,17;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;375485,21;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;376285,75;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1722,01;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;344,36;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;134246,56;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;134246,56;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";2980999,40;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;2233818,02;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;747181,38;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;391131,99;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.1.0;1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;391131,99;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;330199,95;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;118869,71;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;6300,00;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;126566,00;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;77104,52;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1359,72;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2041,80;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1270431,97;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1942405,55;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;367763,05;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1942405,55;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;367763,05;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1905833,51;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;367763,05;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1838816,46;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;367763,05;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;58940,21;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;941,89;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7134,95;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;14150,52;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;22421,52;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4987577,18;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4987577,18;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4987577,18;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;11,98;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;11,98;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;11,98;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;11,98;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1228832,00;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1228832,00;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1073000,00;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1073000,00;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;500000,00;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;500000,00;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 Outras Transferências da União;573000,00;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;155832,00;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;155832,00;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;155832,00;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.1.0;2.4.2.8.10.1.0 - Transferências de Convênios dos Estados para o Sistema Único de Saúde ¿ SUS;155832,00;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);22799742,21;6013
+2020;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2036916,58;6013
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);27783063,58;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2696475,42;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);0,37;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;25840802,74;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2696475,42;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;0,37;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;418237,72;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;418237,72;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;243220,11;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;243220,11;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;243220,11;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;175017,61;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;3678,58;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;1131,61;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;2546,97;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;171339,03;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;171339,03;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;110802,30;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;0,37;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;3911,47;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.99.0.0;1.3.1.0.99.0.0 - Outras Receitas Imobiliárias;3911,47;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;106890,83;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;0,37;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;106890,83;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;0,37;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;106890,83;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;0,37;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;24595148,29;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2622772,08;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;16508449,24;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2175577,65;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;16508449,24;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;2175577,65;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;12132221,75;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;2175577,65;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11311255,79;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2175242,73;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;492490,94;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;326800,18;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1674,84;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;334,92;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;215600,81;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;215600,81;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2298805,26;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;2298805,26;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;244251,93;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.1.0;1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS Destinados à Atenção Primária;244251,93;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;304662,94;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;121048,24;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;3960,00;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;90176,00;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;89478,70;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 - Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1931,40;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1094457,60;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;204050,00;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;12467,55;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2359335,83;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;447194,43;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;2359335,83;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;447194,43;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;2328555,89;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;447194,43;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;2239098,60;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;447194,43;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;83613,68;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;1287,15;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;4556,46;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;8358,42;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;22421,52;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;22421,52;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5727363,22;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;5727363,22;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;5727363,22;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;716614,43;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;73703,34;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;716614,43;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;73703,34;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;716614,43;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;73703,34;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;716614,43;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;73703,34;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1942260,84;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;102315,00;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;102315,00;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.1.00.0.0;2.2.1.1.00.0.0 - Alienação de Títulos Mobiliários;102315,00;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1839945,84;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1589945,84;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;1589945,84;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.05.0.0;2.4.1.8.05.0.0 - Transferências de Recursos Destinados a Programas de Educação;307906,74;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;982039,10;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.5.0;2.4.1.8.10.5.0 - Transferências de Convênios da União destinadas a Programas de Saneamento Básico;578445,28;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;403593,82;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 - Outras Transferências da União;300000,00;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;250000,00;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 - Transferências dos Estados, Distrito Federal, e de suas Entidades;250000,00;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;250000,00;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;250000,00;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);27783063,58;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2696475,42;6031
+2021;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);0,37;6031
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);34092054,72;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3254187,18;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;31095547,28;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3254187,18;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;671731,79;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;671731,79;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;4338,12;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;1738,12;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";2600,00;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;481094,44;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;481094,44;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;481094,44;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;186299,23;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;186299,23;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;186299,23;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;704559,14;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;704559,14;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;704559,14;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;704559,14;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;29582013,63;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3254187,18;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;21133792,46;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2802381,90;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;15307115,02;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2802381,90;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15304624,67;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2801883,88;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14009420,78;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2801883,88;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;1295203,89;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2490,35;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;498,02;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;483649,60;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;339135,89;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;339135,89;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;144513,71;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;2771846,96;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2541373,14;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;2363409,34;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;115480,60;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;62483,20;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.0.0;1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;230473,82;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.1.0;1.7.1.3.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária;230473,82;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;359532,18;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;126786,26;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;4140,00;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;109336,00;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;119269,92;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;1928968,18;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;260799,57;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;21880,95;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;289,92;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;21591,03;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2431294,85;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;451805,28;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2362703,53;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;451805,28;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2259027,46;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;451805,28;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;95319,86;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;1139,64;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7216,57;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;17688,15;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;50903,17;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;50903,17;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;6016926,32;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;6016926,32;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;137242,72;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;132004,88;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;132004,88;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;132004,88;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;5237,84;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;5237,84;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;5237,84;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.1.0;1.9.9.9.99.1.0 - Outras Receitas Administradas pela RFB;5237,84;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;2996507,44;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;2996507,44;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;513017,00;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;283817,00;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.0.0;2.4.1.1.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;283817,00;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.2.0;2.4.1.1.51.2.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Especializada;283817,00;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;229200,00;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;229200,00;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2483490,44;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;2483490,44;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;2233490,44;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.0.0;2.4.2.2.99.0.0 - Outras Transferências de Convênio dos Estados e DF e de Suas Entidades;250000,00;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);34092054,72;6048
+2022;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3254187,18;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);35270939,10;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3398163,29;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;33976904,39;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3398163,29;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;920146,01;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;920146,01;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;25060,00;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;1560,00;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";23500,00;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;557715,46;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;557715,46;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;557715,46;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;337370,55;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;337370,55;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;337370,55;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;621960,36;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;621960,36;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;621960,36;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;621960,36;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;32432050,12;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3398163,29;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;23177656,71;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2887405,85;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;15867251,23;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2887405,85;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15863776,46;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2886710,97;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14433556,33;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2886710,97;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1430220,13;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3474,77;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;694,88;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;308027,08;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;308027,08;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;308027,08;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;4034298,87;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;4034298,87;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;3361571,89;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;139681,95;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;60078,00;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;472967,03;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;537795,24;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;148751,02;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;4200,00;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;143196,60;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;89257,59;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;152390,03;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;1352759,10;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;622897,87;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;454627,32;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;1787,52;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;452839,80;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2861865,38;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;510757,44;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2664834,76;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;510757,44;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2553788,29;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;510757,44;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;108717,71;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;929,80;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1398,96;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;14822,13;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;152709,50;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;152709,50;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;29498,99;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;29498,99;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;6392528,03;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;6392528,03;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;2747,90;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;1116,09;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;1116,09;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;1116,09;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;1631,81;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;1631,81;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;1631,81;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.1.0;1.9.9.9.99.1.0 - Outras Receitas Administradas pela RFB;1631,81;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1294034,71;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;51700,00;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;51700,00;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;51700,00;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1242334,71;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1142334,71;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.00.0.0;2.4.1.2.00.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE ;35000,00;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.0.0;2.4.1.2.50.0.0 - Transferências de Recursos Destinados a Programas de Educação;35000,00;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.9.0;2.4.1.2.50.9.0 - Outras transferências destinadas a Programas de Educação;35000,00;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;180920,71;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;180920,71;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;926414,00;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.51.0.0;2.4.1.9.51.0.0 - Transferência Especial da União;796078,00;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.99.0.0;2.4.1.9.99.0.0 - Outras Transferências De Recursos da União e de suas Entidades;130336,00;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;100000,00;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;100000,00;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.0.0;2.4.2.2.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;100000,00;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);35270939,10;6048
+2023;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3398163,29;6048
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);40681462,25;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4035557,68;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);19688,60;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;39935495,24;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4035557,68;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;19688,60;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1012887,65;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1012887,65;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;63207,97;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;1974,00;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";61233,97;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;611726,59;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;611726,59;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;611726,59;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;337953,09;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;337953,09;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;337953,09;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;587365,90;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;587365,90;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;587365,90;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;587365,90;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;38316368,21;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4035557,68;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;19688,60;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;26963260,92;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3348446,54;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;18470236,40;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3348446,54;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;18466575,04;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3347714,39;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;16739657,82;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3347714,39;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1726917,22;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3661,36;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;732,15;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;332551,71;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;0,37;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;332551,34;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;332551,34;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;4658926,86;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;4658926,86;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;3710339,30;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;7667,62;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;163532,97;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;76286,00;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;701100,97;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;908123,43;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;565415,60;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;3660,00;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;145644,01;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;86730,80;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;106673,02;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;2168425,04;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;342281,60;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;82715,88;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;2119,56;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;80596,32;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3995972,87;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;687111,14;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;19688,60;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3667240,55;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;687111,14;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;19688,60;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3533999,78;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;687111,14;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;19688,60;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;121499,01;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;1803,74;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;9938,02;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;14346,08;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;279951,52;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;209951,52;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;70000,00;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;34434,72;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;34434,72;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;7357134,42;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;7357134,42;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;18873,48;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;18873,48;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;18873,48;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;18873,48;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;745967,01;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;54150,00;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;54150,00;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;54150,00;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;691817,01;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;581817,01;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.00.0.0;2.4.1.2.00.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE ;45717,01;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.0.0;2.4.1.2.50.0.0 - Transferências de Recursos Destinados a Programas de Educação;45717,01;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.9.0;2.4.1.2.50.9.0 - Outras transferências destinadas a Programas de Educação;45717,01;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;136100,00;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.51.0.0;2.4.1.4.51.0.0 - Transferências de Convênios da União destinadas a Programas de Educação;136100,00;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;400000,00;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.51.0.0;2.4.1.9.51.0.0 - Transferência Especial da União;400000,00;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;110000,00;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.00.0.0;2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados;110000,00;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.99.0.0;2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados;110000,00;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);40681462,25;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4035557,68;6031
+2024;Prefeitura Municipal de Camalaú - PB;2503902;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);19688,60;6031

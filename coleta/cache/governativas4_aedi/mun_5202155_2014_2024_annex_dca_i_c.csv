@@ -1,0 +1,991 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;18163911,81;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;TotalReceitas;Total Receitas;2156442,28;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;17501810,67;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2156442,28;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;1153583,61;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;1082322,79;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;859606,68;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;88625,02;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;319638,46;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;319638,46;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";451343,20;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;222716,11;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;222716,11;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;71260,82;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;71260,82;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;72739,90;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;72739,90;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;106615,70;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;106615,70;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;106615,70;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;16116575,41;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2156442,28;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;15582485,03;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2156442,28;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;9099630,96;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1317761,08;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;6850889,32;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1316113,36;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6364745,94;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1218884,82;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;486143,38;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;97228,54;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;95928,27;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.20.00;1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;902,88;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;95025,39;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1522567,21;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;185370,93;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;273120,48;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;8238,96;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1647,72;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;163515,79;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;4286697,90;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;838681,20;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;4195850,11;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;838681,20;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;3990674,87;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;798135,03;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;169063,40;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;33813,07;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;33665,54;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;6733,10;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;2446,30;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;90847,79;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2196156,17;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1317603,17;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;878553,00;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;534090,38;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;204042,38;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.02.00.00;1.7.6.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;204042,38;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;330048,00;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;280048,00;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;50000,00;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;52296,05;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;4200,00;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;4200,00;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;17067,85;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;1448,00;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;15619,85;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;15619,85;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;22484,78;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;22484,78;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;8543,42;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;662101,14;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.0.0.00.00.00;2.2.0.0.00.00.00 - Alienação de Bens;151600,00;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.1.0.00.00.00;2.2.1.0.00.00.00 - Alienação de Bens Móveis;151600,00;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;510501,14;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;260090,50;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;260090,50;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;244800,00;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;15290,50;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;250410,64;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;250410,64;7795
+2014;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;250410,64;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;20190906,83;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;2232180,08;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;18965536,19;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2232180,08;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;1347915,58;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;1144630,36;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;895536,15;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;66119,38;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;352241,53;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;352241,53;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";477175,24;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;249094,21;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;249094,21;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;203285,22;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;203285,22;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;102640,51;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;102640,51;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;102640,51;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;17460329,76;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2232180,08;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;16817962,77;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2232180,08;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;9582122,94;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1423100,82;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7311074,69;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1391048,80;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6745871,33;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1278008,27;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;565203,36;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;113040,53;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;74555,32;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.20.00;1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;2906,11;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;71649,21;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1439887,13;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;181847,73;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;488458,60;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;37811,75;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;32052,02;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;48487,72;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;4986794,83;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;809079,26;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;4054741,89;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;809079,26;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;3787533,04;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;757506,69;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;225602,31;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;45120,83;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;32258,61;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;6451,74;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;9347,93;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;932052,94;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2249045,00;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2249045,00;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;642366,99;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;372438,99;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.02.00.00;1.7.6.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;70000,00;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;302438,99;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;269928,00;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;269928,00;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;54650,34;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;15323,20;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;5271,20;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.35.00.00;1.9.1.1.35.00.00 - Multas e Juros de Mora da Taxa de Fiscalização e Vigilância Sanitária;5,06;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.38.00.00;1.9.1.1.38.00.00 - Multas e Juros de Mora do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;3351,71;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.39.00.00;1.9.1.1.39.00.00 - Multas e Juros de Mora do Imposto sobre a Transmissão Inter Vivos de Bens Imóveis - ITBI;7,24;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.40.00.00;1.9.1.1.40.00.00 - Multas e Juros de Mora do Imposto sobre Serviços de Qualquer Natureza ¿ ISS;14,87;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.99.00.00;1.9.1.1.99.00.00 - Multas e Juros de Mora de Outros Tributos;1892,32;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;10052,00;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;28345,61;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;28345,61;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;28345,61;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;10877,91;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;10877,91;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;8877,17;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.99.00.00;1.9.3.1.99.00.00 - Receita da Dívida Ativa de Outros Tributos;2000,74;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;103,62;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;1225370,64;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;1225370,64;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;874960,00;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;874960,00;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;874960,00;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;350410,64;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;350410,64;7795
+2015;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;350410,64;7795
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;21683225,31;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;2381400,94;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;20984876,31;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2381400,94;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;1696871,39;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;1246379,27;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;990175,20;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;69761,59;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;387242,09;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;387242,09;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";533171,52;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;256204,07;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;256204,07;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;314637,56;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;18709,58;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;295927,98;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.90.00.00;1.1.2.2.90.00.00 - Taxa de Limpeza Pública;33117,18;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;262810,80;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.3.0.00.00.00;1.1.3.0.00.00.00 - Contribuição de Melhoria;135854,56;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.3.0.02.00.00;1.1.3.0.02.00.00 - Contribuição de Melhoria para Expansão da Rede de Iluminação Pública na Cidade;135854,56;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;109322,22;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;108867,03;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;108867,03;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.3.0.00.00.00;1.3.3.0.00.00.00 - Receitas de Concessões e Permissões;455,19;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;19133375,01;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2381400,94;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;18408463,01;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2381400,94;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;10824626,50;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1536670,17;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7901952,06;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1533397,27;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7019442,23;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1460942,38;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;304111,91;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);216122,93;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;362274,99;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;72454,89;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;64901,30;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;61456,94;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.90.00;1.7.2.1.22.90.00 - Outras Transferências Decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;3444,36;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1727413,90;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;295313,46;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;433090,71;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;16364,53;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;3272,90;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;385590,54;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;4910159,75;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;844730,77;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;4249681,80;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;844730,77;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;3863647,20;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;772729,44;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;334269,13;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;66853,82;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;25737,59;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;5147,51;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;26027,88;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;660477,95;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2673676,76;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2673676,76;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;724912,00;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;195000,00;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;195000,00;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;529912,00;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;329912,00;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;200000,00;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;45307,69;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;9550,54;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;9550,54;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.99.00.00;1.9.1.1.99.00.00 - Multas e Juros de Mora de Outros Tributos;9550,54;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;3493,36;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;3493,36;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;10370,79;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;10370,79;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;10370,79;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;21893,00;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;21893,00;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;698349,00;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;698349,00;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;698349,00;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;550149,00;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;550149,00;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.2.00.00.00;2.4.2.2.00.00.00 - Transferências dos Estados;148200,00;7818
+2016;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.2.99.00.00;2.4.2.2.99.00.00 - Outras Transferências dos Estados;148200,00;7818
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;21196220,81;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;2222118,33;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;21049220,81;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2222118,33;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;1262483,71;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;1110664,84;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;839751,23;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;93145,77;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;175872,83;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;175872,83;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";570732,63;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;270913,61;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;270913,61;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;151818,87;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;151818,87;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;151818,87;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;65612,06;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;65612,06;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;65612,06;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;18908771,11;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2222118,33;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;18612347,11;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2222118,33;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;11297771,26;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1460636,76;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7929690,51;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1460636,76;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7562803,06;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1346060,23;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;366887,45;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;114576,53;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;90026,49;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.20.00;1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;9454,89;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;80571,60;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;2496391,91;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;349045,47;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;380764,27;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;7066,68;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;44785,93;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;4484164,06;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;761481,57;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;4285065,56;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;761481,57;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;3870378,28;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;686504,31;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;348300,25;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;68701,43;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;29915,68;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;6275,83;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;36471,35;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;199098,50;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2830411,79;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2830411,79;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;296424,00;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;296424,00;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;296424,00;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;812353,93;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;796711,29;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;796711,29;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;796711,29;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;15642,64;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;15642,64;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;15642,64;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;147000,00;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;147000,00;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;147000,00;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;147000,00;7841
+2017;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;147000,00;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;24470512,03;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;2755098,31;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;23291734,90;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2755098,31;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1422136,18;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1177779,05;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;190577,48;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;190577,48;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;190577,48;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;943122,14;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;674493,50;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;100826,01;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;573667,49;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;268628,64;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;268628,64;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.9.00.0.0;1.1.1.9.00.0.0 - Outros Impostos;44079,43;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;244357,13;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;70880,47;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;70880,47;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;173476,66;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;173476,66;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;13537,54;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;13537,54;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;13537,54;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;13537,54;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;30264,28;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;30264,28;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.99.0.0;1.6.9.0.99.0.0 - Outros Serviços;30264,28;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;21040769,62;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2755098,31;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;11320440,06;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1571399,31;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;11320440,06;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1571399,31;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8495327,17;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1569528,51;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;7395559,30;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1479111,59;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;328465,54;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;320468,26;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;450834,07;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;90416,92;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;129097,95;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.1.0;1.7.1.8.02.1.0 Cota-parte da Compensação Financeira de Recursos Hídricos;6084,42;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;123013,53;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;1793662,82;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;303767,61;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;542554,99;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;298278,97;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;167876,00;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;13127,25;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;63272,77;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;8574,94;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1870,80;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;8574,94;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1870,80;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;47454,58;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 Outras Transferências de Convênios da União;47454,58;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;6819792,53;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1183699,00;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;6819792,53;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1183699,00;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;5934927,14;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1183699,00;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;5430162,80;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1089210,29;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;426854,17;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;84823,86;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;48324,16;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;9664,85;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;29586,01;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;644009,39;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;240856,00;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;240856,00;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2900537,03;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;2900537,03;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;2900537,03;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;785027,28;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;785027,28;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;785027,28;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;785027,28;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1178777,13;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;162475,00;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;162475,00;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes;162475,00;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1016302,13;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;682968,77;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;682968,77;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;15641,51;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.05.0.0;2.4.1.8.05.0.0 Transferências de Recursos Destinados a Programas de Educação;359503,29;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 Outras Transferências da União;307823,97;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;333333,36;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;333333,36;7841
+2018;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.99.0.0;2.4.2.8.99.0.0 Outras Transferências dos Estados;333333,36;7841
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);23656087,74;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2794733,49;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;23579087,74;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2794733,49;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1317657,35;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1130902,30;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;196644,66;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;196644,66;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;196644,66;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;934257,64;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;626245,35;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;104879,73;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;521365,62;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;308012,29;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;308012,29;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;186755,05;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;169430,02;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;169430,02;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;17325,03;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;17325,03;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.1.0;1.1.2.8.01.1.0 - Taxa de Fiscalização de Vigilância Sanitária;17325,03;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;45225,07;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;38525,00;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.99.0.0;1.3.1.0.99.0.0 - Outras Receitas Imobiliárias;38525,00;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;6594,99;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;6594,99;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;6594,99;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.3.0.00.0.0;1.3.3.0.00.0.0 - Delegação de Serviços Públicos Mediante Concessão, Permissão, Autorização ou Licença;105,08;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.3.9.00.0.0;1.3.3.9.00.0.0 - Demais Delegações de Serviços Públicos;105,08;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;15355,06;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;14565,27;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;14565,27;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;789,79;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.99.0.0;1.6.9.0.99.0.0 - Outros Serviços;789,79;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;21854540,76;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2794733,49;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;12540427,00;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1666539,50;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;12540427,00;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1666539,50;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9030813,95;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1666539,50;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8413898,69;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1586875,51;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;342487,72;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;274427,54;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;79663,99;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;130626,59;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.2.0;1.7.1.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;6465,52;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;124161,07;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";2016332,65;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;2016332,65;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;701651,66;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;701651,66;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.08.0.0;1.7.1.8.08.0.0 Transferências Advindas de Emendas Parlamentares Individuais;239645,95;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;421356,20;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;6314181,13;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1128193,99;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;6314181,13;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1128193,99;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;5983733,13;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1128193,99;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;5485479,12;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1037784,32;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;434104,01;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;81520,96;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;46723,40;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;8888,71;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;17426,60;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;94000,00;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;236448,00;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;236448,00;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2998832,63;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;2998832,63;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;2998832,63;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.7.0.00.0.0;1.7.7.0.00.0.0 - Transferências de Pessoas Físicas;1100,00;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.7.0.00.1.0;1.7.7.0.00.1.0 - Transferências de Pessoas Físicas;1100,00;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;346309,50;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;346309,50;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;1,00;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;1,00;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;346308,50;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;346308,50;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;77000,00;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;77000,00;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;77000,00;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes;77000,00;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);23656087,74;7756
+2019;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2794733,49;7756
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);27662544,81;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);-2309372,76;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;23960979,33;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-2309372,76;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;2104393,24;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1887217,57;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;376244,47;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;376244,47;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;376244,47;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;1510973,10;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;975270,81;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;129748,54;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;845522,27;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;535702,29;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;535702,29;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;217175,67;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;217175,67;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.02.0.0;1.1.2.8.02.0.0 - Taxas pela Prestação de Serviços;217175,67;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.02.9.0;1.1.2.8.02.9.0 - Taxas pela Prestação de Serviços - Outras;217175,67;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;125000,00;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;125000,00;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;7201,28;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;7201,28;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;7201,28;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;7201,28;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;20269136,18;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;-2309372,76;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;11430705,23;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;-1497363,34;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;11430705,23;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;-1497363,34;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8762887,67;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;-1444415,32;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8007824,96;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;-1369295,37;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;344805,62;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;410257,09;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;-75119,95;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;125763,96;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.2.0;1.7.1.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;2486,22;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;123277,74;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";1071288,17;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;778594,09;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;255785,28;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;33056,18;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;3852,62;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;650331,69;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;185118,60;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;76648,97;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;388564,12;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;51807,95;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;-52948,02;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;399906,82;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;368718,97;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;5579575,76;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;-812009,42;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;5579575,76;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;-812009,42;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;4977309,80;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;-812009,42;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;4431639,04;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;-717087,09;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;500783,62;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;-90249,24;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;30508,75;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;-4673,09;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;14378,39;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;602265,96;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3258855,19;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3258855,19;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3258855,19;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;1455248,63;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;500,00;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.06.0.0;1.9.1.0.06.0.0 - Multas por Danos Ambientais;500,00;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.06.1.0;1.9.1.0.06.1.0 - Multas Administrativas por Danos Ambientais;500,00;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;1422109,01;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.00.0.0;1.9.2.8.00.0.0 - Indenizações, Restituições e Ressarcimentos - Específicas para Estados/DF/Municípios;1422109,01;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.02.0.0;1.9.2.8.02.0.0 - Restituições - Específicas para Estados/DF/Municípios;1422109,01;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.02.9.0;1.9.2.8.02.9.0 - Outras Restituições - Específicas para Estados/DF/Municípios - Não Especificadas Anteriormente;1422109,01;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;32639,62;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;32639,62;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;32639,62;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;3701565,48;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;3701565,48;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;3701565,48;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;3701565,48;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;1099939,00;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.9.0;2.4.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;1099939,00;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;1076777,77;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.1.0;2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;1071663,85;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.3.0;2.4.1.8.04.3.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Vigilância em Saúde;1559,99;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.5.0;2.4.1.8.04.5.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Gestão do SUS;3553,93;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;1524848,71;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.1.0;2.4.1.8.10.1.0 - Transferências de Convênio da União para o Sistema Único de Saúde ¿ SUS;202316,00;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.2.0;2.4.1.8.10.2.0 - Transferências de Convênio da União destinadas a Programas de Educação;100000,00;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;1222532,71;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);27662544,81;7770
+2020;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);-2309372,76;7770
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);32795087,16;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);-3774798,40;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;31557295,78;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-3774798,40;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;3114678,75;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2895199,68;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;363520,82;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;363520,82;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;363520,82;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;2531678,86;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;2059612,37;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;186390,16;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;1873222,21;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;472066,49;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;472066,49;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;219479,07;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;219479,07;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;36052,43;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;36052,43;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.02.0.0;1.1.2.8.02.0.0 - Taxas pela Prestação de Serviços;183426,64;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.02.9.0;1.1.2.8.02.9.0 - Taxas pela Prestação de Serviços - Outras;183426,64;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;88133,91;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;88133,91;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;78536,50;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;78536,50;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;78536,50;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;78536,50;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;28275946,62;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;-3774798,40;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;15941002,37;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;-2143885,38;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;15941002,37;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;-2143885,38;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;11566049,71;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;-2143885,38;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11102548,53;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;-2051185,27;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;463501,18;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;-92700,11;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;198658,17;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.2.0;1.7.1.8.02.2.0 - Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;405,68;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;198252,49;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;3123808,22;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;2172034,78;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção Especializada;686603,28;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;73701,40;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;53936,69;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.5.0;1.7.1.8.03.5.0 - Transferência de Recursos do SUS ¿ Gestão do SUS;137532,07;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;677474,65;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;188799,91;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;81752,00;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;406922,74;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;299993,62;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;75018,00;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;8163825,55;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;-1630913,02;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;8163825,55;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;-1630913,02;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;8163825,55;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;-1630913,02;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;7517002,62;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;-1503400,53;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;579304,03;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;-115860,80;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;58258,55;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;-11651,69;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;9260,35;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4171118,70;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4171118,70;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4171118,70;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1237791,38;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1237791,38;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;837818,23;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;837818,23;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;78983,23;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.1.0;2.4.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;78983,23;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;8835,00;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.1.0;2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS Destinados à Atenção Primária;8835,00;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;750000,00;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;750000,00;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;399973,15;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 - Transferências dos Estados, Distrito Federal, e de suas Entidades;399973,15;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;399973,15;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;399973,15;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);32795087,16;7783
+2021;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);-3774798,40;7783
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);40397198,96;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4393825,96;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;39997216,86;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4393825,96;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;3287131,53;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2793610,61;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;1300148,64;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;263761,74;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";1036386,90;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;568876,79;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;568876,79;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;568876,79;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;924585,18;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;924585,18;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;924585,18;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;493520,92;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;383885,02;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;379360,20;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;4524,82;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;109635,90;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;109635,90;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;138255,17;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;138255,17;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;511378,43;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;511378,43;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;511378,43;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;511378,43;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;35845392,70;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4393825,96;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;19695660,46;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2652346,97;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;14431022,76;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2652346,97;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;13831732,73;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2532489,12;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;13276790,53;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2532489,12;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;554942,20;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;599290,03;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;119857,85;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;507064,80;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;2388,70;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;504676,10;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;504676,10;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;3609081,43;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;3609081,43;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;3329781,41;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;52500,00;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;121051,65;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;42219,93;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;63528,44;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;339230,26;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;234857,97;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;63878,40;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;40493,89;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;290575,28;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;518685,93;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;518685,93;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;11209743,74;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1741478,99;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;8721649,64;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1741478,99;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;7829102,30;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1565820,27;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;828180,24;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;165636,20;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;50112,40;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;10022,52;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;14254,70;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;709916,75;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;630231,05;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;630231,05;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;1147946,30;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;1147946,30;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4939988,50;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;4939988,50;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;215059,03;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;65049,03;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;15239,30;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;15239,30;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.00.0.0;1.9.2.3.00.0.0 - Ressarcimentos;49809,73;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.99.0.0;1.9.2.3.99.0.0 - Outros Ressarcimentos;49809,73;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;150010,00;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;150010,00;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;150010,00;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.2.0;1.9.9.9.99.2.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Primárias;150010,00;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;399982,10;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;399982,10;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;399982,10;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;149991,05;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.0.0;2.4.1.1.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;149991,05;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.9.0;2.4.1.1.51.9.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Outros Programas;149991,05;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;249991,05;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.50.0.0;2.4.1.4.50.0.0 - Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;249991,05;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);40397198,96;7795
+2022;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4393825,96;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);39321733,78;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3900088,01;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;39041751,68;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3900088,01;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;4935944,31;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;4701384,54;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;2283096,52;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;288905,13;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";1994191,39;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;934984,49;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;934984,49;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;934984,49;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;1483303,53;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;1483303,53;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;1483303,53;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;234559,77;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;31340,67;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;31340,67;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;203219,10;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;203219,10;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;247973,58;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;247973,58;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;620779,65;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;620779,65;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;620779,65;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;620779,65;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;166080,00;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;166080,00;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.00.0.0;1.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais;166080,00;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.02.0.0;1.6.1.1.02.0.0 - Inscrição em Concursos e Processos Seletivos;166080,00;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;32817234,75;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3900088,01;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;17513836,72;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2117419,25;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;11735891,36;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2117419,25;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;11170397,02;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2004320,51;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;10462584,37;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2004320,51;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;707812,65;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;565494,34;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;113098,74;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;277943,29;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;1376,20;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;276567,09;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;276567,09;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;3334167,49;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;3334167,49;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1968200,55;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;38330,37;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;145451,00;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;46231,44;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;452367,56;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;683586,57;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;472808,43;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;260530,90;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;102735,80;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;53775,19;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;55766,54;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;48797,42;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;257011,81;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1387216,92;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.57.0.0;1.7.1.9.57.0.0 - Transferência Especial da União;699384,00;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;31567,80;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;656265,12;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;10277670,30;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1782668,76;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;8916197,23;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1782668,76;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;7760136,20;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1552027,28;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;1105304,94;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;221061,17;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;47901,43;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;9580,31;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;2854,66;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;353148,03;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;580231,05;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;99991,05;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;480240,00;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;428093,99;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;71257,47;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.53.0.0;1.7.2.9.53.0.0 - Cota-Parte da Transferência da Compensação Financeira das Perdas com Arrecadação de ICMS - LC nº 194/2022;356836,52;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5025727,73;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;5025727,73;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;253739,39;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;73454,13;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;73454,13;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;73454,13;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;180285,26;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;180285,26;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;180285,26;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.2.0;1.9.9.9.99.2.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Primárias;180285,26;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;279982,10;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;279982,10;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;279982,10;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;279982,10;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.01.0.0;2.4.2.2.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União;179991,05;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.0.0;2.4.2.2.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;99991,05;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);39321733,78;7795
+2023;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3900088,01;7795
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);49811992,47;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);5794879,93;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;48402160,37;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;5794879,93;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;3992902,12;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;3797014,75;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;1941591,30;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;279965,96;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";1661625,34;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1167669,58;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1167669,58;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1165368,65;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;2300,93;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;687753,87;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;687753,87;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;687753,87;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;195887,37;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;86622,08;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;86622,08;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;109265,29;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;109265,29;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;155490,19;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;155490,19;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;443533,52;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;443533,52;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;443533,52;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;443533,52;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;5250,00;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;5250,00;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.00.0.0;1.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais;5250,00;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.02.0.0;1.6.1.1.02.0.0 - Inscrição em Concursos e Processos Seletivos;5250,00;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;43380204,14;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;5794879,93;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;26043641,88;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3690613,20;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;20116760,50;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3690613,20;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;19510829,80;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3569427,16;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;17406157,43;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3569427,16;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;2104672,37;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;605930,70;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;121186,04;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;465329,87;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;169211,91;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;296117,96;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;296117,96;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;4092991,00;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;4092991,00;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;2856491,11;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;819634,07;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;180430,98;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;62584,54;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;173850,30;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;663084,79;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;434440,37;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;115588,00;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;57289,86;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;55766,56;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;98885,56;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;215484,90;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;391105,26;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;87834,72;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;303270,54;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;11469870,46;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2104266,73;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;10540954,22;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2104266,73;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;9329863,92;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1865972,83;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;1125699,57;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;225140,22;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;65768,26;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;13153,68;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;19622,47;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;348685,19;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;580231,05;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;480240,00;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;99991,05;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5866691,80;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;5866691,80;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;424780,40;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;390514,29;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;390514,29;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;390514,29;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;34266,11;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;34266,11;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;34266,11;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.2.0;1.9.9.9.99.2.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Primárias;34266,11;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1409832,10;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;791200,00;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;791200,00;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;791200,00;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;618632,10;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;268650,00;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;268650,00;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.51.0.0;2.4.1.4.51.0.0 - Transferências de Convênios da União destinadas a Programas de Educação;268650,00;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;349982,10;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;349982,10;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.50.0.0;2.4.2.2.50.0.0 - Transferências de Convênios dos Estados para o Sistema Único de Saúde ¿ SUS;349982,10;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);49811992,47;6986
+2024;Prefeitura Municipal de Araguapaz - GO;5202155;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);5794879,93;6986

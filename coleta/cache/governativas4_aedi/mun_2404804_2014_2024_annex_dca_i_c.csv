@@ -1,0 +1,958 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;10518549,22;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1566015,79;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;10361758,66;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1566015,79;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;234186,47;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;232318,58;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;157221,28;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;6400,00;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;145421,28;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;145421,28;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";5400,00;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;75097,30;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;75097,30;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;1867,89;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;1867,89;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;37919,50;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;37919,50;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;37919,50;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;10065915,48;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1566015,79;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;10063876,03;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1566015,79;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;7992939,02;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1334836,35;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;6910916,78;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1333562,79;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6910451,90;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1333469,83;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;464,88;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;92,96;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;195554,56;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;92381,80;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;103172,76;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;480416,11;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;157073,52;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;109953,75;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;6367,92;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1273,56;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;132656,38;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1207485,43;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;231179,44;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1207485,43;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;231179,44;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1181084,12;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;226137,39;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;24059,83;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;4812,00;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;1150,09;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;230,05;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1191,39;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;863451,58;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;818320,82;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;45130,76;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;2039,45;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;2039,45;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.01.00.00;1.7.6.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;2039,45;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;23737,21;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;23737,21;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;23737,21;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;156790,56;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;156790,56;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;156790,56;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;156790,56;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;130000,00;2206
+2014;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;26790,56;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;11089527,98;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1640404,48;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;10844727,98;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1640404,48;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;223870,41;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;222645,29;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;153157,72;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;5234,12;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;145550,85;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;145550,85;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";2372,75;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;69487,57;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;69487,57;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;1225,12;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;1125,12;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;100,00;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;36171,03;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;36171,03;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;36171,03;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;10563646,92;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1640404,48;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;10562395,69;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1640404,48;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;8228801,05;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1389986,39;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7334641,48;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1389595,19;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6947409,23;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1389479,53;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;304391,54;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);82262,20;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;578,51;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;115,66;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;144984,56;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;67041,88;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;77942,68;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;508797,91;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;158642,70;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;77938,69;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1956,11;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;391,20;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;1839,60;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1256544,33;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;250418,09;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1256544,33;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;250418,09;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1221293,02;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;244258,38;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;29737,05;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;5947,33;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;1061,82;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;212,38;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;4452,44;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;1077050,31;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;981355,72;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;95694,59;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;1251,23;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;1251,23;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.01.00.00;1.7.6.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;411,23;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;840,00;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;21039,62;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;20635,61;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;20635,61;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;20635,61;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;404,01;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;404,01;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;404,01;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;244800,00;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;244800,00;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;244800,00;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;244800,00;2206
+2015;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;244800,00;2206
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;12713229,33;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1853138,94;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;12274944,33;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1853138,94;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;282692,02;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;282455,95;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;188253,87;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;2575,00;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;183886,87;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;183886,87;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";1792,00;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;94202,08;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;94202,08;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;236,07;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;236,07;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;38993,01;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;38993,01;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;38993,01;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;11942615,37;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1853138,94;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;11942615,37;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1853138,94;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;9447721,03;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1582609,84;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8494791,16;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1582219,72;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7970404,82;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1581853,76;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;325988,19;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);196568,29;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1829,86;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;365,96;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;110355,04;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;49902,55;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;60452,49;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;567176,33;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;187641,98;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;80969,76;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1950,84;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;390,12;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;4835,92;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1364856,41;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;270529,10;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1364856,41;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;270529,10;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1320055,08;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;264010,81;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;31147,61;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;6229,66;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;1431,89;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;288,63;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;12221,83;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;1130037,93;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1130037,93;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;10643,93;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;7995,90;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;3600,00;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;4395,90;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;4395,90;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;2648,03;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;2648,03;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;438285,00;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;438285,00;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;438285,00;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;438285,00;2221
+2016;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;438285,00;2221
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;12612495,02;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1797794,98;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;12278870,02;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1797794,98;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;352787,30;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;352787,30;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;275572,27;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;300,00;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;275272,27;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;275272,27;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;77215,03;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;77215,03;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;13684,63;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;13684,63;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;38146,68;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;38146,68;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;37056,54;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.9.00.00.00;1.3.2.9.00.00.00 - Outras Receitas de Valores Mobiliários;1090,14;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;11866913,20;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1797794,98;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;11866501,97;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1797794,98;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;9263936,97;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1508839,11;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8223395,39;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1508447,55;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7541374,46;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1508274,55;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;681155,68;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;865,25;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;173,00;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;138574,81;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;50974,69;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;87600,12;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;536843,24;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;291403,94;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;69391,43;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1957,92;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;391,56;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;2370,24;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1462501,29;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;288955,87;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1462501,29;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;288955,87;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1398503,82;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;279700,52;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;44635,96;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;8927,41;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;1639,54;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;327,94;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;16461,97;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;1260,00;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;1140063,71;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1140063,71;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;411,23;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;411,23;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.01.00.00;1.7.6.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;411,23;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;7338,21;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;1986,48;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;1800,00;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;186,48;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;186,48;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;5351,73;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;5351,73;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;333625,00;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;333625,00;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;333625,00;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;333625,00;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;259870,00;2236
+2017;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;73755,00;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;14081610,68;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1924624,38;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;13801170,68;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;1924624,38;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;366448,99;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;362516,40;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;291810,94;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;291810,94;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;226130,45;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;65680,49;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;70695,46;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;2839,95;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;494,95;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;2345,00;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;67855,51;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;67855,51;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.9.00.0.0;1.1.1.9.00.0.0 - Outros Impostos;10,00;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;3932,59;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;3917,59;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;3917,59;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;15,00;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;15,00;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;97394,53;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;97394,53;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;14988,42;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;14988,42;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;14988,42;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;14988,42;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;13303857,36;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;1924624,38;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;10446250,41;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1610696,31;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;10446250,41;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1610696,31;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8757774,97;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1610313,15;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8050671,96;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1610134,12;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;357214,39;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;348993,26;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;895,36;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;179,03;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;176409,32;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;39560,78;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;136848,54;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;1183089,93;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;223719,13;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;103341,14;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;51437,18;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;225,43;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;51678,53;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1915,92;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;383,16;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1915,92;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;383,16;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1607915,57;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;313928,07;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1607915,57;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;313928,07;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1582769,70;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;313928,07;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1522069,38;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;304413,68;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;46251,79;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;9250,57;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;1318,78;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;263,82;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;13129,75;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 Transferência da Cota-parte da Compensação Financeira (25%);25145,87;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.3.0;1.7.2.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º;25145,87;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1249691,38;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1249691,38;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1249691,38;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;18481,38;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;18481,38;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;5043,00;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;13438,38;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;13438,38;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;280440,00;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;280440,00;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;280440,00;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;280440,00;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;201600,00;2236
+2018;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 Outras Transferências da União;78840,00;2236
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);14676188,90;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2072258,43;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;14627018,90;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2072258,43;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;385005,78;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;384015,78;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;310297,48;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;310297,48;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;256832,76;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;53464,72;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;73718,30;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;9134,06;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;7609,06;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;1525,00;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;64584,24;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;64584,24;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;990,00;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;990,00;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;990,00;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.2.0;1.1.2.1.02.2.0 - Taxa de Fiscalização de Funcionamento - TFF;990,00;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;103448,48;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;103448,48;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;13696,74;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;13696,74;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;13696,74;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;13696,74;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;14118258,79;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2072258,43;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;11179061,82;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1752124,56;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;11179061,82;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1752124,56;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9527363,07;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1752124,56;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8758786,21;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1751756,95;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;386541,43;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;372260,54;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1838,20;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;367,61;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7936,69;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;167122,22;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;32167,69;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;134954,53;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";758907,68;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;660744,68;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;14529,68;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;53085,02;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;30548,30;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;75862,04;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;53080,96;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;20515,59;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;2265,49;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;191821,68;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;457985,13;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1637894,64;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;320133,87;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1637894,64;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;320133,87;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1600669,10;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;320133,87;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1540225,23;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;308044,81;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;59068,74;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;11814,00;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;1375,13;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;275,06;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 Transferência da Cota-parte da Compensação Financeira (25%);29416,05;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.3.0;1.7.2.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º;29416,05;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;7809,49;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.1.0;1.7.2.8.10.1.0 Transferências de Convênio dos Estados para o Sistema Único de Saúde ¿ SUS;879,49;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;6930,00;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1301302,33;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1301302,33;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1301302,33;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;6609,11;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;6609,11;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;4248,22;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.01.0.0;1.9.2.1.01.0.0 - Indenizações por Danos Causados ao Patrimônio Público;4248,22;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;2360,89;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;2360,89;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;49170,00;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;49170,00;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;49170,00;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;49170,00;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;49170,00;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;49170,00;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);14676188,90;2228
+2019;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2072258,43;2228
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);16299507,81;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);1996756,21;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;15497480,63;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;1996756,21;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;424944,02;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;424929,02;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;312925,62;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;312925,62;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;241784,04;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;71141,58;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;112003,40;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;976,62;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;826,62;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;150,00;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;111026,78;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;111026,78;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;15,00;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;15,00;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;15,00;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;108894,38;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;108894,38;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;4692,13;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;4692,13;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;4692,13;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;4692,13;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;14942550,72;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;1996756,21;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;12020456,54;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1670411,53;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;12020456,54;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1670411,53;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9111070,26;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1670411,53;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8351018,32;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1670203,35;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;375798,91;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;376600,12;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1041,16;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;208,18;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;6611,75;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;154193,36;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;19834,63;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;134358,73;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";1516045,21;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;894494,52;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;14305,68;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;54429,19;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;43333,92;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;509481,90;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;70418,44;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;36298,64;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;34119,80;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;235645,29;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;933083,98;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1696477,32;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;326344,68;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1696477,32;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;326344,68;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1631723,25;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;326344,68;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1568721,57;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;313744,11;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;61235,28;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;12247,24;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;1766,40;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;353,33;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 Transferência da Cota-parte da Compensação Financeira (25%);22377,99;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.3.0;1.7.2.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º;22377,99;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;42376,08;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1225616,86;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1225616,86;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1225616,86;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;16399,38;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;16399,38;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;7149,50;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.01.0.0;1.9.2.1.01.0.0 - Indenizações por Danos Causados ao Patrimônio Público;7149,50;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;9249,88;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;9249,88;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;802027,18;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;222093,00;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;222093,00;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes;222093,00;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;579934,18;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;579934,18;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;579934,18;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;153458,00;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.1.0;2.4.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;153458,00;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;426476,18;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;426476,18;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);16299507,81;2241
+2020;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);1996756,21;2241
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);18631694,28;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2626833,84;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;18317937,13;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2626833,84;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;510801,32;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;504666,16;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;350724,71;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;350724,71;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;267054,36;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;83670,35;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;153941,45;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;32817,35;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;32126,97;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;690,38;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;121124,10;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;121124,10;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;6135,16;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;5775,39;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;328,29;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;5447,10;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.1.0;1.1.2.1.02.1.0 - Taxa de Fiscalização de Instalação - TFI - Não Proveniente da Utilização de Posições Orbitais;147,30;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.2.0;1.1.2.1.02.2.0 - Taxa de Fiscalização de Funcionamento - TFF - Não Proveniente da Utilização de Posições Orbitais;5299,80;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;359,77;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;359,77;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;131276,13;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;131276,13;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;34943,94;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;34943,94;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;34943,94;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;34943,94;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;160,00;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;160,00;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.02.0.0;1.6.1.0.02.0.0 - Inscrição em Concursos e Processos Seletivos;160,00;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;17640711,30;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2626833,84;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;13802940,71;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2241744,95;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;13802940,71;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;2241744,95;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;12138129,76;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;2241744,95;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11207751,41;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2241550,01;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;491249,43;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;433943,98;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;974,80;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;194,94;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;4210,14;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;232520,83;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;15869,13;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;216651,70;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1265389,06;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;1237525,39;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;27863,67;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;72479,85;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;72479,85;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;90628,13;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;3793,08;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2172009,80;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;385088,89;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;2172009,80;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;385088,89;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;1925443,86;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;385088,89;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;1857894,90;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;371578,74;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;65666,19;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;13133,56;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;1882,77;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;376,59;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 - Transferência da Cota-parte da Compensação Financeira (25%);39501,47;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.3.0;1.7.2.8.02.3.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º;39501,47;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;154848,03;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;1935,94;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 - Transferências de Convênio dos Estados Destinadas a Programas de Educação;1935,94;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 - Outras Transferências dos Estados;50280,50;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1665242,27;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1665242,27;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1665242,27;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.8.0.00.0.0;1.7.8.0.00.0.0 - Transferências Provenientes de Depósitos Não Identificados;518,52;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;44,44;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;44,44;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;44,44;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;44,44;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;313757,15;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;313757,15;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;238757,15;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;238757,15;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;238757,15;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;238757,15;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;75000,00;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 - Transferências dos Estados, Distrito Federal, e de suas Entidades;75000,00;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;75000,00;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.1.0;2.4.2.8.10.1.0 - Transferências de Convênios dos Estados para o Sistema Único de Saúde ¿ SUS;75000,00;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);18631694,28;2253
+2021;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2626833,84;2253
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);22377620,19;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3206185,22;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;22261739,99;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3206185,22;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;605281,74;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;595828,20;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;11390,26;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;9543,51;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";1846,75;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;456461,74;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;456461,74;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;376143,67;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;80318,07;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;127976,20;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;127976,20;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;127976,20;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;9453,54;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;9243,54;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;9243,54;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.1.0;1.1.2.1.02.1.0 - Taxa de Fiscalização de Instalação - TFI - Não Proveniente da Utilização de Posições Orbitais;320,00;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.2.0;1.1.2.1.02.2.0 - Taxa de Fiscalização de Funcionamento - TFF - Não Proveniente da Utilização de Posições Orbitais;8923,54;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;210,00;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;210,00;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;148720,14;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;148720,14;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;242777,98;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;242777,98;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;242777,98;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;242777,98;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;960,00;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;960,00;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.00.0.0;1.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais;960,00;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.02.0.0;1.6.1.1.02.0.0 - Inscrição em Concursos e Processos Seletivos;960,00;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;21261464,56;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3206185,22;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;17404020,23;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2796016,10;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;15247838,75;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2790313,32;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15240567,59;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2790156,66;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14054488,11;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2790156,66;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;612130,07;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;573949,41;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;783,40;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;156,66;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;6487,76;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;492745,49;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;347364,71;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;9648,27;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;337716,44;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;145380,78;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;1453027,43;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1153226,43;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1021356,62;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;14305,68;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;77051,80;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;39287,08;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;1047,69;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;177,56;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.0.0;1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;299801,00;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.1.0;1.7.1.3.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária;299801,00;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;57505,28;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;37233,90;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;17654,21;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;2617,17;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;29037,58;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;5702,78;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;118352,45;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;5513,25;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;5513,25;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2117983,58;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;410153,64;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2050768,10;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;410153,64;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1975091,68;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;395018,09;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;73176,75;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;14635,58;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;2499,67;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;499,97;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.0.0;1.7.2.2.00.0.0 - Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;58178,67;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.52.0.0;1.7.2.2.52.0.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo;58178,67;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;3557,50;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;3557,50;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;5479,31;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;5479,31;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1739460,74;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;15,48;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;1739460,74;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;15,48;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.0.00.0.0;1.7.9.0.00.0.0 - Demais Transferências Correntes;0,01;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.2.00.0.0;1.7.9.2.00.0.0 - Transferências Provenientes de Depósitos Não Identificados;0,01;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;2535,57;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;2535,57;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;2535,57;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;2535,57;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;115880,20;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;115880,20;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;114600,00;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;114600,00;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.99.0.0;2.4.1.9.99.0.0 - Outras Transferências De Recursos da União e de suas Entidades;114600,00;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1280,20;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;1280,20;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;1280,20;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);22377620,19;2264
+2022;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3206185,22;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);26262732,02;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3359293,12;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;24975661,65;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3359293,12;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;756289,94;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;741431,91;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;17476,23;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;17085,71;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";390,52;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;567509,54;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;567509,54;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;529053,65;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;38455,89;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;156446,14;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;156446,14;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;156446,14;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;14858,03;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;8975,62;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;6855,00;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;2120,62;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.2.0;1.1.2.1.02.2.0 - Taxa de Fiscalização de Funcionamento - TFF - Não Proveniente da Utilização de Posições Orbitais;2120,62;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;5882,41;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;5882,41;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;151611,71;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;151611,71;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;247451,33;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;247451,33;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;247451,33;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;247451,33;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;23789548,31;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3359293,12;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;19067326,28;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2865470,31;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;15730143,88;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2863385,09;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.50.0.0;1.7.1.1.50.0.0 - Cota-Parte do Fundo de Participação dos Estados e do Distrito Federal - FPE;629035,68;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15098869,27;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2863194,65;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14471673,36;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2863194,65;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;627195,91;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;952,39;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;190,44;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1286,54;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;311344,42;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;134,17;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;311210,25;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;5730,42;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;305479,83;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;2119089,57;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1519235,57;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1081462,22;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;143879,66;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;105574,38;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;37333,92;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;150985,39;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.0.0;1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;599854,00;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.1.0;1.7.1.3.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária;399908,00;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.2.0;1.7.1.3.51.2.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Especializada;199946,00;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;191089,23;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;43540,98;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;54628,00;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;2373,21;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;90547,04;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;18473,04;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;2085,22;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;294871,26;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;402314,88;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;402314,88;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2509091,19;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;493822,81;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2443280,65;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;488656,03;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2343464,26;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;468692,60;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;95029,94;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;19006,11;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;4786,45;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;957,32;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.0.0;1.7.2.2.00.0.0 - Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;37750,36;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.52.0.0;1.7.2.2.52.0.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo;37750,36;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;2226,26;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;2226,26;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;25833,92;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;5166,78;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.53.0.0;1.7.2.9.53.0.0 - Cota-Parte da Transferência da Compensação Financeira das Perdas com Arrecadação de ICMS - LC nº 194/2022;25833,92;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.9.53.0.0;1.7.2.9.53.0.0 - Cota-Parte da Transferência da Compensação Financeira das Perdas com Arrecadação de ICMS - LC nº 194/2022;5166,78;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2213130,83;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;2213130,83;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.0.00.0.0;1.7.9.0.00.0.0 - Demais Transferências Correntes;0,01;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.1.00.0.0;1.7.9.1.00.0.0 - Transferências de Pessoas Físicas;0,01;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.1.99.0.0;1.7.9.1.99.0.0 - Outras Transferências de Pessoas Físicas;0,01;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;30760,36;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;30760,36;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;30760,36;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;30760,36;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1287070,37;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1287070,37;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1287070,37;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.00.0.0;2.4.1.2.00.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE ;387070,37;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.0.0;2.4.1.2.50.0.0 - Transferências de Recursos Destinados a Programas de Educação;387070,37;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.9.0;2.4.1.2.50.9.0 - Outras transferências destinadas a Programas de Educação;387070,37;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;900000,00;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.99.0.0;2.4.1.9.99.0.0 - Outras Transferências De Recursos da União e de suas Entidades;900000,00;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);26262732,02;2264
+2023;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3359293,12;2264
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);30306020,08;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3710835,05;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);14364,89;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;27321815,08;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3710835,05;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;14364,89;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1027335,10;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1008615,91;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;13537,22;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;13537,22;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;714119,41;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;714119,41;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;592699,35;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;121420,06;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;280959,28;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;280959,28;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;280959,28;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;18719,19;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;8270,33;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;7975,33;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;295,00;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.2.0;1.1.2.1.02.2.0 - Taxa de Fiscalização de Funcionamento - TFF - Não Proveniente da Utilização de Posições Orbitais;295,00;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;10448,86;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;10448,86;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;168342,34;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;168342,34;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;316854,25;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;316854,25;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;316854,25;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;316854,25;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;25719013,30;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3710835,05;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;14364,89;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;21146502,83;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3313456,71;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;10665,99;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;18286419,29;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3313456,71;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;18276933,93;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3313333,37;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;17548844,93;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3313333,37;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;728089,00;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;616,89;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;123,34;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;8868,47;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;333312,89;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;427,15;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;332885,74;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;4587,16;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;328298,58;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;1966252,03;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1966252,03;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1343916,65;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;252417,56;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;99566,11;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;42950,32;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;227401,39;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;320093,72;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;148578,28;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;80042,00;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;926,38;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;90547,06;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;33321,58;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;10665,99;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;167365,31;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;39738,01;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;39738,01;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2035818,58;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;397378,34;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1986892,07;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;397378,34;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1898050,31;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;379609,89;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;85084,54;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;17016,96;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;3757,22;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;751,49;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.0.0;1.7.2.2.00.0.0 - Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;41912,26;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.52.0.0;1.7.2.2.52.0.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo;41912,26;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;7014,25;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;2226,25;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;4788,00;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2536691,89;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3698,90;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;2524884,88;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.9.00.0.0;1.7.5.9.00.0.0 - Demais Transferências de Outras Instituições Públicas;11807,01;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.5.9.00.0.0;1.7.5.9.00.0.0 - Demais Transferências de Outras Instituições Públicas;3698,90;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;90270,09;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;90270,09;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;84916,69;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;84916,69;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.00.0.0;1.9.2.3.00.0.0 - Ressarcimentos;5353,40;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.99.0.0;1.9.2.3.99.0.0 - Outros Ressarcimentos;5353,40;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;2984205,00;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.0.0.00.0.0;2.1.0.0.00.0.0 - Operações de Crédito;2000000,00;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.0.00.0.0;2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno;2000000,00;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.2.00.0.0;2.1.1.2.00.0.0 - Operações de Crédito Contratuais - Mercado Interno;2000000,00;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.2.54.0.0;2.1.1.2.54.0.0 - Operações de Crédito Internas para Programas de Modernização da Administração Pública;2000000,00;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;984205,00;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;984205,00;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;300000,00;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.53.0.0;2.4.1.4.53.0.0 - Transferências de Convênios da União destinadas a Programas de Meio Ambiente;300000,00;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;684205,00;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.99.0.0;2.4.1.9.99.0.0 - Outras Transferências De Recursos da União e de suas Entidades;684205,00;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);30306020,08;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3710835,05;2035
+2024;Prefeitura Municipal de Ipueira - RN;2404804;RN;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);14364,89;2035

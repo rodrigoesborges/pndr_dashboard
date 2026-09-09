@@ -1,0 +1,905 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;16155476,93;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1582343,30;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;14114823,93;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1582343,30;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;452185,29;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;448258,63;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;197516,15;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;76,03;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;162215,58;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;162215,58;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";35224,54;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;250742,48;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;250742,48;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;3926,66;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;3856,66;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;70,00;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;46370,94;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;46370,94;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;46370,94;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;50,00;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Demais Receitas de Serviços;50,00;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;13569513,32;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1582343,30;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;13569513,32;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1582343,30;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;9180751,29;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1316734,04;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;6873831,96;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1316387,72;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6872491,77;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1316121,03;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1340,19;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;266,69;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;102606,01;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;102606,01;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1648822,78;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;205795,58;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;212810,43;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1732,08;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;346,32;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;135152,45;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1423663,80;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;265609,26;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1423663,80;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;265609,26;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1329311,85;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;265609,26;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;54526,78;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;1450,00;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1323,64;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;37051,53;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2965098,23;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2965098,23;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;46704,38;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;27,12;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;27,12;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;38550,65;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;38550,65;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;38550,65;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;3344,21;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;3344,21;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;4782,40;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;2040653,00;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;2035682,10;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;2035682,10;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;1985682,10;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;458334,00;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.02.00.00;2.4.7.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;468233,63;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;1059114,47;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;50000,00;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.01.00.00;2.4.7.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;50000,00;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.5.0.0.00.00.00;2.5.0.0.00.00.00 - Outras Receitas de Capital;4970,90;7703
+2014;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.5.9.0.00.00.00;2.5.9.0.00.00.00 - Outras Receitas;4970,90;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;15873913,49;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1653629,55;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;14590496,65;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1653629,55;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;382744,69;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;382679,69;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;186720,78;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;3167,25;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;175192,16;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.23.00;1.1.1.2.04.23.00 - Imposto de Renda Pessoa Jurídica - Simples Federal e Nacional;175192,16;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";8361,37;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;195958,91;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;195958,91;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;65,00;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;65,00;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;14106776,33;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1653629,55;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;14106776,33;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1653629,55;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;9635862,29;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1383720,37;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7301949,08;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1383372,22;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7300544,12;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1383091,27;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1404,96;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;280,95;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;77540,51;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;77540,51;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1642149,61;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;273844,60;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;338637,41;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1741,08;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;348,15;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1432953,48;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;269909,18;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1432953,48;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;269909,18;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1371970,41;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;269909,18;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;55750,82;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;5232,25;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;3037960,56;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3037960,56;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;100975,63;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;428,49;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;428,49;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;428,49;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;2327,38;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;2327,38;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.99.00.00;1.9.3.1.99.00.00 - Receita da Dívida Ativa de Outros Tributos;2327,38;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;98219,76;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;1283416,84;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;843830,00;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;843830,00;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;843830,00;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;843830,00;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.5.0.0.00.00.00;2.5.0.0.00.00.00 - Outras Receitas de Capital;439586,84;7703
+2015;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.5.9.0.00.00.00;2.5.9.0.00.00.00 - Outras Receitas;439586,84;7703
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;16284407,75;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;TotalReceitas;Total Receitas;1822644,23;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;15959520,54;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1822644,23;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;99327,58;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;99327,58;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;99327,58;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;5000,00;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;94327,58;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;94327,58;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;27171,17;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.9.0.00.00.00;1.3.9.0.00.00.00 - Outras Receitas Patrimoniais;27171,17;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;860,36;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;860,36;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;15701398,89;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1822644,23;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;15701398,89;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1822644,23;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;10484026,36;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1540778,15;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8050634,50;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1540458,49;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;8049330,56;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1540197,78;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1303,94;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;260,71;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;66288,10;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;66288,10;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1882897,50;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;258816,06;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;218765,91;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1598,30;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;319,66;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;5025,99;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1534160,48;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;281866,08;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1531160,48;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;281866,08;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1409331,49;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;281866,08;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;98348,86;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;14480,13;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;9000,00;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;3000,00;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;3683212,05;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3683212,05;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;130762,54;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;3609,39;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;3609,39;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;3609,39;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;127153,15;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;127153,15;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;324887,21;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;317150,00;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;317150,00;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;317150,00;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;317150,00;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.5.0.0.00.00.00;2.5.0.0.00.00.00 - Outras Receitas de Capital;7737,21;7717
+2016;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.5.9.0.00.00.00;2.5.9.0.00.00.00 - Outras Receitas;7737,21;7717
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;17555248,54;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;Total Receitas;1814884,57;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;16696259,51;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1814884,57;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;168874,30;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;168874,30;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;39068,91;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;2552,68;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;27474,95;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;27474,95;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";9041,28;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;129805,39;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;129805,39;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;79869,99;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.9.0.00.00.00;1.3.9.0.00.00.00 - Outras Receitas Patrimoniais;79869,99;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;16426620,08;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1814884,57;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;16426620,08;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1814884,57;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;11805413,63;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1498459,56;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8180975,61;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1498106,76;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7846418,06;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1497814,46;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;332933,20;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1624,35;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;292,30;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;86992,63;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;86992,63;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;2911198,77;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;358180,84;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;253958,28;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1764,00;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;352,80;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;12343,50;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1716413,99;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;316425,01;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1707370,55;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;316425,01;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1582126,23;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;316425,01;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;83350,32;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;14676,80;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;27217,20;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;9043,44;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2904792,46;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2904792,46;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;20895,14;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;9502,34;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;9502,34;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;9502,34;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;11392,80;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;11392,80;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;858989,03;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;824758,68;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;824758,68;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;824758,68;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;310600,00;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;514158,68;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.5.0.0.00.00.00;2.5.0.0.00.00.00 - Outras Receitas de Capital;34230,35;7730
+2017;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.5.9.0.00.00.00;2.5.9.0.00.00.00 - Outras Receitas;34230,35;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;16148237,44;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1940430,27;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;15028537,44;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;1940430,27;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;403757,38;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;402001,80;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;21141,33;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;21141,33;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;21141,33;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;380860,47;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;26736,12;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;3426,00;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;23310,12;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;354124,35;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;354124,35;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;1755,58;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;1755,58;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;1755,58;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;1400,00;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;1400,00;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.99.0.0;1.6.9.0.99.0.0 - Outros Serviços;1400,00;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;14583074,02;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;1940430,27;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;9382902,70;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1602967,68;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;9382902,70;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1602967,68;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8718228,77;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1602623,76;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8014272,39;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1602477,27;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;355945,00;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;347278,67;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;732,71;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;146,49;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;133304,85;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;133304,85;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;321192,04;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;104552,32;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;8280,00;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;124736,00;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;32199,09;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;51424,63;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1719,72;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;343,92;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1719,72;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;343,92;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;206026,49;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.1.0;1.7.1.8.10.1.0 Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;119039,24;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.2.0;1.7.1.8.10.2.0 Transferências de Convênios da União Destinadas a Programas de Educação;86987,25;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;2430,83;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1839104,72;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;337462,59;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1839104,72;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;337462,59;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1802951,12;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;337462,59;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1687313,99;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;337462,59;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;98771,85;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;15687,11;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.5.0;1.7.2.8.01.5.0 Outras Participações na Receita dos Estados;1178,17;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;36000,00;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;27000,00;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;9000,00;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;153,60;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3361066,60;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3361066,60;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3361066,60;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;40306,04;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;8825,80;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;8825,80;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;8825,80;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;31480,24;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;31480,24;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;31480,24;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1119700,00;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;97600,00;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;97600,00;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes;97600,00;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1022100,00;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1022100,00;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1022100,00;7730
+2018;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;1022100,00;7730
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);21156177,41;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2131803,98;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;19817790,98;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2131803,98;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;429438,69;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;418219,65;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;130621,21;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;130621,21;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;130621,21;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;287598,44;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;71470,49;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;38834,79;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;32635,70;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;216127,95;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;216127,95;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;11219,04;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;11219,04;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;11219,04;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;256370,81;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;256370,81;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;38263,62;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;4710,24;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.01.0.0;1.3.1.0.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação;4340,00;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.01.1.0;1.3.1.0.01.1.0 - Aluguéis e Arrendamentos;4340,00;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.99.0.0;1.3.1.0.99.0.0 - Outras Receitas Imobiliárias;370,24;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;33553,38;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;33553,38;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;33553,38;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;19076732,67;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2131803,98;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;13449287,04;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1748205,95;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;13449287,04;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1748205,95;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9498168,53;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1748205,95;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8739568,11;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1747913,33;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;385693,31;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;371443,74;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1463,37;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;292,62;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;134658,39;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;134658,39;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";2205237,23;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;1978476,15;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;80785,39;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;90239,94;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;55735,75;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;8144,85;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.1.0;1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;8144,85;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;276977,72;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;136047,61;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;130354,00;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;9402,60;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1173,51;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;325653,43;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;543466,65;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;456980,24;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1992517,72;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;383598,03;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1992517,72;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;383598,03;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1927316,36;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;383598,03;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1780243,35;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;356048,48;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;133457,12;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;26721,41;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;4140,72;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;828,14;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;9475,17;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;29097,36;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;36104,00;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;36104,00;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3634927,91;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3634927,91;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3634927,91;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;16985,19;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;7311,20;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;7311,20;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;7311,20;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;9673,99;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;9673,99;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;9673,99;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1338386,43;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1338386,43;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1338386,43;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1338386,43;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;229940,00;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.1.0;2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;229940,00;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;1108446,43;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.1.0;2.4.1.8.10.1.0 - Transferências de Convênio da União para o Sistema Único de Saúde ¿ SUS;125199,20;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;983247,23;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);21156177,41;7732
+2019;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2131803,98;7732
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);23475723,62;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2063519,03;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;22460608,11;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2063519,03;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;480549,37;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;474803,01;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;198682,93;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;198682,93;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;198682,93;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;276120,08;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;78587,00;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;39383,87;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;39203,13;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;197533,08;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;197533,08;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;5746,36;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;5746,36;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;5746,36;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;258954,70;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;258954,70;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;8311,97;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;8311,97;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;8311,97;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;8311,97;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;21698132,41;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2063519,03;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;15540305,88;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1669108,18;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;15540305,88;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1669108,18;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9097313,64;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1669108,18;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8344047,33;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1668809,17;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;375485,21;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;376285,75;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1495,35;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;299,01;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;134246,56;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;134246,56;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";3928305,85;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;455343,43;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;85437,48;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;94641,49;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;82047,00;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;3210836,45;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;252678,25;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;111987,26;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;117642,80;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;23048,19;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;350762,59;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;419336,01;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1357662,98;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2073883,13;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;394410,85;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2073883,13;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;394410,85;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1979926,13;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;394410,85;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1818557,20;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;363711,25;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;152333,79;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;30466,75;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;1164,33;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;232,85;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7870,81;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;22982,00;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;42637,72;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;28337,28;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;28337,28;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4083943,40;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4083943,40;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4083943,40;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;14659,66;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;14659,66;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;14659,66;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;14659,66;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1015115,51;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1015115,51;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1015115,51;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1015115,51;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;34307,00;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.1.0;2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;34307,00;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;980808,51;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.1.0;2.4.1.8.10.1.0 - Transferências de Convênio da União para o Sistema Único de Saúde ¿ SUS;145993,60;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;834814,91;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);23475723,62;7739
+2020;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2063519,03;7739
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);23745436,63;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2698353,46;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;23296314,84;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2698353,46;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;579338,85;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;567783,73;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;254257,50;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;254257,50;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;254257,50;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;313526,23;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;69008,54;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;34098,73;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;34909,81;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;244517,69;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;244517,69;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;11555,12;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;11555,12;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;11555,12;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;43193,79;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;43193,79;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;43193,79;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;43193,79;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;22545305,46;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2698353,46;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;15236044,69;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2283370,44;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;15236044,69;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;2283370,44;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;9920359,02;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;2247428,63;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8988861,39;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2247214,95;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;492490,94;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;438151,69;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;855,00;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;213,68;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;217199,24;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;217199,24;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;4189156,05;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;2976382,75;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção Especializada;217182,48;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;175529,90;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;90909,25;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;729151,67;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;247747,24;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;115931,50;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;7260,00;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;115251,40;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;9304,34;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 - Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;-34001,65;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 - Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;35941,81;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;353820,40;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;271867,58;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;69896,81;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2010625,05;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;414983,02;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;2010625,05;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;414983,02;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;1981831,53;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;414983,02;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;1839642,11;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;414983,02;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;138986,76;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;1292,67;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1909,99;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;6372,00;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 - Transferências de Estados destinadas à Assistência Social;22421,52;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5298635,72;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;5298635,72;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;5298635,72;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;128476,74;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;44507,25;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;44507,25;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;44507,25;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;83969,49;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;83969,49;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;83969,49;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;449121,79;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;188600,00;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.2.0.00.0.0;2.2.2.0.00.0.0 - Alienação de Bens Imóveis;188600,00;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;260521,79;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;260521,79;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;260521,79;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;199615,00;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.2.0;2.4.1.8.04.2.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Especializada;199615,00;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;60906,79;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;60906,79;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);23745436,63;7745
+2021;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2698353,46;7745
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);41509416,10;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3276653,81;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;38316576,73;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3276653,81;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1093626,06;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1023687,55;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;79445,07;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;27064,12;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";52380,95;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;574279,62;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;574279,62;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;574279,62;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;369962,86;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;369962,86;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;369962,86;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;69938,51;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;69938,51;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;69938,51;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;357661,27;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;357661,27;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;357661,27;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;357661,27;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;36684612,89;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3276653,81;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;26147013,26;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2862370,30;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;15306408,74;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2812338,36;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15304570,67;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2811974,60;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14113506,02;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2811974,60;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;614702,89;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;576361,76;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1838,07;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;363,76;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;483407,94;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;338806,81;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;338806,81;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;144601,13;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;5573332,03;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;4457791,03;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;3576766,73;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;401785,39;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;183455,16;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;82791,87;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;212991,88;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.0.0;1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;1115541,00;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.1.0;1.7.1.3.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária;448841,00;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.2.0;1.7.1.3.51.2.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Especializada;199907,00;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.9.0;1.7.1.3.51.9.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Outros Programas;466793,00;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;593843,74;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;155551,87;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;13380,00;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;152052,00;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;36994,91;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;235864,96;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;3872121,24;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;316074,41;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1825,16;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;50031,94;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.51.0.0;1.7.1.9.51.0.0 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1825,16;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.9.51.0.0;1.7.1.9.51.0.0 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;50031,94;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3231826,84;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;414283,51;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2556643,17;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;414283,51;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2374102,72;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;414283,51;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;173416,55;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;1178,29;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7945,61;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;23895,00;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;619581,35;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;540005,44;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;79575,91;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;31707,32;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;31707,32;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;7305772,79;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;7305772,79;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;180676,51;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;109511,13;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;109511,13;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;109511,13;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;71165,38;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;71165,38;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;71165,38;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.1.0;1.9.9.9.99.1.0 - Outras Receitas Administradas pela RFB;71165,38;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;3192839,37;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;3192839,37;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1036810,68;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;1036810,68;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;1036810,68;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2156028,69;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;2156028,69;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.50.0.0;2.4.2.2.50.0.0 - Transferências de Convênios dos Estados para o Sistema Único de Saúde ¿ SUS;121254,00;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;1887774,69;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.0.0;2.4.2.2.99.0.0 - Outras Transferências de Convênio dos Estados e DF e de Suas Entidades;147000,00;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);41509416,10;7751
+2022;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3276653,81;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);43154796,98;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3202716,68;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;38568127,72;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3202716,68;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1488065,72;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1415412,69;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;153186,86;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;36332,10;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";116854,76;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;853756,68;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;853756,68;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;853756,68;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;408469,15;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;408469,15;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;408469,15;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;72653,03;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;72653,03;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;72653,03;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;43163,32;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;43163,32;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;365021,94;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;365021,94;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;365021,94;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;365021,94;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;36603232,38;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3202716,68;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;25980327,39;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2677505,08;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;15655443,09;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2677505,08;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15654352,50;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2677290,85;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14381847,77;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2677290,85;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1272504,73;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1090,59;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;214,23;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;308027,08;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;308027,08;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;308027,08;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;3470660,56;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;3470660,56;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;2855148,44;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;84761,08;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;160611,24;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;70047,00;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;300092,80;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;1076900,94;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;179269,74;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;12300,00;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;187932,20;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;61221,45;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;636177,55;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;4332613,19;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;693921,95;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;442760,58;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;1847,16;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;440913,42;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3236810,19;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;525211,60;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2873695,98;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;525211,60;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2636615,81;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;525211,60;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;234579,19;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;961,11;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1539,87;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;318635,52;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;19930,20;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;19930,20;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;24548,49;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;24548,49;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;7386094,80;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;7386094,80;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;68644,36;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;68644,36;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;68644,36;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;68644,36;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;4586669,26;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;4586669,26;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;3986669,26;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;1796404,00;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.0.0;2.4.1.1.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;360000,00;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.2.0;2.4.1.1.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;360000,00;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.0.0;2.4.1.1.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;1436404,00;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.1.0;2.4.1.1.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária;1436404,00;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;490265,26;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.50.0.0;2.4.1.4.50.0.0 - Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;115279,27;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;374985,99;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1700000,00;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.51.0.0;2.4.1.9.51.0.0 - Transferência Especial da União;1700000,00;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;600000,00;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;600000,00;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.0.0;2.4.2.2.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;600000,00;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);43154796,98;7751
+2023;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3202716,68;7751
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);48804329,07;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4002136,83;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;47307821,86;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4002136,83;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1619847,49;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1609968,05;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;80816,83;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;36077,36;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";44739,47;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;961054,54;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;961054,54;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;961054,54;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;568096,68;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;568096,68;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;568096,68;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;9879,44;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;9879,44;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;9879,44;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;530803,66;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;430803,66;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;430803,66;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;430803,66;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.0.00.0.0;1.3.6.0.00.0.0 - Cessão de Direitos;100000,00;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.1.00.0.0;1.3.6.1.00.0.0 - Cessão de Direitos;100000,00;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.1.01.0.0;1.3.6.1.01.0.0 - Cessão do Direito de Operacionalização de Pagamentos;100000,00;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.1.01.1.0;1.3.6.1.01.1.0 - Cessão do Direito de Operacionalização de Pagamentos - Poderes Executivo e Legislativo;100000,00;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;45129796,62;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4002136,83;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;31475854,53;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3365742,76;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;18468896,39;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3365742,76;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;18466575,04;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3365280,24;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;16738574,03;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3365280,24;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1728001,01;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2321,35;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;462,52;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;332551,34;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;332551,34;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;332551,34;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;6533141,20;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;6533141,20;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;5436704,74;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;474654,49;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;63765,67;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;87127,84;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;470888,46;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;1098390,47;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;686254,37;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;13680,00;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;238924,07;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;57938,67;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;101593,36;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;4561541,24;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;409351,52;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;71982,37;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;2060,04;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.60.0.0;1.7.1.9.60.0.0 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022;69922,33;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4270571,67;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;636394,07;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3714278,55;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;636394,07;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3402685,30;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;636394,07;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;299017,32;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;1754,29;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;10821,64;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;137830,22;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;383868,18;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;360000,00;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;23868,18;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;34594,72;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;34594,72;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;9383370,42;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;9383370,42;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;27374,09;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;21254,25;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;21254,25;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;21254,25;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;6119,84;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;6119,84;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;6119,84;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.1.0;1.9.9.9.99.1.0 - Outras Receitas Administradas pela RFB;6119,84;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1496507,21;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1496507,21;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1146507,21;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;1146507,21;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.50.0.0;2.4.1.4.50.0.0 - Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;11310,60;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;1135196,61;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;350000,00;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;350000,00;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.0.0;2.4.2.2.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;350000,00;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);48804329,07;7396
+2024;Prefeitura Municipal de Jericó - PB;2507408;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4002136,83;7396

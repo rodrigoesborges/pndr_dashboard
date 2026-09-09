@@ -1,0 +1,960 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;24282767,97;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;2457050,12;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;24282767,97;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2457050,12;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;548148,34;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;548148,34;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;306170,34;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;20269,01;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;260099,19;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.11.00;1.1.1.2.04.11.00 - Receita de Parcelamentos - Imposto sobre a Renda - Pessoas Físicas;228696,59;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.21.00;1.1.1.2.04.21.00 - Pessoa Jurídica - Líquida de Incentivos;31402,60;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";25802,14;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;241978,00;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;241978,00;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;152602,78;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;152602,78;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;152602,78;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;23546493,16;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2457050,12;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;23339518,71;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2457050,12;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;13183295,09;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1839940,16;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;9593449,22;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1837325,48;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;9578646,49;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1834365,04;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;14802,73;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2960,44;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;2125530,80;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;298991,29;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;828182,37;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;13073,52;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2614,68;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;324067,89;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;3307661,19;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;617109,96;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;3202108,06;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;617109,96;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2985020,93;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;597003,99;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;100533,21;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;20105,97;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;39135,82;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;2005,19;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;75412,91;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);56314,44;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.90.00;1.7.2.2.22.90.00 - Outras Transferências Decorrentes de Compensações Financeiras;56314,44;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;30000,00;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;19238,69;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;6848562,43;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2974935,84;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2083853,89;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.99.00.00;1.7.2.4.99.00.00 - Outras Transferências Multigovernamentais;1789772,70;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;206974,45;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;206974,45;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;206974,45;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;35523,69;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;1015,88;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;15,88;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;1000,00;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;3336,81;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;3336,81;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;3336,81;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;12959,95;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;12945,30;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.2.00.00.00;1.9.3.2.00.00.00 - Receita da Dívida Ativa Não Tributária;14,65;11294
+2014;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;18211,05;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;26244975,75;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;2582767,04;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;26244975,75;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2582767,04;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;485758,12;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;485758,12;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;291378,64;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;17903,91;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;245013,49;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.20.00;1.1.1.2.04.20.00 - Pessoas Jurídicas;245013,49;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";28461,24;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;194379,48;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;194379,48;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;162322,62;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;162322,62;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;162322,62;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;25511895,67;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2582767,04;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;24721296,61;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2582767,04;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;13443179,13;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1932787,27;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;10188434,02;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1930351,40;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;10174394,05;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1927543,51;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;14039,97;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2807,89;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;108064,23;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;108064,23;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1487586,92;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;332777,96;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1314136,61;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;12179,39;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2435,87;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;3473462,83;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;649979,77;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;3292972,43;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;649979,77;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;3126296,20;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;625259,06;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;123607,21;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;24720,71;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;35114,47;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7954,55;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;180490,40;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;7804654,65;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;5620697,15;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2183957,50;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;790599,06;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;685599,06;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.02.00.00;1.7.6.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;152961,67;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;532637,39;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;105000,00;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;105000,00;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;84999,34;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;11549,91;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;11549,91;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;10876,26;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;10876,26;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;10876,26;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;13533,21;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;13045,79;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.99.00.00;1.9.3.1.99.00.00 - Receita da Dívida Ativa de Outros Tributos;13045,79;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.2.00.00.00;1.9.3.2.00.00.00 - Receita da Dívida Ativa Não Tributária;487,42;11294
+2015;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;49039,96;11294
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;28772846,80;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;2906467,75;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;28676393,90;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2906467,75;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;595244,28;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;595244,28;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;299458,29;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;15272,60;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;272954,19;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;272954,19;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";11231,50;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;295785,99;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;295785,99;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;117570,50;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;117570,50;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;117570,50;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;27913445,96;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2906467,75;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;27862458,73;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2906467,75;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;15600415,49;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2205382,76;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;11825430,43;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2202779,87;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;11810198,36;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2199733,56;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;15232,07;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;3046,31;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;92594,18;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;92594,18;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1555345,17;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;261453,18;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1827857,56;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;13014,51;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2602,89;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;24720,46;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;4161783,09;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;701084,99;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;3556145,34;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;701084,99;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;3384319,43;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;676863,66;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;121110,25;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;24221,33;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;29311,68;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;21403,90;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;0,08;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;582821,01;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;22816,74;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;8100260,15;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;5829999,73;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2270260,42;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;50987,23;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;50987,23;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.03.00.00;1.7.6.1.03.00.00 - Transferências de Convênios da União Destinadas a Programas de Assistência Social;50987,23;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;50133,16;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;6927,00;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;6927,00;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;17600,10;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;17600,10;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;17600,10;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;5727,37;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;5727,37;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;5464,65;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.12.00.00;1.9.3.1.12.00.00 - Receita da Dívida Ativa do Imposto sobre a Transmissão Inter Vivos de Bens Imóveis - ITBI;262,72;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;19878,69;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;19878,69;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;96452,90;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;96452,90;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;96452,90;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;96452,90;11331
+2016;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;96452,90;11331
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;40761796,38;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;TotalReceitas;Total Receitas;2212,57;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;9024238,79;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;40598596,38;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2212,57;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;9024238,79;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;686121,69;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;659120,78;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;361063,27;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;16594,19;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;314644,82;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;314644,82;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";29824,26;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;298057,51;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;298057,51;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;27000,91;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;27000,91;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;27000,91;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;450781,02;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;450781,02;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;450781,02;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;39406499,14;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2212,57;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;9024238,79;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;39356499,14;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2212,57;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;9024238,79;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;14251010,39;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2212,57;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2101701,65;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;11444293,67;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2212,57;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2099507,69;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;10483936,98;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2212,57;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2096787,09;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;465982,79;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);480770,33;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;13603,57;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2720,60;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;121803,05;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;121803,05;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1411855,84;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;512692,56;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;710280,98;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;10970,04;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2193,96;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;39114,25;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;3814986,66;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;639599,30;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;3255681,04;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;639599,30;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;3067314,63;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;613462,72;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;130685,91;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;26136,58;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;29161,76;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;28518,74;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;524382,61;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;34923,01;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;21290502,09;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;6282937,84;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;10509570,10;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;5016546,94;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3051117,62;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1266390,90;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.00.00;1.7.2.4.99.00.00 - Outras Transferências Multigovernamentais;7729814,37;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;50000,00;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;50000,00;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;50000,00;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;55194,53;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;26644,08;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;27,01;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.38.00.00;1.9.1.1.38.00.00 - Multas e Juros de Mora do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;27,01;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.3.00.00.00;1.9.1.3.00.00.00 - Multas e Juros de Mora da Dívida Ativa dos Tributos;3494,54;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.3.11.00.00;1.9.1.3.11.00.00 - Multas e Juros de Mora da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;3411,38;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.3.13.00.00;1.9.1.3.13.00.00 - Multas e Juros de Mora da Dívida Ativa do Imposto sobre Serviços de Qualquer Natureza ¿ ISS;83,16;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;23122,53;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;17968,96;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;17968,96;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;17671,38;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.13.00.00;1.9.3.1.13.00.00 - Receita da Dívida Ativa do Imposto sobre Serviços de Qualquer Natureza ¿ ISS;52,75;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.99.00.00;1.9.3.1.99.00.00 - Receita da Dívida Ativa de Outros Tributos;244,83;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;10581,49;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;10581,49;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;163200,00;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;163200,00;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;163200,00;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;163200,00;11366
+2017;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;163200,00;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;32975674,73;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;2920338,77;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;31426084,66;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2920338,77;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1218295,93;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1153270,92;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;575863,99;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;575863,99;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;553883,24;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;21980,75;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;577406,93;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;98942,33;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;75863,26;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;23079,07;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;478464,60;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;478464,60;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;65025,01;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;64350,72;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;64350,72;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;674,29;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;674,29;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;514196,41;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;514196,41;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;514196,41;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;514196,41;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;244704,18;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;244704,18;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.01.0.0;1.6.3.0.01.0.0 - Serviços de Atendimento à Saúde;244704,18;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;29409123,42;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2920338,77;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;15541324,24;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2245621,14;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;15541324,24;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2245621,14;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;12201019,93;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2243608,74;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11206514,23;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2241302,52;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;497544,08;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;485430,17;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;11531,45;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2306,22;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;186474,54;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;186474,54;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;1689148,99;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;252748,78;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1017915,79;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;388137,08;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;7680,00;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;440798,00;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;109364,95;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;71935,76;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;10062,24;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2012,40;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;10062,24;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2012,40;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;182571,96;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 Outras Transferências de Convênios da União;182571,96;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1382,01;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3872885,73;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;674717,63;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;3872885,73;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;674717,63;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;3422874,07;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;674717,63;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;3238631,85;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;647726,16;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;134960,88;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;26991,47;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;26859,47;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;22421,87;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;416046,26;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;33965,40;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;9994913,45;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;9994913,45;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;9994913,45;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;39764,72;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;34650,00;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;5114,72;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;5114,72;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;5114,72;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1549590,07;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1549590,07;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1172643,63;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1172643,63;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;480000,00;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;692643,63;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;376946,44;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;376946,44;11366
+2018;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;376946,44;11366
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);43967029,64;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3137018,22;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;43063877,18;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3137018,22;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1128039,65;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1069549,75;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;579364,50;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;579364,50;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;579364,50;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;490185,25;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;111786,80;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;93311,36;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;18475,44;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;378398,45;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;378398,45;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;58489,90;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;58439,90;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;58439,90;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;50,00;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;50,00;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;707892,66;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;707892,66;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;707892,66;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;707892,66;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;445978,91;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;445978,91;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.8.00.0.0;1.6.3.8.00.0.0 - Serviços e Atividades Referentes à Saúde - Específico para Estados/DF/Municípios;445978,91;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.8.01.0.0;1.6.3.8.01.0.0 - Serviços de Saúde - Específico para Estados/DF/Municípios;445978,91;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.8.01.1.0;1.6.3.8.01.1.0 - Serviços Hospitalares;445978,91;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;40739291,75;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3137018,22;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;26982224,26;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2445327,49;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;26982224,26;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2445327,49;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;13284571,39;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2445327,49;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;12213133,20;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2442626,37;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;538723,67;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;519208,40;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;13506,12;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2701,12;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;188227,08;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;188227,08;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";2385065,57;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;2149480,41;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;65849,00;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;113486,16;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;18000,00;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;38250,00;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;843711,87;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;371958,85;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;8880,00;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;351479,60;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;111393,42;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;9213432,73;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;427670,47;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;639545,15;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4037238,60;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;691690,73;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;4037238,60;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;691690,73;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;3847211,60;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;691690,73;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;3299441,83;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;659888,15;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;159016,29;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;31802,58;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;25839,86;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;13420,88;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.5.0;1.7.2.8.01.5.0 Outras Participações na Receita dos Estados;349492,74;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;160800,00;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;160800,00;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;29227,00;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;9719828,89;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;9719828,89;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;9719828,89;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;42674,21;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;31580,78;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;31580,78;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;10685,68;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;571,22;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;571,22;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;10114,46;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;10114,46;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;407,75;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;407,75;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;407,75;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;903152,46;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;903152,46;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;630494,13;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;630494,13;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;630494,13;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;630494,13;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;272658,33;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;272658,33;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;272658,33;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;272658,33;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);43967029,64;10969
+2019;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3137018,22;10969
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);38180576,47;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3024415,18;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;37870269,47;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3024415,18;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1382255,08;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1318665,38;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;780305,88;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;780305,88;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;762297,33;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;18008,55;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;538359,50;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;154109,34;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;57622,34;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;96487,00;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;384250,16;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.4.0;1.1.1.8.02.4.0 Adicional ISS - Fundo Municipal de Combate à Pobreza;384250,16;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;63589,70;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;63589,70;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;63589,70;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;215702,40;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;215702,40;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;215702,40;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;215702,40;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;134805,99;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;134805,99;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.01.0.0;1.6.3.0.01.0.0 - Serviços de Atendimento à Saúde;134805,99;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;36127335,66;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3024415,18;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;22657714,36;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2334039,28;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;22657714,36;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2334039,28;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;12720639,79;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2334039,28;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11656878,26;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2331375,35;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;524661,40;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;525779,99;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;13320,14;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2663,93;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;187511,15;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;187511,15;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";3995763,92;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;1591563,77;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;518307,60;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;141325,81;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;36000,00;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;1708566,74;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;2276639,71;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;273813,50;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;8880,00;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;374453,20;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;104902,18;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1514590,83;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;1132677,84;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 Outras Transferências de Convênios da União;1132677,84;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;401306,49;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1943175,46;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3684254,10;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;690375,90;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;3684254,10;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;690375,90;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;3488307,81;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;690375,90;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;3272597,32;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;654519,27;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;179286,98;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;35856,63;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;25292,33;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;11131,18;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;180004,29;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;15942,00;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;9785367,20;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;9785367,20;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;9785367,20;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;10170,34;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;2034,94;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;2034,94;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;8135,40;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;8135,40;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;8135,40;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;310307,00;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;310307,00;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;310307,00;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;310307,00;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;310307,00;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.6.0;2.4.1.8.04.6.0 - Outras Transferências de Recursos do Sistema Único de Saúde ¿ SUS, não detalhadas anteriormente;310307,00;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);38180576,47;10994
+2020;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3024415,18;10994
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);42507870,87;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4035603,09;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;42164288,37;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4035603,09;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1969916,18;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1896787,50;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;884678,00;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;884678,00;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;875324,46;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;9353,54;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;1012109,50;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;162459,63;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;116826,40;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;45633,23;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;849649,87;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;849649,87;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;73128,68;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;73128,68;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;55428,68;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;17700,00;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;507342,28;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;507342,28;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;507342,28;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;507342,28;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;39683376,04;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4035603,09;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;25825202,12;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3149036,55;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;25825202,12;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;3149036,55;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;17043412,40;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;3149036,55;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;15726673,47;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3145334,43;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;689319,30;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;608908,51;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;18511,12;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3702,12;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;304004,85;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;304004,85;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;4738834,23;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;1707501,74;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção Especializada;672326,12;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;120431,09;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;78418,50;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;2160156,78;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;632821,50;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;292770,63;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;9960,00;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;236066,60;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;94024,27;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;2902146,37;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;181663,75;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;22319,02;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4793851,80;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;886566,54;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;4793851,80;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;886566,54;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;4471822,80;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;886566,54;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;4273470,25;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;854693,84;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;159367,23;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;31872,70;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;31760,31;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7225,01;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;143812,50;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;154303,50;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;154303,50;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 - Outras Transferências dos Estados;23913,00;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;9064322,12;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;9064322,12;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;9064322,12;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;3653,87;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;3183,87;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;3183,87;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;470,00;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;470,00;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;470,00;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;343582,50;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;343582,50;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;343582,50;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;343582,50;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;343582,50;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;343582,50;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);42507870,87;11016
+2021;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4035603,09;11016
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);55153457,41;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4952176,36;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;52540771,66;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4952176,36;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;2519553,29;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2471043,51;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;244365,31;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;51291,07;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.52.0.0;1.1.1.2.52.0.0 - Imposto sobre Transmissão ¿Causa Mortis¿ e Doação de Bens e Direitos;193074,24;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1102362,04;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1102362,04;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1102362,04;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;1124316,16;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;1124316,16;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;1124316,16;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;48509,78;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;48509,78;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;48509,78;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;2007909,12;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;2007909,12;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;2007909,12;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;2007909,12;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;48010731,94;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4952176,36;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;33032195,34;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3925452,59;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;21440625,71;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3925452,59;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;21427367,92;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3922801,08;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;19614006,86;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3922801,08;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;1006420,96;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;806940,10;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;13257,79;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2651,51;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;698705,05;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;223894,99;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;474810,06;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;474810,06;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;4988104,08;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;4988104,08;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;3559884,90;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;917237,12;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;176135,40;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;100427,76;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;234418,90;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;690823,40;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;299784,84;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;7200,00;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;264084,00;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;119754,56;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;5027867,53;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;158503,37;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;27566,20;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;27566,20;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;5595740,71;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1026723,77;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;5170699,91;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1026723,77;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;4902429,41;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;980485,66;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;231194,61;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;46238,11;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;25827,80;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;11248,09;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;132750,00;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;240000,00;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.0.0;1.7.2.4.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União;240000,00;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;52290,80;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;39598,00;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;12692,80;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;9382795,89;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;9382795,89;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;2577,31;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;2577,31;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;2577,31;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.07.0.0;1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;2577,31;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;2612685,75;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;2612685,75;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1152000,00;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;765000,00;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.0.0;2.4.1.1.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;765000,00;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.1.0;2.4.1.1.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária;765000,00;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;387000,00;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;387000,00;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1460685,75;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;1460685,75;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.01.0.0;2.4.2.2.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União;886033,67;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;574652,08;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);55153457,41;11038
+2022;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4952176,36;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);58703695,27;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);5165597,23;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;57083906,32;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;5165597,23;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;2591965,57;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2545419,31;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;210933,31;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;120401,51;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";90531,80;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1511469,12;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1511469,12;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1302285,23;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;209183,89;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;823016,88;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;823016,88;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;771689,70;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.2.0;1.1.1.4.51.2.0 - Adicional ISS - Fundo Municipal de Combate à Pobreza;51327,18;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;46546,26;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;46546,26;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;38886,26;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;4400,00;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;3260,00;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;47517,99;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;47517,99;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;2165044,35;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;2165044,35;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;2165044,35;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;2165044,35;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;52248151,39;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;5165597,23;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;36543899,77;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;4033427,33;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;22154369,69;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;4033427,33;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;22124608,67;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;4027475,24;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;20137377,59;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;4027475,24;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1987231,08;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;29761,02;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;5952,09;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;430149,91;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;430149,91;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;430149,91;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;3750776,97;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;3750776,97;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;2236960,63;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;632361,62;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;271225,06;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;78558,00;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;531671,66;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;883490,53;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;314859,82;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;4740,00;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;338298,20;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;120612,72;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;104979,79;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;4050075,72;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;667824,49;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;4607212,46;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.57.0.0;1.7.1.9.57.0.0 - Transferência Especial da União;3956084,00;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;12602,28;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;638526,18;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;6398544,74;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1132169,90;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;5693244,52;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1132169,90;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;5327524,02;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1065504,57;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;333330,78;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;66665,33;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;30183,82;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;2205,90;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;135677,46;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;331566,67;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.0.0;1.7.2.4.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União;331566,67;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;238056,09;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;115529,89;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;122526,20;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;9305706,88;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;9305706,88;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;31227,02;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;3500,00;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;3500,00;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.07.0.0;1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;3500,00;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;27727,02;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;27727,02;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;27727,02;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1619788,95;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1619788,95;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;725699,37;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.00.0.0;2.4.1.2.00.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE ;725699,37;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.0.0;2.4.1.2.50.0.0 - Transferências de Recursos Destinados a Programas de Educação;725699,37;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.1.0;2.4.1.2.50.1.0 - Transferências para o Programa de Apoio ao Transporte Escolar para Educação Básica - CAMINHO DA ESCOLA;199940,00;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.9.0;2.4.1.2.50.9.0 - Outras transferências destinadas a Programas de Educação;525759,37;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;894089,58;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;894089,58;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.01.0.0;2.4.2.2.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União;894089,58;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);58703695,27;11038
+2023;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);5165597,23;11038
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);68161805,12;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);6002427,88;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;65237706,98;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;6002427,88;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;3265459,47;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;3218112,84;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;173988,23;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;87934,43;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";86053,80;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1955560,59;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1955560,59;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1447771,84;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;507788,75;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;1088564,02;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;1088564,02;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;1088564,02;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;47346,63;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;47346,63;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;39238,43;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;4800,00;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;3308,20;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;136171,08;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;136171,08;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;1715770,97;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;1715770,97;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;1715770,97;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;1715770,97;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;60093993,44;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;6002427,88;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;41668150,65;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;4677004,62;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;25796014,30;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;4677004,62;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;25765013,66;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;4670804,65;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;23354025,27;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;4670804,65;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;2410988,39;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;31000,64;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;6199,97;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;462158,49;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;92,33;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;462066,16;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;462066,16;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;7190851,58;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;7190851,58;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;4978055,63;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;959079,12;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;234967,16;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;151986,30;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;866763,37;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;1514936,30;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;919198,96;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;3900,00;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;373544,20;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;90633,94;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;127659,20;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;6250459,48;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;320568,35;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;133162,15;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;26088,12;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.60.0.0;1.7.1.9.60.0.0 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022;101135,47;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;5938,56;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;7533731,37;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1325423,26;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;6687968,02;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1325423,26;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;6315035,97;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1263007,02;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;312085,27;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;62416,24;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;44730,95;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;16115,83;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;154931,40;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;615019,95;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.0.0;1.7.2.4.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União;615019,95;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;75812,00;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;75812,00;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;10892111,42;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;10892111,42;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;26312,02;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;1026,87;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;1026,87;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.07.0.0;1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;1026,87;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;25285,15;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;25285,15;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;25285,15;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;2924098,14;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.0.0.00.0.0;2.1.0.0.00.0.0 - Operações de Crédito;1900000,00;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.0.00.0.0;2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno;1900000,00;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.2.00.0.0;2.1.1.2.00.0.0 - Operações de Crédito Contratuais - Mercado Interno;1900000,00;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.2.54.0.0;2.1.1.2.54.0.0 - Operações de Crédito Internas para Programas de Modernização da Administração Pública;1900000,00;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1024098,14;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;176577,03;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.00.0.0;2.4.1.2.00.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE ;176577,03;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.0.0;2.4.1.2.50.0.0 - Transferências de Recursos Destinados a Programas de Educação;176577,03;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.9.0;2.4.1.2.50.9.0 - Outras transferências destinadas a Programas de Educação;176577,03;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;847521,11;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;847521,11;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.0.0;2.4.2.2.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;847521,11;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);68161805,12;11101
+2024;Prefeitura Municipal de Iuiú - BA;2917334;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);6002427,88;11101

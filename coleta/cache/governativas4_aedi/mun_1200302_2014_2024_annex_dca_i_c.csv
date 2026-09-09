@@ -1,0 +1,752 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;47643000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;45593000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;2642500,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;1870000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;530000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;180000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;250000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;250000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";100000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;1340000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;1340000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;465000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;280000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;185000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.3.0.00.00.00;1.1.3.0.00.00.00 - Contribuição de Melhoria;307500,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;328000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.0.00.00.00;1.3.1.0.00.00.00 - Receitas Imobiliárias;140000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.1.00.00.00;1.3.1.1.00.00.00 - Aluguéis;100000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.3.00.00.00;1.3.1.3.00.00.00 - Foros;20000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.4.00.00.00;1.3.1.4.00.00.00 - Laudêmios;20000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;188000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;188000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;190000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.13.00.00;1.6.0.0.13.00.00 - Serviços Administrativos;190000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;42252500,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;38020000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;17850000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;11260000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;11260000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;400000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;400000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;4520000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;600000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1070000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;8170000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;8170000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;7820000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;350000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;12000000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;12000000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;4232500,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;3232500,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;3232500,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;1000000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;1000000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;180000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;180000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;2050000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;2050000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;2050000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;1700000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;1700000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;350000,00;32398
+2014;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;350000,00;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;45130114,61;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;-4054409,87;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;45129704,19;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;-4054409,87;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;1824879,91;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;1347915,04;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;227452,94;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;1912,20;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;224294,89;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;224294,89;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";1245,85;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;1120462,10;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;1120462,10;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.3.0.00.00.00;1.1.3.0.00.00.00 - Contribuição de Melhoria;476964,87;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;437937,85;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;437937,85;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;437937,85;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;67277,37;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.13.00.00;1.6.0.0.13.00.00 - Serviços Administrativos;67277,37;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;42354783,33;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;-4054409,87;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;41981868,73;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;-4054409,87;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;19438990,43;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;-2532893,08;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;13354811,39;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;-2530239,04;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;13339258,93;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;-2527128,65;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;15552,46;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;-3110,39;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;155774,10;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;155774,10;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;3724050,45;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;1165325,37;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1025758,91;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;13270,21;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;-2654,04;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;7653103,50;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;-1521516,79;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;7653103,50;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;-1521516,79;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;7277458,81;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;-1455491,55;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;330125,08;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;-66025,24;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;1068,49;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;44451,12;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;14889774,80;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;14889774,80;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;372914,60;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;372914,60;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;372914,60;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;444825,73;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;444825,73;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;410,42;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;410,42;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;410,42;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;410,42;32398
+2015;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;410,42;32398
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;50445411,92;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;-4342348,78;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;50199354,79;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;-4342348,78;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;2372849,37;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;1930943,79;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;326119,02;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;326119,02;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;311230,99;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;14888,03;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;1604824,77;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;1604824,77;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.3.0.00.00.00;1.1.3.0.00.00.00 - Contribuição de Melhoria;441905,58;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.3.0.02.00.00;1.1.3.0.02.00.00 - Contribuição de Melhoria para Expansão da Rede de Iluminação Pública na Cidade;441905,58;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;133129,71;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.2.0.00.00.00;1.2.2.0.00.00.00 - Contribuições de Intervenção no Domínio Econômico;133129,71;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.2.0.28.00.00;1.2.2.0.28.00.00 - Contribuição Relativa às Atividades de Importação e Comercialização de Petróleo e seus Derivados, Gás Natural e Álcool Carburante;133129,71;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;427933,24;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;427933,24;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;427933,24;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;46692548,50;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;-4342348,78;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;46692548,50;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;-4342348,78;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;22192678,38;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;-2800273,89;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;15019088,10;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;-2797619,85;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;15001310,57;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;-2794064,45;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;17777,53;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;-3555,40;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;117536,92;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;117536,92;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;4909537,01;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;994621,43;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1136979,05;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;13270,20;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;-2654,04;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;1645,67;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;7710374,46;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;-1542074,89;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;7710374,46;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;-1542074,89;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;7366194,00;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;-1473238,61;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;344180,46;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;-68836,28;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;16789495,66;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;16789495,66;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;572893,97;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;572893,97;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;572893,97;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;246057,13;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;246057,13;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;246057,13;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;245099,62;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;245099,62;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;957,51;32385
+2016;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;957,51;32385
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;52016775,09;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;4450049,43;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;52016775,09;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;4450049,43;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;3120142,56;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;2791760,73;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;532172,05;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;241366,53;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;216544,79;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;216544,79;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";74260,73;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;2259588,68;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;2259588,68;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;38051,44;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;37418,68;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;632,76;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;632,76;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.00.00;1.1.3.0.00.00.00 - Contribuição de Melhoria;290330,39;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.02.00.00;1.1.3.0.02.00.00 - Contribuição de Melhoria para Expansão da Rede de Iluminação Pública na Cidade;290330,39;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;617131,90;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.00.00;1.3.1.0.00.00.00 - Receitas Imobiliárias;10896,50;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.00.00.00;1.3.1.1.00.00.00 - Aluguéis;8433,00;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.3.00.00.00;1.3.1.3.00.00.00 - Foros;2463,50;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;606235,40;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;606235,40;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;5407,86;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.13.00.00;1.6.0.0.13.00.00 - Serviços Administrativos;5407,86;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;48044168,25;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;4450049,43;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;47223742,25;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;4450049,43;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;20595587,92;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2582830,13;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;14064896,83;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2580176,09;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;14051328,18;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2577462,45;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;13568,65;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2713,64;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;149698,22;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;149698,22;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;4499435,07;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;841567,84;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1025396,69;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;12164,35;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2654,04;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;2428,92;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;9498384,93;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1867219,30;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;9498384,93;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1867219,30;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;8963787,53;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1792584,53;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;374543,60;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;74634,77;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;160053,80;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;17129769,40;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;17129769,40;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;820426,00;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;820426,00;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;820426,00;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;229924,52;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;229924,52;32372
+2017;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;229924,52;32372
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);48881487,94;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;48061061,94;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;570223,49;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;532172,05;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;216544,79;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;216544,79;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;216544,79;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;315627,26;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;315627,26;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;241366,53;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;74260,73;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;38051,44;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;37418,68;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;37418,68;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;632,76;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;632,76;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;290330,39;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;290330,39;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;617131,90;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;10896,50;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.01.0.0;1.3.1.0.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação;10896,50;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.01.1.0;1.3.1.0.01.1.0 - Aluguéis e Arrendamentos;8433,00;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.01.2.0;1.3.1.0.01.2.0 - Foros, Laudêmios e Tarifas de Ocupação;2463,50;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;606235,40;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;606235,40;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;606235,40;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;5407,86;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;5407,86;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;5407,86;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;46348043,78;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;36849658,85;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;36849658,85;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;14064896,83;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14051328,18;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;13568,65;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;299396,44;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;149698,22;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.9.0;1.7.1.8.02.9.0 Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;149698,22;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";4499435,07;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;4499435,07;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;12164,35;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;17129769,40;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;841567,84;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;2428,92;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;9498384,93;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;9498384,93;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;9498384,93;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;8963787,53;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;374543,60;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;160053,80;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;229924,52;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;229924,52;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;229924,52;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;229924,52;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;820426,00;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;820426,00;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;820426,00;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;820426,00;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 Outras Transferências da União;820426,00;34675
+2019;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);48881487,94;34675
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);72980363,39;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4899089,07;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;71879949,14;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4899089,07;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;3797384,07;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;3069863,52;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;593819,97;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;593819,97;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;593819,97;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;2476043,55;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;151612,31;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;88948,63;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.3.0;1.1.1.8.01.3.0 Imposto sobre Transmissão ¿Causa Mortis¿ e Doação de Bens e Direitos;6219,80;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;56443,88;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;2324431,24;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;2324431,24;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;32085,83;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;23670,46;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;23670,46;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;8415,37;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;8415,37;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;695434,72;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.8.00.0.0;1.1.3.8.00.0.0 - Contribuição de Melhoria - Específica de Estados, DF e Municípios;695434,72;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.8.99.0.0;1.1.3.8.99.0.0 - Outras Contribuições de Melhoria;695434,72;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;53893,52;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;53893,52;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;53893,52;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;52501,56;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.3.0;1.3.2.1.00.3.0 - Remuneração de Saldos de Recursos Não-Desembolsados;1391,96;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;68028671,55;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4899089,07;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;55449619,49;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2837842,38;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;55449619,49;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2837842,38;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;22530411,15;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2837842,38;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;22404464,93;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2831628,11;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;53634,34;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;6214,27;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.6.0;1.7.1.8.01.6.0 Cota-Parte do Imposto Sobre Produtos Industrializados ¿ Estados Exportadores de Produtos Industrializados;4456,01;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;67855,87;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;205226,42;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;205226,42;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";8942068,81;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;5194456,82;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;180689,46;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;393871,10;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;208680,00;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.5.0;1.7.1.8.03.5.0 - Transferência de Recursos do SUS ¿ Gestão do SUS;15122,00;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;2949249,43;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;961156,30;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.1.0;1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;961156,30;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1195830,82;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;285288,21;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;2040,00;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;421178,12;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;294848,43;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;192476,06;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;387,82;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;17715678,29;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;3896856,00;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 Outras Transferências de Convênios da União;3896856,00;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;2003,88;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;12579052,06;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2061246,69;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;12579052,06;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2061246,69;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;10579052,06;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2061246,69;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;10142337,22;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1973904,71;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;436714,84;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;87341,98;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;2000000,00;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;2000000,00;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1100414,25;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1100414,25;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;359770,12;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.1.0;2.4.1.0.00.1.0 Transferências da União e de suas Entidades;359770,12;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;740644,13;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;740644,13;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;740644,13;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;740644,13;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);72980363,39;34780
+2020;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4899089,07;34780
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);78360085,78;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);6390268,10;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;76568027,46;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;6390268,10;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;3669357,70;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;3533305,59;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;679739,09;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;679739,09;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;679739,09;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;2853566,50;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;235124,72;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;127900,93;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;107223,79;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;2618441,78;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;2618441,78;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;69449,09;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;34357,39;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;34357,39;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;35091,70;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;35091,70;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;66603,02;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.8.00.0.0;1.1.3.8.00.0.0 - Contribuição de Melhoria - Específica de Estados, DF e Municípios;66603,02;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.8.99.0.0;1.1.3.8.99.0.0 - Outras Contribuições de Melhoria;66603,02;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;609511,65;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;609511,65;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;626236,80;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;626236,80;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;626236,80;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;622035,75;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.3.0;1.3.2.1.00.3.0 - Remuneração de Saldos de Recursos Não-Desembolsados;4201,05;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;71662921,31;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;6390268,10;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;35211507,12;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3857125,29;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;35211507,12;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;3857125,29;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;20835590,13;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;3857125,29;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;20713179,66;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3852252,90;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;78339,02;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;4872,39;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.6.0;1.7.1.8.01.6.0 - Cota-Parte do Imposto Sobre Produtos Industrializados ¿ Estados Exportadores de Produtos Industrializados;591,16;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;43480,29;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;315329,18;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;315329,18;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;7406483,43;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;6294394,71;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;370554,60;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;208680,00;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.5.0;1.7.1.8.03.5.0 - Transferência de Recursos do SUS ¿ Gestão do SUS;12000,00;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;520854,12;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;762340,74;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.1.0;1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS Destinados à Atenção Primária;762340,74;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;879100,64;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;272831,62;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;3600,00;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;423574,80;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;179094,22;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 - Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;23163,70;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;2961397,86;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 - Transferências de Convênios da União e de Suas Entidades;2023358,40;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 - Outras Transferências de Convênios da União;2023358,40;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;4743,04;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;12676731,86;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2533142,81;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;12676731,86;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;2533142,81;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;12676731,86;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;2533142,81;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;12233626,92;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;2446725,16;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;432093,22;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;86417,65;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;11011,72;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;23774682,33;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;23774682,33;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;23774682,33;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1792058,32;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1792058,32;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1251455,32;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;1251455,32;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;1251455,32;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;1251455,32;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;540603,00;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 - Transferências dos Estados, Distrito Federal, e de suas Entidades;540603,00;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;540603,00;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;540603,00;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);78360085,78;34884
+2021;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);6390268,10;34884
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);107405484,07;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);7390992,53;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;104448003,33;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;7390992,53;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;8017412,75;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;7972557,64;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;420779,66;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.51.0.0;1.1.1.2.51.0.0 - Imposto sobre a Propriedade de Veículos Automotores;238054,38;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";182725,28;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1608729,35;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1608729,35;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1608729,35;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;5942062,12;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;5942062,12;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;5942062,12;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.9.00.0.0;1.1.1.9.00.0.0 - Outros Impostos;986,51;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;44855,11;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;21819,42;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;12698,24;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;9121,18;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;23035,69;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;23035,69;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;1049320,37;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;1049320,37;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;2432942,39;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;2432942,39;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;2432942,39;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;2432942,39;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;35733,23;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;35733,23;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;92912594,59;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;7390992,53;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;45493886,06;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;4777512,03;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;26158996,07;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;4777512,03;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;26049465,83;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;4768988,66;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;25068460,67;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;4768988,66;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;981005,16;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;42617,30;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;8523,37;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;66912,94;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;832850,00;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;577231,30;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;577231,30;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;255618,70;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;4990039,85;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;4990039,85;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;3980682,38;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;291134,46;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;462873,70;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;242068,80;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;13280,51;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;1206566,58;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;279501,67;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;3960,00;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;364727,60;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;476184,45;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;82192,86;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;5491451,71;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;435519,18;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;6378462,67;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.51.0.0;1.7.1.9.51.0.0 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;11557,04;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.57.0.0;1.7.1.9.57.0.0 - Transferência Especial da União;3759998,00;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;2606907,63;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;17278004,95;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2613480,50;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;13078207,79;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2613480,50;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;12421147,18;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2484229,22;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;651295,97;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;129251,28;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;5764,64;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;3875380,34;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.0.0;1.7.2.4.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União;3875380,34;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;324416,82;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;324416,82;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;30140703,58;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;30140703,58;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;2957480,74;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;2957480,74;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1755000,00;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;1755000,00;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;1755000,00;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1202480,74;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;1202480,74;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.01.0.0;2.4.2.2.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União;1202480,74;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);107405484,07;34986
+2022;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);7390992,53;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);108581371,61;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);7682180,76;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;107012703,61;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;7682180,76;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;9214962,71;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;9186014,36;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;466061,58;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;257937,82;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";208123,76;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;2277970,93;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;2277970,93;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;2277970,93;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;6441981,85;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;6441981,85;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;6441981,85;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;28513,44;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;5352,98;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;5352,98;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;23160,46;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;23160,46;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;434,91;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.00.0.0;1.1.3.1.00.0.0 - Contribuição de Melhoria;434,91;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.99.0.0;1.1.3.1.99.0.0 - Outras Contribuições de Melhoria;434,91;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;1193497,96;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.0.00.0.0;1.2.2.0.00.0.0 - Contribuições Econômicas;12956,42;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.1.00.0.0;1.2.2.1.00.0.0 - Contribuições Econômicas;12956,42;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.1.08.0.0;1.2.2.1.08.0.0 - Contribuição Relativa às Atividades de Importação e Comercialização de Petróleo e seus Derivados, Gás Natural e Álcool Carburante - CIDE Combustíveis;12956,42;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.1.08.1.0;1.2.2.1.08.1.0 - Contribuição de Intervenção no Domínio Econômico - CIDE-Combustíveis - Importação;12956,42;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;1180541,54;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;2762265,73;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;2762265,73;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;2762265,73;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;2762265,73;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;93841977,21;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;7682180,76;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;45784851,53;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;4914882,86;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;26471685,31;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;4914882,86;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;26352258,91;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;4890997,70;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;25088814,10;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;4890997,70;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1263444,81;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;119426,40;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;23885,16;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;521489,61;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;521489,61;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;521489,61;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;8508774,74;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;8508774,74;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;7753276,98;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;526723,76;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;228774,00;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;1111018,69;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;322892,63;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;4980,00;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;450441,92;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;332704,14;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;4157083,02;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;804906,68;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;4209893,48;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;12451,08;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;4197442,40;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;17410879,07;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2767297,90;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;14113700,63;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2767297,90;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;13079208,83;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2615841,54;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;760674,87;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;151456,36;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;4845,56;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.98.0.0;1.7.2.1.98.0.0 -Transferências Decorrentes de Participação em Outras Receitas de Impostos dos Estados e do Distrito Federal;268971,37;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;3232478,96;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;3232478,96;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;64699,48;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;64699,48;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;30646246,61;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;30646246,61;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1568668,00;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;461568,00;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;461568,00;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;461568,00;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1107100,00;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1107100,00;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;1107100,00;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;1107100,00;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);108581371,61;34986
+2023;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);7682180,76;34986
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);128746956,82;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);8891572,37;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;116773400,85;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;8891572,37;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;9520441,44;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;9488370,01;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;557933,79;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;304555,04;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";253378,75;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;2362791,39;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;2362791,39;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;2362791,39;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;6567644,83;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;6567644,83;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;6567644,83;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;32071,43;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;32071,43;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;32071,43;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;1564784,68;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.0.00.0.0;1.2.2.0.00.0.0 - Contribuições Econômicas;95440,88;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.1.00.0.0;1.2.2.1.00.0.0 - Contribuições Econômicas;95440,88;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.1.08.0.0;1.2.2.1.08.0.0 - Contribuição Relativa às Atividades de Importação e Comercialização de Petróleo e seus Derivados, Gás Natural e Álcool Carburante - CIDE Combustíveis;95440,88;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.1.08.1.0;1.2.2.1.08.1.0 - Contribuição de Intervenção no Domínio Econômico - CIDE-Combustíveis - Importação;95440,88;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;1469343,80;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;1854538,74;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;1854538,74;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;1854538,74;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;1854538,74;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;40813,00;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;40813,00;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.00.0.0;1.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais;40813,00;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.02.0.0;1.6.1.1.02.0.0 - Inscrição em Concursos e Processos Seletivos;40813,00;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;103792822,99;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;8891572,37;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;53718773,01;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;5736328,64;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;31589552,72;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;5736328,64;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;31076364,09;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;5633691,03;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;29843369,57;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;5633691,03;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1232994,52;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;513188,63;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;102637,61;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;558260,09;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;558260,09;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;558260,09;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;7596734,46;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;7596734,46;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;6893292,75;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;389495,10;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;313946,61;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;2935816,04;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;1747695,33;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;4080,00;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;515574,41;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;268865,78;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;399600,52;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;1403959,90;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;2014666,00;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;7619783,80;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.57.0.0;1.7.1.9.57.0.0 - Transferência Especial da União;5350000,00;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;150659,83;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;2119123,97;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;16081510,84;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3155243,73;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;16081510,84;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3155243,73;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;15025238,32;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3004668,38;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;752882,06;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;150575,35;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;4761,34;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.98.0.0;1.7.2.1.98.0.0 -Transferências Decorrentes de Participação em Outras Receitas de Impostos dos Estados e do Distrito Federal;298629,12;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;33992539,14;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;33992539,14;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;11973555,97;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;284802,62;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;284802,62;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;284802,62;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;11688753,35;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;11688753,35;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;6814969,20;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.0.0;2.4.1.1.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1414951,00;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.1.0;2.4.1.1.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1414951,00;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.0.0;2.4.1.1.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;5400018,20;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.1.0;2.4.1.1.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária;5400018,20;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;4873784,15;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;4873784,15;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);128746956,82;35035
+2024;Prefeitura Municipal de Feijó - AC;1200302;AC;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);8891572,37;35035

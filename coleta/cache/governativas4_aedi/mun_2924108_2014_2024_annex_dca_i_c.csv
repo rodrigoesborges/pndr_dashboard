@@ -1,0 +1,918 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;14883224,32;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;-1638630,90;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;13927765,62;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;-1638630,90;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;404232,67;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;-1638630,90;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;396377,38;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;-1638630,90;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;396377,38;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;-1638630,90;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;396377,38;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;-1638630,90;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;7855,29;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;7855,29;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;39923,69;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;39923,69;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.9.00.00.00;1.3.2.9.00.00.00 - Outras Receitas de Valores Mobiliários;39923,69;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;13455192,06;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;13455192,06;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;13455192,06;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;13455192,06;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;13455192,06;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;28417,20;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;3000,00;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;3000,00;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;2452,59;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;2452,59;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;22964,61;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;955458,70;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;955458,70;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;359608,70;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;359608,70;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;359608,70;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;595850,00;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;595850,00;7511
+2014;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;595850,00;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;15254897,63;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;14901257,63;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;717730,51;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;717730,51;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;717730,51;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.01.00.00;1.1.1.2.01.00.00 - Imposto sobre a Propriedade Territorial Rural - ITR;717730,51;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;27229,07;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.0.00.00.00;1.3.1.0.00.00.00 - Receitas Imobiliárias;27229,07;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.9.00.00.00;1.3.1.9.00.00.00 - Outras Receitas Imobiliárias;27229,07;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;14149387,85;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;14149387,85;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;14149387,85;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;14149387,85;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;14149387,85;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;6910,20;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;6910,20;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;6910,20;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.08.00.00;1.9.1.1.08.00.00 - Multas e Juros de Mora do Imposto sobre a Propriedade Territorial Rural;6910,20;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;353640,00;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;353640,00;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;353640,00;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;353640,00;7511
+2015;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;353640,00;7511
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;21588407,72;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;21313532,72;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;524658,97;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;524658,97;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;524658,97;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;524658,97;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;40159,53;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.0.00.00.00;1.3.1.0.00.00.00 - Receitas Imobiliárias;40159,53;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.9.00.00.00;1.3.1.9.00.00.00 - Outras Receitas Imobiliárias;40159,53;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;20649002,31;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;20649002,31;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;20649002,31;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;20649002,31;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;20649002,31;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;99711,91;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;99711,91;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;99711,91;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.01.00.00;1.9.1.1.01.00.00 - Multa e Juros de Mora do Imposto sobre a Importação;99711,91;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;274875,00;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;274875,00;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;274875,00;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;274875,00;7568
+2016;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;274875,00;7568
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;18798837,68;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1922621,26;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;18610662,68;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1922621,26;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;587865,91;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;586094,18;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;142021,52;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;311,98;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;128179,78;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;75797,00;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;52382,78;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";13529,76;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;444072,66;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;444072,66;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;1771,73;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;1771,73;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;1771,73;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;121290,47;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;121290,47;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;121290,47;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;17782257,53;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1922621,26;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;17782257,53;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1922621,26;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;10694469,04;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1574133,60;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8575218,86;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1573030,44;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;8573017,62;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1572590,25;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2201,24;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;440,19;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;104484,98;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;12104,68;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;92380,30;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1367806,01;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;167557,73;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;468059,16;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;5516,04;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1103,16;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;5826,26;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2460134,80;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;316455,55;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1617408,76;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;316455,55;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1541516,13;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;308303,01;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;40765,20;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;8152,54;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;14663,33;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;20464,10;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;761910,34;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;80815,70;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;4627653,69;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;32032,11;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3437048,90;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1190604,79;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;32032,11;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;119248,77;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;7110,10;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;7110,10;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;17408,01;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;17408,01;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;94730,66;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;94730,66;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;188175,00;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;188175,00;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;66300,00;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;66300,00;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.02.00.00;2.4.2.1.02.00.00 - Transferências de Recursos Destinados a Programas de Educação;66300,00;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;121875,00;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;121875,00;7486
+2017;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;121875,00;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;19463526,71;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;2041802,73;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;18765220,87;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2041802,73;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;383841,56;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;333533,95;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;85693,06;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;85693,06;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;52152,08;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;33540,98;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;247840,89;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;3235,84;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;3235,84;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;244605,05;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;244605,05;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;50307,61;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;49414,06;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;1325,00;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;48089,06;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;893,55;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;893,55;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;53571,10;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;53571,10;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;13050,05;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;13050,05;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;13050,05;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;13050,05;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;18294660,15;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2041802,73;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;11492251,08;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1682624,09;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;11492251,08;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1682624,09;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9144919,47;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1681536,63;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8768958,30;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1680976,01;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;373158,06;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2803,11;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;560,62;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;154944,60;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.4.0;1.7.1.8.02.4.0 Cota-parte Royalties pelo Excedente da Produção do Petróleo ¿ Lei nº 9.478/97, artigo 49, I e II;15088,70;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;139855,90;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;1583975,31;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;128184,86;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;474789,52;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;180601,42;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;155228,00;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;85008,28;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;53951,82;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;5437,32;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1087,46;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;5437,32;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1087,46;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2196386,67;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;359178,64;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2196386,67;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;359178,64;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1826485,88;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;359178,64;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1748734,38;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;349746,87;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;47158,85;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;9431,77;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;14513,96;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;16078,69;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;279129,61;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;90771,18;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4606022,40;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4606022,40;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4606022,40;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;20098,01;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;19871,18;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;19853,33;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;17,85;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;17,85;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;226,83;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;226,83;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;226,83;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;698305,84;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;17000,00;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;17000,00;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes;17000,00;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;681305,84;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;390584,82;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;390584,82;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.05.0.0;2.4.1.8.05.0.0 Transferências de Recursos Destinados a Programas de Educação;209100,00;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;181484,82;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;290721,02;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;290721,02;7486
+2018;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;290721,02;7486
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);22452453,61;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2210854,47;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;21200563,69;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2210854,47;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;500913,53;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;473165,74;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;211749,83;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;211749,83;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;145079,78;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;66670,05;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;252886,61;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;141125,67;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;141125,67;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;111760,94;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;111760,94;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.9.00.0.0;1.1.1.9.00.0.0 - Outros Impostos;8529,30;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;27747,79;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;27747,79;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;27747,79;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;101055,17;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;101055,17;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;25851,61;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;25163,52;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;25163,52;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;25163,52;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.9.0.00.0.0;1.3.9.0.00.0.0 - Demais Receitas Patrimoniais;688,09;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;118391,76;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;330,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.02.0.0;1.6.1.0.02.0.0 - Inscrição em Concursos e Processos Seletivos;330,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;118061,76;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.8.00.0.0;1.6.3.8.00.0.0 - Serviços e Atividades Referentes à Saúde - Específico para Estados/DF/Municípios;118061,76;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.8.01.0.0;1.6.3.8.01.0.0 - Serviços de Saúde - Específico para Estados/DF/Municípios;118061,76;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.8.01.4.0;1.6.3.8.01.4.0 - Serviços Ambulatoriais;118061,76;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;20425660,56;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2210854,47;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;14701440,67;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1833357,35;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;14701440,67;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1833357,35;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9960237,54;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1833357,35;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;9159849,87;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1831969,70;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;404042,76;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;389406,29;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;6938,62;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1387,65;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;152496,83;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;11326,52;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;141170,31;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";2367850,91;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;2223353,79;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;224,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;89741,02;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;54532,10;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;403667,62;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;182574,82;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;118476,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;102616,80;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1177435,85;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;161030,74;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;478721,18;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2120902,33;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;377497,12;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2120902,33;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;377497,12;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1911512,01;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;377497,12;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1835689,83;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;367137,77;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;51799,53;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;10359,35;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;14377,57;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;9645,08;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;54000,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;26389,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;129001,32;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;129001,32;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3603317,56;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3603317,56;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3603317,56;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;28691,06;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;9096,93;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;9096,93;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;19594,13;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;1342,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;1342,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;18252,13;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.12.0.0;1.9.2.2.12.0.0 - Restituição de Depósitos de Setenças Judiciais não Sacados;756,13;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;17496,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1251889,92;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.0.0.00.0.0;2.1.0.0.00.0.0 - Operações de Crédito;408100,37;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.0.00.0.0;2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno;408100,37;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.9.00.0.0;2.1.1.9.00.0.0 Outras Operações de Crédito - Mercado Interno;408100,37;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;1800,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;1800,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes;1800,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;841989,55;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;338620,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;338620,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;99340,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.1.0;2.4.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;99340,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.05.0.0;2.4.1.8.05.0.0 Transferências de Recursos Destinados a Programas de Educação;81600,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;157680,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;157680,00;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;503369,55;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;503369,55;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;503369,55;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;503369,55;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);22452453,61;7298
+2019;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2210854,47;7298
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);24410687,88;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2119467,68;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;22448099,42;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2119467,68;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;372934,84;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;348624,01;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;234269,15;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;234269,15;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;233928,75;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;340,40;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;114354,86;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;27008,00;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;27008,00;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;87346,86;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;87346,86;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;24310,83;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;24310,83;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;24310,83;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;26253,28;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;26253,28;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;9542,08;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;9458,65;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;9458,65;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;9458,65;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.9.0.00.0.0;1.3.9.0.00.0.0 - Demais Receitas Patrimoniais;83,43;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;117913,32;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;117913,32;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.8.00.0.0;1.6.3.8.00.0.0 - Serviços e Atividades Referentes à Saúde - Específico para Estados/DF/Municípios;117913,32;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.8.01.0.0;1.6.3.8.01.0.0 - Serviços de Saúde - Específico para Estados/DF/Municípios;117913,32;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.8.01.4.0;1.6.3.8.01.4.0 - Serviços Ambulatoriais;117913,32;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;21888813,82;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2119467,68;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;16144761,23;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1749174,46;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;16144761,23;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1749174,46;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9533705,00;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1749174,46;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8742658,76;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1748531,46;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;393496,05;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;394334,99;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3215,20;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;643,00;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;148670,79;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;8037,41;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;140633,38;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";3254356,18;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;2116491,31;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;92058,46;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;74082,00;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;971724,41;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;392159,67;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;143783,79;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;126882,80;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;120334,62;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1158,46;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1248384,34;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;140072,24;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1427413,01;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1948359,36;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;370293,22;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1948359,36;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;370293,22;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1873369,36;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;370293,22;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1796738,63;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;359347,52;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;54731,22;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;10945,70;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;13885,87;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;8013,64;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;51000,00;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;23990,00;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3795693,23;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3795693,23;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3795693,23;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;32642,08;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;8498,17;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;8498,17;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;22523,44;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;18524,44;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;18524,44;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.00.0.0;1.9.2.3.00.0.0 - Ressarcimentos;3999,00;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.99.0.0;1.9.2.3.99.0.0 - Outros Ressarcimentos;3999,00;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;1620,47;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;1620,47;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;1620,47;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1962588,46;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.0.0.00.0.0;2.1.0.0.00.0.0 - Operações de Crédito;201561,94;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.0.00.0.0;2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno;201561,94;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.2.00.0.0;2.1.1.2.00.0.0 Operações de Crédito Contratuais - Mercado Interno;201561,94;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;23750,00;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;23750,00;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes;23750,00;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1737276,52;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1463919,00;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1463919,00;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;64739,00;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.2.0;2.4.1.8.04.2.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Especializada;64739,00;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;1399180,00;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;1399180,00;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;273357,52;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;273357,52;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;273357,52;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;273357,52;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);24410687,88;7347
+2020;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2119467,68;7347
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);27645074,02;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2819389,63;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);106626,82;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;27249048,01;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2819389,63;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;106626,82;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;460856,15;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;441322,15;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;306226,76;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;306226,76;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;224821,51;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;81405,25;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;135095,39;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;48787,87;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;8836,37;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;39951,50;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;86307,52;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;86307,52;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;19534,00;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;16684,00;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;16684,00;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;2850,00;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;2850,00;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;31515,89;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;31515,89;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;78869,98;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;78869,98;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;78869,98;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;78869,98;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;117081,35;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;117081,35;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.8.00.0.0;1.6.3.8.00.0.0 - Serviços e Atividades Referentes à Saúde - Específico para Estados/DF/Municípios;117081,35;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.8.01.0.0;1.6.3.8.01.0.0 - Serviços de Saúde - Específico para Estados/DF/Municípios;117081,35;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.8.01.4.0;1.6.3.8.01.4.0 - Serviços Ambulatoriais;117081,35;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;26539167,56;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2819389,63;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;106626,82;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;19135885,24;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2359532,98;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;67837,84;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;19135885,24;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;2359532,98;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;67837,84;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;12771337,33;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;2359532,98;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11795005,07;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2359000,78;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;516989,47;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;456681,38;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2661,41;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;532,20;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;244218,34;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;16214,70;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;228003,64;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;3570744,36;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;15634,34;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;3393053,62;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;109608,74;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;15634,34;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;68082,00;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;363132,64;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;139174,01;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;920,00;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;120837,20;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;102201,43;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;2066189,93;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;52203,50;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;95362,79;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;24899,85;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2632293,49;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;459856,65;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;2632293,49;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;459856,65;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;2321146,99;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;459856,65;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;2240587,10;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;448117,18;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;58700,31;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;11739,47;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;16649,43;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;5210,15;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;58500,00;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 - Transferências de Estados destinadas à Assistência Social;21591,00;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;231055,50;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 - Transferências de Convênio dos Estados Destinadas a Programas de Educação;231055,50;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4770988,83;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;38788,98;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4770988,83;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;38788,98;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4770988,83;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;38788,98;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;21557,08;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;7116,00;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;7116,00;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;14150,18;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;14150,18;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;14150,18;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;290,90;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;290,90;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;290,90;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;396026,01;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.0.0.00.0.0;2.1.0.0.00.0.0 - Operações de Crédito;206126,01;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.0.00.0.0;2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno;206126,01;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.2.00.0.0;2.1.1.2.00.0.0 - Operações de Crédito Contratuais - Mercado Interno;206126,01;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;189900,00;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;189900,00;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;189900,00;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.05.0.0;2.4.1.8.05.0.0 - Transferências de Recursos Destinados a Programas de Educação;189900,00;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);27645074,02;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2819389,63;7394
+2021;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);106626,82;7394
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);36342857,89;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3443993,11;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2332,03;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;33957038,39;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3443993,11;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2332,03;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;762024,29;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;685453,49;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;33792,77;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;7094,37;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";26698,40;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;350868,06;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;350868,06;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;317512,94;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;33355,12;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;300792,66;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;300792,66;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;300792,66;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;76570,80;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;13660,80;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;11624,15;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;2036,65;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;62910,00;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;62910,00;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;461965,71;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;350189,42;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;350189,42;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;350189,42;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.0.00.0.0;1.3.6.0.00.0.0 - Cessão de Direitos;110010,00;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.1.00.0.0;1.3.6.1.00.0.0 - Cessão de Direitos;110010,00;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.1.01.0.0;1.3.6.1.01.0.0 - Cessão do Direito de Operacionalização de Pagamentos;110010,00;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.1.01.1.0;1.3.6.1.01.1.0 - Cessão do Direito de Operacionalização de Pagamentos - Poderes Executivo e Legislativo;110010,00;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.9.0.00.0.0;1.3.9.0.00.0.0 - Demais Receitas Patrimoniais;1766,29;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;122961,32;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;122961,32;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.1.00.0.0;1.6.3.1.00.0.0 - Serviços de Atendimento à Saúde;122961,32;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.1.53.0.0;1.6.3.1.53.0.0 - Serviços Ambulatoriais;122961,32;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;32583301,19;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3443993,11;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2332,03;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;24031815,36;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2942676,34;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;526,76;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;16073404,42;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2942676,34;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;16070526,00;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2942100,74;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14710505,21;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2942100,74;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;645464,95;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;714555,84;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2878,42;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;575,60;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;534768,81;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;4,86;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;372947,27;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;16839,74;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;356107,53;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;161816,68;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;3290998,44;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;3290998,44;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;3092479,31;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;127515,74;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;69722,88;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;1280,51;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;371857,99;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;186830,65;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;118108,00;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;66919,34;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;3544593,90;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;526,76;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;198002,83;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;18188,97;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;11897,52;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;6291,45;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3116139,88;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;501316,77;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2527511,45;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;501316,77;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2430000,06;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;485999,79;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;76587,71;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;15316,98;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;12802,14;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;8121,54;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.0.0;1.7.2.2.00.0.0 - Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;7192,93;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.50.0.0;1.7.2.2.50.0.0 - Cota-parte da Compensação Financeira de Recursos Hídricos;2101,65;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.52.0.0;1.7.2.2.52.0.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo;5091,28;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;54000,00;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;491449,50;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.0.0;1.7.2.4.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União;462332,69;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;29116,81;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;35986,00;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;35986,00;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5435345,95;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1805,27;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;5435345,95;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;1805,27;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;26785,88;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;3000,00;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;3000,00;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.07.0.0;1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;3000,00;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;18486,49;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.00.0.0;1.9.2.3.00.0.0 - Ressarcimentos;18486,49;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.02.0.0;1.9.2.3.02.0.0 - Ressarcimento de Custos;18193,81;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.99.0.0;1.9.2.3.99.0.0 - Outros Ressarcimentos;292,68;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;5299,39;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;5299,39;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;5299,39;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.2.0;1.9.9.9.99.2.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Primárias;5299,39;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;2385819,50;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;2385819,50;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;719960,00;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;719960,00;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;719960,00;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1665859,50;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;1665859,50;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;1665859,50;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);36342857,89;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3443993,11;7438
+2022;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2332,03;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);39412585,74;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3562984,37;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);30667,07;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;37746727,65;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3562984,37;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;30667,07;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1047862,09;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1013180,09;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;89116,99;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;6536,99;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";82580,00;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;568385,65;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;568385,65;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;423972,16;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;144413,49;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;355677,45;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;355677,45;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;355677,45;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;34682,00;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;8242,00;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;8242,00;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;26440,00;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;26440,00;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;409959,37;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;406846,23;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;406846,23;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;406846,23;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.9.0.00.0.0;1.3.9.0.00.0.0 - Demais Receitas Patrimoniais;3113,14;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;105051,43;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;105051,43;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.1.00.0.0;1.6.3.1.00.0.0 - Serviços de Atendimento à Saúde;105051,43;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.1.53.0.0;1.6.3.1.53.0.0 - Serviços Ambulatoriais;105051,43;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;36023886,71;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3562984,37;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;30667,07;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;26812983,17;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3021212,40;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;25355,97;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;16618964,91;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3021212,40;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;22477,93;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;16615934,42;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3020606,37;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;22477,93;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;15125510,98;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3020606,37;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;22477,93;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1490423,44;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3030,49;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;606,03;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;330341,94;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;330341,94;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;8689,51;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;321652,43;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;4148943,48;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;4148943,48;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;3482220,78;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;145799,95;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;68082,00;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;452840,75;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;649984,04;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;212721,92;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;157110,00;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;120989,21;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;159162,91;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;4073937,26;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;2878,04;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;523254,79;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;467556,75;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;12260,76;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;455295,99;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3139771,33;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;541771,97;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2725140,86;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;541771,97;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2591572,57;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;518314,30;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;117291,98;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;23457,67;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;14682,90;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1593,41;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.0.0;1.7.2.2.00.0.0 - Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;8076,88;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.52.0.0;1.7.2.2.52.0.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo;8076,88;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;49612,00;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;119553,90;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.0.0;1.7.2.4.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União;119553,90;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;237387,69;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;85388,00;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.52.0.0;1.7.2.9.52.0.0 - Transferências de Recursos Destinados a Programas de Educação;151999,69;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;6071132,21;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5311,10;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;6071132,21;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;5311,10;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;159968,05;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;9455,19;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;9455,19;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.07.0.0;1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;9455,19;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;150512,86;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.00.0.0;1.9.2.3.00.0.0 - Ressarcimentos;150512,86;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.02.0.0;1.9.2.3.02.0.0 - Ressarcimento de Custos;150512,86;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1665858,09;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1665858,09;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1665858,09;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;1665858,09;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;1665858,09;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);39412585,74;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3562984,37;7438
+2023;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);30667,07;7438
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);44071933,00;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4130678,48;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);19554,29;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;40572465,20;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4130678,48;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;19554,29;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1162676,41;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1144181,52;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;52613,92;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;15911,12;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";36702,80;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;669340,14;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;669340,14;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;422574,44;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;246765,70;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;422227,46;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;422227,46;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;422227,46;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;18494,89;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;18494,89;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;16054,89;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;2440,00;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;326460,90;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;323627,18;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;323627,18;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;323627,18;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.9.0.00.0.0;1.3.9.0.00.0.0 - Demais Receitas Patrimoniais;2833,72;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;113664,28;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;113664,28;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.1.00.0.0;1.6.3.1.00.0.0 - Serviços de Atendimento à Saúde;113664,28;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.1.53.0.0;1.6.3.1.53.0.0 - Serviços Ambulatoriais;113664,28;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;38597345,26;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4130678,48;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;19554,29;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;28715144,82;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3503622,85;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;19554,29;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;19326357,94;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3503622,85;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;19323760,23;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3503103,35;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;17515518,94;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3503103,35;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1808241,29;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2597,71;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;519,50;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;349659,13;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;349659,13;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;3109,52;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;346549,61;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;3936424,88;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;3936424,88;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;3623170,81;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;174974,05;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;73858,00;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;64422,02;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;985278,93;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;580285,45;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;139188,00;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;106642,56;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;159162,92;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;3804570,97;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;19554,29;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;236962,84;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;75890,13;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;12448,56;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.60.0.0;1.7.1.9.60.0.0 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022;63441,57;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3650568,34;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;627055,63;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3167707,71;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;627055,63;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3014333,58;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;602876,33;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;120949,17;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;24179,30;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;21344,41;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;11080,55;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.0.0;1.7.2.2.00.0.0 - Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;8708,61;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.52.0.0;1.7.2.2.52.0.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo;8708,61;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;54000,00;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;300000,00;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.0.0;1.7.2.4.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União;300000,00;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;120152,02;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;120152,02;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;6231632,10;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;6231632,10;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;372318,35;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;372318,35;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;359817,88;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.06.0.0;1.9.2.2.06.0.0 - Restituição de Despesas de Exercícios Anteriores;359817,88;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.06.1.0;1.9.2.2.06.1.0 - Restituição de Despesas de Exercícios Anteriores;359817,88;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.00.0.0;1.9.2.3.00.0.0 - Ressarcimentos;12500,47;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.02.0.0;1.9.2.3.02.0.0 - Ressarcimento de Custos;12500,47;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;3499467,80;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;209295,59;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;209295,59;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;209295,59;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;3290172,21;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1069029,50;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.00.0.0;2.4.1.2.00.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE ;469029,50;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.0.0;2.4.1.2.50.0.0 - Transferências de Recursos Destinados a Programas de Educação;469029,50;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.1.0;2.4.1.2.50.1.0 - Transferências para o Programa de Apoio ao Transporte Escolar para Educação Básica - CAMINHO DA ESCOLA;469029,50;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;600000,00;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;600000,00;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2221142,71;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;2221142,71;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;2221142,71;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);44071933,00;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4130678,48;6229
+2024;Prefeitura Municipal de Pedrão - BA;2924108;BA;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);19554,29;6229

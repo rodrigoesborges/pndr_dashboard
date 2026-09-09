@@ -1,0 +1,859 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;19167709,10;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1756873,94;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;17617281,52;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1756873,94;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;450102,52;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;435200,71;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;313878,09;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;17428,61;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;130743,78;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;130743,78;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";165705,70;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;121322,62;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;121322,62;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;14901,81;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;11161,52;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;3740,29;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;28282,37;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;28282,37;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;28282,37;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;16958658,53;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1756873,94;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;16958658,53;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1756873,94;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;12551091,54;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1228291,81;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;6406592,22;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1227253,93;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6364745,94;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1218884,82;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;41846,28;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;8369,11;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;4607792,15;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.11.00;1.7.2.1.22.11.00 - Cota-Parte da Compensação Financeira de Recursos Hídricos;4512766,76;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;95025,39;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1068330,67;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;227928,41;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;210781,15;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;5189,52;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1037,88;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;24477,42;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2623414,68;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;528582,13;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2623414,68;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;528582,13;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2518943,26;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;508056,69;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;81178,93;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;16265,40;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;21300,46;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;4260,04;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1992,03;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;1784152,31;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1784152,31;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;180238,10;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;140923,45;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;140923,45;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;140923,45;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;39314,65;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;39314,65;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;1550427,58;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;900868,43;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;33543,43;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;33543,43;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;33543,43;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;867325,00;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;399825,00;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;307200,00;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.05.00.00;2.4.7.1.05.00.00 - Transferências de Convênios da União Destinadas a Programas de Infraestrutura em Transporte;73125,00;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;19500,00;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;467500,00;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;467500,00;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.5.0.0.00.00.00;2.5.0.0.00.00.00 - Outras Receitas de Capital;649559,15;3744
+2014;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.5.9.0.00.00.00;2.5.9.0.00.00.00 - Outras Receitas;649559,15;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;18975787,82;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;TotalReceitas;Total Receitas;1845945,16;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;18523859,79;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1845945,16;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;675427,06;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;660344,02;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;411140,09;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;16161,59;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;154801,33;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.30.00;1.1.1.2.04.30.00 - Retido nas Fontes;154801,33;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";240177,17;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;249203,93;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;249203,93;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;15083,04;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;15083,04;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;20828,24;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;20828,24;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;20828,24;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;17331848,88;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1845945,16;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;17251848,88;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1845945,16;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;12770489,83;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1294163,44;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;6820465,37;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1292926,96;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6745871,33;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1278008,27;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;74594,04;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;14918,69;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;4566763,67;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.11.00;1.7.2.1.22.11.00 - Cota-Parte da Compensação Financeira de Recursos Hídricos;4495114,46;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;71649,21;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;853900,48;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;270815,64;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;222805,89;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;5197,18;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1236,48;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;30541,60;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2610274,30;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;551781,72;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2610274,30;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;551781,72;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2473242,39;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;526167,78;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;108590,30;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;21695,87;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;20833,34;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;3918,07;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7608,27;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;1871084,75;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1117107,11;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;753977,64;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;80000,00;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;80000,00;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.01.00.00;1.7.6.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;80000,00;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;495755,61;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;467381,61;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;467381,61;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;467381,61;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;28374,00;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;28374,00;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;15,15;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.13.00.00;1.9.3.1.13.00.00 - Receita da Dívida Ativa do Imposto sobre Serviços de Qualquer Natureza ¿ ISS;28358,85;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;451928,03;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.0.0.00.00.00;2.2.0.0.00.00.00 - Alienação de Bens;200000,00;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.2.0.00.00.00;2.2.2.0.00.00.00 - Alienação de Bens Imóveis;200000,00;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;146735,22;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;146735,22;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;146735,22;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;146735,22;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.5.0.0.00.00.00;2.5.0.0.00.00.00 - Outras Receitas de Capital;105192,81;3744
+2015;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.5.9.0.00.00.00;2.5.9.0.00.00.00 - Outras Receitas;105192,81;3744
+2016;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;595567,10;3743
+2016;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;595567,10;3743
+2016;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;530307,84;3743
+2016;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;519401,41;3743
+2016;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;339331,50;3743
+2016;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";339331,50;3743
+2016;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;180069,91;3743
+2016;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;180069,91;3743
+2016;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;10906,43;3743
+2016;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;10906,43;3743
+2016;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;65259,26;3743
+2016;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;65259,26;3743
+2016;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;65259,26;3743
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;17305122,83;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;TotalReceitas;Total Receitas;-2023571,27;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;17015525,91;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;-2023571,27;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;820919,88;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;800560,95;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;387236,98;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;10435,72;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;148136,33;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;148136,33;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";228664,93;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;413323,97;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;413323,97;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;20358,93;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;18813,89;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;1545,04;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;1545,04;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;71339,65;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;71339,65;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;71339,65;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;3540,00;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.13.00.00;1.6.0.0.13.00.00 - Serviços Administrativos;3540,00;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;14806750,86;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;-2023571,27;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;14626750,86;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;-2023571,27;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;11764924,55;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;-1410630,17;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7673845,83;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;-1409469,94;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7562793,06;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;-1387259,51;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;111052,77;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;-22210,43;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;2610940,39;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.11.00;1.7.2.1.22.11.00 - Cota-Parte da Compensação Financeira de Recursos Hídricos;2536634,03;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;74306,36;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;992823,34;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;208235,15;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;268528,70;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;10551,14;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;-1160,23;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;626768,04;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;-612941,10;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;626768,04;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;-612941,10;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;454536,49;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;-576219,71;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;136934,54;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;-33483,26;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;5588,56;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;-3238,13;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;29708,45;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2235058,27;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2235058,27;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;180000,00;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;180000,00;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.01.00.00;1.7.6.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;180000,00;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;1312975,52;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;1312975,52;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;656487,76;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;656487,76;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;656487,76;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;289596,92;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;273699,70;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;273699,70;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;273699,70;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;102400,00;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;171299,70;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.5.0.0.00.00.00;2.5.0.0.00.00.00 - Outras Receitas de Capital;15897,22;3741
+2017;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.5.9.0.00.00.00;2.5.9.0.00.00.00 - Outras Receitas;15897,22;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;21388921,50;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;-2081278,88;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;20451064,00;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-2081278,88;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;720327,90;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;692851,72;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;127653,15;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;127653,15;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;127653,15;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;565198,57;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;345908,52;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;15337,37;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;330571,15;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;219290,05;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;219290,05;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;27476,18;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;1500,00;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;1500,00;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;25976,18;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;25976,18;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;22631,71;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;22421,88;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;22421,88;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;22421,88;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.9.0.00.0.0;1.3.9.0.00.0.0 - Demais Receitas Patrimoniais;209,83;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;19074761,23;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;-2081278,88;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;13773123,53;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;-1497734,19;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;13773123,53;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;-1497734,19;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8132949,41;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;-1496802,75;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8044493,10;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;-1479111,59;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;88456,31;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;-17691,16;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;3510948,64;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.1.0;1.7.1.8.02.1.0 Cota-parte da Compensação Financeira de Recursos Hídricos;3395702,79;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;115245,85;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;1507972,44;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;272809,02;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;336018,90;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;336018,90;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;12425,12;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;-931,44;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;12425,12;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;-931,44;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3064687,54;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;-583544,69;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;3064687,54;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;-583544,69;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2941828,04;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;-583544,69;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2709685,24;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;-541936,87;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;183979,25;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;-36795,14;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;24063,57;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;-4812,68;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;24099,98;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;122859,50;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.1.0;1.7.2.8.10.1.0 Transferências de Convênio dos Estados para o Sistema Único de Saúde ¿ SUS;122859,50;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2236950,16;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;2236950,16;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;2236950,16;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;633343,16;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;621872,03;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;621872,03;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;621872,03;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;11471,13;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;11471,13;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;11471,13;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;937857,50;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;937857,50;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;937857,50;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;937857,50;3741
+2018;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;937857,50;3741
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);22608883,34;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);-2214396,09;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;22334278,51;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-2214396,09;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;991203,12;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;962444,80;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;163942,66;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;163942,66;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;163942,66;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;798502,14;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;659137,85;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;337829,92;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;321307,93;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;139364,29;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;139364,29;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;28758,32;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;28758,32;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;28758,32;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;11924,36;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;11924,36;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;11924,36;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;11924,36;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;20360898,74;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;-2214396,09;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;15010737,87;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;-1622270,23;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;15010737,87;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;-1622270,23;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8498840,85;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;-1622270,23;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8445759,63;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;-1611654,12;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;53081,22;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;-10616,11;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;4396681,66;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.1.0;1.7.1.8.02.1.0 Cota-parte da Compensação Financeira de Recursos Hídricos;4272520,59;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;124161,07;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";1117791,25;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;1117791,25;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;315710,43;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;315710,43;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;260357,48;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;421356,20;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3034856,70;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;-592125,86;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;3034856,70;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;-592125,86;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2974856,70;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;-592125,86;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2732086,73;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;-546417,21;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;206972,52;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;-41393,80;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;21574,56;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;-4314,85;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;14222,89;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;60000,00;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.1.0;1.7.2.8.10.1.0 Transferências de Convênio dos Estados para o Sistema Único de Saúde ¿ SUS;60000,00;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2315304,17;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;2315304,17;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;2315304,17;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;970252,29;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;751439,12;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;751439,12;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;751439,12;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;218813,17;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;218813,17;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;218813,17;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;274604,83;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;274604,83;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;274604,83;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;274604,83;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;274604,83;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;274604,83;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);22608883,34;3649
+2019;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);-2214396,09;3649
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);26112941,84;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2313047,40;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;25396536,53;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2313047,40;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;795718,41;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;788315,66;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;163871,57;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;163871,57;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;163871,57;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;624444,09;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;319884,17;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;32872,85;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;287011,32;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;304559,92;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;304559,92;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;7402,75;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;7402,75;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;7402,75;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;7402,75;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;4817,82;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;4817,82;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;4817,82;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;4817,82;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;23651381,90;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2313047,40;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;16922537,45;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1544676,54;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;16922537,45;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1544676,54;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8413731,03;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1544676,54;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8007824,99;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1532456,58;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;344805,62;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;61100,42;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;12219,96;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;4949586,20;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.1.0;1.7.1.8.02.1.0 Cota-parte da Compensação Financeira de Recursos Hídricos;4826308,46;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;123277,74;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";1632486,95;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;1632486,95;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;235079,59;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;235079,59;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;293626,00;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.1.0;1.7.1.8.10.1.0 Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;99994,00;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.2.0;1.7.1.8.10.2.0 Transferências de Convênios da União Destinadas a Programas de Educação;193632,00;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;279873,65;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1118154,03;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4093370,94;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;768370,86;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;4093370,94;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;768370,86;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;3853603,44;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;768370,86;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;3608247,56;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;721649,42;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;208381,00;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;41675,80;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;25228,44;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;5045,64;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;11746,44;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;239767,50;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.1.0;1.7.2.8.10.1.0 Transferências de Convênio dos Estados para o Sistema Único de Saúde ¿ SUS;140000,00;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;99767,50;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2635473,51;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;2635473,51;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;2635473,51;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;944618,40;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;770048,98;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;770048,98;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;770048,98;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;174569,42;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;174569,42;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;174569,42;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;716405,31;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;716405,31;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;656405,31;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;656405,31;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;639600,00;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;639600,00;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.12.0.0;2.4.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;16805,31;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;60000,00;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;60000,00;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;60000,00;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.1.0;2.4.2.8.10.1.0 - Transferências de Convênios dos Estados para o Sistema Único de Saúde ¿ SUS;60000,00;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);26112941,84;3640
+2020;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2313047,40;3640
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);30960313,77;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3092444,09;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);85031,58;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;29470389,22;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3092444,09;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;85031,58;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1588939,96;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1574215,14;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;430736,63;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;430736,63;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;430736,63;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;1143478,51;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;657743,90;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;58663,57;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;599080,33;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;485734,61;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;485734,61;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;14724,82;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;14724,82;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;14724,82;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;14724,82;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;76505,04;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;76505,04;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;76505,04;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;76505,04;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;27804944,22;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3092444,09;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;85031,58;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;19328168,93;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2066366,99;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;19328168,93;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;2066366,99;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;11178458,16;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;2066366,99;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;10281029,35;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2051185,40;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;449529,87;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;371990,31;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;75908,63;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;15181,59;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;5354156,24;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.1.0;1.7.1.8.02.1.0 - Cota-parte da Compensação Financeira de Recursos Hídricos;5155903,75;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;198252,49;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2018156,07;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;1936152,78;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;31000,00;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;15501,76;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;35501,53;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;189386,19;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;126163,87;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;57323,20;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;5899,12;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;104600,89;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;483411,38;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;5328861,22;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1026077,10;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;5328861,22;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;1026077,10;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;5137694,71;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;1026077,10;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;4838287,01;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;967657,51;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;254353,90;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;50921,32;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;37489,14;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;7498,27;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7564,66;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;119509,00;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 - Transferências de Estados destinadas à Assistência Social;71657,51;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3147914,07;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;85031,58;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3147914,07;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;85031,58;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3147914,07;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;85031,58;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1489924,55;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1489924,55;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;624970,00;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;624970,00;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;124971,00;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.1.0;2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS Destinados à Atenção Primária;124971,00;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 - Outras Transferências da União;499999,00;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;864954,55;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 - Transferências dos Estados, Distrito Federal, e de suas Entidades;864954,55;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;764954,55;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.1.0;2.4.2.8.10.1.0 - Transferências de Convênios dos Estados para o Sistema Único de Saúde ¿ SUS;565000,00;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.2.0;2.4.2.8.10.2.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;199954,55;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.99.0.0;2.4.2.8.99.0.0 - Outras Transferências dos Estados;100000,00;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);30960313,77;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3092444,09;3632
+2021;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);85031,58;3632
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);35058195,19;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3549893,79;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;33923087,09;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3549893,79;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1723164,04;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1712205,22;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;745171,93;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;3424,02;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";741747,91;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;442345,45;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;442345,45;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;442345,45;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;524687,84;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;524687,84;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;524687,84;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;10958,82;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;1900,00;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;1900,00;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;9058,82;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;9058,82;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;456417,46;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;456417,46;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;456417,46;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;456417,46;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;31630854,43;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3549893,79;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;21662476,41;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2558229,92;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;13960669,16;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2558229,92;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;13831732,73;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2532489,12;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;12725698,15;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2532489,12;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;585706,04;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;520328,54;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;128936,43;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;25740,80;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;5504277,06;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.50.0.0;1.7.1.2.50.0.0 - Cota-parte da Compensação Financeira pela Exploração de Recursos Hídricos;5023936,88;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;4406,35;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;306899,70;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;306899,70;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;169034,13;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;1797956,87;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1797956,87;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1239013,63;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;150265,08;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;87377,77;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;38658,57;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;1862,56;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;280779,26;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;244967,90;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;148415,20;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;49078,80;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;47473,90;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;121412,82;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;33192,60;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;33192,60;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;6399197,75;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;991663,87;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;4977154,46;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;991663,87;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;4589170,60;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;916506,30;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;347025,74;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;69294,43;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;29316,23;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;5863,14;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;11641,89;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;221889,97;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;1199991,05;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;1000000,00;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;199991,05;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;162,27;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;162,27;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3569180,27;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;3569180,27;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;112651,16;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;112651,16;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;112651,16;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;112651,16;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1135108,10;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1135108,10;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;465126,00;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;403126,00;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.0.0;2.4.1.1.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;403126,00;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.1.0;2.4.1.1.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;98317,00;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.2.0;2.4.1.1.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;283817,00;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.4.0;2.4.1.1.50.4.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;20992,00;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;62000,00;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;62000,00;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;669982,10;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;499991,05;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;499991,05;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.00.0.0;2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados;169991,05;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.99.0.0;2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados;169991,05;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);35058195,19;3628
+2022;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3549893,79;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);43741200,54;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3895752,96;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;37485458,47;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3895752,96;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1714479,29;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1697569,41;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;846134,75;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;24809,96;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";821324,79;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;618783,50;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;618783,50;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;618783,50;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;232651,16;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;232651,16;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;232651,16;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;16909,88;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;16909,88;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;13288,08;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;3621,80;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;482695,10;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;482695,10;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;482695,10;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;482695,10;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;35070932,79;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3895752,96;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;24709481,94;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2621670,82;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;14374793,98;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2621670,82;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;14236890,82;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2594090,33;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;12961476,39;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2594090,33;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1275414,43;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;137903,16;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;27580,49;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;5884423,28;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.50.0.0;1.7.1.2.50.0.0 - Cota-parte da Compensação Financeira pela Exploração de Recursos Hídricos;5600083,34;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;7772,85;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;276567,09;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;276567,09;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;3003305,86;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2641561,19;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;2260347,43;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;239413,08;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;120485,76;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;21314,92;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.99.0.0;1.7.1.3.99.0.0 - Outras Transferências de Recursos do Sistema Único de Saúde - SUS;361744,67;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;270954,67;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;157533,11;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;71086,20;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;42335,36;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;445406,17;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;730597,98;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.57.0.0;1.7.1.9.57.0.0 - Transferência Especial da União;100000,00;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.61.0.0;1.7.1.9.61.0.0 - Auxílio Financeiro - Outorga Crédito Tributário ICMS - Art. 5º, Inciso V, EC nº 123/2022;205273,34;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;425324,64;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;6564288,02;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1274082,14;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;6372743,29;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1274082,14;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;5897771,81;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1179554,33;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;437900,93;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;87579,99;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;34739,32;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;6947,82;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;2331,23;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;120206,76;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;71337,97;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;71337,97;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3797162,83;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;3797162,83;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;217351,29;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;217351,29;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;217351,29;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;217351,29;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;6255742,07;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.0.0.00.0.0;2.1.0.0.00.0.0 - Operações de Crédito;3500000,00;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.0.00.0.0;2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno;3500000,00;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.2.00.0.0;2.1.1.2.00.0.0 - Operações de Crédito Contratuais - Mercado Interno;3500000,00;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.2.01.0.0;2.1.1.2.01.0.0 - Operações de Crédito Contratuais - Mercado Interno;3500000,00;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;90100,02;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;90100,02;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;90100,02;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;2665642,05;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;2520651,00;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;520651,00;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;520651,00;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;2000000,00;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.51.0.0;2.4.1.9.51.0.0 - Transferência Especial da União;2000000,00;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;144991,05;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;144991,05;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.50.0.0;2.4.2.2.50.0.0 - Transferências de Convênios dos Estados para o Sistema Único de Saúde ¿ SUS;25000,00;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;119991,05;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);43741200,54;3628
+2023;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3895752,96;3628
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);49323161,61;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4584398,12;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;47728953,56;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4584398,12;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1663845,27;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1652070,38;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;699761,65;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;8796,87;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";690964,78;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;658831,39;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;658831,39;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;658831,39;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;293477,34;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;293477,34;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;293477,34;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;11774,89;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;11774,89;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;8075,85;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;3699,04;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;675249,73;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;675249,73;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;675249,73;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;675249,73;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;45352108,27;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4584398,12;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;30229176,79;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3009715,86;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;16593425,73;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3009715,86;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;16446221,04;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2981452,62;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;16446221,04;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2981452,62;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;147204,69;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;28263,24;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;9072948,65;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.50.0.0;1.7.1.2.50.0.0 - Cota-parte da Compensação Financeira pela Exploração de Recursos Hídricos;8577530,84;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;199299,85;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;296117,96;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;296117,96;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;2560686,50;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2127664,62;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1560249,10;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;324246,20;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;162446,32;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;34248,40;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;46474,60;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.99.0.0;1.7.1.3.99.0.0 - Outras Transferências de Recursos do Sistema Único de Saúde - SUS;433021,88;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;568728,51;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;288452,85;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;78920,00;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;38968,96;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;162386,70;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;164312,82;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1269074,58;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.60.0.0;1.7.1.9.60.0.0 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022;44653,68;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1224420,90;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;10622076,57;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1574682,26;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;7888555,96;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1574682,26;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;7314495,92;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1463166,61;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;509097,01;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;101799,04;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;48583,09;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;9716,61;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;16379,94;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;211529,56;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;1650000,00;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;1650000,00;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;871991,05;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;72000,00;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;799991,05;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4500854,91;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;4500854,91;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;37750,29;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;37750,29;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;37750,29;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;37750,29;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1594208,05;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.0.0.00.0.0;2.1.0.0.00.0.0 - Operações de Crédito;500000,00;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.0.00.0.0;2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno;500000,00;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.2.00.0.0;2.1.1.2.00.0.0 - Operações de Crédito Contratuais - Mercado Interno;500000,00;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.2.01.0.0;2.1.1.2.01.0.0 - Operações de Crédito Contratuais - Mercado Interno;500000,00;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;9900,00;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;9900,00;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;9900,00;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1084308,05;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;234317,00;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;234317,00;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.99.0.0;2.4.1.9.99.0.0 - Outras Transferências De Recursos da União e de suas Entidades;234317,00;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;849991,05;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;849991,05;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;499991,05;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.54.0.0;2.4.2.2.54.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Infraestrutura em Transporte;350000,00;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);49323161,61;3707
+2024;Prefeitura Municipal de Campinaçu - GO;5204656;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4584398,12;3707

@@ -1,0 +1,986 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;14379559,69;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1545569,30;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;13515003,88;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1545569,30;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;718955,95;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;718484,09;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;167777,42;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;2509,70;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;164767,72;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;164767,72;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";500,00;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;550706,67;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;550706,67;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;471,86;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;471,86;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;60503,43;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;60503,43;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;60503,43;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;12646988,67;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1545569,30;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;12574888,67;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1545569,30;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;8762905,86;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1316653,65;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;6878055,94;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1316384,81;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6876736,77;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1316121,03;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1319,17;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;263,78;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;102606,01;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;102606,01;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1213477,26;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;185068,02;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;250461,78;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1466,76;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;268,84;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;131770,09;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1249844,75;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;228915,65;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1190538,51;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;228915,65;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1144579,32;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;228915,65;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;43764,25;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;1038,82;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1156,12;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;59306,24;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2562138,06;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2434252,01;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;127886,05;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;72100,00;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;72100,00;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;72100,00;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;88555,83;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;88555,83;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;88555,83;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;88555,83;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;864555,81;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;864555,81;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;474685,46;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;474685,46;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;270800,00;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.02.00.00;2.4.2.1.02.00.00 - Transferências de Recursos Destinados a Programas de Educação;203885,46;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;389870,35;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;331704,56;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;331704,56;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;58165,79;5425
+2014;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.02.00.00;2.4.7.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;58165,79;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;15080778,36;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1614777,27;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;14072731,48;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1614777,27;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;374752,63;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;373753,30;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;168834,98;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;74,85;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;168490,13;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;168490,13;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";270,00;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;204918,32;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;204918,32;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;999,33;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;959,93;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;39,40;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;1665,57;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;1665,57;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;64052,40;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;64052,40;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;64052,40;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;13531326,66;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1614777,27;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;13459226,66;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1614777,27;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;9304881,76;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1383627,40;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7297513,42;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1383334,11;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7296299,12;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1383091,27;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1214,30;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;242,84;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;77540,51;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;77540,51;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1444677,93;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;199823,08;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;282704,78;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1466,64;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;293,29;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;1155,40;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1280877,90;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;231149,87;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1208031,30;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;231149,87;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1155750,49;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;231149,87;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;46549,58;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;1147,41;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;4583,82;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;72846,60;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2873467,00;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2694310,61;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;179156,39;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;72100,00;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;72100,00;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;72100,00;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;100934,22;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;100340,22;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;100340,22;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;100340,22;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;594,00;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;1008046,88;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;1008046,88;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;309075,00;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;309075,00;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;309075,00;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;698971,88;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;644175,00;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;644175,00;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;54796,88;5425
+2015;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.02.00.00;2.4.7.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;54796,88;5425
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;16453375,01;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1822656,28;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;16151925,01;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1822656,28;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;339614,85;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;338715,31;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;172117,11;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;172117,11;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;172117,11;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;166598,20;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;166598,20;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;899,54;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;899,54;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;101963,21;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;101963,21;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;101963,21;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;15680889,81;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1822656,28;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;15503614,51;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1822656,28;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;10580778,57;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1576257,44;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8461255,40;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1575960,20;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7899259,75;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1575787,25;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;328018,19;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);233112,39;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;865,07;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;172,95;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;69132,59;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;66288,10;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.90.00;1.7.2.1.22.90.00 - Outras Transferências Decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;2844,49;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1526106,64;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;232361,66;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;290435,60;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1486,68;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;297,24;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1359592,34;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;246398,84;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1328342,34;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;246398,84;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1231995,32;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;246398,84;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;50629,40;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;930,33;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;12696,24;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;32091,05;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;31250,00;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;3563243,60;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3253068,92;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;310174,68;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;177275,30;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;5173,30;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.01.00.00;1.7.6.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;5173,30;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;172102,00;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;172102,00;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;29457,14;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;2462,77;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;2462,77;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;2462,77;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;26994,37;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;26994,37;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;301450,00;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.0.0.00.00.00;2.2.0.0.00.00.00 - Alienação de Bens;120550,00;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.1.0.00.00.00;2.2.1.0.00.00.00 - Alienação de Bens Móveis;120550,00;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;180900,00;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;180900,00;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;180900,00;5451
+2016;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;180900,00;5451
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;16433777,29;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1773423,60;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;15946652,29;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1773423,60;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;281379,01;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;279677,81;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;161146,40;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;422,48;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;160723,92;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;160723,92;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;118531,41;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;118531,41;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;1701,20;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;966,80;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;734,40;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.28.00.00;1.1.2.2.28.00.00 - Taxa de Cemitérios;93,70;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;640,70;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;15314,91;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;15314,91;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;111730,02;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;111730,02;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;111730,02;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;15456312,49;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1773423,60;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;15384212,49;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1773423,60;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;10608437,68;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1498430,72;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8167054,13;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1498124,12;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7489073,80;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1497814,46;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;332933,20;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);343498,54;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1548,59;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;309,66;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;88223,15;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;86992,63;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.90.00;1.7.2.1.22.90.00 - Outras Transferências Decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;1230,52;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1792387,75;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;299246,17;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;259993,24;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1533,24;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;306,60;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1494346,42;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;274992,88;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1444057,16;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;274992,88;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1374965,36;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;274992,88;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;49865,77;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;12,03;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;17144,68;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;2069,32;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;34353,98;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;15935,28;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;3281428,39;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3038682,26;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;242746,13;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;72100,00;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;72100,00;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;72100,00;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;81915,86;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;81316,33;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;81316,33;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;81316,33;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;599,53;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;599,53;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;487125,00;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;487125,00;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;150000,00;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;150000,00;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;150000,00;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;337125,00;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;237125,00;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;237125,00;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;100000,00;5475
+2017;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.2.02.00.00;2.4.7.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;100000,00;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;19386819,23;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1910890,77;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;18119545,21;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;1910890,77;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;291828,73;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;291045,23;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;173106,37;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;173106,37;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;173106,37;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;117938,86;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;3400,13;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;232,35;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;3167,78;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;114538,73;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;114538,73;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;783,50;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;658,50;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;658,50;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;125,00;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;125,00;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;211323,47;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;211323,47;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;50009,66;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;50009,66;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;50009,66;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;50009,66;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;17524712,85;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;1910890,77;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;12351892,50;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1603523,29;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;12351892,50;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1603523,29;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8719349,14;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1603224,73;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8014272,39;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1602854,16;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;355945,00;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;347278,67;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1853,08;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;370,57;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;954930,14;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;133304,85;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.9.0;1.7.1.8.02.9.0 Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;821625,29;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;2063540,31;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;284703,73;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;327876,02;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;2520,00;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;82694,00;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;74025,74;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;168636,28;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1493,16;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;298,56;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1493,16;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;298,56;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1680116,44;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;307367,48;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1680116,44;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;307367,48;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1587576,98;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;307367,48;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1465142,37;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;292991,85;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;71878,20;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;14375,63;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;13784,58;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.5.0;1.7.2.8.01.5.0 Outras Participações na Receita dos Estados;36771,83;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;72100,00;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;72100,00;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;20439,46;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3492703,91;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3492703,91;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3492703,91;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;41670,50;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;41670,50;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;41670,50;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;41670,50;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1267274,02;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1267274,02;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1098774,02;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1098774,02;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;639945,00;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.05.0.0;2.4.1.8.05.0.0 Transferências de Recursos Destinados a Programas de Educação;143345,49;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;315483,53;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;168500,00;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;168500,00;5475
+2018;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;168500,00;5475
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);19985400,30;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2084739,37;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;19697545,30;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2084739,37;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;376789,12;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;375841,78;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;204845,45;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;204845,45;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;204845,45;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;170996,33;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;6948,21;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;2630,70;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;4317,51;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;164048,12;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;164048,12;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;947,34;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;947,34;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;947,34;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;210987,85;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;210987,85;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;46343,92;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;46343,92;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;46343,92;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;46343,92;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;19031601,72;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2084739,37;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;13087240,90;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1748238,67;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;13087240,90;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1748238,67;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9498332,20;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1748238,67;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8739568,11;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1747913,33;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;385693,31;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;371443,74;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1627,04;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;325,34;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;137606,61;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;134658,39;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.9.0;1.7.1.8.02.9.0 Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;2948,22;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";2245333,25;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;2245333,25;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;303675,44;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;139818,80;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;88906,00;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;74950,64;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;104745,00;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 Outras Transferências de Convênios da União;104745,00;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;340568,16;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;456980,24;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2071864,82;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;336500,70;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2071864,82;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;336500,70;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1695672,30;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;336500,70;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1582042,62;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;316408,29;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;102365,59;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;20092,41;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;2945,05;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;8319,04;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;163503,98;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;192472,34;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;192472,34;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;20216,20;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3872496,00;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3872496,00;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3872496,00;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;31822,69;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;31591,19;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;31591,19;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;31591,19;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;231,50;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;231,50;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;231,50;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;287855,00;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;287855,00;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;287855,00;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;287855,00;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;20000,00;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.1.0;2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;20000,00;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;267855,00;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.2.0;2.4.1.8.10.2.0 - Transferências de Convênio da União destinadas a Programas de Educação;90675,00;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;177180,00;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);19985400,30;5473
+2019;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2084739,37;5473
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);23658843,79;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2017540,51;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;21962443,88;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2017540,51;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;440214,10;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;438754,10;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;240317,78;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;240317,78;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;240317,78;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;198436,32;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;3997,91;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;1226,41;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;2771,50;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;194438,41;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;194438,41;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;1460,00;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;1460,00;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;1460,00;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;21339,17;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;21339,17;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;15866,03;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;15866,03;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;15866,03;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;15866,03;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;21448642,11;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2017540,51;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;15734034,02;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1669177,65;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;15734034,02;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1669177,65;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9105629,06;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1669177,65;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8352015,41;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1668809,17;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;375485,21;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;376285,75;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1842,69;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;368,48;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;137313,97;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;134246,56;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.9.0;1.7.1.8.02.9.0 Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;3067,41;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";4285774,88;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;4285774,88;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;233957,29;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;98215,72;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;1080,00;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;60450,60;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;74210,97;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1815,22;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;333064,64;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;118120,00;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 Outras Transferências de Convênios da União;118120,00;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;315327,99;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1203030,97;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1903511,42;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;348362,86;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1903511,42;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;348362,86;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1749566,06;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;348362,86;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1634802,91;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;326960,37;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;107012,50;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;21402,49;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;837,33;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;6913,32;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;90657,50;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;40866,34;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;40866,34;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;22421,52;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3811096,67;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3811096,67;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3811096,67;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;36382,47;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;34297,15;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;34297,15;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;34297,15;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;2085,32;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;2085,32;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;2085,32;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1696399,91;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;194600,00;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;194600,00;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes;194600,00;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1501799,91;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1018116,57;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1018116,57;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;390915,00;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.1.0;2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;390915,00;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;627201,57;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;627201,57;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;483683,34;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;483683,34;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;483683,34;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;483683,34;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);23658843,79;5492
+2020;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2017540,51;5492
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);26185778,96;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2645870,56;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);8104,24;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;26127880,47;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2645870,56;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;8104,24;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;512584,28;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;496927,43;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;350181,64;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;350181,64;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;350181,64;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;146745,79;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;23822,13;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;3159,73;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;20662,40;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;122923,66;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;122923,66;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;15656,85;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;13196,85;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;13196,85;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;2460,00;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;2460,00;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;113139,02;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;11,82;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;113139,02;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;11,82;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;113139,02;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;11,82;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;113139,02;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;11,82;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;25499118,92;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2645870,56;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;8092,42;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;18205760,48;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2247505,98;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;18205760,48;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;2247505,98;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;12165063,39;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;2247505,98;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11236076,34;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2247214,95;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;492490,94;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;435040,67;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1455,44;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;291,03;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;219019,06;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.2.0;1.7.1.8.02.2.0 - Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;1819,82;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;217199,24;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;4010058,01;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;3955258,60;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;54799,41;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;265693,90;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;104388,31;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;1080,00;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;97218,00;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;63007,59;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 - Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1748,76;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1359560,62;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;166132,98;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;18483,76;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2313471,20;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;398364,58;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;8092,42;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;2313471,20;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;398364,58;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;8092,42;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;2161396,45;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;398364,58;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;8092,42;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;2032285,80;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;398364,58;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;8092,42;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;117806,28;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;1165,14;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;4415,23;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.5.0;1.7.2.8.01.5.0 - Outras Participações na Receita dos Estados;5724,00;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;101930,97;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;50143,78;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 - Transferências de Convênio dos Estados Destinadas a Programas de Educação;50143,78;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4979887,24;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4979887,24;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4979887,24;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;3038,25;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;1180,49;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;1180,49;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;1180,49;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;1857,76;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;1857,76;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;1857,76;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;57898,49;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;57898,49;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;57898,49;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;57898,49;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;57898,49;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;57898,49;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);26185778,96;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2645870,56;5509
+2021;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);8104,24;5509
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);35235655,40;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3227037,18;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);1,62;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;33111108,87;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3227037,18;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;1,62;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1007154,49;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;995051,57;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;4912,80;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;47,20;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";4865,60;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;746425,87;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;746425,87;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;746425,87;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;243712,90;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;243712,90;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;243712,90;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;12100,92;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;11457,32;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;11422,32;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;35,00;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;643,60;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;643,60;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;2,00;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.00.0.0;1.1.3.1.00.0.0 - Contribuição de Melhoria;2,00;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.99.0.0;1.1.3.1.99.0.0 - Outras Contribuições de Melhoria;2,00;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;18565,95;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;18565,95;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;412394,49;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;1,62;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;412394,49;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;1,62;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;412394,49;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;1,62;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;412394,49;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;1,62;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;31636611,24;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3227037,18;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;22547826,37;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2802197,19;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;15306191,45;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2802197,19;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15304624,67;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2801883,88;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14045539,64;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2801883,88;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;1259085,03;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1566,78;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;313,31;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;484240,99;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;694,90;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;339135,89;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;339135,89;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;144410,20;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;3119465,37;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;3119465,37;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;2966143,15;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;113261,62;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;38663,68;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;1396,92;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;339255,10;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;117960,98;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;1440,00;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;93749,40;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;126104,72;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;2650062,15;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;613559,68;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;35051,63;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;1635,96;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;33415,67;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3303736,88;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;424839,99;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2306574,53;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;424839,99;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2124201,14;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;424839,99;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;162176,44;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;1070,93;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;6993,82;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.98.0.0;1.7.2.1.98.0.0 -Transferências Decorrentes de Participação em Outras Receitas de Impostos dos Estados e do Distrito Federal;12132,20;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;801841,88;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;33613,15;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;33613,15;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;161707,32;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;161707,32;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5785047,99;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;5785047,99;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;36382,70;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;35902,14;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;35902,14;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;35902,14;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;480,56;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;480,56;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;480,56;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.1.0;1.9.9.9.99.1.0 - Outras Receitas Administradas pela RFB;480,56;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;2124546,53;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;87600,00;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;87600,00;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;87600,00;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;2036946,53;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;634840,00;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;634840,00;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.0.0;2.4.1.1.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;634840,00;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.2.0;2.4.1.1.51.2.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Especializada;634840,00;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1402106,53;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;1402106,53;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;869005,67;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.0.0;2.4.2.2.99.0.0 - Outras Transferências de Convênio dos Estados e DF e de Suas Entidades;533100,86;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);35235655,40;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3227037,18;5527
+2022;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);1,62;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);40979518,29;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3344072,81;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;35932170,77;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3344072,81;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1104542,45;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1086753,82;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;26259,66;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;22870,57;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";3389,09;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;681090,94;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;681090,94;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;681090,94;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;379403,22;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;379403,22;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;379403,22;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;17788,63;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;17788,63;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;17298,63;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;490,00;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;11489,33;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;11489,33;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;371748,06;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;371748,06;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;371748,06;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;371748,06;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;34280625,25;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3344072,81;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;25467973,52;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2887102,27;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;15865184,53;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2886992,54;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15863776,46;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2886710,97;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14510647,42;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2886710,97;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1353129,04;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1408,07;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;281,57;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;308672,69;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;109,73;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;645,61;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;308027,08;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;109,73;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;308027,08;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;109,73;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;5518901,55;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;5518901,55;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;4666216,30;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;128860,66;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;32952,00;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;690872,59;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;663786,91;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;137576,53;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;1020,00;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;127613,00;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;116241,88;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;281335,50;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;1836265,68;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;816460,09;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;458702,07;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;1598,76;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;457103,31;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2833762,70;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;456970,54;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2472671,10;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;456970,54;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2284854,03;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;456970,54;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;177693,83;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;832,40;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1355,85;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.98.0.0;1.7.2.1.98.0.0 -Transferências Decorrentes de Participação em Outras Receitas de Impostos dos Estados e do Distrito Federal;7934,99;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;88592,61;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;243000,00;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;25000,00;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;200000,00;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;18000,00;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;29498,99;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;29498,99;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5978889,03;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;5978889,03;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;163765,68;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;163765,68;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;163765,68;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;163765,68;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;5047347,52;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;5047347,52;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;2059246,66;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;2059246,66;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;2059246,66;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2988100,86;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;233100,86;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.0.0;2.4.2.2.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;233100,86;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.00.0.0;2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados;2755000,00;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.99.0.0;2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados;2755000,00;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);40979518,29;5527
+2023;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3344072,81;5527
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);63880592,21;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3981784,63;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);1589,79;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;50907953,12;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3981784,63;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;1589,79;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;2123583,11;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2103662,66;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;32323,15;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;27843,11;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";4480,04;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1650614,66;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1650614,66;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1650614,66;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;420724,85;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;420724,85;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;420724,85;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;19920,45;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;19920,45;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;19920,45;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;14124,53;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;14124,53;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;1126296,82;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;17,41;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;1589,79;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;976296,82;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;17,41;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;1589,79;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;976296,82;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;17,41;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;1589,79;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;976296,82;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;17,41;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;1589,79;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.0.00.0.0;1.3.6.0.00.0.0 - Cessão de Direitos;150000,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.1.00.0.0;1.3.6.1.00.0.0 - Cessão de Direitos;150000,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.1.01.0.0;1.3.6.1.01.0.0 - Cessão do Direito de Operacionalização de Pagamentos;150000,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.1.01.1.0;1.3.6.1.01.1.0 - Cessão do Direito de Operacionalização de Pagamentos - Poderes Executivo e Legislativo;150000,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;41469998,43;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3981767,22;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;30479481,80;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3348139,47;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;18468700,95;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3348139,47;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;18466575,04;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3347714,39;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;16739657,82;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3347714,39;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1726917,22;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2125,91;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;425,08;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;333019,80;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;468,46;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;332551,34;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;332551,34;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;6946848,76;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;6946848,76;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;5962804,19;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;166701,43;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;59394,40;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;757948,74;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;976574,20;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;540988,69;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;960,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;146490,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;84272,52;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;203862,99;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;2091622,92;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;273293,49;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1389421,68;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.57.0.0;1.7.1.9.57.0.0 - Transferência Especial da União;1200000,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;1900,20;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;187521,48;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3891911,48;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;633627,75;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3337132,70;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;633627,75;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3168139,88;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;633627,75;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;147677,59;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;1616,99;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;9635,51;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.98.0.0;1.7.2.1.98.0.0 -Transferências Decorrentes de Participação em Outras Receitas de Impostos dos Estados e do Distrito Federal;10062,73;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;88144,06;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;432200,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;50000,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;312200,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;70000,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;34434,72;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;34434,72;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;7098605,15;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;7098605,15;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;6173950,23;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;6173950,23;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;6173950,23;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;6173950,23;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;12972639,09;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;12972639,09;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;12122639,09;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.00.0.0;2.4.1.2.00.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE ;380078,28;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.0.0;2.4.1.2.50.0.0 - Transferências de Recursos Destinados a Programas de Educação;380078,28;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.1.0;2.4.1.2.50.1.0 - Transferências para o Programa de Apoio ao Transporte Escolar para Educação Básica - CAMINHO DA ESCOLA;292707,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.9.0;2.4.1.2.50.9.0 - Outras transferências destinadas a Programas de Educação;87371,28;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;9842560,81;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.50.0.0;2.4.1.4.50.0.0 - Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;186567,55;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;9655993,26;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1900000,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.51.0.0;2.4.1.9.51.0.0 - Transferência Especial da União;1900000,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;850000,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;750000,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;500000,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.0.0;2.4.2.2.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;250000,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.00.0.0;2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados;100000,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.99.0.0;2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados;100000,00;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);63880592,21;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3981784,63;5578
+2024;Prefeitura Municipal de Alcantil - PB;2500536;PB;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);1589,79;5578

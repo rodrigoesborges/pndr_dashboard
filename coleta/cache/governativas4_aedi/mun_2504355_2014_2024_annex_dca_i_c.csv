@@ -1,0 +1,925 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;14156809,73;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1688237,36;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;13560691,34;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1688237,36;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;223808,61;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;209633,86;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;149611,96;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;2181,51;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;143650,05;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;143650,05;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";3780,40;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;60021,90;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;60021,90;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;14174,75;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;13667,00;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;507,75;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;89601,61;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.0.00.00.00;1.3.1.0.00.00.00 - Receitas Imobiliárias;1583,20;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.9.00.00.00;1.3.1.9.00.00.00 - Outras Receitas Imobiliárias;1583,20;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;88018,41;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;88018,41;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;2554,43;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Demais Receitas de Serviços;2554,43;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;13241087,21;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1688237,36;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;12786998,97;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1688237,36;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;8544448,94;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1316854,73;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;6873689,60;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1316377,37;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6872491,77;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1316121,03;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1197,83;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;256,34;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;102606,01;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;102606,01;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1043923,72;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;149169,05;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;240207,70;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2386,92;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;477,36;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;132465,94;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1985766,62;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;371382,63;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1930304,40;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;371382,63;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1856914,31;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;371382,63;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;70413,45;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;1870,87;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1105,77;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;55462,22;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2256783,41;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2146207,36;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;110576,05;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;454088,24;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;454088,24;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;454088,24;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;3639,48;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;3639,48;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;3639,48;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;3639,48;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;596118,39;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;596118,39;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;591723,27;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;591723,27;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;337600,00;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.02.00.00;2.4.2.1.02.00.00 - Transferências de Recursos Destinados a Programas de Educação;254123,27;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;4395,12;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;4395,12;4747
+2014;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.02.00.00;2.4.7.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;4395,12;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;15886209,94;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1737066,79;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;13999373,46;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1737066,79;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;193256,24;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;177094,14;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;129267,26;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;1948,92;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;126684,34;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;126684,34;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";634,00;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;47826,88;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;47826,88;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;16162,10;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;15818,55;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;343,55;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;89013,58;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;89013,58;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;133905,10;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.0.00.00.00;1.3.1.0.00.00.00 - Receitas Imobiliárias;2008,13;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.9.00.00.00;1.3.1.9.00.00.00 - Outras Receitas Imobiliárias;2008,13;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;131896,97;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;131896,97;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;112904,55;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.50.00.00;1.6.0.0.50.00.00 - Tarifas de Inscrição em Concursos e Processos Seletivos;111835,32;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;1069,23;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;13462782,22;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1737066,79;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;13417162,22;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1737066,79;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;8808156,86;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1383858,53;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7302110,01;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1383410,45;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7300544,12;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1383091,27;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1565,89;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;319,18;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;77540,51;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;77540,51;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1031295,14;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;89327,48;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;303763,03;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2240,41;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;448,08;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;1880,28;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1917560,60;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;353208,26;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1845956,90;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;353208,26;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1768289,27;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;353208,26;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;71657,35;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;1619,48;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;4390,80;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;71603,70;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2691444,76;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2525166,58;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;166278,18;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;45620,00;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;45620,00;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;45620,00;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;7511,77;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;6618,02;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;6618,02;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;6618,02;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;893,75;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;1886836,48;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;1886836,48;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;507990,00;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;507990,00;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;507990,00;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;1378846,48;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;1378846,48;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.02.00.00;2.4.7.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;307346,48;4747
+2015;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;1071500,00;4747
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;15533960,05;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1916534,77;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;15293960,05;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1916534,77;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;223939,65;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;202767,57;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;167702,74;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;2497,11;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;163758,13;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;163758,13;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";1447,50;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;35064,83;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;35064,83;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;21172,08;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;18122,04;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;3050,04;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.28.00.00;1.1.2.2.28.00.00 - Taxa de Cemitérios;2536,60;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;513,44;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;93435,71;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.2.0.00.00.00;1.2.2.0.00.00.00 - Contribuições de Intervenção no Domínio Econômico;93435,71;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.2.0.99.00.00;1.2.2.0.99.00.00 - Outras Contribuições Econômicas;93435,71;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;140189,30;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;140189,30;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;140189,30;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;496,44;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;496,44;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;14824753,64;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1916534,77;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;14801943,64;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1916534,77;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;10162596,36;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1576420,30;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8461525,21;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1576010,02;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7899280,39;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1575787,25;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;328018,19;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);233112,39;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1114,24;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;222,77;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;66288,10;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;66288,10;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1171815,47;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;148140,97;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;306538,57;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2051,40;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;410,28;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;6236,64;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1837488,85;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;340114,47;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1799719,67;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;340114,47;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1700573,43;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;340114,47;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;89753,63;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;1283,76;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;8108,85;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;37769,18;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2801858,43;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2567801,73;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;234056,70;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;22810,00;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;22810,00;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;22810,00;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;11145,31;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;11072,07;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;11072,07;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;11072,07;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;73,24;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;73,24;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;240000,00;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;240000,00;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;240000,00;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;240000,00;4779
+2016;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;240000,00;4779
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;16155898,19;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1904216,08;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;15592073,85;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1904216,08;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;228964,90;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;213453,08;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;177727,25;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;456,78;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;176012,41;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;176012,41;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";1258,06;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;35725,83;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;35725,83;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;15511,82;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;1929,07;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;13582,75;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.28.00.00;1.1.2.2.28.00.00 - Taxa de Cemitérios;13024,25;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;558,50;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;98243,41;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.0.00.00.00;1.2.2.0.00.00.00 - Contribuições de Intervenção no Domínio Econômico;98243,41;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.0.99.00.00;1.2.2.0.99.00.00 - Outras Contribuições Econômicas;98243,41;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;82624,85;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;82624,85;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;82624,85;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;17043,48;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;17043,48;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;15149064,43;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1904216,08;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;15149064,43;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1904216,08;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;10367254,49;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1498480,15;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8166571,53;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1498027,61;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7489073,80;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1497814,46;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;332933,20;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);343498,54;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1065,99;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;213,15;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;86992,63;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;86992,63;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1203396,53;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;297735,80;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;259409,97;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2263,10;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;452,54;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;350884,93;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2198231,85;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;405735,93;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2128115,71;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;405735,93;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2028680,71;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;405735,93;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;82978,90;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;16,61;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;16439,49;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;35801,85;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;34314,29;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2583578,09;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2387136,28;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;196441,81;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;16132,78;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;5895,91;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;5895,91;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;5895,91;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;10236,87;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;10236,87;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;563824,34;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.00.00;2.2.0.0.00.00.00 - Alienação de Bens;30200,00;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.00.00;2.2.1.0.00.00.00 - Alienação de Bens Móveis;30200,00;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;533624,34;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;254004,34;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;254004,34;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;163200,00;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.02.00.00;2.4.2.1.02.00.00 - Transferências de Recursos Destinados a Programas de Educação;90804,34;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;279620,00;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;234000,00;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.02.00.00;2.4.7.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;234000,00;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;45620,00;4810
+2017;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.2.02.00.00;2.4.7.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;45620,00;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;18698389,65;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;2032478,93;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;17426189,65;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2032478,93;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;237871,35;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;229301,00;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;171010,76;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;171010,76;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;171010,76;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;58290,24;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;3036,67;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;1998,67;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;1038,00;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;55253,57;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;55253,57;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;8570,35;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;1320,90;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;1320,90;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;7249,45;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;7249,45;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;82499,17;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;82499,17;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;30289,41;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;30289,41;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;30289,41;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;30289,41;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;17063689,46;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2032478,93;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;11713647,88;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1603484,63;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;11713647,88;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1603484,63;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8718572,82;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1603069,43;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8014272,39;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1602854,16;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;355945,00;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;347278,67;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1076,76;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;215,27;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;133304,85;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;133304,85;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;2178533,91;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;309201,56;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;371958,26;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;1380,00;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;110976,40;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;108146,08;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;151455,78;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2076,48;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;415,20;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2076,48;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;415,20;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2203816,67;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;428994,30;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2203816,67;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;428994,30;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2158196,67;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;428994,30;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2038040,83;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;407607,94;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;106931,50;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;21386,36;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;13224,34;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;45620,00;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;45620,00;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3146224,91;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3146224,91;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3146224,91;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;11840,26;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;5081,82;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;5081,82;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;5081,82;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;6758,44;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;6758,44;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;6758,44;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1272200,00;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1272200,00;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1272200,00;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1272200,00;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;285000,00;4810
+2018;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;987200,00;4810
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);19636117,89;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2169691,06;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;18943678,11;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2169691,06;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;270959,86;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;257311,16;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;197294,00;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;197294,00;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;197294,00;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;60017,16;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;6774,24;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;103,24;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;6671,00;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;53242,92;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;53242,92;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;13648,70;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;1092,65;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;1092,65;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;12556,05;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;12556,05;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;124661,67;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;124661,67;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;21410,83;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;25,70;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.99.0.0;1.3.1.0.99.0.0 - Outras Receitas Imobiliárias;25,70;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;21385,13;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;21385,13;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;21385,13;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;18494882,67;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2169691,06;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;12343835,71;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1748143,19;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;12343835,71;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1748143,19;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9497854,73;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1748143,19;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8739568,11;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1747913,33;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;385693,31;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;371443,74;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1149,57;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;229,86;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;134658,39;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;134658,39;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";1617065,86;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;1617065,86;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;360408,66;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;1320,00;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;117834,40;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;111566,10;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;129688,16;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;276867,83;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;456980,24;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2347209,21;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;421547,87;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2347209,21;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;421547,87;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2120595,55;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;421547,87;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1991460,04;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;398291,78;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;117457,01;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;23256,09;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;3700,13;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7978,37;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;160777,46;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;45620,00;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;45620,00;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;20216,20;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3803837,75;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3803837,75;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3803837,75;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;31763,08;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;31763,08;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;22471,29;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;22471,29;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;9291,79;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;9291,79;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;692439,78;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;90500,00;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;90500,00;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes;90500,00;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;601939,78;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;601939,78;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;601939,78;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;81600,00;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.1.0;2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;81600,00;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.05.0.0;2.4.1.8.05.0.0 Transferências de Recursos Destinados a Programas de Educação;20255,91;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;500083,87;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;500083,87;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);19636117,89;4807
+2019;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2169691,06;4807
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);22191758,44;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2120697,28;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;20272308,90;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2120697,28;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;312267,12;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;306178,42;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;232157,13;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;232157,13;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;232157,13;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;74021,29;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;3436,73;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;909,54;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;2527,19;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;70584,56;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;70584,56;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;6088,70;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;6088,70;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;6088,70;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;97477,01;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;97477,01;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;7585,18;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;7585,18;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;7585,18;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;7585,18;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;19826834,94;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2120697,28;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;14077799,18;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1669134,39;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;14077799,18;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1669134,39;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9097444,53;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1669134,39;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8344047,33;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1668809,17;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;375485,21;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;376285,75;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1626,24;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;325,22;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;134246,56;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;134246,56;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";2710253,45;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;2710253,45;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;306581,36;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;94822,20;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;126084,76;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;85674,40;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2374,49;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;307947,77;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;368994,81;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1149956,21;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2376789,48;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;451562,89;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2376789,48;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;451562,89;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2265612,82;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;451562,89;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2138399,33;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;427679,67;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;119480,43;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;23883,22;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;1095,37;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;6637,69;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;88755,14;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;22421,52;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3372246,28;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3372246,28;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3372246,28;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;28144,65;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;28144,65;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;28144,65;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;28144,65;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1919449,54;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1919449,54;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;868981,86;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;868981,86;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;61264,00;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.1.0;2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;61264,00;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.05.0.0;2.4.1.8.05.0.0 Transferências de Recursos Destinados a Programas de Educação;214000,00;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;593717,86;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;593717,86;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1050467,68;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;1050467,68;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;1050467,68;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.2.0;2.4.2.8.10.2.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;1050467,68;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);22191758,44;4852
+2020;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2120697,28;4852
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);24951303,95;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2746013,61;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;23977102,28;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2746013,61;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;415152,59;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;395982,37;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;286196,06;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;286196,06;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;286196,06;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;109786,31;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;2920,00;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;2920,00;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;106866,31;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;106866,31;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;19170,22;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;19170,22;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;19170,22;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;164324,59;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;164324,59;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;37259,74;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;37259,74;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;37259,74;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;37259,74;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;23357962,33;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2746013,61;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;16173699,68;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2247447,72;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;16173699,68;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;2247447,72;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;12164771,95;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;2247447,72;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11236076,34;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2247214,95;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;492490,94;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;435040,67;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1164,00;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;232,77;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;217199,24;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;217199,24;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2191094,90;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;2191094,90;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;444009,94;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;118602,00;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;232953,51;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;92454,43;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 - Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2018,52;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;833698,83;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;261194,80;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;59711,50;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2618531,12;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;498565,89;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;2618531,12;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;498565,89;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;2497073,98;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;498565,89;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;2346511,08;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;469302,00;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;144635,78;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;28927,14;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;1683,82;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;336,75;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;4243,30;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;99035,62;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 - Outras Transferências dos Estados;22421,52;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4565731,53;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4565731,53;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4565731,53;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;2403,03;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;2403,03;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;2403,03;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;2403,03;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;974201,67;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;974201,67;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;974201,67;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;974201,67;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;249955,00;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.1.0;2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS Destinados à Atenção Primária;249955,00;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;724246,67;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;724246,67;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);24951303,95;4875
+2021;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2746013,61;4875
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);35094254,34;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3264613,13;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;31651976,75;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3264613,13;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;828893,39;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;774361,23;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;87894,18;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;72640,18;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";15254,00;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;456542,81;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;456542,81;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;456542,81;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;229924,24;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;229924,24;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;229924,24;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;54532,16;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;54532,16;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;54532,16;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;126698,73;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;126698,73;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;302021,83;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;302021,83;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;302021,83;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;302021,83;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;30382512,38;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3264613,13;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;22111952,22;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2802178,59;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;15306098,42;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2802178,59;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15304624,67;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2801883,88;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14113560,02;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2801883,88;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;614702,89;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;576361,76;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1473,75;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;294,71;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;483562,41;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;339135,89;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;339135,89;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;144426,52;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;2221815,43;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2221116,97;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;2219194,82;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;1922,15;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.0.0;1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;698,46;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.1.0;1.7.1.3.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária;698,46;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;469460,81;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;115480,99;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;104376,00;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;249603,82;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;2892213,39;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;437149,48;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;301652,28;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;301652,28;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2505763,88;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;462434,54;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2319875,43;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;462434,54;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2146862,64;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;429372,29;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;164932,30;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;32791,20;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;1356,07;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;271,05;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;6724,42;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;98416,73;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;55764,40;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;55764,40;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;31707,32;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;31707,32;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5764796,28;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;5764796,28;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;11850,42;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;11580,42;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;11580,42;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;11580,42;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;270,00;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;270,00;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;270,00;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.2.0;1.9.9.9.99.2.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Primárias;270,00;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;3442277,59;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;3442277,59;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;286500,00;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;286500,00;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;286500,00;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3155777,59;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;3155777,59;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;2819005,67;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.0.0;2.4.2.2.99.0.0 - Outras Transferências de Convênio dos Estados e DF e de Suas Entidades;336771,92;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);35094254,34;4898
+2022;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3264613,13;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);35259908,41;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3398241,97;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;34366789,41;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3398241,97;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1153130,29;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1109906,66;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;26330,79;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;5390,79;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";20940,00;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;816851,41;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;816851,41;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;816851,41;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;266724,46;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;266724,46;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;266724,46;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;43223,63;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;43223,63;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;43223,63;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;144111,60;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;144111,60;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;272617,49;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;272617,49;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;272617,49;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;272617,49;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;32638523,08;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3398241,97;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;23831408,42;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2887054,79;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;15865495,82;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2887054,79;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15863776,46;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2886710,97;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14591271,73;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2886710,97;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1272504,73;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1719,36;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;343,82;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;308027,08;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;308027,08;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;308027,08;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;2761283,52;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2761283,52;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;2296264,18;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;465019,34;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;589208,84;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;137659,66;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;134355,20;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;178349,74;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;138844,24;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;2392628,06;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;631951,34;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1282813,76;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.57.0.0;1.7.1.9.57.0.0 - Transferência Especial da União;860000,00;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;422813,76;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2756121,50;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;511187,18;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2557240,96;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;511187,18;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2374938,71;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;474987,48;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;179917,34;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;35983,48;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;1081,10;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;216,22;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1303,81;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;87372,74;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;86959,31;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;86959,31;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;24548,49;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;24548,49;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;6050993,16;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;6050993,16;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;158406,95;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;158406,95;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;158406,95;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;158406,95;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;893119,00;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;893119,00;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;743119,00;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;743119,00;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.51.0.0;2.4.1.9.51.0.0 - Transferência Especial da União;743119,00;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;150000,00;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.00.0.0;2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados;150000,00;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.99.0.0;2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados;150000,00;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);35259908,41;4898
+2023;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3398241,97;4898
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);44950256,49;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4087884,01;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;39918974,14;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4087884,01;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1314569,51;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1287227,71;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;34429,69;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;31546,20;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";2883,49;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;897376,51;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;897376,51;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;897376,51;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;355421,51;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;355421,51;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;355421,51;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;27341,80;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;27341,80;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;27341,80;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;227977,06;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;227977,06;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;227977,06;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;227977,06;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;38319603,87;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4087884,01;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;27263165,13;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3384252,17;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;18467729,75;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3347945,29;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;18466575,04;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3347714,39;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;16738574,03;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3347714,39;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1728001,01;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1154,71;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;230,90;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;333889,45;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;1338,11;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;332551,34;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;332551,34;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;3417455,96;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2171067,51;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1555265,21;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;615802,30;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.0.0;1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;1246388,45;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.1.0;1.7.1.3.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária;1204803,41;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.5.0;1.7.1.3.51.5.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Gestão do SUS;41585,04;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;965674,87;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;500908,16;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;138142,00;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;187780,46;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;138844,25;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;2368842,28;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;36306,88;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;350959,66;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1358613,16;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.57.0.0;1.7.1.9.57.0.0 - Transferência Especial da União;1300000,00;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.60.0.0;1.7.1.9.60.0.0 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022;56619,00;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1994,16;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3913517,79;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;703631,84;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3528064,45;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;703631,84;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3324637,37;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;664927,25;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;191901,82;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;38280,38;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;2120,99;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;424,21;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;9404,27;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;87259,44;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;93808,68;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;93808,68;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;204385,22;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;204385,22;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;7142920,95;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;7142920,95;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;56823,70;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;56823,70;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;56823,70;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;56823,70;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;5031282,35;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;284050,00;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.2.0.00.0.0;2.2.2.0.00.0.0 - Alienação de Bens Imóveis;284050,00;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;4747232,35;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;4166120,93;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.00.0.0;2.4.1.2.00.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE ;532766,70;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.0.0;2.4.1.2.50.0.0 - Transferências de Recursos Destinados a Programas de Educação;532766,70;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.1.0;2.4.1.2.50.1.0 - Transferências para o Programa de Apoio ao Transporte Escolar para Educação Básica - CAMINHO DA ESCOLA;532766,70;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;3283354,23;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;3283354,23;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;350000,00;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.51.0.0;2.4.1.9.51.0.0 - Transferência Especial da União;350000,00;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;581111,42;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;581111,42;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;299545,00;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.0.0;2.4.2.2.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;281566,42;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);44950256,49;5253
+2024;Prefeitura Municipal de Caturité - PB;2504355;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4087884,01;5253

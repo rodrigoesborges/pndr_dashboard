@@ -1,0 +1,785 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;11572164,33;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1414833,78;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;11572164,33;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1414833,78;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;388625,49;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;385193,56;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;214527,47;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;21199,69;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;119438,86;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.11.00;1.1.1.2.04.11.00 - Receita de Parcelamentos - Imposto sobre a Renda - Pessoas Físicas;119438,86;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";73888,92;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;170666,09;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;170666,09;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;3431,93;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;3431,93;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;191692,18;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;191692,18;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;191692,18;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;10991846,66;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1414833,78;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;10726846,66;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1414833,78;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;6135885,88;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1036880,41;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;5408421,15;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1036594,81;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;5308156,48;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1016541,91;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;100264,67;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;20052,90;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;79250,99;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;79250,57;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.90.00;1.7.2.1.22.90.00 - Outras Transferências Decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;0,42;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;154014,06;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;378083,47;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1428,00;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;285,60;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;114688,21;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2386993,30;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;377953,37;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2386993,30;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;377953,37;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1688828,91;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;336832,91;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;205602,85;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;41120,46;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;2561,54;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;490000,00;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2203967,48;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2203967,48;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;265000,00;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;265000,00;5448
+2014;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;265000,00;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;12911552,91;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1467212,35;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;12911552,91;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1467212,35;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;265798,46;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;259327,70;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;119599,90;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.01.00.00;1.1.1.2.01.00.00 - Imposto sobre a Propriedade Territorial Rural - ITR;16900,55;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;33670,28;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;33670,28;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";69029,07;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;139727,80;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;139727,80;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;6470,76;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;6470,76;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;202743,26;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;87743,26;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;87743,26;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.6.0.00.00.00;1.3.6.0.00.00.00 - Receita da Cessão de Direitos;115000,00;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;12436861,69;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1467212,35;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;12426576,62;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1467212,35;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;7942360,10;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1095148,21;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;5772195,68;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1095148,21;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;5644672,69;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1069643,65;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;127522,99;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;25504,56;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;70105,73;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;59953,17;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.90.00;1.7.2.1.22.90.00 - Outras Transferências Decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;10152,56;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1566199,67;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;228019,99;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;294395,97;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1290,50;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;10152,56;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1916695,48;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;372064,14;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1906619,35;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;372064,14;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1678634,71;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;334121,75;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;185498,70;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;37942,39;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;6,73;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;10491,71;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;31987,50;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;10076,13;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2567521,04;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2567521,04;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;10285,07;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;10285,07;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;10285,07;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;6149,50;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;6149,50;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;6149,50;5448
+2015;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;6149,50;5448
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;14197667,36;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;TotalReceitas;Total Receitas;1673084,13;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;14067667,36;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1673084,13;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;405189,57;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;399502,65;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;149588,07;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;30680,74;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;16332,05;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;16332,05;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";102575,28;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;249914,58;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;249914,58;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;5686,92;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;5671,12;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;15,80;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.21.00.00;1.1.2.2.21.00.00 - Taxas de Serviços Cadastrais;15,80;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;127938,30;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;127848,30;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;127848,30;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.9.0.00.00.00;1.3.9.0.00.00.00 - Outras Receitas Patrimoniais;90,00;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;13529739,94;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1673084,13;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;13529739,94;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1673084,13;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;8310434,67;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1292582,25;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;6713822,46;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1292338,07;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6316657,98;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1263331,59;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;252132,08;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;145032,40;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;29006,48;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;51467,18;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;51467,18;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1060391,44;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;239467,13;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;196419,57;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1220,88;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;244,18;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;47646,01;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2193180,16;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;380501,88;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2171741,66;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;380501,88;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1779568,65;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;369424,12;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;122940,79;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;11077,76;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;1013,08;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;28844,26;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;239374,88;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;21438,50;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;3026125,11;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3026125,11;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;4799,55;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;4799,55;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;4799,55;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;4799,55;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;130000,00;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;130000,00;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;130000,00;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.2.00.00.00;2.4.2.2.00.00.00 - Transferências dos Estados;130000,00;5515
+2016;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.2.99.00.00;2.4.2.2.99.00.00 - Outras Transferências dos Estados;130000,00;5515
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;14623180,38;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1594665,91;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;14218611,33;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1594665,91;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;366881,45;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;350137,61;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;203180,42;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;18107,28;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;131558,91;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;131558,91;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";53514,23;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;146957,19;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;146957,19;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;16743,84;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;16743,84;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;16743,84;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;103488,55;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.00.00;1.3.1.0.00.00.00 - Receitas Imobiliárias;65997,99;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.9.00.00.00;1.3.1.9.00.00.00 - Outras Receitas Imobiliárias;65997,99;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;37490,56;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.9.00.00.00;1.3.2.9.00.00.00 - Outras Receitas de Valores Mobiliários;37490,56;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;13748141,33;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1594665,91;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;13285637,33;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1594665,91;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;8542578,24;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1202358,44;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;6537580,91;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1202147,24;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;5832795,35;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1166558,72;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;259301,92;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);267530,64;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;177953,00;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;35588,52;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;89799,74;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;89799,74;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1505775,24;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;260758,81;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;143535,18;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1056,22;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;211,20;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;4072,14;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2004588,95;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;392307,47;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2004588,95;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;392307,47;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1781720,87;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;356343,94;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;179818,82;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;35963,53;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;3707,97;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;39341,29;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2738470,14;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2738470,14;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;462504,00;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;290000,00;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;290000,00;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;172504,00;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;172504,00;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;100,00;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;100,00;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;100,00;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;404569,05;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;404569,05;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;404569,05;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;404569,05;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;225000,00;5581
+2017;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;179569,05;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;17057994,20;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1703322,83;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;15330483,48;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;1703322,83;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;826525,87;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;49967,57;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;519874,28;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;49967,57;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;249809,13;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;49967,57;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.01.0.0;1.1.1.2.01.0.0 - Imposto sobre a Propriedade Territorial Rural;249809,13;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.1.1.2.01.0.0;1.1.1.2.01.0.0 - Imposto sobre a Propriedade Territorial Rural;49967,57;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;11766,52;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;11766,52;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;11766,52;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;258298,63;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;109409,90;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;7804,54;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;101605,36;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;148888,73;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;148888,73;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;306651,59;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;301698,26;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;301698,26;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;4953,33;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;4953,33;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;44955,93;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;44955,93;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;94133,88;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;93293,50;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;93293,50;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;93293,50;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.9.0.00.0.0;1.3.9.0.00.0.0 - Demais Receitas Patrimoniais;840,38;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;14364459,93;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;1653355,26;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;8451222,02;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1257497,88;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;8451222,02;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1257497,88;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;6833803,72;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1256987,85;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;6284968,20;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1256987,85;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;479385,62;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;69449,90;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;104038,65;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;104038,65;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;887918,59;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;211330,39;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;288040,12;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;82603,91;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;5100,00;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;71830,00;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;88371,52;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;40134,69;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2550,17;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;510,03;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2550,17;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;510,03;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;123540,38;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3309609,43;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;395857,38;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;3309609,43;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;395857,38;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;3201796,93;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;395857,38;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1833675,98;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;366734,43;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;145680,81;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;29088,87;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;946,87;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;34,08;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;31284,45;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.9.0;1.7.2.8.01.9.0 Outras Transferências dos Estados;1190208,82;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;107812,50;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;107812,50;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2603628,48;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;2603628,48;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;2603628,48;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;407,87;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.0.00.0.0;1.9.3.0.00.0.0 - Bens, Direitos e Valores Incorporados ao Patrimônio Público;407,87;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1727510,72;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1727510,72;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1662823,22;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1662823,22;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;812210,57;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 Outras Transferências da União;850612,65;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;64687,50;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;64687,50;5581
+2018;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.99.0.0;2.4.2.8.99.0.0 Outras Transferências dos Estados;64687,50;5581
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);16698073,63;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);-1873125,19;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;16684573,63;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-1873125,19;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;345269,92;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;304668,36;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;28563,07;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;28563,07;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;28563,07;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;276105,29;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;71397,97;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;38991,67;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;32406,30;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;204707,32;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;204707,32;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;40601,56;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;20291,37;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;20291,37;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;20310,19;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;20310,19;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.1.0;1.1.2.8.01.1.0 - Taxa de Fiscalização de Vigilância Sanitária;4553,87;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;15756,32;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;35164,17;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;35164,17;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;35164,17;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;35164,17;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;16299239,81;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;-1873125,19;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;10625598,57;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;-1391716,14;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;10625598,57;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;-1391716,14;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;7568588,95;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;-1391716,14;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;6820853,02;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;-1364170,35;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;301016,86;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;289895,69;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;137729,15;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;-27545,79;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;19094,23;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;113233,26;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;105095,04;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.9.0;1.7.1.8.02.9.0 Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;8138,22;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";1225404,16;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;1072809,01;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;61346,76;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;45860,71;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;45387,68;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;805464,61;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.3.0;1.7.1.8.04.3.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Vigilância em Saúde;10677,91;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.5.0;1.7.1.8.04.5.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Gestão do SUS;37877,04;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.6.0;1.7.1.8.04.6.0 - Outras Transferências de Recursos do Sistema Único de Saúde ¿ SUS, não detalhadas anteriormente;756909,66;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;254854,05;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;115317,04;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;3660,00;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;66268,00;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;68385,30;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1223,71;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;301400,32;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;356653,22;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2567915,85;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;-481409,05;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2567915,85;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;-481409,05;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2407978,35;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;-481409,05;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2257354,13;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;-451447,29;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;147022,11;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;-29417,85;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;3602,11;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;-543,91;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;159937,50;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;150937,50;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;9000,00;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3105725,39;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3105725,39;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3105725,39;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;4899,73;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;4899,73;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;4899,73;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;4899,73;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;13500,00;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;13500,00;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;13500,00;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;13500,00;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;13500,00;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.1.0;2.4.1.8.10.1.0 - Transferências de Convênio da União para o Sistema Único de Saúde ¿ SUS;13500,00;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);16698073,63;5663
+2019;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);-1873125,19;5663
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);19598893,53;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);1761207,13;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;18213908,91;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;1761207,13;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;414753,42;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;398315,60;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;6685,51;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;6685,51;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;6685,51;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;391630,09;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;196913,34;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;21588,64;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;175324,70;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;194716,75;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;194716,75;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;16437,82;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;5346,91;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;5346,91;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;11090,91;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;11090,91;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.1.0;1.1.2.8.01.1.0 - Taxa de Fiscalização de Vigilância Sanitária;750,00;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;10340,91;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;9984,99;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;9984,99;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;9984,99;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;9984,99;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;17789170,50;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;1761207,13;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;12374263,46;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1336003,46;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;12374263,46;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1336003,46;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;7281632,62;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1336003,46;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;6499219,58;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1299843,36;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;292467,28;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;293090,83;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;180800,73;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;36160,10;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;16054,20;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;105805,06;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;105805,06;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";1866690,57;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;1693653,00;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;76290,24;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;5077,94;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;91669,39;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;145425,61;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.3.0;1.7.1.8.04.3.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Vigilância em Saúde;101488,73;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.6.0;1.7.1.8.04.6.0 - Outras Transferências de Recursos do Sistema Único de Saúde ¿ SUS, não detalhadas anteriormente;43936,88;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;166011,66;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;65176,63;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;3540,00;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;73262,20;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;22790,98;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1241,85;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;194924,03;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;2613773,91;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2212247,89;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;425203,67;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2212247,89;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;425203,67;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2126063,65;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;425203,67;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1955134,27;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;391025,13;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;167854,99;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;33571,36;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;3074,39;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;607,18;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;10715,49;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.1.0;1.7.2.8.10.1.0 Transferências de Convênio dos Estados para o Sistema Único de Saúde ¿ SUS;10715,49;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;75468,75;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3202659,15;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3202659,15;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3202659,15;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1384984,62;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;47000,00;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;47000,00;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes;47000,00;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1337984,62;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1192484,62;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1192484,62;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;156748,00;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.1.0;2.4.1.8.10.1.0 - Transferências de Convênio da União para o Sistema Único de Saúde ¿ SUS;156748,00;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 Outras Transferências da União;1035736,62;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;145500,00;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;145500,00;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.99.0.0;2.4.2.8.99.0.0 Outras Transferências dos Estados;145500,00;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);19598893,53;5729
+2020;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);1761207,13;5729
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);23603722,63;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2420387,61;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;21782043,64;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2420387,61;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;412906,84;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;388072,26;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;388072,26;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;95314,34;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;44967,00;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;50347,34;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;292757,92;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;292757,92;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;24834,58;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;1474,00;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;1474,00;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;11570,61;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;11570,61;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;11789,97;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;11789,97;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.1.0;1.1.2.8.01.1.0 - Taxa de Fiscalização de Vigilância Sanitária;2010,00;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;9779,97;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;64073,05;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;64073,05;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;64073,05;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;64073,05;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;21305063,75;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2420387,61;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;14023756,41;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1795294,31;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;14023756,41;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;1795294,31;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;9646077,34;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;1783174,70;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8717959,18;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1743591,59;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;382118,79;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;337543,70;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;197915,71;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;39583,11;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;10539,96;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;173091,96;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;173091,96;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;3035953,12;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;2324919,04;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;70352,32;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;640681,76;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;170843,18;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.3.0;1.7.1.8.04.3.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Vigilância em Saúde;132351,36;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.5.0;1.7.1.8.04.5.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Gestão do SUS;38491,82;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;134800,63;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;61003,71;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;61604,89;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;10512,03;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1680,00;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 - Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;60598,13;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 - Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;12119,61;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;172052,04;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;630340,01;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3467402,93;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;625093,30;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;3467402,93;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;625093,30;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;3125485,43;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;625093,30;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;2960043,44;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;592008,57;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;161908,88;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;32378,11;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;3533,11;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;706,62;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;341917,50;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;341917,50;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3813904,41;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3813904,41;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3813904,41;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1821678,99;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1821678,99;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1821678,99;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;1821678,99;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;482992,00;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.1.0;2.4.1.8.10.1.0 - Transferências de Convênio da União para o Sistema Único de Saúde ¿ SUS;130000,00;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.2.0;2.4.1.8.10.2.0 - Transferências de Convênio da União destinadas a Programas de Educação;352992,00;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 - Outras Transferências da União;1338686,99;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasIntraOrcamentarias;RECEITAS (INTRA-ORÇAMENTÁRIAS) (II);9603,82;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.0.0.0.00.0.0;7.0.0.0.00.0.0 - Receitas Correntes;9603,82;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.0.0.00.0.0;7.2.0.0.00.0.0 - Contribuições;9603,82;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.4.0.00.0.0;7.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;9603,82;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);23613326,45;5793
+2021;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2420387,61;5793
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);30058953,01;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2968146,61;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;28993106,53;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2968146,61;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1148923,13;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1137803,56;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;316785,53;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;105797,04;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";210988,49;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;7468,48;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.01.0.0;1.1.1.3.01.0.0 - Imposto sobre a Renda de Pessoa Física - IRPF;7468,48;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;813549,55;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;813549,55;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;813549,55;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;11119,57;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;6719,00;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;4554,00;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;2165,00;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;4400,57;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;4400,57;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;247708,43;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;247708,43;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;247708,43;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;247708,43;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;27596474,97;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2968146,61;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;16456141,07;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2239618,71;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;12094101,53;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2232261,86;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;11866060,89;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2189149,04;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;10945745,39;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2189149,04;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;472660,20;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;447655,30;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;216355,65;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;43112,82;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;11684,99;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;424278,17;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;424278,17;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;424278,17;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;2958715,21;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2707734,11;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;2461816,26;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;245917,85;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.0.0;1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;250981,10;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.2.0;1.7.1.3.51.2.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Especializada;133960,68;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.3.0;1.7.1.3.51.3.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Vigilância em Saúde;92379,09;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.4.0;1.7.1.3.51.4.0 -Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Assistência Farmacêutica;12904,37;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.5.0;1.7.1.3.51.5.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Gestão do SUS;11736,96;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;253387,57;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;60339,77;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;65882,64;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;105505,16;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;21660,00;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;725658,59;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;7356,85;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.51.0.0;1.7.1.9.51.0.0 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;36784,34;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.9.51.0.0;1.7.1.9.51.0.0 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;7356,85;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.57.0.0;1.7.1.9.57.0.0 - Transferência Especial da União;27000,00;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;661874,25;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;6840448,73;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;728527,90;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3642639,56;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;728527,90;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3442377,54;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;688475,51;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;200262,02;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;40052,39;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;3197809,17;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;3197809,17;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4299885,17;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;4299885,17;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1065846,48;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;800,00;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;800,00;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;800,00;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;923246,48;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;923246,48;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.3.00.0.0;2.4.1.3.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS ;223246,48;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.3.50.0.0;2.4.1.3.50.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;223246,48;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;700000,00;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.54.0.0;2.4.1.4.54.0.0 - Transferências de Convênios da União destinadas a Programas de Infraestrutura em Transporte;700000,00;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.9.0.0.00.0.0;2.9.0.0.00.0.0 - Outras Receitas de Capital;141800,00;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.9.9.0.00.0.0;2.9.9.0.00.0.0 - Demais Receitas de Capital;141800,00;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.9.9.9.00.0.0;2.9.9.9.00.0.0 - Outras Receitas de Capital;141800,00;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.9.9.9.99.0.0;2.9.9.9.99.0.0 - Outras Receitas de Capital;141800,00;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);30058953,01;5856
+2022;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2968146,61;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);35004185,85;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3165300,28;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;34257176,89;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3165300,28;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;2093994,88;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2067544,88;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;409185,77;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";409185,77;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;9002,46;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;9002,46;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;9002,46;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;1649356,65;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;1649356,65;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;1649356,65;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;26450,00;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;2200,00;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;2200,00;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;24250,00;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;24250,00;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;9798,47;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;9798,47;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;9798,47;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;9798,47;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;29704510,19;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3165300,28;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;16605729,66;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2338181,93;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;12510900,16;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2338181,93;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;12275834,27;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2291168,76;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11790151,75;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2291168,76;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;485682,52;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;235065,89;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;47013,17;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;283798,37;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;283798,37;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;283798,37;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;3215092,60;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2771445,52;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;2735823,71;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;35621,81;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.0.0;1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;443647,08;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.2.0;1.7.1.3.51.2.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Especializada;164645,08;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.3.0;1.7.1.3.51.3.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Vigilância em Saúde;75718,00;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.4.0;1.7.1.3.51.4.0 -Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Assistência Farmacêutica;18212,50;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.5.0;1.7.1.3.51.5.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Gestão do SUS;185071,50;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;310144,85;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;75120,12;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;2520,00;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;89161,34;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;53843,65;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;89499,74;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;284603,07;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1190,61;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1190,61;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;8225966,53;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;827118,35;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;4528168,39;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;827118,35;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;4311886,29;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;783861,93;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;216282,10;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;43256,42;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;3697798,14;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;3697798,14;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4872814,00;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;4872814,00;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;2448873,35;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;2448873,35;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;2448873,35;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;2448873,35;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;747008,96;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;747008,96;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;747008,96;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.3.00.0.0;2.4.1.3.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS ;52701,63;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.3.50.0.0;2.4.1.3.50.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;52701,63;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;694307,33;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.50.0.0;2.4.1.4.50.0.0 - Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;158334,54;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.54.0.0;2.4.1.4.54.0.0 - Transferências de Convênios da União destinadas a Programas de Infraestrutura em Transporte;535972,79;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);35004185,85;5856
+2023;Prefeitura Municipal de Araguanã - TO;1702158;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3165300,28;5856

@@ -1,0 +1,956 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;14398241,81;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1594914,55;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;14005619,68;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1594914,55;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;306684,74;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;261244,15;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;145900,32;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;81182,01;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;63256,31;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.11.00;1.1.1.2.04.11.00 - Receita de Parcelamentos - Imposto sobre a Renda - Pessoas Físicas;63256,31;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";1462,00;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;115343,83;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;115343,83;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;45440,59;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;32392,14;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;13048,45;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;312994,28;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;312994,28;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;312994,28;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;7597,49;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Demais Receitas de Serviços;7597,49;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;12663603,49;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1594914,55;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;12663603,49;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1594914,55;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;8816000,36;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1324015,88;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;6618115,33;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1323571,04;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6617213,01;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1323390,59;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;902,32;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;180,45;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;114774,32;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.50.00;1.7.2.1.22.50.00 - Cota-Parte Royalties pela Participação Especial - Lei nº 9.478/97 artigo 50;55427,96;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;57665,99;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.90.00;1.7.2.1.22.90.00 - Outras Transferências Decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;1680,37;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1234318,52;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;235653,14;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;262110,42;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2224,44;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;444,84;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;348804,19;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1380524,33;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;270898,67;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1355955,51;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;270898,67;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1290386,21;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;258077,08;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;62847,48;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;12570,25;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;1256,54;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;251,34;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1465,28;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;24568,82;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2467078,80;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2463097,47;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3981,33;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;714739,68;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;0,03;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;0,03;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;17269,60;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;17269,60;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;17269,60;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;697470,05;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;392622,13;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;392622,13;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;99284,03;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;99284,03;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;40091,21;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;59192,82;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;293338,10;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;293338,10;5554
+2014;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;293338,10;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;17561319,40;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1672765,01;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;14860366,20;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1672765,01;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;314310,38;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;248785,86;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;162125,15;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;99944,30;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;59320,45;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;59320,45;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";2860,40;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;86660,71;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;86660,71;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;65524,52;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;64943,18;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;581,34;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;111287,10;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;111287,10;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;111287,10;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;15,00;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;15,00;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;14368654,00;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1672765,01;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;14355210,00;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1672765,01;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;9417401,17;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1389639,96;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7030473,73;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1389639,96;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7029671,44;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1389479,54;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;802,29;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;160,42;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;130692,45;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.50.00;1.7.2.1.22.50.00 - Cota-Parte Royalties pela Participação Especial - Lei nº 9.478/97 artigo 50;43146,12;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;87546,33;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1378431,11;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;212369,89;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;359032,61;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;306401,38;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1442529,36;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;283125,05;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1421113,36;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;283125,05;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1352975,88;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;270595,00;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;61489,63;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;12298,11;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;1159,62;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;231,94;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;5488,23;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;21416,00;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;3495279,47;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3302250,39;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;193029,08;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;13444,00;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;13444,00;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;13444,00;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;66099,72;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;8188,14;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;8188,14;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;8188,14;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;36447,46;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.2.00.00.00;1.9.3.2.00.00.00 - Receita da Dívida Ativa Não Tributária;36447,46;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;21464,12;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;2700953,20;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;2700953,20;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;11383,15;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;11383,15;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.02.00.00;2.4.2.1.02.00.00 - Transferências de Recursos Destinados a Programas de Educação;5516,01;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;5867,14;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;2689570,05;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;2689570,05;5554
+2015;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;2689570,05;5554
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;17472889,00;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1887855,28;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;16456578,21;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1887855,28;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;457866,31;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;360462,31;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;142126,60;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;66151,32;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;72282,96;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;72282,96;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";3692,32;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;218335,71;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;218335,71;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;97404,00;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;95560,77;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;1843,23;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.21.00.00;1.1.2.2.21.00.00 - Taxas de Serviços Cadastrais;1843,23;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;82,34;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.2.0.00.00.00;1.2.2.0.00.00.00 - Contribuições de Intervenção no Domínio Econômico;82,34;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.2.0.99.00.00;1.2.2.0.99.00.00 - Outras Contribuições Econômicas;82,34;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;121509,53;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;121509,53;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;121509,53;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;15619448,85;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1887855,28;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;15619448,85;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1887855,28;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;10614689,10;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1582274,93;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8457035,54;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1582027,83;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7929670,49;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1581853,76;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;292484,62;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);234009,82;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;870,61;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;174,07;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;100287,64;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.50.00;1.7.2.1.22.50.00 - Cota-Parte Royalties pela Participação Especial - Lei nº 9.478/97 artigo 50;14681,52;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;85606,12;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1397203,13;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;315741,75;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;298358,63;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1235,78;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;247,10;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;44826,63;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1551274,87;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;305580,35;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1549389,52;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;305580,35;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1434525,86;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;286904,91;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;91827,61;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;18365,73;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;1548,37;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;309,71;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;21487,68;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;1885,35;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;3453484,88;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3453484,88;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;257671,18;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;76962,12;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;76962,12;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;76962,12;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;11293,06;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.2.00.00.00;1.9.3.2.00.00.00 - Receita da Dívida Ativa Não Tributária;11293,06;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.2.99.00.00;1.9.3.2.99.00.00 - Receita da Dívida Ativa Não Tributária de Outras Receitas;11293,06;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;169416,00;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;169416,00;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;1016310,79;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;1016310,79;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;3000,00;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;3000,00;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;3000,00;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;1013310,79;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;1013310,79;5593
+2016;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;1013310,79;5593
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;16550975,02;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1836044,41;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;16086905,66;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1836044,41;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;248838,95;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;198746,14;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;133613,07;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;31989,29;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;88045,79;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;88045,79;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";13577,99;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;65133,07;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;65133,07;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;50092,81;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;50092,81;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;52535,92;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;52535,92;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;52535,92;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;8135,81;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;8135,81;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;15751639,73;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1836044,41;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;15751639,73;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1836044,41;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;10485064,76;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1508498,78;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8225932,00;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1508463,06;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7543969,12;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1508300,49;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;335258,28;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);345897,40;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;807,20;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;162,57;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;129713,43;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;129713,43;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1421223,70;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;399964,78;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;305209,13;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;178,60;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;35,72;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;2843,12;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1668879,74;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;327545,63;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1668879,74;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;327545,63;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1532695,06;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;306567,01;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;103149,79;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;20630,22;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;1752,42;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;348,40;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;31282,47;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;3597695,23;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3597695,23;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;25755,25;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;25755,25;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;793,81;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;24961,44;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;24961,44;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;464069,36;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;464069,36;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;208455,00;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;208455,00;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;149955,00;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;58500,00;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;255614,36;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;255614,36;5630
+2017;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;255614,36;5630
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;18617757,41;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;2137502,81;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;17892290,42;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2137502,81;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;277388,88;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;211795,20;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;77980,05;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;77980,05;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;77980,05;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;133815,15;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;2810,15;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;2805,15;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;5,00;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;131005,00;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;131005,00;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;65593,68;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;3992,18;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;1036,57;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;2955,61;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;61601,50;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;61601,50;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;32982,39;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;32982,39;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;32982,39;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;32982,39;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;17410575,19;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2137502,81;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;11472342,88;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1610883,65;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;11472342,88;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1610883,65;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8756878,81;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1610134,13;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8050671,16;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1610134,13;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;357214,39;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;348993,26;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;213746,50;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;213746,50;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;1791264,80;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;352619,06;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;355739,59;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;152193,00;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;139715,69;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;63830,90;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2094,12;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;749,52;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2094,12;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;749,52;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2005322,18;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;526619,16;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2005322,18;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;526619,16;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1805322,18;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;526619,16;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1672053,16;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;503066,63;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;115341,46;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;23068,19;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;1903,89;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;484,34;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;16023,67;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;200000,00;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;200000,00;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3932910,13;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3932910,13;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3932910,13;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;171343,96;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;171343,96;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;171343,96;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;171343,96;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;725466,99;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;725466,99;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;725466,99;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;725466,99;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;200000,00;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;351875,00;5666
+2018;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 Outras Transferências da União;173591,99;5666
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);20338341,94;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2119432,30;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;19643924,69;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2119432,30;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;295313,55;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;230360,27;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;105351,34;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;105351,34;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;105351,34;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;125008,93;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;32559,84;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;32559,84;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;92449,09;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;92449,09;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;64953,28;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;64953,28;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;64953,28;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;36906,69;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;36906,69;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;36906,69;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;36906,69;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;19298028,04;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2119432,30;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;13053527,19;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1751744,97;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;13053527,19;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1751744,97;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9517528,18;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1751744,97;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8758726,21;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1751744,97;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;386541,43;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;372260,54;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;645955,50;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;645955,50;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";2218365,72;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;2218365,72;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;337391,87;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;150825,57;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;120274,00;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;66292,30;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;334285,92;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1984810,19;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;367687,33;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1984810,19;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;367687,33;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1848163,19;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;367687,33;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1690512,36;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;338098,21;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;146232,71;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;29246,53;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;1659,49;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;342,59;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;9758,63;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;136647,00;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4259690,66;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4259690,66;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4259690,66;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;13676,41;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;5377,39;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;5377,39;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;5377,39;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;8299,02;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;8299,02;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;7199,02;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;1100,00;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;694417,25;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;694417,25;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;694417,25;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;694417,25;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;615857,26;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;615857,26;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 Outras Transferências da União;78559,99;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);20338341,94;5608
+2019;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2119432,30;5608
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);21703515,10;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2116543,78;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;21436443,44;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2116543,78;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;288869,29;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;221340,38;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;128461,49;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.01.0.0;1.1.1.3.01.0.0 - Imposto sobre a Renda de Pessoa Física - IRPF;128461,49;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;92878,89;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;44348,66;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;44348,66;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;48530,23;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;48530,23;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;67528,91;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;67528,91;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;67528,91;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;903109,72;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;903109,72;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.00.0.0;1.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e Municípios;903109,72;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.01.0.0;1.2.1.8.01.0.0 - Contribuição do Servidor Civil para o Plano de Seguridade Social - CPSSS - Específico de EST/DF/MUN;903109,72;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.01.1.0;1.2.1.8.01.1.0 - CPSSS do Servidor Civil Ativo;903109,72;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;49007,76;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;49007,76;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;49007,76;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;17663,87;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.4.0;1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;31343,89;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;19937724,34;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2116543,78;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;14053550,37;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1745363,16;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;14053550,37;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1745363,16;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9103417,44;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1745363,16;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8726817,32;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1745363,16;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;376600,12;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;176281,19;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;176281,19;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";2850324,62;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;2850324,62;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;291188,32;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;122063,48;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;135519,39;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;33605,45;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;402545,94;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1229792,86;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1869050,12;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;371180,62;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1869050,12;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;371180,62;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1864145,12;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;371180,62;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1076538,65;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;215289,48;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;779456,47;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;155891,14;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;8150,00;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;4905,00;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4015123,85;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4015123,85;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4015123,85;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;257732,33;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;256594,39;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.01.0.0;1.9.1.0.01.0.0 - Multas Previstas em Legislação Específica;256594,39;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;1137,94;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;1137,94;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;1137,94;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;267071,66;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;267071,66;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;226060,69;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;226060,69;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;222006,71;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;222006,71;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 Outras Transferências da União;4053,98;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;41010,97;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;41010,97;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;6683,59;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;6683,59;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.99.0.0;2.4.2.8.99.0.0 Outras Transferências dos Estados;34327,38;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasIntraOrcamentarias;RECEITAS (INTRA-ORÇAMENTÁRIAS) (II);1662175,64;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.0.0.0.00.0.0;7.0.0.0.00.0.0 - Receitas Correntes;1662175,64;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.0.0.00.0.0;7.2.0.0.00.0.0 - Contribuições;1662175,64;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.0.00.0.0;7.2.1.0.00.0.0 - Contribuições Sociais;1662175,64;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.8.00.0.0;"7.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e 
+ Municípios";1662175,64;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.8.03.0.0;7.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN;1662175,64;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.8.03.1.0;7.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo;1662175,64;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);23365690,74;5638
+2020;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2116543,78;5638
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);25218291,85;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2681469,93;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;24726459,79;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2681469,93;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;407535,83;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;404937,14;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;153743,63;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.01.0.0;1.1.1.3.01.0.0 - Imposto sobre a Renda de Pessoa Física - IRPF;153743,63;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;251193,51;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;170887,84;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;170887,84;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;80305,67;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;80305,67;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;2598,69;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;2598,69;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;2598,69;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;809640,53;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;662452,11;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.00.0.0;1.2.1.8.00.0.0 - Contribuições Sociais Específicas de Estados, DF e Municípios;662452,11;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.01.0.0;1.2.1.8.01.0.0 - Contribuição do Servidor Civil para o Plano de Seguridade Social - CPSSS - Específico de EST/DF/MUN;662452,11;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.01.1.0;1.2.1.8.01.1.0 - CPSSS do Servidor Civil Ativo;662452,11;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;147188,42;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;155420,67;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;155420,67;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;155420,67;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;34353,89;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.4.0;1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;121066,78;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;23322211,48;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2681469,93;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;15897175,73;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2210725,44;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;15897175,73;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;2210725,44;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;11978821,84;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;2210725,44;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11052882,17;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2210576,19;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;491249,43;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;433943,68;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;746,56;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;149,25;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;274233,98;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.4.0;1.7.1.8.02.4.0 - Cota-parte Royalties pelo Excedente da Produção do Petróleo ¿ Lei nº 9.478/97, artigo 49, I e II;6078,67;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;268155,31;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2680820,90;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;2680820,90;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;327414,15;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;113856,38;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;142946,72;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;47416,40;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;23194,65;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;409525,89;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;210060,01;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;16298,96;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2360754,77;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;470744,49;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;2360754,77;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;470744,49;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;2359040,49;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;470744,49;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;1893849,19;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;378769,63;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;168219,29;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;33643,79;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;291780,54;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;58331,07;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;5191,47;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 - Transferência da Cota-parte da Compensação Financeira (25%);1714,28;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.3.0;1.7.2.8.02.3.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º;1714,28;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5064280,98;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;5064280,98;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;5064280,98;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;31651,28;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;31651,28;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;26933,13;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;26933,13;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;4718,15;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;4718,15;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;491832,06;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;491832,06;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;48750,00;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;48750,00;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;48750,00;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;48750,00;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;443082,06;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 - Transferências dos Estados, Distrito Federal, e de suas Entidades;443082,06;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;5968,45;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;5968,45;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.99.0.0;2.4.2.8.99.0.0 - Outras Transferências dos Estados;437113,61;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasIntraOrcamentarias;RECEITAS (INTRA-ORÇAMENTÁRIAS) (II);1468696,12;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.0.0.0.00.0.0;7.0.0.0.00.0.0 - Receitas Correntes;1468696,12;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.0.0.00.0.0;7.2.0.0.00.0.0 - Contribuições;1468696,12;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.0.00.0.0;7.2.1.0.00.0.0 - Contribuições Sociais;1468696,12;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.8.00.0.0;7.2.1.8.00.0.0 - Contribuições Sociais Específicas de Estados, DF e   Municípios;1468696,12;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.8.03.0.0;7.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN;1468696,12;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.8.03.1.0;7.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo;1468696,12;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);26686987,97;5668
+2021;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2681469,93;5668
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);30881816,91;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3266667,05;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;30876332,89;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3266667,05;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;603029,50;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;551519,76;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;25984,73;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;24204,73;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";1780,00;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;383160,26;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.01.0.0;1.1.1.3.01.0.0 - Imposto sobre a Renda de Pessoa Física - IRPF;383160,26;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;63114,31;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;63114,31;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;63114,31;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.9.00.0.0;1.1.1.9.00.0.0 - Outros Impostos;79260,46;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;39983,47;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;39983,47;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;31263,98;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;8719,49;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;11526,27;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.00.0.0;1.1.3.1.00.0.0 - Contribuição de Melhoria;11526,27;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.50.0.0;1.1.3.1.50.0.0 - Contribuição de Melhoria para Expansão da Rede de Água Potável e Esgoto Sanitário;11526,27;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;2273722,47;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;2161429,78;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.00.0.0;1.2.1.5.00.0.0 - Contribuições para Regimes Próprios de Previdência e Sistema de Proteção Social;2161429,78;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.01.0.0;1.2.1.5.01.0.0 - Contribuição do Servidor Civil;705549,27;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.01.1.0;1.2.1.5.01.1.0 - Contribuição do Servidor Civil Ativo;705549,27;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.02.0.0;1.2.1.5.02.0.0 - Contribuição Patronal - Servidor Civil;1455880,51;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.02.1.0;1.2.1.5.02.1.0 - Contribuição Patronal - Servidor Civil Ativo;1455880,51;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;112292,69;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;752496,18;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;752123,72;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;752123,72;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;204130,28;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.04.0.0;1.3.2.1.04.0.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;547993,44;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.9.0.00.0.0;1.3.9.0.00.0.0 - Demais Receitas Patrimoniais;372,46;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;27215345,68;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3266667,05;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;19092232,98;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2790395,94;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;15243644,25;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2790395,94;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15234453,92;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2790158,10;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14054495,73;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2790158,10;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;606008,78;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;573949,41;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1189,50;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;237,84;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;8000,83;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;497645,70;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;351935,62;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.3.0;1.7.1.2.52.3.0 - Cota-parte pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;10892,04;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;341043,58;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;145710,08;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;2293074,39;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2092298,48;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1815842,24;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;88909,20;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;116343,81;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;71203,23;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.0.0;1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;198088,39;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.1.0;1.7.1.3.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária;129546,68;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.4.0;1.7.1.3.51.4.0 -Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Assistência Farmacêutica;5591,02;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.5.0;1.7.1.3.51.5.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Gestão do SUS;40050,71;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.9.0;1.7.1.3.51.9.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Outros Programas;22899,98;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.99.0.0;1.7.1.3.99.0.0 - Outras Transferências de Recursos do Sistema Único de Saúde - SUS;2687,52;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;292062,64;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;115331,76;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;85144,00;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;91586,88;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;528684,60;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;233588,00;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;3533,40;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;3533,40;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2686250,22;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;476271,11;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2381494,35;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;476271,11;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2177836,94;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;435567,16;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;201470,64;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;40294,09;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;2186,77;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;409,86;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;35344,84;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;269411,03;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;269411,03;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5433338,49;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;5433338,49;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.0.00.0.0;1.7.9.0.00.0.0 - Demais Transferências Correntes;3523,99;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.9.00.0.0;1.7.9.9.00.0.0 - Outras Transferências Correntes;3523,99;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;31739,06;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;31739,06;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;31739,06;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;31739,06;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;5484,02;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;5484,02;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;5484,02;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.00.0.0;2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados;5484,02;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.99.0.0;2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados;5484,02;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);30881816,91;5697
+2022;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3266667,05;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);36541675,41;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3429411,98;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;36517120,27;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3429411,98;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;437801,03;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;417618,39;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;50543,84;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;45191,95;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";5351,89;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;227018,01;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.01.0.0;1.1.1.3.01.0.0 - Imposto sobre a Renda de Pessoa Física - IRPF;227018,01;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;124045,13;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;124045,13;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;124045,13;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.9.00.0.0;1.1.1.9.00.0.0 - Outros Impostos;16011,41;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;20182,64;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;20182,64;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;9739,30;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;10443,34;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;2269793,36;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;2175503,80;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.1.00.0.0;1.2.1.1.00.0.0 - Contribuição para Financiamento da Seguridade Social - COFINS;1053,45;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.1.01.0.0;1.2.1.1.01.0.0 - Contribuição para Financiamento da Seguridade Social - COFINS sobre o Faturamento - Contribuintes Não Optantes pelo Simples Nacional;1053,45;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.00.0.0;1.2.1.5.00.0.0 - Contribuições para Regimes Próprios de Previdência e Sistema de Proteção Social;2174450,35;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.01.0.0;1.2.1.5.01.0.0 - Contribuição do Servidor Civil;690847,88;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.01.1.0;1.2.1.5.01.1.0 - Contribuição do Servidor Civil Ativo;690847,88;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.02.0.0;1.2.1.5.02.0.0 - Contribuição Patronal - Servidor Civil;1483602,47;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.02.1.0;1.2.1.5.02.1.0 - Contribuição Patronal - Servidor Civil Ativo;1483602,47;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;94289,56;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;1108686,61;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;1108686,61;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;1108686,61;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;159352,37;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.04.0.0;1.3.2.1.04.0.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;949334,24;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;35983,95;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;35983,95;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;32349760,94;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3429411,98;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;22064105,29;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2863320,65;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;15574422,77;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2863320,65;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15572206,45;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2863194,76;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14945010,54;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2863194,76;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;627195,91;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;629,74;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;125,89;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1586,58;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;311210,25;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;311210,25;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.3.0;1.7.1.2.52.3.0 - Cota-parte pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;14575,66;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;296634,59;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;3011995,17;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2835028,37;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1655641,85;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;924751,44;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;191883,88;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;62751,20;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.0.0;1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;176966,80;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.5.0;1.7.1.3.51.5.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Gestão do SUS;176966,80;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;453853,35;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;136326,01;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;238640,20;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;78887,14;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;1535033,26;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;413548,25;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;206153,20;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.99.0.0;1.7.1.7.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;206153,20;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;557889,04;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.52.0.0;1.7.1.9.52.0.0 - Transferências da União a Consórcios Públicos;554273,08;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;3615,96;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3071066,56;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;566091,33;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2830719,63;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;566091,33;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2581801,10;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;516359,90;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;244746,53;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;48949,35;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;4172,00;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;782,08;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;240346,93;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.50.0.0;1.7.2.9.50.0.0 - Transferências de Estados a Consórcios Públicos;187986,76;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;52360,17;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;6863476,72;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;6863476,72;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.0.00.0.0;1.7.9.0.00.0.0 - Demais Transferências Correntes;351112,37;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.9.00.0.0;1.7.9.9.00.0.0 - Outras Transferências Correntes;351112,37;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;315094,38;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;270,00;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;270,00;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;270,00;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;314824,38;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;314824,38;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;314824,38;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.3.0;1.9.9.9.99.3.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Financeiras;314824,38;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;24555,14;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;24555,14;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;20438,51;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;20438,51;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;20438,51;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4116,63;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.00.0.0;2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados;4116,63;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.99.0.0;2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados;4116,63;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);36541675,41;5697
+2023;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3429411,98;5697
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);47646989,72;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3920241,71;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;44877597,71;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3920241,71;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1146655,40;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1128909,10;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;54766,25;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;43434,55;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";11331,70;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;784366,75;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.01.0.0;1.1.1.3.01.0.0 - Imposto sobre a Renda de Pessoa Física - IRPF;784366,75;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;271362,09;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;271362,09;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;271362,09;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.9.00.0.0;1.1.1.9.00.0.0 - Outros Impostos;18414,01;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;17746,30;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;17746,30;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;8077,25;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;9669,05;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;2794554,46;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;2560604,16;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.1.00.0.0;1.2.1.1.00.0.0 - Contribuição para Financiamento da Seguridade Social - COFINS;1699,40;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.1.01.0.0;1.2.1.1.01.0.0 - Contribuição para Financiamento da Seguridade Social - COFINS sobre o Faturamento - Contribuintes Não Optantes pelo Simples Nacional;1699,40;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.00.0.0;1.2.1.5.00.0.0 - Contribuições para Regimes Próprios de Previdência e Sistema de Proteção Social;2558904,76;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.01.0.0;1.2.1.5.01.0.0 - Contribuição do Servidor Civil;857078,70;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.01.1.0;1.2.1.5.01.1.0 - Contribuição do Servidor Civil Ativo;857078,70;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.02.0.0;1.2.1.5.02.0.0 - Contribuição Patronal - Servidor Civil;1701826,06;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.02.1.0;1.2.1.5.02.1.0 - Contribuição Patronal - Servidor Civil Ativo;1701826,06;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;233950,30;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;792947,90;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;792947,90;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;792947,90;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;180423,87;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.04.0.0;1.3.2.1.04.0.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;612524,03;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;802,12;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;802,12;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;40115181,21;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3920241,71;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;28406231,87;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3313471,61;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;17990558,58;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3313471,61;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;17978508,04;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3313333,37;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;17250419,04;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3313333,37;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;728089,00;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;691,54;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;138,24;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;11359,00;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;332885,74;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;332885,74;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.3.0;1.7.1.2.52.3.0 - Cota-parte pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;4587,16;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;328298,58;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;4204339,38;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;3681228,30;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;3455276,86;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;116674,44;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;68220,24;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;41056,76;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.0.0;1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;523111,08;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.4.0;1.7.1.3.51.4.0 -Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Assistência Farmacêutica;29975,00;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.5.0;1.7.1.3.51.5.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Gestão do SUS;493136,08;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;1050421,90;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;498505,20;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;249546,00;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;73458,70;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;228912,00;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;3706201,96;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;421805,07;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;598425,89;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.99.0.0;1.7.1.7.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;598425,89;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;101593,35;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.52.0.0;1.7.1.9.52.0.0 - Transferências da União a Consórcios Públicos;101593,35;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3524126,59;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;606770,10;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3034128,53;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;606770,10;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2773315,31;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;554662,84;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;256392,33;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;51278,51;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;4420,89;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;828,75;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;489998,06;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.52.0.0;1.7.2.9.52.0.0 - Transferências de Recursos Destinados a Programas de Educação;129952,42;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;360045,64;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;8184822,75;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;8184822,75;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;27456,62;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;27456,62;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.00.0.0;1.9.2.3.00.0.0 - Ressarcimentos;27456,62;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.99.0.0;1.9.2.3.99.0.0 - Outros Ressarcimentos;27456,62;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;2769392,01;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.0.0.00.0.0;2.1.0.0.00.0.0 - Operações de Crédito;1800000,00;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.0.00.0.0;2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno;1800000,00;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.9.00.0.0;2.1.1.9.00.0.0 - Outras Operações de Crédito - Mercado Interno;1800000,00;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;605001,00;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.2.0.00.0.0;2.2.2.0.00.0.0 - Alienação de Bens Imóveis;605001,00;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;364391,01;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;364391,01;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;364391,01;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;364391,01;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);47646989,72;6017
+2024;Prefeitura Municipal de Encanto - RN;2403301;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3920241,71;6017

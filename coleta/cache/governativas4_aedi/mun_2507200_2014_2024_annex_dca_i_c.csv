@@ -1,0 +1,960 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;21698639,41;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;2164723,92;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;21453839,41;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2164723,92;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;3070743,42;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;3057735,42;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;195376,87;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;1535,60;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;152682,03;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;152682,03;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";41159,24;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;2862358,55;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;2862358,55;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;13008,00;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;12227,00;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;781,00;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;272295,46;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;272295,46;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;272295,46;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;18085799,15;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2164723,92;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;18019761,65;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2164723,92;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;11813370,20;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1756543,28;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;9169282,30;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1756020,08;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;9163322,47;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1754828,17;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;5959,83;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1191,91;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;136808,02;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;136808,02;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1724532,09;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;193545,40;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;410133,73;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2616,36;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;523,20;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;176452,30;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2147147,60;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;408180,64;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2147147,60;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;408180,64;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2040905,62;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;408180,64;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;81025,43;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;2050,72;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1783,25;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;21382,58;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;4059243,85;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3891893,68;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;167350,17;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;66037,50;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;66037,50;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;66037,50;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;25001,38;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;18139,47;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;18139,47;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;18139,47;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;6861,91;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;244800,00;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;244800,00;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;244800,00;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;244800,00;10666
+2014;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;244800,00;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;21431435,47;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;2273031,95;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;21304071,12;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2273031,95;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;811243,72;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;789017,06;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;300550,09;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;39890,16;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;205423,15;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;205125,87;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;297,28;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";55236,78;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;488466,97;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;488466,97;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;22226,66;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;21366,66;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;860,00;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;312175,99;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;312175,99;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;312175,99;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;20169392,95;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2273031,95;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;19866562,95;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2273031,95;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;12899667,14;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1846414,74;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;9742816,72;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1845873,30;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;9734058,89;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1844121,79;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;8757,83;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1751,51;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;105448,25;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.20.00;1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;2060,92;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;103387,33;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1950241,56;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;235268,30;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;836186,09;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2707,32;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;541,44;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;26998,90;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2319698,77;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;426617,21;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2229544,68;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;426617,21;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2133087,06;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;426617,21;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;87455,29;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;1913,83;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7088,50;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;90154,09;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;4647197,04;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;4358410,41;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;288786,63;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;302830,00;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;250000,00;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;250000,00;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;52830,00;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;52830,00;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;11258,46;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;150,00;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;150,00;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;150,00;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;8254,46;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;8254,46;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;8254,46;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;2854,00;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;127364,35;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;127364,35;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;127364,35;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;127364,35;10666
+2015;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;127364,35;10666
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;25579307,31;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;2552548,25;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;25443707,31;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2552548,25;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;945008,25;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;932557,25;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;291463,68;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;24999,25;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;204929,33;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;204929,33;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";61535,10;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;641093,57;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;641093,57;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;12451,00;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;12141,00;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;310,00;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.28.00.00;1.1.2.2.28.00.00 - Taxa de Cemitérios;310,00;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;200177,95;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;200177,95;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;200177,95;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;22885289,64;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2552548,25;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;22504459,64;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2552548,25;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;14532281,50;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2103173,27;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;11288427,53;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2102631,11;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;10532346,33;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2101049,76;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;437357,58;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);310816,51;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;7907,11;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1581,35;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;91633,54;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.20.00;1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;3249,43;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;88384,11;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;2205497,57;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;319306,21;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;605056,25;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2711,16;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;542,16;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;19649,24;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2401130,51;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;449374,98;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2361130,51;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;449374,98;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2246875,88;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;360955,59;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;112557,84;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;88419,39;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;1696,79;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;40000,00;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;5571047,63;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;5018988,81;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;552058,82;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;380830,00;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;328000,00;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;328000,00;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;52830,00;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;52830,00;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;1413231,47;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;1402685,18;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;1385737,80;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;16947,38;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;16947,38;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;8719,48;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;8719,48;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;8719,48;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;1826,81;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;1826,81;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;135600,00;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;135600,00;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;135600,00;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;81600,00;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;81600,00;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.2.00.00.00;2.4.2.2.00.00.00 - Transferências dos Estados;54000,00;10739
+2016;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.2.99.00.00;2.4.2.2.99.00.00 - Outras Transferências dos Estados;54000,00;10739
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;25636259,42;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;2469538,52;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;25556259,42;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2469538,52;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;635188,24;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;624373,24;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;371639,35;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;49653,46;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;242989,39;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;216373,27;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;26616,12;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";78996,50;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;252733,89;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;252733,89;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;10815,00;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;10330,00;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;485,00;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.28.00.00;1.1.2.2.28.00.00 - Taxa de Cemitérios;485,00;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;322114,86;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;322114,86;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;322114,86;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;22456260,91;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2469538,52;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;22257460,91;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2469538,52;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;14288509,97;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1998732,10;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;10892948,29;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1998207,44;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;9985431,76;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1997085,99;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;443910,95;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);457998,06;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;5607,52;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1121,45;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;115990,15;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;115990,15;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;2329416,58;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;364121,06;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;541434,91;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2623,72;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;524,66;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;41975,26;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2540423,54;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;470806,42;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2466531,40;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;470806,42;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2354033,22;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;470806,42;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;112476,23;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;21,95;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;73892,14;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;5428527,40;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;5052131,87;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;376395,53;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;198800,00;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;198800,00;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.01.00.00;1.7.6.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;198800,00;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;2142695,41;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;2126459,65;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;2123670,00;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;2789,65;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;2789,65;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;14814,64;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;14814,64;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;14814,64;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;1421,12;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;1421,12;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;80000,00;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;80000,00;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;80000,00;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.00.00;2.4.2.2.00.00.00 - Transferências dos Estados;80000,00;10809
+2017;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.00.00;2.4.2.2.99.00.00 - Outras Transferências dos Estados;80000,00;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;27347093,04;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;2630988,50;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;26177675,05;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2630988,50;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;724145,71;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;702185,71;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;259429,98;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;259429,98;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;257761,20;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;1668,78;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;442755,73;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;89801,11;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;43483,81;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;46317,30;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;352954,62;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;352954,62;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;21960,00;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;21605,00;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;21605,00;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;355,00;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;355,00;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;84695,43;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;84695,43;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;234826,50;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;234826,50;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;234826,50;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;234826,50;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;25104992,72;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2630988,50;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;16530494,13;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2138876,30;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;16530494,13;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2138876,30;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;11629507,44;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2138374,82;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;10685696,53;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2137139,02;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;474593,34;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;463038,21;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;6179,36;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1235,80;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;177739,79;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;177739,79;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;3915931,38;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;229873,57;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;557512,49;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;186724,83;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;7380,00;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;212972,00;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;81869,48;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;68566,18;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2507,52;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;501,48;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2507,52;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;501,48;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;17421,94;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2759836,66;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;492112,20;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2759836,66;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;492112,20;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2607006,66;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;492112,20;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2460562,06;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;492112,20;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;125073,27;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;21371,33;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;152830,00;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;152830,00;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5814661,93;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;5814661,93;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;5814661,93;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;29014,69;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;27910,06;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;27910,06;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;27910,06;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;1104,63;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;1104,63;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;1104,63;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1169417,99;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;65805,00;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;65805,00;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes;65805,00;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1103612,99;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1103612,99;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1103612,99;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;853612,99;10809
+2018;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 Outras Transferências da União;250000,00;10809
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);28028015,73;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2888226,58;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;27878015,73;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2888226,58;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;744638,95;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;729043,95;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;313645,05;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;313645,05;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;306085,42;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;7559,63;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;415398,90;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;108403,71;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;35805,74;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;72597,97;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;306995,19;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;306995,19;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;15595,00;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;515,00;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;515,00;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;15080,00;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;15080,00;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;15080,00;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;97047,34;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;97047,34;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;152010,56;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;152010,56;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;152010,56;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;152010,56;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;26851546,50;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2888226,58;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;17724016,65;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2331702,75;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;17724016,65;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2331702,75;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;12680925,59;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2331702,75;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11652757,50;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2330551,23;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;514257,73;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;495258,32;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;5757,97;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1151,52;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;12894,07;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;179544,53;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;179544,53;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";2883054,27;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;759003,80;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;42489,56;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;68345,50;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;117670,39;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;1895545,02;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;506009,30;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;227769,62;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;7260,00;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;187708,00;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;82293,76;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;977,92;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;411752,61;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;441149,60;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;621580,75;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2985559,77;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;556523,83;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2985559,77;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;556523,83;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2932729,77;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;556523,83;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2782620,05;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;556523,83;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;144925,48;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;5184,24;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;52830,00;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;52830,00;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;6141970,08;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;6141970,08;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;6141970,08;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;32772,38;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;31190,03;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.00.0.0;1.9.2.8.00.0.0 - Indenizações, Restituições e Ressarcimentos - Específicas para Estados/DF/Municípios;31190,03;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.02.0.0;1.9.2.8.02.0.0 - Restituições - Específicas para Estados/DF/Municípios;31190,03;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.02.9.0;1.9.2.8.02.9.0 - Outras Restituições - Específicas para Estados/DF/Municípios - Não Especificadas Anteriormente;31190,03;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;1582,35;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;1582,35;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;1582,35;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;150000,00;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.9.0.0.00.0.0;2.9.0.0.00.0.0 - Outras Receitas de Capital;150000,00;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.9.9.0.00.0.0;2.9.9.0.00.0.0 - Demais Receitas de Capital;150000,00;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.9.9.0.00.1.0;2.9.9.0.00.1.0 Demais Receitas de Capital;150000,00;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);28028015,73;10801
+2019;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2888226,58;10801
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);31082068,25;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2807741,04;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;30441865,56;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2807741,04;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;740953,11;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;732633,11;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;386144,23;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;386144,23;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;383734,70;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;2409,53;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;346488,88;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;90289,30;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;21336,30;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;68953,00;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;256199,58;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;256199,58;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;8320,00;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;400,00;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;400,00;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;7920,00;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;7920,00;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;7920,00;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;85567,16;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;85567,16;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;39145,86;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;39145,86;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;39145,86;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;39145,86;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;29525114,81;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2807741,04;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;20199768,13;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2226584,08;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;20199768,13;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2226584,08;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;12146031,89;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2226584,08;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11125396,47;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2225079,01;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;500646,94;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;501714,34;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;7525,59;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1505,07;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;10748,55;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;178995,43;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;178995,43;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";4520909,72;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;423750,00;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;42265,56;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;50535,70;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;163897,77;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;3840460,69;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;433392,50;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;160048,16;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;7380,00;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;175478,60;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;88431,39;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;2054,35;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;549928,97;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;44592,99;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 Outras Transferências de Convênios da União;44592,99;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;438627,26;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1887289,37;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3138332,07;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;581156,96;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;3138332,07;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;581156,96;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;3066187,26;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;581156,96;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2905785,80;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;581156,96;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;158913,07;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;1488,39;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;20939,32;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;20939,32;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;51205,49;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;6187014,61;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;6187014,61;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;6187014,61;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;51084,62;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;46240,78;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.00.0.0;1.9.2.8.00.0.0 - Indenizações, Restituições e Ressarcimentos - Específicas para Estados/DF/Municípios;46240,78;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.02.0.0;1.9.2.8.02.0.0 - Restituições - Específicas para Estados/DF/Municípios;46240,78;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.02.9.0;1.9.2.8.02.9.0 - Outras Restituições - Específicas para Estados/DF/Municípios - Não Especificadas Anteriormente;46240,78;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;4843,84;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;4843,84;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;4843,84;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;640202,69;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;23000,00;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;23000,00;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes;23000,00;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;517202,69;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;517202,69;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;517202,69;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 Outras Transferências da União;517202,69;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.9.0.0.00.0.0;2.9.0.0.00.0.0 - Outras Receitas de Capital;100000,00;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.9.9.0.00.0.0;2.9.9.0.00.0.0 - Demais Receitas de Capital;100000,00;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.9.9.0.00.1.0;2.9.9.0.00.1.0 Demais Receitas de Capital;100000,00;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);31082068,25;10962
+2020;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2807741,04;10962
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);32176539,78;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3685200,35;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;31952807,21;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3685200,35;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;758786,50;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;745197,73;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;390910,95;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;390910,95;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;390910,95;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;354286,78;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;132691,70;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;95656,78;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;37034,92;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;221595,08;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;221595,08;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;13588,77;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;3611,60;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;3611,60;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;9977,17;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;9977,17;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.1.0;1.1.2.8.01.1.0 - Taxa de Fiscalização de Vigilância Sanitária;485,00;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;9492,17;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;125173,33;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;125173,33;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;277399,47;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;277399,47;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;277399,47;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;277399,47;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;24550,00;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;24550,00;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.02.0.0;1.6.1.0.02.0.0 - Inscrição em Concursos e Processos Seletivos;24550,00;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;30758335,01;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3685200,35;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;20276700,79;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2999167,04;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;20276700,79;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;2999167,04;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;13122557,16;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;2999167,04;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11877373,67;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2996286,72;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;656654,59;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;580054,23;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2767,38;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2880,32;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;5707,29;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;289642,70;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;289642,70;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;3568972,31;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;3550559,58;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção Especializada;3522,13;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;9409,60;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;5481,00;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;443859,15;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;167671,30;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;6600,00;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;170403,20;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;99184,65;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;2492373,72;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;259384,13;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;99911,62;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3163676,82;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;686033,31;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;3163676,82;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;686033,31;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;3050541,46;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;686033,31;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;2829648,24;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;686033,31;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;196444,51;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;2027,19;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.9.0;1.7.2.8.01.9.0 - Outras Transferências dos Estados;22421,52;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;59612,47;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;48100,02;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 - Transferências de Convênio dos Estados Destinadas a Programas de Educação;48100,02;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 - Outras Transferências dos Estados;5422,87;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;7317957,40;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;7317957,40;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;7317957,40;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;8562,90;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;8562,90;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;8251,20;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.12.0.0;1.9.2.2.12.0.0 - Restituição de Depósitos de Setenças Judiciais não Sacados;8250,60;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;0,60;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.00.0.0;1.9.2.8.00.0.0 - Indenizações, Restituições e Ressarcimentos - Específicas para Estados/DF/Municípios;311,70;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.02.0.0;1.9.2.8.02.0.0 - Restituições - Específicas para Estados/DF/Municípios;311,70;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.02.9.0;1.9.2.8.02.9.0 - Outras Restituições - Específicas para Estados/DF/Municípios - Não Especificadas Anteriormente;311,70;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;223732,57;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;223732,57;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;223732,57;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;223732,57;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;112304,00;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.1.0;2.4.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;112304,00;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 - Outras Transferências da União;111428,57;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);32176539,78;11016
+2021;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3685200,35;11016
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);48822744,58;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4429179,36;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;47539142,22;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4429179,36;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1462094,72;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1313935,07;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;88783,97;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;28322,67;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";60461,30;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;945793,97;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;945793,97;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;945793,97;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;279357,13;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;279357,13;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;279357,13;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;8495,13;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;6787,56;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;6787,56;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;1707,57;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;1707,57;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;139664,52;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.00.0.0;1.1.3.1.00.0.0 - Contribuição de Melhoria;139664,52;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.51.0.0;1.1.3.1.51.0.0 - Contribuição de Melhoria para Expansão da Rede de Iluminação Pública na Cidade;139664,52;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;1333936,31;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;1333936,31;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;1333936,31;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;1333936,31;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;44688572,85;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4429179,36;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;31323011,62;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3767436,29;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;20411467,49;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3767436,29;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;20406166,20;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3766397,34;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;18818080,00;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3766397,34;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;819603,86;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;768482,34;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;5301,29;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1038,95;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;645423,51;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;452181,18;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;452181,18;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;193242,33;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;5390961,40;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;5384961,40;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;5183346,85;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;63951,46;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;93418,56;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;1978,97;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;42265,56;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.0.0;1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;6000,00;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.4.0;1.7.1.3.51.4.0 -Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Assistência Farmacêutica;6000,00;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;405272,03;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;200272,23;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;6180,00;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;165168,00;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;33651,80;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;4043738,97;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;423271,46;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;2876,76;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.99.0.0;1.7.1.7.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;2876,76;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4022535,60;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;661743,07;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3940182,13;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;661743,07;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3680271,44;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;661743,07;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;246079,65;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;2928,87;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;10902,17;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;40750,02;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;8863,47;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;8863,47;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;32739,98;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.52.0.0;1.7.2.9.52.0.0 - Transferências de Recursos Destinados a Programas de Educação;32739,98;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;9343025,63;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;9343025,63;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;54538,34;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;54538,34;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;54538,34;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.12.0.0;1.9.2.2.12.0.0 - Restituição de Depósitos de Setenças Judiciais não Sacados;41857,70;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;12680,64;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1283602,36;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1283602,36;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;66857,14;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;66857,14;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.99.0.0;2.4.1.9.99.0.0 - Outras Transferências De Recursos da União e de suas Entidades;66857,14;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1216745,22;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;1216745,22;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;1116745,22;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.0.0;2.4.2.2.99.0.0 - Outras Transferências de Convênio dos Estados e DF e de Suas Entidades;100000,00;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);48822744,58;11069
+2022;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4429179,36;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);52254465,43;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4485405,03;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;49684235,97;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4485405,03;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1697634,28;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1691378,11;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;316527,62;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;193055,31;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";123472,31;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;921557,46;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;921557,46;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;921557,46;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;453293,03;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;453293,03;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;453293,03;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;6256,17;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;5600,00;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;5600,00;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;656,17;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;656,17;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;141470,33;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;141470,33;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;1275834,96;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;1275834,96;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;1275834,96;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;1275834,96;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;46551037,93;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4485405,03;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;32671590,86;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3720426,16;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;21029385,54;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3720426,16;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;21021875,05;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3719156,59;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;19114914,87;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3719156,59;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1906960,18;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;7510,49;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1269,57;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;410702,74;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;410702,74;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;410702,74;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;4940105,08;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;4909701,08;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;4427588,96;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;482112,12;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.0.0;1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;30404,00;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.1.0;1.7.1.3.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária;30404,00;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;577558,63;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;229347,16;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;5940,00;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;211355,20;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;82585,23;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;48331,04;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;3411631,14;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;1526552,69;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;2460,37;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.99.0.0;1.7.1.7.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;2460,37;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;773194,67;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.57.0.0;1.7.1.9.57.0.0 - Transferência Especial da União;180223,67;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;592971,00;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4165046,16;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;764978,87;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3965421,37;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;764978,87;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3716708,82;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;764978,87;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;245199,83;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;1398,81;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;2113,91;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;27367,15;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;34601,70;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;34601,70;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;137655,94;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;19597,99;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.53.0.0;1.7.2.9.53.0.0 - Cota-Parte da Transferência da Compensação Financeira das Perdas com Arrecadação de ICMS - LC nº 194/2022;118057,95;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;9714400,91;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;9714400,91;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;18258,47;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;18258,47;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;18258,47;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.12.0.0;1.9.2.2.12.0.0 - Restituição de Depósitos de Setenças Judiciais não Sacados;12882,55;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;5375,92;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;2570229,46;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;344000,00;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;344000,00;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;344000,00;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;2226229,46;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;2226229,46;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.00.0.0;2.4.1.2.00.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE ;66229,46;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.0.0;2.4.1.2.50.0.0 - Transferências de Recursos Destinados a Programas de Educação;66229,46;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.9.0;2.4.1.2.50.9.0 - Outras transferências destinadas a Programas de Educação;66229,46;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.3.00.0.0;2.4.1.3.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS ;100000,00;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.3.50.0.0;2.4.1.3.50.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;100000,00;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;2060000,00;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.51.0.0;2.4.1.9.51.0.0 - Transferência Especial da União;1640000,00;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.99.0.0;2.4.1.9.99.0.0 - Outras Transferências De Recursos da União e de suas Entidades;420000,00;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);52254465,43;11069
+2023;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4485405,03;11069
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);59963803,87;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);5530333,65;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;56826995,68;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;5530333,65;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1782135,62;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1774986,13;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;112905,58;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;53325,82;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";59579,76;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1088410,87;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1088410,87;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1088410,87;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;573669,68;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;573669,68;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;573669,68;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;7149,49;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;4622,75;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;4622,75;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;2526,74;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;2526,74;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;159793,86;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;159793,86;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;749649,48;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;749649,48;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;749649,48;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;749649,48;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;54056622,96;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;5530333,65;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;37116482,77;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;4465623,68;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;24632165,34;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;4465623,68;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;24622099,92;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;4463619,31;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;22318098,57;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;4463619,31;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;2304001,35;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;10065,42;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2004,37;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;443401,76;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;443401,76;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;443401,76;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;6361193,51;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;6311344,00;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;5596809,23;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;714534,77;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.0.0;1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;49849,51;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.1.0;1.7.1.3.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária;49849,51;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;1555119,46;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;770800,33;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;69583,80;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;219023,53;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;75792,68;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;419919,12;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;3587491,12;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;437296,81;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;1036,87;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.99.0.0;1.7.1.7.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;1036,87;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;98777,90;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.60.0.0;1.7.1.9.60.0.0 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022;96047,82;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;2730,08;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;5748032,24;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1064709,97;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;5628595,69;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1064709,97;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;5323550,81;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1064709,97;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;287643,67;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;2656,20;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;14745,01;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;25001,80;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;73183,50;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;57669,70;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;15513,80;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;21251,25;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;21251,25;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;11192107,95;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;11192107,95;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;78793,76;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;72652,14;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;72652,14;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.06.0.0;1.9.2.2.06.0.0 - Restituição de Despesas de Exercícios Anteriores;49395,90;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.06.3.0;1.9.2.2.06.3.0 - Restituição de Despesas Primárias de Exercícios Anteriores;49395,90;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.12.0.0;1.9.2.2.12.0.0 - Restituição de Depósitos de Setenças Judiciais não Sacados;14390,88;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;8865,36;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;6141,62;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;6141,62;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.12.0.0;1.9.9.9.12.0.0 - Encargos Legais pela Inscrição em Dívida Ativa e Receitas de Ônus de Sucumbência;6141,62;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.12.2.0;1.9.9.9.12.2.0 - Ônus de Sucumbência;6141,62;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;3136808,19;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;3136808,19;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;3136808,19;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;227430,19;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.0.0;2.4.1.1.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;227430,19;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.1.0;2.4.1.1.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária;227430,19;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.00.0.0;2.4.1.2.00.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE ;274050,00;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.0.0;2.4.1.2.50.0.0 - Transferências de Recursos Destinados a Programas de Educação;274050,00;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.9.0;2.4.1.2.50.9.0 - Outras transferências destinadas a Programas de Educação;274050,00;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;1825328,00;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;1825328,00;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;810000,00;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.51.0.0;2.4.1.9.51.0.0 - Transferência Especial da União;810000,00;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);59963803,87;10385
+2024;Prefeitura Municipal de Itatuba - PB;2507200;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);5530333,65;10385

@@ -1,0 +1,962 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;17363579,64;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1668516,97;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;16677733,46;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1668516,97;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;314269,48;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;307972,60;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;168583,96;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;2818,82;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;151465,14;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.11.00;1.1.1.2.04.11.00 - Receita de Parcelamentos - Imposto sobre a Renda - Pessoas Físicas;111228,90;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.21.00;1.1.1.2.04.21.00 - Pessoa Jurídica - Líquida de Incentivos;40236,24;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";14300,00;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;139388,64;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;139388,64;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;6296,88;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;5193,45;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;1103,43;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;137615,03;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;137615,03;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.1.00.00.00;1.3.2.1.00.00.00 - Juros de Títulos de Renda;14,55;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.2.00.00.00;1.3.2.2.00.00.00 - Dividendos;137600,48;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;16102848,33;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1668516,97;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;15834824,63;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1668516,97;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;9649746,35;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1377466,79;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7186304,01;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1376237,51;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7183984,87;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1375773,74;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2319,14;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;463,77;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;123027,29;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;15770,69;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;107256,60;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1716541,19;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;23444,07;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;451125,25;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;6146,40;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1229,28;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;143158,14;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1489562,71;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;291050,18;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1489562,71;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;291050,18;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1403453,62;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;280690,54;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;51771,33;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;10359,64;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;18399,35;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1531,33;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;14407,08;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;4695515,57;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3387487,85;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1308027,72;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;268023,70;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;268023,70;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;268023,70;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;123000,62;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;4387,95;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;4387,95;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;14096,24;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;14096,24;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;104516,43;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;685846,18;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;685846,18;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;685846,18;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;685846,18;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;124305,60;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.03.00.00;2.4.7.1.03.00.00 - Transferências de Convênios da União Destinadas a Programas de Saneamento Básico;130642,75;9104
+2014;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;430897,83;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;18134460,05;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1774830,31;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;17783625,59;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1774830,31;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;532132,52;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;528885,99;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;183113,12;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;5061,26;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;153760,86;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;109618,46;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;44142,40;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";24291,00;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;345772,87;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;345772,87;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;3246,53;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;2538,93;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;707,60;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;168256,47;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.0.00.00.00;1.3.1.0.00.00.00 - Receitas Imobiliárias;168256,47;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.9.00.00.00;1.3.1.9.00.00.00 - Outras Receitas Imobiliárias;168256,47;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;17054891,88;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1774830,31;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;16993616,88;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1774830,31;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;10123564,89;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1447341,95;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7633079,04;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1446114,20;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7313839,56;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1445657,56;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;316956,00;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2283,48;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;456,64;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.09.00.00;1.7.2.1.09.00.00 - Outras Transferências da União;26419,33;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.09.00.00;1.7.2.1.09.00.00 - Outras Transferências da União;1227,75;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.09.01.00;1.7.2.1.09.01.00 - Transferência Financeira - L.C. nº 87/96;12268,10;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.09.01.00;1.7.2.1.09.01.00 - Transferência Financeira - L.C. nº 87/96;1227,75;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.09.99.00;1.7.2.1.09.99.00 - Demais Transferências da União;14151,23;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;94867,79;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.50.00;1.7.2.1.22.50.00 - Cota-Parte Royalties pela Participação Especial - Lei nº 9.478/97 artigo 50;13819,62;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;81048,17;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1729842,82;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;83375,82;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;555980,09;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1669987,73;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;327488,36;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1669987,73;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;327488,36;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1572949,93;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;314589,80;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;64495,62;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;12898,56;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;17534,69;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;15007,49;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;5200064,26;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3877001,36;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1323062,90;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;61275,00;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;61275,00;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.02.00.00;1.7.6.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;61275,00;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;28344,72;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;2919,36;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;1865,99;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.01.00.00;1.9.1.1.01.00.00 - Multa e Juros de Mora do Imposto sobre a Importação;1865,99;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.8.00.00.00;1.9.1.8.00.00.00 - Multas e Juros de Mora de Outras Receitas;1053,37;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;3925,27;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;3925,27;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;21307,47;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;21307,47;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;21307,47;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;192,62;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;350834,46;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;350834,46;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;350834,46;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;350834,46;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;169360,00;9104
+2015;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.03.00.00;2.4.7.1.03.00.00 - Transferências de Convênios da União Destinadas a Programas de Saneamento Básico;181474,46;9104
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;20073131,63;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1990945,35;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;19945674,19;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1990945,35;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;524647,77;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;517654,88;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;167180,14;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;1604,27;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;147847,57;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.11.00;1.1.1.2.04.11.00 - Receita de Parcelamentos - Imposto sobre a Renda - Pessoas Físicas;109127,13;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.22.00;1.1.1.2.04.22.00 - Receita de Parcelamentos - Imposto sobre a Renda - Pessoas Jurídicas;38720,44;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";17728,30;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;350474,74;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;350474,74;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;6992,89;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;6692,89;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;300,00;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;300,00;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;148369,09;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;148369,09;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.9.00.00.00;1.3.2.9.00.00.00 - Outras Receitas de Valores Mobiliários;148369,09;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;19240564,27;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1990945,35;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;18627384,79;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1990945,35;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;11540129,19;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1651452,19;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8859644,58;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1650199,24;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;8270267,91;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1649800,14;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;587380,85;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1995,82;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;399,10;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;82844,09;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.20.00;1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;13398,44;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;69445,65;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1843927,26;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;243725,39;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;488182,62;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;6264,96;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1252,95;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;15540,29;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1744731,97;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;339493,16;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1727774,59;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;339493,16;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1629756,34;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;325951,02;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;67713,91;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;13542,14;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;13817,11;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;16487,23;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);16957,38;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.90.00;1.7.2.2.22.90.00 - Outras Transferências Decorrentes de Compensações Financeiras;16957,38;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;5342523,63;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3938916,02;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1403607,61;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;613179,48;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;613179,48;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.02.00.00;1.7.6.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;613179,48;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;32093,06;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;21577,74;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;503,72;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.99.00.00;1.9.1.1.99.00.00 - Multas e Juros de Mora de Outros Tributos;503,72;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.8.00.00.00;1.9.1.8.00.00.00 - Multas e Juros de Mora de Outras Receitas;21074,02;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.8.99.00.00;1.9.1.8.99.00.00 - Outras Multas e Juros de Mora;21074,02;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;260,86;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;260,86;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;10254,46;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;10254,46;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;10254,46;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;127457,44;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;127457,44;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;127457,44;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;127457,44;9127
+2016;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.02.00.00;2.4.7.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;127457,44;9127
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;18702704,58;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1941966,93;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;18702704,58;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1941966,93;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;315241,67;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;303446,36;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;179918,40;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;4337,89;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;161926,50;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.11.00;1.1.1.2.04.11.00 - Receita de Parcelamentos - Imposto sobre a Renda - Pessoas Físicas;144903,87;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.22.00;1.1.1.2.04.22.00 - Receita de Parcelamentos - Imposto sobre a Renda - Pessoas Jurídicas;17022,63;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";13654,01;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;123527,96;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;123527,96;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;11795,31;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;11022,46;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;772,85;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;772,85;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;155185,97;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;155185,97;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.00.00;1.3.2.1.00.00.00 - Juros de Títulos de Renda;16,23;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;155169,74;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;18228566,01;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1941966,93;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;18075771,57;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1941966,93;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;11360824,71;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1574278,14;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8575150,87;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1573016,82;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7862952,78;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1572590,25;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;710064,84;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2133,25;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;426,57;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;104484,98;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;13132,71;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;91352,27;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1969198,08;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;252047,75;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;437601,72;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;6306,96;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1261,32;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;16034,35;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1887276,72;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;367688,79;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1887276,72;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;367688,79;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1762463,21;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;352492,42;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;75985,02;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;15196,37;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;16765,77;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;21962,44;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;10100,28;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;4827670,14;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3564202,38;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1154906,30;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.00.00;1.7.2.4.99.00.00 - Outras Transferências Multigovernamentais;108561,46;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;152794,44;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;152794,44;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.1.02.00.00;1.7.6.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;152794,44;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;3710,93;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;146,10;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;146,10;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.99.00.00;1.9.1.1.99.00.00 - Multas e Juros de Mora de Outros Tributos;146,10;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;16,68;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;16,68;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;16,68;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;3548,15;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;3548,15;9150
+2017;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;3548,15;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;21369615,20;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;2102616,15;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;20967528,10;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2102616,15;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;660748,98;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;651678,77;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;195138,18;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;195138,18;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;180567,22;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;14570,96;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;456540,59;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;29894,23;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;8401,86;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;21492,37;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;426646,36;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;426646,36;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;9070,21;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;9070,21;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;9070,21;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;62197,31;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;19,07;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.01.0.0;1.3.1.0.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação;19,07;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.01.1.0;1.3.1.0.01.1.0 - Aluguéis e Arrendamentos;19,07;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;62178,24;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;62178,24;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;62178,24;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;20244575,47;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2102616,15;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;12868000,05;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1639761,59;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;12868000,05;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1639761,59;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8929785,93;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1638510,71;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8189535,99;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1637906,93;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;737230,69;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3019,25;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;603,78;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;154944,60;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.5.0;1.7.1.8.02.5.0 Cota-parte Royalties pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;15088,70;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;139855,90;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;2171134,44;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;363241,54;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;517264,89;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;197470,78;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;7920,00;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;177310,80;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;80611,49;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;53951,82;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;6254,64;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1250,88;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;6254,64;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1250,88;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;724948,72;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.1.0;1.7.1.8.10.1.0 Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;619092,64;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.2.0;1.7.1.8.10.2.0 Transferências de Convênios da União Destinadas a Programas de Educação;105856,08;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;425,29;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2436262,67;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;462854,56;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2436262,67;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;462854,56;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2354813,66;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;462854,56;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2011500,18;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;402984,71;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;302776,84;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;59869,85;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;16695,87;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;17263,60;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.9.0;1.7.2.8.01.9.0 Outras Transferências dos Estados;6577,17;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;6562,50;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;74886,51;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;74886,51;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4940312,75;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4940312,75;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4940312,75;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;6,34;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;6,34;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;6,34;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;6,34;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;402087,10;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;402087,10;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;402087,10;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;402087,10;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;100000,00;9150
+2018;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 Outras Transferências da União;302087,10;9150
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);22630974,27;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2279748,28;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;22532974,27;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2279748,28;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;437150,34;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;426294,86;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;257236,10;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;257236,10;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;243497,66;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;13738,44;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;169058,76;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;34074,98;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;5770,26;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;28304,72;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;134983,78;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;134983,78;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;10855,48;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;10012,38;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;10012,38;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;843,10;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;843,10;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;44387,00;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;44387,00;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;44387,00;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;44387,00;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;22047448,40;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2279748,28;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;15778755,73;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1832492,81;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;15778755,73;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1832492,81;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9955914,76;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1832492,81;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;9159849,87;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1831969,70;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;404042,76;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;389406,29;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2615,84;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;523,11;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;152496,83;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.5.0;1.7.1.8.02.5.0 Cota-parte Royalties pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;11326,52;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;141170,31;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";1864885,62;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;1567101,60;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;116676,27;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;8667,25;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.5.0;1.7.1.8.03.5.0 - Transferência de Recursos do SUS ¿ Gestão do SUS;14000,00;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;158440,50;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;421359,92;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;200398,34;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;139484,00;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;81477,58;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.08.0.0;1.7.1.8.08.0.0 Transferências Advindas de Emendas Parlamentares Individuais;1200000,00;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1244151,76;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;461225,66;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.2.0;1.7.1.8.10.2.0 Transferências de Convênios da União Destinadas a Programas de Educação;134638,36;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.3.0;1.7.1.8.10.3.0 Transferências de Convênios da União Destinadas a Programas de Assistência Social;326587,30;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;478721,18;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2247482,44;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;447255,47;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2247482,44;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;447255,47;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2247482,44;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;447255,47;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2117093,50;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;423423,53;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;98460,58;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;19686,37;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;20727,97;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;4145,57;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;10328,37;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.9.0;1.7.2.8.01.9.0 Outras Transferências dos Estados;872,02;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4021210,23;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4021210,23;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4021210,23;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;3988,53;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;2547,39;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;2547,39;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;1441,14;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.00.0.0;1.9.2.3.00.0.0 - Ressarcimentos;1441,14;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.99.0.0;1.9.2.3.99.0.0 - Outros Ressarcimentos;1441,14;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;98000,00;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;98000,00;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;98000,00;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;98000,00;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.08.0.0;2.4.1.8.08.0.0 Transferências Advindas de Emendas Parlamentares Individuais;98000,00;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);22630974,27;8813
+2019;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2279748,28;8813
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);24704438,05;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2190634,54;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;24675243,16;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2190634,54;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;493528,99;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;485537,16;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;367152,68;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;367152,68;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;345161,06;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;21991,62;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;118384,48;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;27711,28;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;1846,44;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;25864,84;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;90673,20;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;90673,20;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;7991,83;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;6991,83;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;6991,83;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;1000,00;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;1000,00;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;12121,52;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;12121,52;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;12121,52;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;12121,52;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;24151478,12;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2190634,54;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;17822514,19;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1749007,48;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;17822514,19;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1749007,48;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9539244,22;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1749007,48;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8742658,76;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1748531,46;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;393496,05;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;394334,99;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2380,53;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;476,02;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;6373,89;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;148670,79;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.5.0;1.7.1.8.02.5.0 Cota-parte Royalties pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;8037,41;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;140633,38;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";4426664,78;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;2213655,18;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;131250,00;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;126526,00;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;52950,00;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.5.0;1.7.1.8.03.5.0 - Transferência de Recursos do SUS ¿ Gestão do SUS;563683,66;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;1338599,94;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;397480,29;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;158387,34;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;143134,20;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;86181,29;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;9777,46;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1358147,14;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;368159,16;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1584147,81;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2215089,11;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;441627,06;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2215089,11;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;441627,06;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2212996,13;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;441627,06;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2089060,19;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;417811,81;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;101403,13;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;20279,92;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;19680,57;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;3535,33;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.9.0;1.7.2.8.01.9.0 Outras Transferências dos Estados;2852,24;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;2092,98;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;2092,98;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4113874,82;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4113874,82;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4113874,82;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;18114,53;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;14521,64;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;14521,64;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;3589,95;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;10,00;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;10,00;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;3579,95;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;3579,95;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;2,94;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;2,94;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;2,94;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;29194,89;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;29194,89;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;29194,89;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;29194,89;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;29194,89;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.1.0;2.4.1.8.10.1.0 - Transferências de Convênio da União para o Sistema Único de Saúde ¿ SUS;13900,00;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.2.0;2.4.1.8.10.2.0 - Transferências de Convênio da União destinadas a Programas de Educação;15294,89;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);24704438,05;8825
+2020;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2190634,54;8825
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);24704438,05;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2190634,54;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;24675243,16;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2190634,54;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;493528,99;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;485537,16;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;367152,68;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;367152,68;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;335284,61;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.3.0;1.1.1.3.03.3.0 - Imposto sobre a Renda - Retido na Fonte - Remessa ao Exterior;9876,45;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;21991,62;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;118384,48;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;27711,28;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;27711,28;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;90673,20;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;90673,20;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;7991,83;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;6991,83;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;6991,83;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;1000,00;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;1000,00;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;12121,52;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;12121,52;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;12121,52;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;12121,52;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;24151478,12;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2190634,54;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;17822514,19;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1749007,48;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;17822514,19;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;1749007,48;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;9539244,22;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;1749007,48;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8742658,76;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1748531,46;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;393496,05;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;394334,99;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2380,53;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;476,02;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;6373,89;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;148670,79;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.5.0;1.7.1.8.02.5.0 - Cota-parte Royalties pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;8037,41;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;140633,38;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;4426664,78;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;2213655,18;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção Especializada;131250,00;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;126526,00;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;52950,00;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.5.0;1.7.1.8.03.5.0 - Transferência de Recursos do SUS ¿ Gestão do SUS;563683,66;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;1338599,94;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;397480,29;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;158387,34;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;143134,20;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;86181,29;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;9777,46;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1358147,14;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;368159,16;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;1584147,81;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2215089,11;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;441627,06;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;2215089,11;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;441627,06;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;2210143,89;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;441627,06;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;2089060,19;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;417811,81;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;101403,13;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;20279,92;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;19680,57;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;3535,33;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;2092,98;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;2092,98;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 - Outras Transferências dos Estados;2852,24;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4113874,82;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4113874,82;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4113874,82;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;18114,53;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;14521,64;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;14521,64;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;3589,95;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;10,00;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;10,00;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;3579,95;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;3579,95;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;2,94;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;2,94;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;2,94;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;29194,89;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.0.0.00.0.0;2.1.0.0.00.0.0 - Operações de Crédito;29194,89;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.0.00.0.0;2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno;29194,89;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.8.00.0.0;2.1.1.8.00.0.0 - Operações de Crédito - Mercado Interno - Estados/DF/Municípios;29194,89;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.8.01.0.0;2.1.1.8.01.0.0 - Operações de Crédito Internas de Estados/DF/Municípios;29194,89;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.8.01.1.0;2.1.1.8.01.1.0 - Operações de Crédito Internas para Programas de Educação;13900,00;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.8.01.2.0;2.1.1.8.01.2.0 - Operações de Crédito Internas para Programas de Saúde;15294,89;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);24704438,05;8837
+2021;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2190634,54;8837
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);43007504,72;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3521007,38;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;41927856,50;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3521007,38;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1756839,09;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1718545,13;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;68720,84;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;10463,54;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";58257,30;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;856567,01;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;856567,01;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;814540,88;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;42026,13;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;793257,28;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;793257,28;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;793257,28;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;38059,96;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;36021,73;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;36021,73;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;2038,23;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;2038,23;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;234,00;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.00.0.0;1.1.3.1.00.0.0 - Contribuição de Melhoria;234,00;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.53.0.0;1.1.3.1.53.0.0 - Contribuição de Melhoria para Pavimentação e Obras Complementares;234,00;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;616450,26;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;616450,26;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;436440,26;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;436440,26;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.9.00.0.0;1.3.2.9.00.0.0 - Outros Valores Mobiliários;180010,00;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;39541156,48;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3521007,38;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;28874516,94;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2942723,40;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;16073639,72;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2942723,40;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;16070526,00;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2942100,74;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14710505,21;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2942100,74;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;754815,71;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;605205,08;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3113,72;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;622,66;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;372947,27;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;372947,27;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.3.0;1.7.1.2.52.3.0 - Cota-parte pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;16839,74;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;356107,53;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;2577072,98;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2577072,98;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;2330578,48;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;162980,90;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;61422,00;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;20963,18;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;1128,42;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;551631,31;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;217950,38;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;4080,00;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;292597,20;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;37003,73;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;7512358,27;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;440503,04;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1346364,35;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;12412,62;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1333951,73;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2916653,23;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;578283,98;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2914642,94;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;578283,98;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2765676,31;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;553135,07;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;125748,40;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;25148,91;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;14570,57;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;8647,66;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;2010,29;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;2010,29;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;7749986,31;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;7749986,31;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;13410,67;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;12145,04;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;12145,04;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.07.0.0;1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;12145,04;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;1265,63;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;1265,63;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;1265,63;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1079648,22;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1079648,22;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1079648,22;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;1079648,22;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.54.0.0;2.4.1.4.54.0.0 - Transferências de Convênios da União destinadas a Programas de Infraestrutura em Transporte;1079648,22;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);43007504,72;8848
+2022;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3521007,38;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);47294402,32;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3635421,31;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;46594083,12;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3635421,31;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1965953,53;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1786197,39;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;31358,93;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;7484,55;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";23874,38;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;985327,04;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;985327,04;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;905523,05;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;79803,99;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;769511,42;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;769511,42;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;769511,42;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;174856,14;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;154992,41;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;96775,03;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;55997,38;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;2220,00;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;19863,73;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;19863,73;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;4900,00;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.00.0.0;1.1.3.1.00.0.0 - Contribuição de Melhoria;4900,00;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.53.0.0;1.1.3.1.53.0.0 - Contribuição de Melhoria para Pavimentação e Obras Complementares;4900,00;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;203101,55;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;203101,55;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;295983,79;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;560,00;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.00.0.0;1.3.1.1.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;560,00;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.01.0.0;1.3.1.1.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação;560,00;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.01.1.0;1.3.1.1.01.1.0 - Aluguéis e Arrendamentos;560,00;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;295423,79;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;295423,79;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;295423,79;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;44121648,23;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3635421,31;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;32454972,39;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3025685,12;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;16601093,26;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3025685,12;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;16598176,82;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3025101,93;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;15107753,51;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3025101,93;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1490423,31;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2916,44;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;583,19;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;333012,70;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;2588,50;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;322612,42;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;322612,42;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.53.0.0;1.7.1.2.53.0.0 - Cota-parte do bônus de assinatura de contrato de partilha de produção;7811,78;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;3932191,19;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;3613930,04;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;3168908,84;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;150937,50;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;241133,70;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;52950,00;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.99.0.0;1.7.1.3.99.0.0 - Outras Transferências de Recursos do Sistema Único de Saúde - SUS;318261,15;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;1067983,87;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;254952,10;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;2100,00;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;415541,80;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;113939,77;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;281450,20;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;8552629,36;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;685868,79;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1282193,22;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.57.0.0;1.7.1.9.57.0.0 - Transferência Especial da União;800000,00;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;12523,28;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;469669,94;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3392818,88;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;609736,19;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3066742,68;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;609736,19;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2887704,81;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;577540,70;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;160981,40;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;32195,49;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;16360,69;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1695,78;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;138514,45;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;187561,75;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;149968,00;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;37593,75;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;8273856,96;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;8273856,96;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;7396,02;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;4096,02;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;4096,02;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.07.0.0;1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;4096,02;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;3300,00;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;3300,00;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;3300,00;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;700319,20;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;700319,20;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;700319,20;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;700319,20;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;700319,20;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);47294402,32;8848
+2023;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3635421,31;8848
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);51079839,25;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4269561,30;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;50550945,10;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4269561,30;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1958586,69;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1879947,14;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;35766,34;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;16371,75;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";19394,59;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1230641,26;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1230641,26;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1230641,26;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;613539,54;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;613539,54;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;613539,54;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;75223,30;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;53861,73;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;33865,45;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;19015,30;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;980,98;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;21361,57;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;21361,57;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;3416,25;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.00.0.0;1.1.3.1.00.0.0 - Contribuição de Melhoria;3416,25;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.53.0.0;1.1.3.1.53.0.0 - Contribuição de Melhoria para Pavimentação e Obras Complementares;3416,25;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;400325,11;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;400325,11;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;397584,43;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;397231,29;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;397231,29;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;397231,29;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.9.0.00.0.0;1.3.9.0.00.0.0 - Demais Receitas Patrimoniais;353,14;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;47792558,87;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4269561,30;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;34807640,88;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3503829,93;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;19338973,93;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3503829,93;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;19335340,53;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3503103,35;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;17515518,94;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3503103,35;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1819821,59;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3633,40;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;726,58;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;354122,93;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;14379,05;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;334969,31;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;334969,31;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.53.0.0;1.7.1.2.53.0.0 - Cota-parte do bônus de assinatura de contrato de partilha de produção;4774,57;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;5689003,28;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;5689003,28;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;4795514,72;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;210439,60;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;83565,60;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;83600,48;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;515882,88;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;1275223,30;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;752663,78;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;283912,00;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;137054,16;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;101593,36;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;5455885,31;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;356358,41;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;2338073,72;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.57.0.0;1.7.1.9.57.0.0 - Transferência Especial da União;2241714,00;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.60.0.0;1.7.1.9.60.0.0 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022;77848,72;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;18511,00;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4395402,44;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;765731,37;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3866813,24;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;765731,37;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3630443,69;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;726088,52;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;198218,10;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;39642,85;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;25853,80;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;12297,65;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;386232,00;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;57687,20;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;57687,20;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;84670,00;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;84670,00;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;8589515,55;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;8589515,55;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;1890,00;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;1890,00;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;1890,00;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.07.0.0;1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;1890,00;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;528894,15;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;528894,15;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;5910,43;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;5910,43;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;5910,43;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;522983,72;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;522983,72;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.01.0.0;2.4.2.2.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União;522983,72;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);51079839,25;10006
+2024;Prefeitura Municipal de Aratuípe - BA;2902302;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4269561,30;10006

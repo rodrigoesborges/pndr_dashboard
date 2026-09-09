@@ -1,0 +1,927 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;11567751,61;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1549094,09;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;10838306,23;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1549094,09;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;177736,94;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;177305,42;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;49392,60;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;1200,00;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;45855,86;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;45855,86;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";2336,74;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;127912,82;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;127912,82;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;431,52;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;431,52;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;39270,09;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;39270,09;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.9.00.00.00;1.3.2.9.00.00.00 - Outras Receitas de Valores Mobiliários;39270,09;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;10574890,61;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1549094,09;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;10313167,16;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1549094,09;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;7759418,03;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1316500,45;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;6922096,19;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1316226,88;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6873219,42;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1316121,03;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;529,44;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;105,85;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.30.00;1.7.2.1.01.30.00 - Cota-Parte da Contribuição do Salário-Educação;48347,33;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;93896,71;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;93896,71;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;480590,14;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;205415,81;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;56051,22;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1367,96;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;273,57;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1328291,97;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;232593,64;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1178040,14;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;232593,64;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1162969,17;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;232593,64;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;12365,27;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;788,84;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;896,74;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;1020,12;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;150251,83;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;1225457,16;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1175990,38;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;49466,78;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;261723,45;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;225673,45;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;225673,45;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;36050,00;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;36050,00;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;46408,59;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;11228,02;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;11228,02;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;35180,57;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;729445,38;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.0.0.00.00.00;2.2.0.0.00.00.00 - Alienação de Bens;26100,00;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.1.0.00.00.00;2.2.1.0.00.00.00 - Alienação de Bens Móveis;26100,00;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;703345,38;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;703345,38;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;503345,38;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.05.00.00;2.4.7.1.05.00.00 - Transferências de Convênios da União Destinadas a Programas de Infraestrutura em Transporte;227780,00;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;275565,38;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;200000,00;1868
+2014;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;200000,00;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;11198649,79;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1625012,81;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;11198649,79;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1625012,81;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;108617,12;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;108617,12;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;1750,01;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;1180,00;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;170,01;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;170,01;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";400,00;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;106867,11;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;106867,11;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;22461,18;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;22461,18;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.1.00.00.00;1.3.2.1.00.00.00 - Juros de Títulos de Renda;22461,18;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;11014334,43;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1625012,81;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;10974592,43;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1625012,81;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;8435367,46;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1383840,08;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7331685,18;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1383534,06;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7329471,06;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1383091,27;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2214,12;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;442,79;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;525112,79;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;263700,33;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;187344,75;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1530,46;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;306,02;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;125993,95;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1213636,80;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;241172,73;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1199947,79;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;241172,73;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1179622,38;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;241172,73;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;13777,70;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;3835,04;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;2712,67;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;13689,01;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;1325588,17;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1271964,25;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;53623,92;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;39742,00;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;3692,00;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.02.00.00;1.7.6.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;3692,00;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;36050,00;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;36050,00;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;53237,06;1868
+2015;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;53237,06;1868
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;13313463,81;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1808828,93;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;12660275,63;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1808828,93;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;149722,20;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;149149,99;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;10365,87;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;9430,48;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;935,39;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.32.00;1.1.1.2.04.32.00 - Retido nas Fontes - Capital;935,39;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;138784,12;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;138784,12;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;572,21;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;572,21;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;572,21;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;33432,34;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;33432,34;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.1.00.00.00;1.3.2.1.00.00.00 - Juros de Títulos de Renda;33432,34;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;12379351,35;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1808828,93;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;12319169,35;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1808828,93;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;9596927,43;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1576175,60;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8460929,49;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1575895,04;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7899259,75;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1575787,25;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;328018,19;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);233112,39;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;539,16;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;107,79;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;66288,10;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;66288,10;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;707525,29;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;246038,84;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;76552,25;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1403,28;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;280,56;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;38190,18;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1193157,38;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;232653,33;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1192815,89;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;232653,33;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1163267,79;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;232653,33;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;18284,01;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;9903,93;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;1360,16;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);341,49;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.30.00;1.7.2.2.22.30.00 - Cota-Parte Royalties - Compensação Financeira pela Produção de Petróleo - Lei nº 7.990/89 artigo 9º;341,49;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;1529084,54;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1450076,52;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;79008,02;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;60182,00;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;24132,00;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.02.00.00;1.7.6.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;21690,00;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;2442,00;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;36050,00;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;36050,00;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;97769,74;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;14138,55;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;14138,55;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;83631,19;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;83631,19;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;653188,18;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;653188,18;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;653188,18;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;627683,18;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;576683,18;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;51000,00;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;25505,00;1901
+2016;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;25505,00;1901
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;13157621,61;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1741977,38;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;12524563,92;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1741977,38;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;297345,17;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;296286,57;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;157297,48;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;1040,00;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;156173,15;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;156173,15;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";84,33;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;138989,09;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;138989,09;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;1058,60;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;1058,60;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;1058,60;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;39534,29;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;39534,29;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.00.00;1.3.2.1.00.00.00 - Juros de Títulos de Renda;39534,29;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;12165870,14;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1741977,38;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;12143104,60;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1741977,38;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;9474564,44;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1498224,09;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8166195,51;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1497952,41;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7489073,80;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1497814,46;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;332933,20;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);343498,54;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;689,97;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;137,95;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;86992,63;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;86992,63;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;744530,23;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;287977,40;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;183527,03;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1358,52;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;271,68;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;3983,12;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1290718,76;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;243753,29;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1253308,03;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;243753,29;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1218767,41;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;243753,29;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;21132,52;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;11,36;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;13396,74;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;37410,73;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;1377821,40;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1257490,41;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;120330,99;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;22765,54;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;22765,54;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.01.00.00;1.7.6.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;5676,00;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;17089,54;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;21814,32;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;1865,18;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;1865,18;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;19949,14;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;19949,14;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;633057,69;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.00.00;2.2.0.0.00.00.00 - Alienação de Bens;11000,00;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.00.00;2.2.1.0.00.00.00 - Alienação de Bens Móveis;11000,00;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;622057,69;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;622057,69;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;500556,28;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;290294,00;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.02.00.00;2.4.7.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;21571,02;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;188691,26;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;121501,41;1933
+2017;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;121501,41;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;14158086,20;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1870443,53;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;13684794,94;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;1870443,53;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;280724,95;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;280165,65;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;156622,92;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;156622,92;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;156622,92;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;123542,73;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;1760,00;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;920,00;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;840,00;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;121782,73;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;121782,73;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;559,30;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;559,30;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;559,30;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;1,12;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;1,12;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;17924,23;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;17924,23;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;17924,23;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;17924,23;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;13362641,57;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;1870443,53;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;10535101,29;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1603293,50;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;10535101,29;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1603293,50;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8718331,63;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1603021,22;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8014272,39;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1602854,16;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;355945,00;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;347278,67;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;835,57;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;167,06;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;133304,85;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;133304,85;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;1229022,84;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;269183,36;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;183896,97;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;5060,00;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;36422,00;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;28223,97;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;114191,00;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1361,64;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;272,28;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1361,64;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;272,28;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1421444,20;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;267150,03;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1421444,20;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;267150,03;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1385394,20;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;267150,03;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1335751,16;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;267150,03;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;21211,51;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;10789,27;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.9.0;1.7.2.8.01.9.0 Outras Transferências dos Estados;17642,26;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;36050,00;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;36050,00;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.3.0.00.0.0;1.7.3.0.00.0.0 - Transferências dos Municípios e de suas Entidades;85707,72;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.3.8.00.0.0;1.7.3.8.00.0.0 Transferências dos Municípios -Específicas de Estados, DF e Municípios;85707,72;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.3.8.01.0.0;1.7.3.8.01.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;85707,72;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1320388,36;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1320388,36;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1320388,36;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;23503,07;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;2271,00;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;2271,00;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;2271,00;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;21232,07;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;21232,07;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;21232,07;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;473291,26;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;473291,26;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;375291,26;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;375291,26;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;375291,26;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;98000,00;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;98000,00;1933
+2018;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;98000,00;1933
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);15675737,59;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2042174,75;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;14811030,78;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2042174,75;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;246585,97;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;246585,97;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;161522,51;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;161522,51;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;161522,51;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;85063,46;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;1538,49;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;1538,49;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;83524,97;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;83524,97;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;23548,61;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;23548,61;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;25189,57;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;25189,57;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;25189,57;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;25189,57;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;14495140,30;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2042174,75;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;11506345,52;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1748046,80;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;11506345,52;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1748046,80;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9497372,88;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1748046,80;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8739568,11;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1747913,33;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;385693,31;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;371443,74;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;667,72;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;133,47;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;134658,39;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;134658,39;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";966942,02;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;891816,07;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;1296,80;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;50971,95;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;22857,20;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;134487,50;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;50926,38;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;56019,60;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;26840,95;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;700,57;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;88913,77;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;380,16;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.1.0;1.7.1.8.10.1.0 Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;380,16;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;226610,56;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;456980,24;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1568402,42;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;294127,95;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1568402,42;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;294127,95;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1508327,31;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;294127,95;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1470640,63;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;294127,95;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;25484,13;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;2738,62;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;6503,04;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.9.0;1.7.2.8.01.9.0 Outras Transferências dos Estados;2960,89;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;24025,11;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;36050,00;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;36050,00;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1420392,36;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1420392,36;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1420392,36;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;20566,33;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;3040,95;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;2669,90;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;2669,90;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;371,05;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;371,05;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;17525,38;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;17525,38;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;17525,38;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;864706,81;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;864706,81;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;864706,81;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;864706,81;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;864706,81;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.1.0;2.4.1.8.10.1.0 - Transferências de Convênio da União para o Sistema Único de Saúde ¿ SUS;864706,81;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);15675737,59;1929
+2019;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2042174,75;1929
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);17569439,90;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);1969734,89;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;15798979,92;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;1969734,89;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;298636,20;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;298396,50;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;193449,63;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;193449,63;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;193449,63;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;104946,87;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;1999,80;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;1279,80;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;720,00;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;102947,07;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;102947,07;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;239,70;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;239,70;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;239,70;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;45608,33;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;45608,33;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;16451,52;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;16451,52;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;16451,52;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;16451,52;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;15412138,45;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;1969734,89;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;12338497,11;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1668954,19;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;12338497,11;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1668954,19;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9101951,61;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1668954,19;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8344047,33;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1668809,17;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;375485,21;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;376285,75;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;725,37;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;145,02;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;5407,95;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;134246,56;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;134246,56;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";1746529,89;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;1200383,75;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;574,20;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;52159,42;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;47238,20;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;446174,32;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;104604,08;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;36344,60;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;40867,40;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;27392,08;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1669,85;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;89988,51;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;286285,23;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;873221,38;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1575910,93;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;300780,70;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1575910,93;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;300780,70;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1536143,21;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;300780,70;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1503904,50;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;300780,70;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;31468,40;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;770,31;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;964,50;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;22421,52;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;16381,70;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;16381,70;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1497730,41;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1497730,41;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1497730,41;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;26145,42;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;6,00;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;6,00;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;6,00;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;26139,42;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;26139,42;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;26139,42;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1770459,98;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1770459,98;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1770459,98;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1770459,98;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;3475,00;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.1.0;2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;3475,00;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;1766984,98;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.2.0;2.4.1.8.10.2.0 - Transferências de Convênio da União destinadas a Programas de Educação;222900,00;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;1544084,98;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);17569439,90;1956
+2020;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);1969734,89;1956
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);19311285,37;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2614650,01;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;18972783,57;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2614650,01;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;312433,08;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;312033,38;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;219302,74;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;219302,74;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;219302,74;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;92730,64;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;6958,26;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;3846,24;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;3112,02;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;85772,38;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;85772,38;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;399,70;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;399,70;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;399,70;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;69829,79;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;69829,79;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;53369,01;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;53369,01;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;53369,01;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;53369,01;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;18536505,84;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2614650,01;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;14801804,47;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2247333,46;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;14801804,47;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;2247333,46;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;12167661,15;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;2247333,46;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11236076,34;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2247214,95;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;492490,94;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;435040,67;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;592,81;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;118,51;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;3460,39;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;217199,24;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;217199,24;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1964011,68;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;1009570,13;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção Especializada;13574,20;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;71222,71;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;29638,20;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;840006,44;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;121221,91;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;37805,42;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;40920,20;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;42496,29;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;223661,80;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;106503,93;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;1544,76;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1893292,42;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;367316,55;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;1893292,42;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;367316,55;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;1836583,81;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;367316,55;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;1795957,33;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;359191,27;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;39338,90;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;7867,77;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;1287,58;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;257,51;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;7392,25;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 - Transferências de Estados destinadas à Assistência Social;22421,52;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;26894,84;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 - Transferências de Convênio dos Estados Destinadas a Programas de Educação;26894,84;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1841408,95;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1841408,95;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1841408,95;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;645,85;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;50,85;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;50,85;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;50,85;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;595,00;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;595,00;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;595,00;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;338501,80;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;338501,80;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;338501,80;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;338501,80;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;338501,80;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.1.0;2.4.1.8.10.1.0 - Transferências de Convênio da União para o Sistema Único de Saúde ¿ SUS;338501,80;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);19311285,37;1983
+2021;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2614650,01;1983
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);25941363,69;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3174130,64;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;23847580,47;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3174130,64;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;476070,87;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;475065,87;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;4489,69;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;3233,65;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";1256,04;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;351879,01;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;351879,01;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;351879,01;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;118697,17;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;118697,17;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;118697,17;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;1005,00;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;905,00;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;905,00;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;100,00;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;100,00;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;77323,42;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;77323,42;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;276541,18;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;276541,18;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;276541,18;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;276541,18;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;22992127,10;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3174130,64;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;18686653,31;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2802060,81;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;15310999,16;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2802060,81;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15304624,67;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2801883,88;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14009420,78;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2801883,88;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;718842,13;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;576361,76;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;884,84;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;176,93;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;5489,65;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;483297,69;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;339135,89;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;339135,89;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;144161,80;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;1517025,39;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1517025,39;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;440428,80;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;574,20;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;103632,70;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;37652,94;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;349,23;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;934387,52;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;142722,35;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;46869,23;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;3720,00;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;49460,00;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;42673,12;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;590651,53;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;640569,63;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1387,56;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1387,56;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1992219,81;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;372069,83;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1860512,49;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;372069,83;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1802036,75;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;360407,12;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;57296,03;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;11466,81;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;1105,06;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;195,90;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;74,65;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;100000,00;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;100000,00;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;31707,32;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;31707,32;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2313253,98;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;2313253,98;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;25517,90;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;25457,90;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;25457,90;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;25457,90;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;60,00;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;60,00;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;60,00;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.3.0;1.9.9.9.99.3.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Financeiras;60,00;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;2093783,22;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;2093783,22;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;494729,95;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;49810,00;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.0.0;2.4.1.1.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;49810,00;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.2.0;2.4.1.1.51.2.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Especializada;49810,00;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;444919,95;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.50.0.0;2.4.1.4.50.0.0 - Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;444919,95;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1599053,27;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;1599053,27;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;1599053,27;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);25941363,69;2009
+2022;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3174130,64;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);25815430,19;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3296248,65;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;24787541,95;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3296248,65;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;722003,58;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;713153,58;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;5201,48;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;4001,48;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";1200,00;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;436881,40;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;436881,40;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;436881,40;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;271070,70;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;271070,70;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;271070,70;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;8850,00;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;7550,00;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;7550,00;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;1300,00;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;1300,00;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;86484,47;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;86484,47;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;197309,73;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;197309,73;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;197309,73;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;197309,73;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;23761387,47;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3296248,65;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;19210620,94;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2886943,63;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;15864940,06;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2886943,63;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15863776,46;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2886710,97;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14433556,33;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2886710,97;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1430220,13;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1163,60;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;232,66;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;308027,08;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;308027,08;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;308027,08;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;1479619,41;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1479619,41;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;917056,01;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;574,20;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;92772,18;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;35638,20;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;72785,34;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;360793,48;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;211908,29;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;54111,29;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;2520,00;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;58837,74;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;31931,46;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;64507,80;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;279666,08;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;536702,41;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;529757,61;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.56.0.0;1.7.1.9.56.0.0 - Transferências Decorrentes de Decisão Judicial (precatórios) Relativas ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério ¿ FUNDEF;127225,59;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;1391,52;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;401140,50;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2177089,47;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;409305,02;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2047590,48;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;409305,02;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1988276,01;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;397654,94;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;57344,55;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;11469,02;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;905,15;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;181,06;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1064,77;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;100000,00;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;100000,00;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;29498,99;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;29498,99;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2373677,06;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;2373677,06;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;20356,70;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;18244,44;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;18244,44;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;18244,44;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;2112,26;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;2112,26;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;2112,26;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.3.0;1.9.9.9.99.3.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Financeiras;2112,26;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1027888,24;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;273200,00;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;273200,00;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;273200,00;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;754688,24;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;754688,24;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;323812,00;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.0.0;2.4.1.1.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;323812,00;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.2.0;2.4.1.1.51.2.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Especializada;323812,00;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;230876,24;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;230876,24;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;200000,00;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.51.0.0;2.4.1.9.51.0.0 - Transferência Especial da União;200000,00;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);25815430,19;2009
+2023;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3296248,65;2009
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);29163258,22;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3861599,06;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;27782991,76;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3861599,06;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;907453,28;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;906353,28;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;4318,68;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;2768,42;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";1550,26;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;500444,92;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;500444,92;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;500444,92;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;401589,68;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;401589,68;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;401589,68;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;1100,00;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;800,00;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;800,00;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;300,00;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;300,00;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;95739,48;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;95739,48;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;204858,83;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;735,00;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.00.0.0;1.3.1.1.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;735,00;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.01.0.0;1.3.1.1.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação;735,00;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.01.2.0;1.3.1.1.01.2.0 - Foros, Laudêmios e Tarifas de Ocupação;735,00;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;204123,83;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;204123,83;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;204123,83;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;26571212,16;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3861599,06;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;21499761,77;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3348103,38;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;18468520,32;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3348103,38;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;18466575,04;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3347714,39;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;16738574,03;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3347714,39;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1728001,01;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1945,28;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;388,99;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;332904,85;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;353,51;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;332551,34;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;332551,34;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;1869440,33;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1869440,33;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1601685,60;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;574,20;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;105706,03;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;34289,68;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;122966,72;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;4218,10;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;325353,23;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;170379,25;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;1500,00;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;55352,00;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;33614,18;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;64507,80;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;179218,87;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;286964,12;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;37360,05;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;1496,88;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.60.0.0;1.7.1.9.60.0.0 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022;35863,17;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2730827,18;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;513495,68;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2574880,46;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;513495,68;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2497105,35;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;499420,85;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;68779,62;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;13755,98;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;1594,08;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;318,85;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7401,41;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;121512,00;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;121512,00;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;34434,72;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;34434,72;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2340623,21;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;2340623,21;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;3728,01;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;3489,75;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;3489,75;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;3489,75;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;238,26;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;238,26;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;238,26;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.3.0;1.9.9.9.99.3.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Financeiras;238,26;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1380266,46;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1380266,46;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1110266,46;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;1110266,46;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;1110266,46;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;270000,00;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.00.0.0;2.4.2.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS dos Estados e DF;270000,00;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.50.0.0;2.4.2.1.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;270000,00;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);29163258,22;1745
+2024;Prefeitura Municipal de Quixaba - PB;2512606;PB;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3861599,06;1745

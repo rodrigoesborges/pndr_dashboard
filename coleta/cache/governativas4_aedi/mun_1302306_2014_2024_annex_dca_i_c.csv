@@ -1,0 +1,928 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;47846416,06;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;-4302123,03;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;42942863,42;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;-4302123,03;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;1013593,11;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;1013428,11;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;506221,75;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;506221,75;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;250840,02;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;255381,73;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;507206,36;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;507206,36;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;165,00;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;165,00;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;127676,92;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;127676,92;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;127676,92;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;41797395,64;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;-4302123,03;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;41797395,64;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;-4302123,03;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;16098743,83;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;-2251808,40;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;11731226,81;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;-2246675,76;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;11721891,31;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;-2244808,66;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;9335,50;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;-1867,10;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;175408,74;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;175408,74;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;2593848,97;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;512533,53;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;813992,64;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;25663,68;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;-5132,64;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;246069,46;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;10522879,41;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;-2050314,63;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;10255864,87;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;-2050314,63;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;10190821,18;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;-2038164,21;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;11325,06;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;-2264,78;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;49428,19;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;-9885,64;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;4290,44;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);160075,78;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.30.00;1.7.2.2.22.30.00 - Cota-Parte Royalties - Compensação Financeira pela Produção de Petróleo - Lei nº 7.990/89 artigo 9º;160075,78;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;106938,76;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;15175772,40;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;12133062,12;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3042710,28;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;4197,75;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;4197,75;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;4903552,64;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;4903552,64;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;4903552,64;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;2948843,26;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.02.00.00;2.4.7.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;2948843,26;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;1954709,38;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.02.00.00;2.4.7.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;1674709,38;16977
+2014;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;280000,00;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;50452193,47;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;-3925741,40;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;43854188,36;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;-3925741,40;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;1187431,92;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;1186996,92;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;510834,30;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;13671,18;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;497163,12;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;412464,26;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;84698,86;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;676162,62;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;676162,62;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;435,00;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;435,00;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;58153,55;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;58153,55;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;58153,55;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;42477686,02;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;-3925741,40;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;42477686,02;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;-3925741,40;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;15435488,67;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;-1962663,19;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;10333074,33;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;-1957530,52;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;10327930,65;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;-1956501,80;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;5143,68;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;-1028,72;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;121048,62;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.20.00;1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;11223,47;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;109825,15;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;2781667,56;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;594116,87;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1484312,35;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;25663,67;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;-5132,67;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;95605,27;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;10132372,17;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;-1963078,21;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;9828171,54;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;-1963078,21;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;9749812,03;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;-1949962,41;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;16157,48;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;-3231,28;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;49422,56;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;-9884,52;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;12779,47;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);139552,38;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.30.00;1.7.2.2.22.30.00 - Cota-Parte Royalties - Compensação Financeira pela Produção de Petróleo - Lei nº 7.990/89 artigo 9º;139552,38;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;61568,25;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;103080,00;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;16909825,18;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;13031125,33;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3878699,85;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;130916,87;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;130916,87;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;6598005,11;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;6598005,11;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;1237749,80;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;1237749,80;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;840000,00;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;397749,80;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;5360255,31;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;1100695,97;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.02.00.00;2.4.7.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;1100695,97;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;4259559,34;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.02.00.00;2.4.7.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;2059559,34;16977
+2015;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;2200000,00;16977
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;47971001,05;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;TotalReceitas;Total Receitas;4092370,02;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;46401432,44;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;4092370,02;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;1227008,93;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;888033,93;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;595454,56;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;11144,01;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;584310,55;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;465101,86;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;119208,69;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;292579,37;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;292579,37;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;614,53;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;614,53;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;614,53;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.3.0.00.00.00;1.1.3.0.00.00.00 - Contribuição de Melhoria;338360,47;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.3.0.02.00.00;1.1.3.0.02.00.00 - Contribuição de Melhoria para Expansão da Rede de Iluminação Pública na Cidade;338360,47;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;68449,60;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;68449,60;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;68449,60;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;45080694,51;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;4092370,02;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;45080694,51;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;4092370,02;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;17169994,60;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2229728,21;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;11944353,50;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2224595,57;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;11941572,76;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2224039,44;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2780,74;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;556,13;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;292290,52;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.20.00;1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;30630,56;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;94065,83;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.90.00;1.7.2.1.22.90.00 - Outras Transferências Decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;167594,13;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;3143958,26;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;599294,06;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1119508,16;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;25663,68;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;5132,64;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;44926,42;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;9580957,53;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1862641,81;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;9347305,59;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1862641,81;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;9261754,53;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1852350,91;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;13998,85;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;2799,56;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;37456,65;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;7491,34;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;34095,56;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);107351,94;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.30.00;1.7.2.2.22.30.00 - Cota-Parte Royalties - Compensação Financeira pela Produção de Petróleo - Lei nº 7.990/89 artigo 9º;107351,94;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;126300,00;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;18329742,38;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;14591815,16;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3737927,22;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;25279,40;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;5279,40;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;5279,40;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;5279,40;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;20000,00;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;20000,00;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;1569568,61;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;1569568,61;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;1211166,38;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;1211166,38;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;1149495,00;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.02.00.00;2.4.2.1.02.00.00 - Transferências de Recursos Destinados a Programas de Educação;61671,38;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;358402,23;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;358402,23;16585
+2016;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.02.00.00;2.4.7.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;358402,23;16585
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;55122626,17;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;Total Receitas;4260210,22;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;55122626,17;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;4260210,22;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;832759,92;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;804187,17;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;545210,52;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;543989,27;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;492961,88;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;51027,39;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";1221,25;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;258976,65;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;258976,65;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;28572,75;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;16848,71;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;11724,04;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;11724,04;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;433852,62;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.0.00.00.00;1.2.2.0.00.00.00 - Contribuições de Intervenção no Domínio Econômico;433852,62;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.0.24.00.00;1.2.2.0.24.00.00 - Contribuição sobre a Receita das Concessionárias e Permissionárias de Energia Elétrica;433852,62;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;280246,35;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;280246,35;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;280246,35;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;53575767,28;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;4260210,22;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;53575767,28;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;4260210,22;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;17146032,34;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2107251,72;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;11459481,76;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2102119,08;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;11459438,87;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2102110,51;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;42,89;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;8,57;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;151996,48;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.20.00;1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;7214,34;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;122716,29;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.90.00;1.7.2.1.22.90.00 - Outras Transferências Decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;22065,85;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;3402618,88;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;591755,61;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1497198,06;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;25663,68;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;5132,64;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;17317,87;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;11162127,22;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2152958,50;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;10809325,41;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2152958,50;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;10705296,04;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2141059,22;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;16556,09;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;3311,21;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;42940,45;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;8588,07;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;44532,83;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);115452,23;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.22.30.00;1.7.2.2.22.30.00 - Cota-Parte Royalties - Compensação Financeira pela Produção de Petróleo - Lei nº 7.990/89 artigo 9º;115452,23;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;237349,58;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;25267607,72;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;15930056,92;16200
+2017;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;9337550,80;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;52485630,58;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;4637261,87;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;52485630,58;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4637261,87;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;942249,74;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;924888,63;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;585615,06;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;585615,06;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;585615,06;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;339273,57;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;339273,57;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;339273,57;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;17361,11;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;17093,61;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;17093,61;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;267,50;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;267,50;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;618226,89;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;618226,89;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;500005,00;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;500005,00;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.99.0.0;1.6.9.0.99.0.0 - Outros Serviços;500005,00;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;49876496,05;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4637261,87;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;13260884,86;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2225680,59;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;13260884,86;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2225680,59;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;12081544,55;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2220653,19;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;12073924,81;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2219922,19;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3655,13;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;731,00;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.8.0;1.7.1.8.01.8.0 Cota-Parte do Imposto Sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários ¿ Comercialização do Ouro;3964,61;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;238027,42;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.2.0;1.7.1.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;51688,97;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;186338,45;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;916175,65;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;835835,65;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;80340,00;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;25137,24;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;5027,40;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;25137,24;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;5027,40;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;12653339,55;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2411581,28;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;12653339,55;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2411581,28;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;12092907,29;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2411581,28;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;12010591,91;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2402118,36;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;13154,59;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;2617,54;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;34161,09;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;6845,38;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;34999,70;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 Transferência da Cota-parte da Compensação Financeira (25%);169010,55;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.3.0;1.7.2.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º;169010,55;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;391421,71;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;391421,71;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;23962271,64;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;23962271,64;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;23962271,64;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;548652,90;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;548652,90;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;548652,90;16200
+2018;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;548652,90;16200
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);72205154,65;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);5091218,13;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;71466454,65;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;5091218,13;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1052044,06;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1034163,39;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;587991,10;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;587991,10;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;587991,10;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;446172,29;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;446172,29;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;446172,29;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;17880,67;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;5450,61;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;5450,61;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.2.0;1.1.2.1.02.2.0 - Taxa de Fiscalização de Funcionamento - TFF;5450,61;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;12430,06;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;12430,06;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;524764,90;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;524764,90;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;92545,33;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;92545,33;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;92545,33;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;92545,33;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;69556708,02;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;5091218,13;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;33239983,22;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2414261,08;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;33239983,22;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2414261,08;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;13137856,66;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2414261,08;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;13116828,63;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2414251,43;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;48,26;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;9,65;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;20979,77;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;817906,32;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.4.0;1.7.1.8.02.4.0 Cota-parte Royalties pelo Excedente da Produção do Petróleo ¿ Lei nº 9.478/97, artigo 49, I e II;631748,84;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;186157,48;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";7272481,78;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;6092761,57;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;377836,09;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;101884,12;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;700000,00;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;508251,96;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.1.0;1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;508251,96;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;3421057,64;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;952620,20;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;73080,00;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;802168,00;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;7677,96;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1585511,48;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;7957250,91;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;100000,00;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.1.0;1.7.1.8.10.1.0 Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;100000,00;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;25177,95;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;15697504,64;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2676957,05;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;15697504,64;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2676957,05;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;13784786,80;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2676957,05;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;13322203,30;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2664440,65;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;21758,27;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;4351,35;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;40825,23;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;8165,05;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.9.0;1.7.2.8.01.9.0 Outras Transferências dos Estados;400000,00;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 Transferência da Cota-parte da Compensação Financeira (25%);199256,95;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.3.0;1.7.2.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º;199256,95;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;963656,75;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;70372,73;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;595431,41;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;595431,41;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;84000,00;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;20619220,16;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;20619220,16;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;20619220,16;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;240392,34;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;61042,46;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;61042,46;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.03.0.0;1.9.2.2.03.0.0 - Restituição de Benefícios Previdenciários;61042,46;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;179349,88;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;179349,88;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;179349,88;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;738700,00;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;738700,00;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;616200,00;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;616200,00;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;616200,00;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.1.0;2.4.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;616200,00;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;122500,00;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;122500,00;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.99.0.0;2.4.2.8.99.0.0 Outras Transferências dos Estados;122500,00;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);72205154,65;14753
+2019;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);5091218,13;14753
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);81189900,72;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);5425716,39;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;79227004,72;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;5425716,39;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1279202,64;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1272700,97;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;733720,83;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;733720,83;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;733720,83;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;538980,14;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;538980,14;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;538980,14;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;6501,67;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;6501,67;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;6501,67;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;491914,64;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;491914,64;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;23257,51;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;23257,51;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;23257,51;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;23257,51;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;77432138,24;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;5425716,39;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;38804023,19;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2590761,25;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;38804023,19;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2590761,25;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;14300571,52;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2590761,25;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;12953678,86;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2590761,25;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;516809,96;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;618780,22;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;128,73;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;17550,68;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.8.0;1.7.1.8.01.8.0 Cota-Parte do Imposto Sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários ¿ Comercialização do Ouro;193623,07;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;386964,45;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.2.0;1.7.1.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;201784,18;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;185180,27;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";10574112,91;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;8938152,16;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;906750,00;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;611323,83;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;108870,00;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.5.0;1.7.1.8.03.5.0 - Transferência de Recursos do SUS ¿ Gestão do SUS;9016,92;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1941960,10;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;944025,18;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;973803,60;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;20788,89;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;3342,43;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;8630636,07;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;374926,72;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.1.0;1.7.1.8.10.1.0 Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;374926,72;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;588091,73;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;2006759,69;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;16341468,06;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2834955,14;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;16341468,06;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2834955,14;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;14175617,91;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2834955,14;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;14115781,17;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2823156,24;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;26974,84;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;5226,51;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;32861,90;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;6572,39;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 Transferência da Cota-parte da Compensação Financeira (25%);132407,94;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.3.0;1.7.2.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º;132407,94;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;1603497,55;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;69405,24;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;360539,42;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;360539,42;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;22286646,99;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;22286646,99;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;22286646,99;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;491,69;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;491,69;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;491,69;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;491,69;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1962896,00;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1962896,00;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1962896,00;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1962896,00;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;987896,00;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.1.0;2.4.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;987896,00;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 Outras Transferências da União;975000,00;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);81189900,72;14317
+2020;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);5425716,39;14317
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);109581847,65;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);6920960,67;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;106583851,45;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;6920960,67;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1644781,36;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1626166,85;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;823689,60;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;823689,60;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;823689,60;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;802477,25;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;802477,25;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;802477,25;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;18614,51;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;1367,42;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;1367,42;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;17247,09;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;17247,09;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;1118691,97;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;1118691,97;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;319827,42;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;319827,42;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;315925,39;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;315925,39;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.2.00.0.0;1.3.2.2.00.0.0 - Dividendos;3902,03;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;1365,43;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;69,43;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;69,43;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;1296,00;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.99.0.0;1.6.9.0.99.0.0 - Outros Serviços;1296,00;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;103498796,02;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;6920960,67;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;56554290,88;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3497773,58;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;56554290,88;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;3497773,58;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;19228027,58;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;3497773,58;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;17488807,36;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3497761,18;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;664681,28;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;703064,77;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;62,02;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;12,40;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;11017,16;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.8.0;1.7.1.8.01.8.0 - Cota-Parte do Imposto Sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários ¿ Comercialização do Ouro;360394,99;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;739662,65;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.2.0;1.7.1.8.02.2.0 - Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;441403,38;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;298259,27;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;16112184,46;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;8944732,75;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção Especializada;1789907,04;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;907223,07;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;110321,60;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;4360000,00;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;2226861,93;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;989078,26;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;65220,00;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;873818,00;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;51306,16;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;247439,51;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;16212512,61;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;289406,82;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;1745634,83;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;19349230,69;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3423187,09;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;19349230,69;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;3423187,09;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;17115934,96;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;3423187,09;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;17041105,05;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;3408221,06;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;24099,50;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;4819,94;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;50730,41;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;10146,09;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 - Transferência da Cota-parte da Compensação Financeira (25%);231436,26;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.3.0;1.7.2.8.02.3.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º;231436,26;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;1804363,03;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 - Transferências de Estados destinadas à Assistência Social;197496,44;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;27595274,45;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;27595274,45;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;27595274,45;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;389,25;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;389,25;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;389,25;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;389,25;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;2997996,20;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;2997996,20;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;2309238,29;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;2309238,29;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;315036,00;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.1.0;2.4.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;315036,00;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.05.0.0;2.4.1.8.05.0.0 - Transferências de Recursos Destinados a Programas de Educação;1114162,71;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;880039,58;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.1.0;2.4.1.8.10.1.0 - Transferências de Convênio da União para o Sistema Único de Saúde ¿ SUS;149249,58;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;730790,00;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;688757,91;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 - Transferências dos Estados, Distrito Federal, e de suas Entidades;688757,91;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.03.0.0;2.4.2.8.03.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;568757,91;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;120000,00;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;120000,00;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);109581847,65;13886
+2021;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);6920960,67;13886
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);132624127,42;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);8667445,82;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;127201554,89;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;8667445,82;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;2592102,68;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2584655,15;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;2,50;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";2,50;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1196945,34;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1196945,34;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1196945,34;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;1387707,31;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;1387707,31;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;1387707,31;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;7447,53;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;7447,53;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;7447,53;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;99053,00;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;99053,00;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;1463765,70;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;1463765,70;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;1439256,08;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;1439256,08;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.2.00.0.0;1.3.2.2.00.0.0 - Dividendos;24509,62;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;123038673,03;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;8667445,82;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;71650768,70;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;5036462,78;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;27957497,64;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;5036462,78;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;27530373,18;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;5036142,97;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;25180716,05;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;5036142,97;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;1295693,35;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;1053963,78;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1599,17;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;319,81;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.55.0.0;1.7.1.1.55.0.0 - Cota-Parte do Imposto Sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários ¿ Comercialização do Ouro;425525,29;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;1290531,61;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;571704,62;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;457200,17;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;457200,17;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;261626,82;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;14130976,84;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;14130976,84;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;10876596,96;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;1858453,31;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;1268589,68;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;126289,20;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;1047,69;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;2802273,93;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;1112292,50;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;65940,00;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;811718,00;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;57926,45;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;754396,98;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;22307321,05;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;2098985,63;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;993182,00;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.99.0.0;1.7.1.7.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;993182,00;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;70000,00;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;70000,00;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;19577754,36;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3630983,04;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;18171733,95;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3630983,04;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;18049032,85;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3609806,54;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;58515,88;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;11703,25;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;47366,28;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;9473,25;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;16818,94;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.0.0;1.7.2.2.00.0.0 - Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;317014,10;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.52.0.0;1.7.2.2.52.0.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo;317014,10;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;1000412,66;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;88593,65;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;88593,65;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;31810149,97;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;31810149,97;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;7960,48;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;7960,48;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;7960,48;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;7960,48;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;5422572,53;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;5422572,53;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1048881,87;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;170592,00;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.0.0;2.4.1.1.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;170592,00;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.1.0;2.4.1.1.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;170592,00;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.00.0.0;2.4.1.2.00.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE ;878289,87;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.0.0;2.4.1.2.50.0.0 - Transferências de Recursos Destinados a Programas de Educação;878289,87;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.9.0;2.4.1.2.50.9.0 - Outras transferências destinadas a Programas de Educação;878289,87;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4373690,66;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.00.0.0;2.4.2.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS dos Estados e DF;640385,44;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.50.0.0;2.4.2.1.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;640385,44;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;887515,65;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;887515,65;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.00.0.0;2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados;2845789,57;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.99.0.0;2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados;2845789,57;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);132624127,42;13462
+2022;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);8667445,82;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);146512991,01;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);8436661,13;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;141875807,21;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;8436661,13;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;2665241,14;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2659058,64;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;335,00;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";335,00;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;932370,07;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;932370,07;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;927176,65;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;5193,42;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;1726353,57;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;1726353,57;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;1726353,57;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;6182,50;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;6182,50;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;6182,50;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;150559,33;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;150559,33;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;1683651,54;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;1082811,54;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;1073111,42;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;1073111,42;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.2.00.0.0;1.3.2.2.00.0.0 - Dividendos;9700,12;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.0.00.0.0;1.3.6.0.00.0.0 - Cessão de Direitos;600840,00;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.1.00.0.0;1.3.6.1.00.0.0 - Cessão de Direitos;600840,00;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.1.01.0.0;1.3.6.1.01.0.0 - Cessão do Direito de Operacionalização de Pagamentos;600840,00;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.1.01.1.0;1.3.6.1.01.1.0 - Cessão do Direito de Operacionalização de Pagamentos - Poderes Executivo e Legislativo;600840,00;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;137239344,20;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;8436661,13;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;79048867,09;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;4627671,39;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;25705796,80;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;4627671,39;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;25532170,76;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;4626922,66;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;23134614,63;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;4626922,66;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;2397556,13;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3743,74;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;748,73;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.55.0.0;1.7.1.1.55.0.0 - Cota-Parte do Imposto Sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários ¿ Comercialização do Ouro;169882,30;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;708389,66;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;228409,02;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;479980,64;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;479980,64;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;19334225,68;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;19334225,68;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;12613873,33;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;3887170,91;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;1789434,67;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;108870,00;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;934876,77;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;2576732,40;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;1312564,29;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;1167472,20;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;96695,91;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;26353024,22;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;1685492,84;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;2685205,49;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;2685205,49;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;22943794,25;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3808989,74;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;18868677,73;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3773054,26;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;18732939,87;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3746587,99;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;98286,14;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;19657,31;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;34044,76;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;6808,96;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;3406,96;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.0.0;1.7.2.2.00.0.0 - Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;199451,88;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.52.0.0;1.7.2.2.52.0.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo;199451,88;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;2998379,57;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;877285,07;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;35935,48;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.50.0.0;1.7.2.9.50.0.0 - Transferências de Estados a Consórcios Públicos;179677,40;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.9.50.0.0;1.7.2.9.50.0.0 - Transferências de Estados a Consórcios Públicos;35935,48;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.52.0.0;1.7.2.9.52.0.0 - Transferências de Recursos Destinados a Programas de Educação;697607,67;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;35246682,86;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;35246682,86;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;137011,00;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;137011,00;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;137011,00;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;137011,00;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;4637183,80;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;4637183,80;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;4637183,80;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;4637183,80;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;4637183,80;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);146512991,01;13462
+2023;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);8436661,13;13462
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);192019359,90;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);9233011,95;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;185458128,00;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;9233011,95;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;2361691,37;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2351954,85;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;125,19;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";125,19;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;608413,81;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;608413,81;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;607737,59;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;676,22;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;1743415,85;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;1743415,85;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;1743415,85;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;9736,52;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;938,30;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;938,30;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;8798,22;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;8798,22;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;320345,64;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;320345,64;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;1314928,66;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;1314928,66;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;1302025,40;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;1302025,40;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.2.00.0.0;1.3.2.2.00.0.0 - Dividendos;12903,26;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;181401755,32;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;9233011,95;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;115134759,31;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;5112083,24;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;28219727,97;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;5112083,24;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;28162386,66;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;5111362,14;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;25556812,90;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;5111362,14;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;2605573,76;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3605,82;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;721,10;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.55.0.0;1.7.1.1.55.0.0 - Cota-Parte do Imposto Sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários ¿ Comercialização do Ouro;53735,49;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;624772,60;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;116129,37;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;508643,23;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;508643,23;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;32742476,03;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;32742476,03;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;18819670,99;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;9313055,29;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;2605589,51;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;253218,06;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;1750942,18;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;8107427,52;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;3891055,48;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;1201186,00;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;81351,50;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;2933834,54;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;43103573,01;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;1441383,89;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;711696,00;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.99.0.0;1.7.1.7.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;711696,00;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;183702,29;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.60.0.0;1.7.1.9.60.0.0 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022;183702,29;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;22927926,29;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4120928,71;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;20633974,41;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;4120928,71;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;20410669,86;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;4082133,96;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;137775,30;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;27555,19;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;56197,88;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;11239,56;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;29331,37;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.0.0;1.7.2.2.00.0.0 - Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;186177,21;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.52.0.0;1.7.2.2.52.0.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo;186177,21;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;1400000,00;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;707774,67;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.52.0.0;1.7.2.9.52.0.0 - Transferências de Recursos Destinados a Programas de Educação;707774,67;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;43339069,72;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;43339069,72;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;59407,01;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;59407,01;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;59407,01;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;59407,01;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;6561231,90;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;6561231,90;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;6561231,90;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.00.0.0;2.4.1.2.00.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE ;407496,70;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.0.0;2.4.1.2.50.0.0 - Transferências de Recursos Destinados a Programas de Educação;407496,70;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.9.0;2.4.1.2.50.9.0 - Outras transferências destinadas a Programas de Educação;407496,70;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.3.00.0.0;2.4.1.3.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS ;325000,00;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.3.50.0.0;2.4.1.3.50.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;325000,00;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;5828735,20;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;5828735,20;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);192019359,90;25048
+2024;Prefeitura Municipal de Jutaí - AM;1302306;AM;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);9233011,95;25048

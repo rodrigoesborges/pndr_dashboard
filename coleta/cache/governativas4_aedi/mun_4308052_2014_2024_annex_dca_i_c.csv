@@ -1,0 +1,884 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;12251014,20;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;TotalReceitas;Total Receitas;1691478,49;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;11384919,98;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1691478,49;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;269155,56;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;256407,89;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;193419,39;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;72269,08;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";121150,31;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;62988,50;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;62988,50;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;12747,67;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;1356,50;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;11391,17;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;119203,07;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.0.00.00.00;1.3.1.0.00.00.00 - Receitas Imobiliárias;115305,92;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.9.00.00.00;1.3.1.9.00.00.00 - Outras Receitas Imobiliárias;115305,92;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.3.0.00.00.00;1.3.3.0.00.00.00 - Receitas de Concessões e Permissões;3897,15;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;98809,42;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Demais Receitas de Serviços;98809,42;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;10830023,78;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1691478,49;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;10690132,81;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1691478,49;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;7618311,47;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1194914,41;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;6322977,38;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1181108,89;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6312536,04;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1179020,69;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;10441,34;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2088,20;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;597547,83;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.50.00;1.7.2.1.22.50.00 - Cota-Parte Royalties pela Participação Especial - Lei nº 9.478/97 artigo 50;503301,94;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;94245,89;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;335374,21;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;134692,66;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;79141,78;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;16803,48;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;13805,52;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;131774,13;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2604873,50;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;496564,08;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2382048,86;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;496564,08;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2214949,82;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;463362,18;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;126217,11;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;25243,43;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;39804,19;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;7958,47;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1077,74;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;122824,64;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;100000,00;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;466947,84;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;466947,84;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;139890,97;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;139890,97;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;128003,61;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;11887,36;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;67728,15;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;2986,02;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;2986,02;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;40279,70;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;40279,70;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;24462,43;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;24462,43;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;866094,22;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.0.0.00.00.00;2.2.0.0.00.00.00 - Alienação de Bens;22500,00;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.1.0.00.00.00;2.2.1.0.00.00.00 - Alienação de Bens Móveis;22500,00;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.3.0.0.00.00.00;2.3.0.0.00.00.00 - Amortização de Empréstimos;5314,44;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;838279,78;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;100200,00;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.2.00.00.00;2.4.2.2.00.00.00 - Transferências dos Estados;100200,00;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.2.99.00.00;2.4.2.2.99.00.00 - Outras Transferências dos Estados;100200,00;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;738079,78;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;738079,78;2570
+2014;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;738079,78;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;13789987,33;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;TotalReceitas;Total Receitas;1799414,00;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;11946302,38;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1799414,00;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;270699,44;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;254197,69;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;166161,30;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;166161,30;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;88036,39;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;88036,39;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;16501,75;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;16501,75;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;23643,73;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;23643,73;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;195551,74;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;195551,74;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;191507,69;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.9.00.00.00;1.3.2.9.00.00.00 - Outras Receitas de Valores Mobiliários;4044,05;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;71270,72;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;71270,72;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;11238704,38;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1799414,00;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;11105318,38;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1799414,00;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;7818749,86;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1276106,83;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;6642253,33;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1272732,57;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6631893,07;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1270660,60;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;10360,26;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2071,97;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;591333,01;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.11.00;1.7.2.1.22.11.00 - Cota-Parte da Compensação Financeira de Recursos Hídricos;520095,73;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;71237,28;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;354462,04;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;114676,95;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;86234,74;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;16871,51;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;3374,26;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.37.00.00;1.7.2.1.37.00.00 - Transferências a Consórcios Públicos;12918,28;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2707909,40;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;523307,17;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2567368,27;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;523307,17;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2360800,71;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;482811,95;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;157836,22;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;31450,19;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;44639,53;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;9045,03;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;4091,81;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);49560,28;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.11.00;1.7.2.2.22.11.00 - Cota-Parte da Compensação Financeira de Recursos Hídricos;49560,28;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;90980,85;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;578659,12;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;503464,80;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.99.00.00;1.7.2.4.99.00.00 - Outras Transferências Multigovernamentais;75194,32;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;133386,00;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;133386,00;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;133386,00;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;146432,37;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;146432,37;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;85853,04;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.98.00.00;1.9.3.1.98.00.00 - Receita da Dívida Ativa das Contribuições de Melhoria;85853,04;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.2.00.00.00;1.9.3.2.00.00.00 - Receita da Dívida Ativa Não Tributária;60579,33;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;1843684,95;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;1843684,95;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;1843684,95;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.3.00.00.00;2.4.2.3.00.00.00 - Transferências dos Municípios;1843684,95;2570
+2015;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.3.02.00.00;2.4.2.3.02.00.00 - Transferências de Recursos Destinados a Programas de Educação;1843684,95;2570
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;13831112,71;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;2015263,65;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;13731112,71;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2015263,65;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;373355,43;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;353577,16;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;272110,32;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;101760,69;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;92103,67;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;92103,67;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";78245,96;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;81466,84;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;81466,84;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;19778,27;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;1654,68;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;18123,59;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.01.00.00;1.1.2.2.01.00.00 - Emolumentos Consulares;18123,59;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;23480,78;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;23480,78;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;141404,37;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;136944,15;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;136944,15;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.3.0.00.00.00;1.3.3.0.00.00.00 - Receitas de Concessões e Permissões;4460,22;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;118742,17;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.13.00.00;1.6.0.0.13.00.00 - Serviços Administrativos;1408,20;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;117333,97;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;12967157,79;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2015263,65;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;12815630,67;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2015263,65;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;9147519,98;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1458828,49;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7812315,04;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1455268,83;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7798587,28;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1452523,32;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;13727,76;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2745,51;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;639009,14;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.11.00;1.7.2.1.22.11.00 - Cota-Parte da Compensação Financeira de Recursos Hídricos;577906,36;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;61102,78;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;399645,16;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;154299,85;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;93622,64;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;17798,42;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;3559,66;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;30829,73;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;3119142,15;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;556435,16;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2948298,62;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;556435,16;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2713645,35;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;541759,84;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;165134,76;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;3026,96;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;58241,65;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;11648,36;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;11276,86;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;140843,53;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;30000,00;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;548968,54;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;548968,54;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;151527,12;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;151527,12;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;151527,12;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;106972,17;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;2794,58;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;2794,58;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.38.00.00;1.9.1.1.38.00.00 - Multas e Juros de Mora do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;1549,31;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.39.00.00;1.9.1.1.39.00.00 - Multas e Juros de Mora do Imposto sobre a Transmissão Inter Vivos de Bens Imóveis - ITBI;119,98;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.40.00.00;1.9.1.1.40.00.00 - Multas e Juros de Mora do Imposto sobre Serviços de Qualquer Natureza ¿ ISS;522,90;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.99.00.00;1.9.1.1.99.00.00 - Multas e Juros de Mora de Outros Tributos;602,39;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;81412,94;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;81412,94;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;81412,94;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;20246,34;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;19604,96;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;15230,80;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.13.00.00;1.9.3.1.13.00.00 - Receita da Dívida Ativa do Imposto sobre Serviços de Qualquer Natureza ¿ ISS;1335,18;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.99.00.00;1.9.3.1.99.00.00 - Receita da Dívida Ativa de Outros Tributos;3038,98;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.2.00.00.00;1.9.3.2.00.00.00 - Receita da Dívida Ativa Não Tributária;641,38;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.2.99.00.00;1.9.3.2.99.00.00 - Receita da Dívida Ativa Não Tributária de Outras Receitas;641,38;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;2518,31;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;2518,31;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;100000,00;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;100000,00;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;100000,00;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;100000,00;2553
+2016;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;100000,00;2553
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;13925320,62;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;2028318,05;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;13821777,66;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2028318,05;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;407709,08;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;388407,82;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;299362,00;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;199741,21;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.22.00;1.1.1.2.04.22.00 - Receita de Parcelamentos - Imposto sobre a Renda - Pessoas Jurídicas;104494,07;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.23.00;1.1.1.2.04.23.00 - Imposto de Renda Pessoa Jurídica - Simples Federal e Nacional;95247,14;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";99620,79;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;89045,82;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;89045,82;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;19301,26;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;4794,06;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;14507,20;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;14507,20;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;24839,09;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;24839,09;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;132637,84;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.00.00;1.3.1.0.00.00.00 - Receitas Imobiliárias;11000,00;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.5.00.00.00;1.3.1.5.00.00.00 - Taxa de Ocupação de Imóveis;11000,00;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;116851,78;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;116851,78;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.3.0.00.00.00;1.3.3.0.00.00.00 - Receitas de Concessões e Permissões;4786,06;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;82899,54;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;82899,54;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;13121891,82;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2028318,05;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;12906946,57;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2028318,05;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;8926584,10;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1389816,31;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7555813,02;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1386174,07;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7543934,69;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1383798,46;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;11878,33;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;2375,61;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;503511,10;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.11.00;1.7.2.1.22.11.00 - Cota-Parte da Compensação Financeira de Recursos Hídricos;423140,49;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;80370,61;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;494048,72;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;230345,64;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;107437,52;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;18211,20;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;3642,24;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;17216,90;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;3246443,84;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;638501,74;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;3178738,82;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;638501,74;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2948419,82;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;595576,39;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;170192,73;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;34038,50;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;44438,37;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;8886,85;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;15687,90;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;67689,58;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;15,44;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;733918,63;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;733918,63;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.00.00;1.7.5.0.00.00.00 - Transferências de Pessoas;1000,00;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;213945,25;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;213945,25;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;206920,97;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;7024,28;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;51800,29;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;1634,10;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;1634,10;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.38.00.00;1.9.1.1.38.00.00 - Multas e Juros de Mora do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;617,55;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.39.00.00;1.9.1.1.39.00.00 - Multas e Juros de Mora do Imposto sobre a Transmissão Inter Vivos de Bens Imóveis - ITBI;23,22;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.40.00.00;1.9.1.1.40.00.00 - Multas e Juros de Mora do Imposto sobre Serviços de Qualquer Natureza ¿ ISS;111,75;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.99.00.00;1.9.1.1.99.00.00 - Multas e Juros de Mora de Outros Tributos;881,58;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;31081,39;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;31081,39;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;31081,39;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;18084,80;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;16779,18;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;12257,80;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.13.00.00;1.9.3.1.13.00.00 - Receita da Dívida Ativa do Imposto sobre Serviços de Qualquer Natureza ¿ ISS;2849,48;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.99.00.00;1.9.3.1.99.00.00 - Receita da Dívida Ativa de Outros Tributos;1671,90;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.2.00.00.00;1.9.3.2.00.00.00 - Receita da Dívida Ativa Não Tributária;1305,62;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.2.99.00.00;1.9.3.2.99.00.00 - Receita da Dívida Ativa Não Tributária de Outras Receitas;1305,62;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;1000,00;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;1000,00;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;103542,96;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.0.0.00.00.00;2.3.0.0.00.00.00 - Amortização de Empréstimos;3542,96;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;100000,00;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;100000,00;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;100000,00;2538
+2017;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;100000,00;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;22060268,69;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;2192564,30;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;21270540,69;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2192564,30;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;342432,21;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;288489,21;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;288489,21;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;181477,87;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;105268,94;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;76208,93;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;107011,34;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.1.0;1.1.1.8.02.1.0 Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação;107011,34;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;53943,00;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;53943,00;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;53943,00;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;27604,28;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;27604,28;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.99.0.0;1.2.1.0.99.0.0 - Outras Contribuições Sociais;27604,28;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;46997,44;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;46997,44;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.9.00.0.0;1.3.2.9.00.0.0 - Outros Valores Mobiliários;46997,44;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;51842,36;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;51842,36;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;51842,36;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;20718178,42;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2192564,30;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;13044467,26;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1484974,50;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;13044467,26;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1484974,50;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8075369,91;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1484974,50;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8063854,06;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1482671,39;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;11515,85;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2303,11;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;105119,96;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;74427,75;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;30692,21;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;18096,16;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;18096,16;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;7568,79;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.2.0;1.7.1.8.10.2.0 Transferências de Convênios da União Destinadas a Programas de Educação;7568,79;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.11.0.0;1.7.1.8.11.0.0 Outras Transferências de Recursos Fundo a Fundo;4838312,44;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;6800929,97;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;707589,80;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;6800929,97;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;707589,80;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;3490916,42;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;707589,80;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;3288216,42;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;658289,15;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;155159,39;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;39792,63;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;47540,61;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;9508,02;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 Transferência da Cota-parte da Compensação Financeira (25%);563491,75;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.1.0;1.7.2.8.02.1.0 Cota-parte da Compensação Financeira de Recursos Hídricos;440182,16;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.3.0;1.7.2.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º;123309,59;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;480163,60;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;2045207,77;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.1.0;1.7.2.8.10.1.0 Transferências de Convênio dos Estados para o Sistema Único de Saúde ¿ SUS;72277,92;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;1972929,85;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;221150,43;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;872781,19;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;872781,19;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;872781,19;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;83485,98;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;71496,11;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;49953,56;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;49953,56;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.00.0.0;1.9.2.3.00.0.0 - Ressarcimentos;21542,55;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.99.0.0;1.9.2.3.99.0.0 - Outros Ressarcimentos;21542,55;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;11989,87;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;11989,87;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;11989,87;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;789728,00;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;200100,00;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.2.0.00.0.0;2.2.2.0.00.0.0 - Alienação de Bens Imóveis;200100,00;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;589628,00;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;589628,00;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;589628,00;2538
+2018;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;589628,00;2538
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);16786050,22;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);-2314983,11;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;16605496,28;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-2314983,11;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;544336,14;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;489851,82;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;133858,65;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;133858,65;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;126133,36;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;7725,29;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;355993,17;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;251512,36;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;106241,83;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;145270,53;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;104480,81;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;104480,81;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;54484,32;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;49217,18;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;49217,18;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;5267,14;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;5267,14;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.1.0;1.1.2.8.01.1.0 - Taxa de Fiscalização de Vigilância Sanitária;5106,94;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;160,20;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;33943,40;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;33943,40;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;83451,06;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;49547,19;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.01.0.0;1.3.1.0.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação;34350,00;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.01.1.0;1.3.1.0.01.1.0 - Aluguéis e Arrendamentos;34350,00;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.02.0.0;1.3.1.0.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos;5197,19;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.99.0.0;1.3.1.0.99.0.0 - Outras Receitas Imobiliárias;10000,00;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;33903,87;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;33903,87;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;33903,87;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;75663,79;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;75663,79;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;65171,79;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.02.0.0;1.6.1.0.02.0.0 - Inscrição em Concursos e Processos Seletivos;10492,00;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;15795835,85;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;-2314983,11;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;10842861,19;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;-1610601,00;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;10842861,19;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;-1610601,00;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8749289,58;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;-1610601,00;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8037132,55;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;-1607426,26;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;354693,52;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;341589,25;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;15874,26;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;-3174,74;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;747808,47;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.1.0;1.7.1.8.02.1.0 Cota-parte da Compensação Financeira de Recursos Hídricos;623973,13;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;123835,34;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";578795,87;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;514069,72;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;44098,65;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;20627,50;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;106157,90;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;72674,69;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;1020,00;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;7764,40;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;24513,86;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;184,95;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;240558,54;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;420250,83;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4012848,33;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;-704382,11;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;4012848,33;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;-704382,11;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;3528370,02;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;-704382,11;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;3277929,03;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;-652074,58;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;194757,82;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;-42637,23;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;48351,68;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;-9670,30;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7331,49;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;250638,08;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;9024,99;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;224815,24;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;224815,24;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;940126,33;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;940126,33;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;940126,33;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;72266,04;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;54842,85;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;10,80;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;10,80;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.00.0.0;1.9.2.8.00.0.0 - Indenizações, Restituições e Ressarcimentos - Específicas para Estados/DF/Municípios;54832,05;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.01.0.0;1.9.2.8.01.0.0 - Indenizações- Específicas para Estados/DF/Municípios;54832,05;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;17423,19;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;17423,19;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;17423,19;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;180553,94;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.0.0.00.0.0;2.3.0.0.00.0.0 - Amortização de Empréstimos;4428,70;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.0.0.04.0.0;2.3.0.0.04.0.0 - Amortização de Empréstimos - Refinanciamento de Dívidas de Médio e Longo Prazo;4428,70;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;176125,24;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;176125,24;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;176125,24;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 Outras Transferências da União;176125,24;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);16786050,22;2346
+2019;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);-2314983,11;2346
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);19159101,81;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2250747,56;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;17572381,75;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2250747,56;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;854709,37;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;805542,38;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;194681,54;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;194681,54;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;180385,19;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;14296,35;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;610860,84;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;439516,82;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;174417,76;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;265099,06;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;171344,02;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;171344,02;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;49166,99;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;49166,99;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;9733,12;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.1.0;1.1.2.8.01.1.0 - Taxa de Fiscalização de Vigilância Sanitária;7597,20;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;2135,92;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.02.0.0;1.1.2.8.02.0.0 - Taxas pela Prestação de Serviços;39433,87;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.02.9.0;1.1.2.8.02.9.0 - Taxas pela Prestação de Serviços - Outras;39433,87;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;35801,93;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;35801,93;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;16958,29;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;5419,35;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.02.0.0;1.3.1.0.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos;5419,35;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;11538,94;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;11538,94;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;11538,94;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;84203,03;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;84203,03;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;70095,78;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.03.0.0;1.6.1.0.03.0.0 - Serviços de Registro, Certificação e Fiscalização;14107,25;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;16349369,44;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2250747,56;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;11051012,39;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1533510,22;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;11051012,39;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1533510,22;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8357177,64;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1533510,22;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;7654273,71;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1530854,42;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;344445,14;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;345179,50;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;13279,29;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2655,80;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;539831,95;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.1.0;1.7.1.8.02.1.0 Cota-parte da Compensação Financeira de Recursos Hídricos;416683,09;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;123148,86;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";843637,15;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;843637,15;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;102066,15;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.1.0;1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;102066,15;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;120632,64;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;71608,68;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;900,00;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;23117,60;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;25006,36;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;100638,36;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;987028,50;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4256279,25;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;717237,34;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;4256279,25;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;717237,34;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;3577604,29;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;717237,34;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;3303713,97;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;663692,96;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;220724,63;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;44144,96;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;47000,00;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;9399,42;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;6165,69;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;366212,56;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;83388,86;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;72308,27;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;11080,59;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;229073,54;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1042077,80;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1042077,80;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1042077,80;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;231339,69;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;28,40;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;28,40;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;229157,44;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;190414,20;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.01.0.0;1.9.2.2.01.0.0 - Restituição de Convênios;190414,20;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.00.0.0;1.9.2.8.00.0.0 - Indenizações, Restituições e Ressarcimentos - Específicas para Estados/DF/Municípios;38743,24;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.01.0.0;1.9.2.8.01.0.0 - Indenizações- Específicas para Estados/DF/Municípios;34743,24;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.03.0.0;1.9.2.8.03.0.0 - Ressarcimentos - Específicas para Estados/DF/Municípios;4000,00;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;2153,85;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;2153,85;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;2153,85;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1586720,06;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.0.0.00.0.0;2.1.0.0.00.0.0 - Operações de Crédito;1000000,00;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.0.00.0.0;2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno;1000000,00;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.9.00.0.0;2.1.1.9.00.0.0 Outras Operações de Crédito - Mercado Interno;1000000,00;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.0.0.00.0.0;2.3.0.0.00.0.0 - Amortização de Empréstimos;3100,09;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.0.0.04.0.0;2.3.0.0.04.0.0 - Amortização de Empréstimos - Refinanciamento de Dívidas de Médio e Longo Prazo;3100,09;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;583619,97;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;583619,97;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;583619,97;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;3475,00;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.1.0;2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;3475,00;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.05.0.0;2.4.1.8.05.0.0 Transferências de Recursos Destinados a Programas de Educação;230144,97;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;350000,00;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.7.0;2.4.1.8.10.7.0 - Transferências de Convênios da União destinadas a Programas de Infraestrutura em Transporte;350000,00;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);19159101,81;2315
+2020;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2250747,56;2315
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);20939651,26;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3036067,09;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;20740565,43;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3036067,09;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;892753,74;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;827856,19;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;192457,09;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;192457,09;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;181534,41;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;10922,68;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;635399,10;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;496601,70;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;164181,88;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;332419,82;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;138797,40;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;138797,40;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;64897,55;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;8439,37;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;8439,37;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;56458,18;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;56458,18;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;43231,87;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;43231,87;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;170646,67;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;6685,62;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.02.0.0;1.3.1.0.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos;6685,62;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;78961,05;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;78961,05;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;78961,05;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.0.00.0.0;1.3.6.0.00.0.0 - Cessão de Direitos;85000,00;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.0.01.0.0;1.3.6.0.01.0.0 - Cessão do Direito de Operacionalização de Pagamentos;85000,00;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.0.01.1.0;1.3.6.0.01.1.0 - Cessão do Direito de Operacionalização de Pagamentos;85000,00;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;94950,81;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;94950,81;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;88947,71;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.03.0.0;1.6.1.0.03.0.0 - Serviços de Registro, Certificação e Fiscalização;6003,10;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;19459886,71;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3036067,09;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;12739799,95;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2067743,90;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;12739799,95;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;2067743,90;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;11190630,89;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;2067743,90;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;10319993,65;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2063998,43;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;452337,92;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;399571,60;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;18727,72;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3745,47;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;568174,03;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.1.0;1.7.1.8.02.1.0 - Cota-parte da Compensação Financeira de Recursos Hídricos;368683,14;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;199490,89;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;766733,60;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;690706,08;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;39515,84;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;36511,68;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;102712,65;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;72014,15;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;20686,60;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;10011,90;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;77878,34;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;33670,44;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;5407394,39;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;968323,19;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;5407394,39;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;968323,19;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;4818357,69;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;968323,19;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;4468133,20;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;899069,17;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;298193,78;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;59638,79;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;48075,73;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;9615,23;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;3954,98;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;515366,91;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;73390,85;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 - Transferências de Convênio dos Estados Destinadas a Programas de Educação;73390,85;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 - Outras Transferências dos Estados;278,94;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.0.00.0.0;1.7.4.0.00.0.0 - Transferências de Instituições Privadas;107900,00;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.1.01.0.0;1.7.4.1.01.0.0 - Outras Transferências de Instituições Privadas;10900,00;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.8.00.0.0;1.7.4.8.00.0.0 - Transferências de Instituições Privadas - Específicas de Estados, DF e Municípios;97000,00;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.8.01.0.0;1.7.4.8.01.0.0 - Transferência de Convênios de Instituições Privadas para EST/DF/MUN;97000,00;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1204792,37;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1204792,37;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1204792,37;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;79095,63;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;164,95;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.01.0.0;1.9.1.0.01.0.0 - Multas Previstas em Legislação Específica;164,95;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;18324,89;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;1164,10;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;1164,10;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.00.0.0;1.9.2.8.00.0.0 - Indenizações, Restituições e Ressarcimentos - Específicas para Estados/DF/Municípios;17160,79;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.01.0.0;1.9.2.8.01.0.0 - Indenizações- Específicas para Estados/DF/Municípios;17160,79;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;60605,79;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;60605,79;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;60605,79;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;199085,83;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;95100,00;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;95100,00;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;95100,00;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.0.0.00.0.0;2.3.0.0.00.0.0 - Amortização de Empréstimos;3985,83;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.0.0.04.0.0;2.3.0.0.04.0.0 - Amortização de Empréstimos - Refinanciamento de Dívidas de Médio e Longo Prazo;3985,83;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;100000,00;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;100000,00;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;100000,00;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;100000,00;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.7.0;2.4.1.8.10.7.0 - Transferências de Convênios da União destinadas a Programas de Infraestrutura em Transporte;100000,00;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);20939651,26;2284
+2021;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3036067,09;2284
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);25784616,27;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;23887443,69;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;505410,27;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;27003,07;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.00.0.0;1.3.1.1.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;27003,07;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.99.0.0;1.3.1.1.99.0.0 - Outras Receitas Imobiliárias;27003,07;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;393407,20;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;393407,20;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.05.0.0;1.3.2.1.05.0.0 - Juros de Títulos de Renda;393407,20;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.0.00.0.0;1.3.6.0.00.0.0 - Cessão de Direitos;85000,00;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.1.00.0.0;1.3.6.1.00.0.0 - Cessão de Direitos;85000,00;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.1.01.0.0;1.3.6.1.01.0.0 - Cessão do Direito de Operacionalização de Pagamentos;85000,00;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.1.01.1.0;1.3.6.1.01.1.0 - Cessão do Direito de Operacionalização de Pagamentos - Poderes Executivo e Legislativo;85000,00;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;55894,09;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;55894,09;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;23300754,53;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;23300754,53;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;23300754,53;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;23300754,53;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;25384,80;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;4,98;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;4,98;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.01.0.0;1.9.1.1.01.0.0 - Multas Previstas em Legislação Específica;4,98;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;21846,63;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;21846,63;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;21846,63;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;3533,19;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;3533,19;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.03.0.0;1.9.9.9.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência e Sistema de Proteção Social;3533,19;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1897172,58;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;223300,00;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;223300,00;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;223300,00;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.0.0.00.0.0;2.3.0.0.00.0.0 - Amortização de Empréstimos;4871,57;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.1.0.00.0.0;2.3.1.0.00.0.0 - Amortização de Empréstimos;4871,57;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.1.1.00.0.0;2.3.1.1.00.0.0 - Amortização de Empréstimos;4871,57;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.1.1.07.0.0;2.3.1.1.07.0.0 - Amortização de Financiamentos;4871,57;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1669001,01;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.9.0.00.0.0;2.4.9.0.00.0.0 - Demais Transferências de Capital;1669001,01;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.9.9.00.0.0;2.4.9.9.00.0.0 - Outras Transferências de Capital;1669001,01;2256
+2022;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);25784616,27;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);28373636,03;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;26146419,40;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;63877,91;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;3906,81;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.1.00.0.0;1.1.1.1.00.0.0 - Impostos sobre o Comércio Exterior;3906,81;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.1.01.0.0;1.1.1.1.01.0.0 - Imposto sobre a Importação;3906,81;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;59971,10;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;53519,01;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;53519,01;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;6452,09;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;6452,09;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;469781,04;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;8415,54;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.00.0.0;1.3.1.1.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;8415,54;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.01.0.0;1.3.1.1.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação;8415,54;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.01.1.0;1.3.1.1.01.1.0 - Aluguéis e Arrendamentos;8415,54;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;261365,50;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;261365,50;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;261365,50;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.9.0.00.0.0;1.3.9.0.00.0.0 - Demais Receitas Patrimoniais;200000,00;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.4.0.0.00.0.0;1.4.0.0.00.0.0 - Receita Agropecuária;1888,43;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;45485,26;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;45485,26;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;25535900,35;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;23767428,11;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;23767428,11;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;23767428,11;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.0.00.0.0;1.7.4.0.00.0.0 - Transferências de Instituições Privadas;258065,69;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.1.00.0.0;1.7.4.1.00.0.0 - Transferências de Instituições Privadas;258065,69;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.1.01.0.0;1.7.4.1.01.0.0 - Transferências de Instituições Privadas para Órgãos e Entidades da União;258065,69;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1510406,55;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;1510406,55;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;29486,41;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;29486,41;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;29486,41;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;29486,41;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;2227216,63;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.0.0.00.0.0;2.3.0.0.00.0.0 - Amortização de Empréstimos;4871,57;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.1.0.00.0.0;2.3.1.0.00.0.0 - Amortização de Empréstimos;4871,57;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.1.1.00.0.0;2.3.1.1.00.0.0 - Amortização de Empréstimos;4871,57;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.1.1.06.0.0;2.3.1.1.06.0.0 - Amortização de Empréstimos Contratuais;4871,57;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;2222345,06;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.3.0.00.0.0;2.4.3.0.00.0.0 - Transferências dos Municípios e de suas Entidades;50000,00;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.3.1.00.0.0;2.4.3.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS dos Municípios ;50000,00;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.3.1.50.0.0;2.4.3.1.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS dos Municípios ;50000,00;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.5.0.00.0.0;2.4.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2172345,06;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.5.1.00.0.0;2.4.5.1.00.0.0 - Transferências de Outras Instituições Públicas;2172345,06;2256
+2023;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);28373636,03;2256
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);35468438,43;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;29982330,76;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;64253,27;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;522,92;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;522,92;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.01.0.0;1.1.1.2.01.0.0 - Imposto sobre a Propriedade Territorial Rural;522,92;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;63730,35;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;62173,72;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;62173,72;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;1556,63;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;1556,63;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;288002,00;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;2110,74;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.00.0.0;1.3.1.1.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;2110,74;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.01.0.0;1.3.1.1.01.0.0 - Aluguéis, Arrendamentos, Foros, Laudêmios, Tarifas de Ocupação;2110,74;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.01.1.0;1.3.1.1.01.1.0 - Aluguéis e Arrendamentos;2110,74;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;285891,26;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;285891,26;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;285891,26;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.4.0.0.00.0.0;1.4.0.0.00.0.0 - Receita Agropecuária;293,84;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;55655,03;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;55655,03;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;29414729,80;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;27179899,28;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;27179899,28;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;27179899,28;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.0.00.0.0;1.7.4.0.00.0.0 - Transferências de Instituições Privadas;203300,00;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.1.00.0.0;1.7.4.1.00.0.0 - Transferências de Instituições Privadas;203300,00;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.1.99.0.0;1.7.4.1.99.0.0 - Outras Transferências de Instituições Privadas;203300,00;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2031530,52;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;2031530,52;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;159396,82;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;159396,82;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;159396,82;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;159396,82;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;5486107,67;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.0.0.00.0.0;2.1.0.0.00.0.0 - Operações de Crédito;2000000,00;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.0.00.0.0;2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno;2000000,00;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.2.00.0.0;2.1.1.2.00.0.0 - Operações de Crédito Contratuais - Mercado Interno;2000000,00;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.2.01.0.0;2.1.1.2.01.0.0 - Operações de Crédito Contratuais - Mercado Interno;2000000,00;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;503150,00;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.2.0.00.0.0;2.2.2.0.00.0.0 - Alienação de Bens Imóveis;503150,00;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.0.0.00.0.0;2.3.0.0.00.0.0 - Amortização de Empréstimos;3542,96;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.1.0.00.0.0;2.3.1.0.00.0.0 - Amortização de Empréstimos;3542,96;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.1.1.00.0.0;2.3.1.1.00.0.0 - Amortização de Empréstimos;3542,96;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.3.1.1.06.0.0;2.3.1.1.06.0.0 - Amortização de Empréstimos Contratuais;3542,96;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;2979414,71;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.9.0.00.0.0;2.4.9.0.00.0.0 - Demais Transferências de Capital;2979414,71;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.9.9.00.0.0;2.4.9.9.00.0.0 - Outras Transferências de Capital;2979414,71;2521
+2024;Prefeitura Municipal de Faxinalzinho - RS;4308052;RS;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);35468438,43;2521

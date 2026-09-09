@@ -1,0 +1,927 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;33705699,48;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;31747052,16;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;832886,83;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;800129,40;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;406051,82;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;4392,70;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;394659,12;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;394659,12;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";7000,00;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;394077,58;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;394077,58;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;32757,43;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;23522,45;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;9234,98;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;249829,57;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;249829,57;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;249829,57;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;173,32;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.05.00.00;1.6.0.0.05.00.00 - Serviços de Saúde;173,32;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;30407966,58;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;28818298,73;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;15484749,23;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;11959580,48;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;11956524,10;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;3056,38;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;229626,94;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.20.00;1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;5289,45;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;45827,10;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;178510,39;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;2016051,70;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;94232,64;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;928191,00;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;17743,92;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;239322,55;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;5245928,77;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;5240900,30;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;5042163,11;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;179129,65;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;16997,47;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;2610,07;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);5028,47;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.30.00;1.7.2.2.22.30.00 - Cota-Parte Royalties - Compensação Financeira pela Produção de Petróleo - Lei nº 7.990/89 artigo 9º;5028,47;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;8087620,73;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;6238837,37;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1848783,36;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;1589667,85;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;1260656,08;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.03.00.00;1.7.6.1.03.00.00 - Transferências de Convênios da União Destinadas a Programas de Assistência Social;314395,00;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;946261,08;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;329011,77;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;329011,77;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;256195,86;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;3243,25;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;3243,25;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;3243,25;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;44627,05;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;7789,62;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.2.00.00.00;1.9.3.2.00.00.00 - Receita da Dívida Ativa Não Tributária;36837,43;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;208325,56;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;1958647,32;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;1958647,32;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;584757,24;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;584757,24;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;584757,24;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;1373890,08;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;708636,83;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;708636,83;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;665253,25;14529
+2014;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;665253,25;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;34907620,84;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;3555790,95;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;34202886,28;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;3555790,95;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;805477,58;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;769782,01;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;505554,77;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;10851,14;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;483493,63;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;483493,63;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";11210,00;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;264227,24;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;264227,24;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;35695,57;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;35457,57;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;238,00;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;78757,19;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;78757,19;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;189692,28;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;189692,28;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;189692,28;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;33108299,31;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;3555790,95;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;31298989,13;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;3555790,95;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;16453488,88;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2410841,20;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;12707309,44;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2407431,30;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;12704859,11;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2406941,32;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2450,33;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;489,98;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;171965,26;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.20.00;1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;2761,29;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;32439,40;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;136764,57;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;2403442,57;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;131492,95;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;999331,38;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;18599,64;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;3409,90;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;21347,64;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;5733337,09;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1144949,75;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;5733337,09;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1144949,75;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;5477206,41;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1098685,83;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;218792,12;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;40823,41;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;27203,20;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;5440,51;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;10135,36;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;9112163,16;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;6815219,18;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2296943,98;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;1809310,18;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;1390820,31;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.03.00.00;1.7.6.1.03.00.00 - Transferências de Convênios da União Destinadas a Programas de Assistência Social;325400,00;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;1065420,31;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;418489,87;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;418489,87;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;20659,92;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;11909,90;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;11909,90;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;11909,90;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;8750,02;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;872,97;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;872,97;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.2.00.00.00;1.9.3.2.00.00.00 - Receita da Dívida Ativa Não Tributária;7877,05;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;704734,56;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;704734,56;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;434829,36;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;434829,36;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;434829,36;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;269905,20;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;5167,50;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;5167,50;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;264737,70;14529
+2015;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;264737,70;14529
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;40381631,32;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;3643271,17;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;38051118,84;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;3643271,17;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;999111,64;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;977971,36;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;517285,72;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;10733,29;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;503152,43;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;503152,43;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";3400,00;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;460685,64;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;460685,64;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;21140,28;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;21140,28;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.01.00.00;1.1.2.2.01.00.00 - Emolumentos Consulares;21140,28;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;228543,66;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;228543,66;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;228543,66;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;35513188,45;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;3643271,17;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;34842542,88;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;3643271,17;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;19402778,45;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2747225,74;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;14736154,78;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2744778,02;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;14728873,89;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2743321,90;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;7280,89;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1456,12;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;140212,29;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.20.00;1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;3981,57;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;20828,38;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;115402,34;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;3095696,92;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;250983,42;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1141918,83;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;13351,68;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2447,72;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;24460,53;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;4493592,36;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;896045,43;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;4490975,12;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;896045,43;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;4190364,31;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;841486,99;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;259950,75;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;52016,98;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;12707,97;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;2541,46;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;27952,09;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);2617,24;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.30.00;1.7.2.2.22.30.00 - Cota-Parte Royalties - Compensação Financeira pela Produção de Petróleo - Lei nº 7.990/89 artigo 9º;2617,24;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;10946172,07;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;8314000,84;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2632171,23;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;670645,57;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;462863,96;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.02.00.00;1.7.6.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;229513,28;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.03.00.00;1.7.6.1.03.00.00 - Transferências de Convênios da União Destinadas a Programas de Assistência Social;195002,85;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;38347,83;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;207781,61;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;98228,49;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;109553,12;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;1310275,09;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;36960,27;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;36960,27;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;36960,27;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;2956,94;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;2956,94;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;2956,94;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;1270357,88;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.01.00.00;1.9.9.0.01.00.00 - Receita de Parcelamentos ¿ Outras Receitas;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.02.00.00;1.9.9.0.02.00.00 - Encargos Legais pela Inscrição em Dívida Ativa e Receitas de Ônus de Sucumbência;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.03.00.00;1.9.9.0.03.00.00 - Receita Decorrente de Alienação de Bens Apreendidos;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.04.00.00;1.9.9.0.04.00.00 - Produtos de Depósitos Abandonados (Dinheiro ou Objetos de Valor);57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.05.00.00;1.9.9.0.05.00.00 - Receita de Bens e Valores Perdidos em Favor da União;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.06.00.00;1.9.9.0.06.00.00 - Receita Decorrente da Não Aplicação de Incentivos Fiscais em Projetos Culturais e pela Indústria Cinematográfica;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.07.00.00;1.9.9.0.07.00.00 - Receita de Direitos ¿Antidumping¿ e dos Direitos Compensatórios;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.08.00.00;1.9.9.0.08.00.00 - Demais Receitas para o Desenvolvimento do Desporto;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.10.00.00;1.9.9.0.10.00.00 - Receita Decorrente de Medidas de Suspensão de Concessões dos Direitos de Propriedade Intelectual;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.16.00.00;1.9.9.0.16.00.00 - Receita de Participação do Seguro ¿ DPVAT ¿ Sistema Nacional de Trânsito;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.18.00.00;1.9.9.0.18.00.00 - Receita de Reserva Global de Reversão;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.19.00.00;1.9.9.0.19.00.00 - Recolhimento do Beneficiário ao Fundo de Saúde Militar;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.20.00.00;1.9.9.0.20.00.00 - Contribuição Voluntária ¿ Montepio Civil;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.21.00.00;1.9.9.0.21.00.00 - Receita de Seguros decorrente da Indenização por Sinistro;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.24.00.00;1.9.9.0.24.00.00 - Receita de Leilão de Cotas de Importação;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.25.00.00;1.9.9.0.25.00.00 - Recolhimento e Transferência de Depósitos Judiciais e Extrajudiciais;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.26.00.00;1.9.9.0.26.00.00 - Recursos Decorrentes da Prestação de Contas de Campanha Eleitoral;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.27.00.00;1.9.9.0.27.00.00 - Disponibilidades de Recursos do Fundo Social;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.28.00.00;1.9.9.0.28.00.00 - Receita de Contrapartida de Subvenções ou Subsídios;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.96.00.00;1.9.9.0.96.00.00 - Receita de Variação Cambial;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.98.00.00;1.9.9.0.98.00.00 - Outras Receitas Eventuais;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;57743,54;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;2330512,48;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;2330512,48;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;1916421,85;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;1916421,85;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;1916421,85;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;414090,63;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;414090,63;14674
+2016;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;414090,63;14674
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;40227840,38;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;TotalReceitas;Total Receitas;297040,37;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;3794571,70;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;39127896,64;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;297040,37;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;3794571,70;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;1130456,84;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;1061259,78;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;646284,08;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;40344,44;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;602879,64;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;602879,64;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";3060,00;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;414975,70;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;414975,70;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;69197,06;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;54413,06;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;14784,00;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;14784,00;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;383149,12;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;383149,12;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;258431,21;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;258431,21;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;258431,21;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;1207,00;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;1207,00;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;37322069,17;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;297040,37;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;3794571,70;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;37134499,81;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;297040,37;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;3794571,70;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;21297300,33;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2605835,83;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;14187448,28;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2602476,43;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;14184714,86;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2601929,83;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2733,42;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;546,60;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;181759,53;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.20.00;1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;3952,21;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;26688,03;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;151119,29;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;3565065,22;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;498555,00;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1085459,62;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;16797,36;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;3359,40;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;1762215,32;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;6052040,42;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1188735,87;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;5981825,06;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1188735,87;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;5610377,53;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1106262,50;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;316165,91;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;79046,61;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;17134,50;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;3426,76;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;38147,12;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;39465,36;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;30750,00;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;9785159,06;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;297040,37;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;7483864,96;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2301294,10;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;297040,37;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;187569,36;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;187569,36;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;187569,36;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;32583,30;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;408,20;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;408,20;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;30524,62;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;30524,62;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;30524,62;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;1650,48;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;1650,48;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;1650,48;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;1099943,74;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;1099943,74;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;91428,39;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;91428,39;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.02.00.00;2.4.2.1.02.00.00 - Transferências de Recursos Destinados a Programas de Educação;91428,39;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;1008515,35;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;721615,35;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;721615,35;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;286900,00;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.2.01.00.00;2.4.7.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;169400,00;14814
+2017;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;117500,00;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;42741891,91;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;3971279,12;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;41548984,58;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3971279,12;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1111316,73;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1025370,32;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;593174,08;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;593174,08;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;593174,08;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;432196,24;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;23793,73;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;16393,73;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;7400,00;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;408402,51;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;408402,51;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;85946,41;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;26007,57;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;20909,07;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;5098,50;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;59938,84;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;59938,84;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;406850,90;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;406850,90;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;74316,33;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;74316,33;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;74316,33;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;74316,33;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;39818072,09;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3971279,12;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;21714307,79;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2791497,47;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;21714307,79;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2791497,47;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;15165657,30;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2788487,27;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14544458,76;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2788077,00;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;619146,78;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2051,76;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;410,27;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;277105,74;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.2.0;1.7.1.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;2819,79;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;36666,19;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.4.0;1.7.1.8.02.4.0 Cota-parte Royalties pelo Excedente da Produção do Petróleo ¿ Lei nº 9.478/97, artigo 49, I e II;5743,32;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;231876,44;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;3916527,77;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;560693,76;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1424148,13;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;487894,08;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;513068,00;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;196105,00;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;227081,05;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;15051,12;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;3010,20;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;15051,12;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;3010,20;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;355123,97;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 Outras Transferências de Convênios da União;355123,97;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;7198622,10;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1179781,65;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;7198622,10;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1179781,65;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;5929559,51;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1179781,65;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;5536231,82;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1107246,45;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;337323,48;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;67456,10;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;25351,39;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;5079,10;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;30652,82;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;13500,00;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;1114886,59;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;46893,36;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;1067993,23;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;140676,00;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;10905142,20;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;10905142,20;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;10905142,20;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;138428,53;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;136742,47;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;136742,47;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;136742,47;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;1686,06;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.12.0.0;1.9.9.0.12.0.0 - Encargos Legais pela Inscrição em Dívida Ativa e Receitas de Ônus de Sucumbência;1686,06;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1192907,33;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1192907,33;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1152907,33;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1152907,33;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;250000,00;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;320907,33;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 Outras Transferências da União;582000,00;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;40000,00;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;40000,00;14814
+2018;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.99.0.0;2.4.2.8.99.0.0 Outras Transferências dos Estados;40000,00;14814
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);47207683,02;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4347572,73;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;47207683,02;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4347572,73;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1357571,24;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1155302,01;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;757471,64;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;757471,64;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;757471,64;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;397830,37;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;3721,26;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;3721,26;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;394109,11;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;394109,11;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;202269,23;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;4339,50;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;4339,50;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;47510,73;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;47510,73;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;150419,00;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;150419,00;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;150419,00;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;380290,94;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;380290,94;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;48695,16;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;48695,16;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;48695,16;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;48695,16;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;595902,00;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;595902,00;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.99.0.0;1.6.9.0.99.0.0 - Outros Serviços;595902,00;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;44645756,72;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4347572,73;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;24152510,86;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3032344,46;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;24152510,86;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;3032344,46;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;16474337,15;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;3032344,46;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;15156381,22;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3031275,93;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;668879,14;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;644167,18;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;4909,61;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1068,53;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;256081,79;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.2.0;1.7.1.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;1037,15;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;31205,56;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.4.0;1.7.1.8.02.4.0 Cota-parte Royalties pelo Excedente da Produção do Petróleo ¿ Lei nº 9.478/97, artigo 49, I e II;1456,81;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;222382,27;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";4208080,19;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;2361716,84;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;777297,07;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;108846,16;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;960220,12;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1155988,49;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;456918,55;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;526698,13;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;170478,85;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1892,96;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;199200,21;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 Outras Transferências de Convênios da União;199200,21;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;578816,27;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1280006,76;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;7688619,23;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1315228,27;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;7688619,23;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1315228,27;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;6594921,72;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1315228,27;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;6178677,28;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1235688,86;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;372571,40;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;74561,34;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;24890,85;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;4978,07;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;18782,19;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;36000,00;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;901389,15;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;31261,00;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;870128,15;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;156308,36;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;12804626,63;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;12804626,63;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;12804626,63;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;179466,96;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;179466,96;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;179466,96;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;179466,96;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);47207683,02;15030
+2019;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4347572,73;15030
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);51083312,32;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4293731,53;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;50130883,75;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4293731,53;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1391327,73;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1326000,49;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;921529,96;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;921529,96;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;921529,96;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;404470,53;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;239,97;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;239,97;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;404230,56;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;404230,56;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;65327,24;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;2542,00;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;2542,00;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;26893,79;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;26893,79;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;35891,45;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;35891,45;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;35891,45;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;388691,15;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;388691,15;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;19241,34;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;19241,34;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;19241,34;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;19241,34;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;48225601,36;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4293731,53;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;27768898,21;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2887938,21;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;27768898,21;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2887938,21;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;15740505,67;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2887938,21;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14437965,59;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2887592,81;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;649713,78;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;651098,98;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1727,32;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;345,40;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;241187,30;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.2.0;1.7.1.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;1074,14;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;8130,16;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.4.0;1.7.1.8.02.4.0 Cota-parte Royalties pelo Excedente da Produção do Petróleo ¿ Lei nº 9.478/97, artigo 49, I e II;266,30;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;231716,70;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";6625284,01;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;4212140,62;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;381295,32;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;145090,96;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;1886757,11;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1296501,05;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;440965,89;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;604637,23;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;187494,44;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;63403,49;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;30205,13;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;457343,16;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 Outras Transferências de Convênios da União;457343,16;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;842294,75;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;2535577,14;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;7613155,68;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1405793,32;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;7613155,68;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1405793,32;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;7044806,92;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1405793,32;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;6599237,08;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1319847,52;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;402964,67;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;80593,26;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;26763,19;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;5352,54;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;15841,98;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;45000,00;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;523348,76;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;31261,00;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;492087,76;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;12843547,47;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;12843547,47;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;12843547,47;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;106022,17;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;106022,17;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;106022,17;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;106022,17;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;952428,57;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;952428,57;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;902428,57;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;902428,57;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;683000,00;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.1.0;2.4.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;683000,00;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;219428,57;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;219428,57;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;50000,00;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;50000,00;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.99.0.0;2.4.2.8.99.0.0 Outras Transferências dos Estados;50000,00;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);51083312,32;15057
+2020;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4293731,53;15057
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);58463196,89;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);5492463,25;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;58358540,89;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;5492463,25;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1900739,77;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1685414,15;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;969613,51;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;969613,51;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;969613,51;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;715800,64;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;9307,74;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;4707,74;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;4600,00;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;706492,90;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;706492,90;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;215325,62;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;205102,02;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;205102,02;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;10223,60;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;10223,60;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;10223,60;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;577504,46;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;577504,46;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;186112,37;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;186112,37;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;186112,37;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;186112,37;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;55605640,00;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;5492463,25;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;35547254,05;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3883196,95;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;35547254,05;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;3883196,95;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;21018249,77;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;3883196,95;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;19409745,17;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3881948,76;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;850752,82;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;751510,42;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;6241,36;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1248,19;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;378295,90;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.2.0;1.7.1.8.02.2.0 - Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;1804,50;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;1290,86;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;375200,54;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;5718396,36;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;3829670,40;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção Especializada;1662287,98;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;54041,00;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;172396,98;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;911213,24;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;516148,92;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;318139,80;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;76924,52;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 - Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;25191,60;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4810041,53;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 - Transferências de Convênios da União e de Suas Entidades;1801005,26;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 - Outras Transferências de Convênios da União;1801005,26;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;384860,39;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;500000,00;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;9148000,74;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1609266,30;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;9148000,74;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;1609266,30;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;8056528,59;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;1609266,30;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;7566613,15;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;1513322,71;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;446923,31;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;89384,90;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;32793,22;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;6558,69;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;10198,91;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 - Transferências de Estados destinadas à Assistência Social;45000,00;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;1046472,15;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 - Transferências de Convênio dos Estados Destinadas a Programas de Educação;366649,00;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;679823,15;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;10910385,21;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;10910385,21;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;10910385,21;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;88544,29;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;88490,48;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;88490,48;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;88490,48;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;53,81;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.12.0.0;1.9.9.0.12.0.0 - Encargos Legais pela Inscrição em Dívida Ativa e Receitas de Ônus de Sucumbência;53,81;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.12.1.0;1.9.9.0.12.1.0 - Encargos Legais pela Inscrição em Dívida Ativa;53,81;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;104656,00;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;104656,00;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;104656,00;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;104656,00;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;104656,00;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.1.0;2.4.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;104656,00;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);58463196,89;15185
+2021;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);5492463,25;15185
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);77031646,07;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);6676572,81;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);120870,87;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;76305884,00;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;6676572,81;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;120870,87;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;2424577,42;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2329411,47;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;6617,73;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;6617,73;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1468226,91;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1468226,91;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1468226,91;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;854566,83;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;854566,83;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;854566,83;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;95165,95;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;14142,90;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;14142,90;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;81023,05;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;81023,05;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;571622,64;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;571622,64;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;715309,36;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;715309,36;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;715309,36;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;715309,36;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;71058786,42;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;6676572,81;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;120870,87;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;47435418,78;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;4838766,82;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;26430210,09;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;4838766,82;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;26425853,33;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;4837895,55;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;24369291,96;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;4837895,55;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;1061381,70;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;995179,67;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;4356,76;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;871,27;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;590431,67;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;3257,87;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;587173,80;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;1602,09;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;585571,71;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;5076512,50;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;365617,51;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;220624,31;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;144993,20;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.0.0;1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;4710894,99;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.1.0;1.7.1.3.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária;3337257,12;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.2.0;1.7.1.3.51.2.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Especializada;1373637,87;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;1025075,57;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;607337,22;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;307743,60;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;109994,75;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;7719476,56;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;501024,97;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;224969,99;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.50.0.0;1.7.1.7.50.0.0 - Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;95670,99;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.52.0.0;1.7.1.7.52.0.0 - Transferências de Convênios da União Destinadas a Programas de Assistência Social;129299,00;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;5867717,43;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;5867717,43;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;11516058,59;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1837805,99;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;120870,87;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;9809288,38;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1837805,99;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;120870,87;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;9161693,44;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1832338,76;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;604353,29;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;120870,87;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;27336,03;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;5467,23;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;15905,62;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;1343770,21;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;329740,69;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;1014029,52;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;363000,00;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;213000,00;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;150000,00;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;12107309,05;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;12107309,05;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;1535588,16;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;1535588,16;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;1535588,16;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;1535588,16;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;725762,07;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;725762,07;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;725762,07;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;99969,00;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.0.0;2.4.1.1.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;99969,00;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.1.0;2.4.1.1.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;99969,00;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;625793,07;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;625793,07;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);77031646,07;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);6676572,81;15309
+2022;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);120870,87;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);89332707,21;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);7023087,33;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);209033,43;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;87603178,13;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;7023087,33;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;209033,43;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;3120984,95;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2990328,53;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;16929,20;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;16929,20;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;2002694,59;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;2002694,59;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;2002694,59;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;970704,74;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;970704,74;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;970704,74;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;130656,42;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;18362,31;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;801,87;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;17560,44;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;112294,11;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;112294,11;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;505946,38;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;505946,38;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;497223,82;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;497223,82;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;497223,82;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;497223,82;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;75955424,52;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;7023087,33;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;209033,43;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;48980842,83;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;4965532,41;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;27262638,13;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;4965532,41;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;27259250,74;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;4964855,03;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;25083456,85;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;4964855,03;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;2175793,89;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3387,39;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;677,38;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;532088,66;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;1526,12;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;530562,54;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;1708,57;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;528853,97;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;6433970,62;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;648069,00;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;648069,00;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.0.0;1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;5785901,62;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.1.0;1.7.1.3.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária;5461855,52;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.2.0;1.7.1.3.51.2.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Especializada;324046,10;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;1403319,76;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;650618,94;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;550513,40;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;202187,42;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;11293679,08;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;527867,72;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;729292,94;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.50.0.0;1.7.1.7.50.0.0 - Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;605891,48;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.51.0.0;1.7.1.7.51.0.0 - Transferências de Convênios da União Destinadas a Programas de Educação;123401,46;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;797985,92;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;797985,92;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;13573184,14;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2057554,92;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;209033,43;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;11336228,52;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2057554,92;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;209033,43;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;10445667,03;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2050754,48;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;853271,36;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;209033,43;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;34001,90;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;6800,44;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;3288,23;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;2173955,62;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;787270,77;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;1386684,85;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;63000,00;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;63000,00;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;13401397,55;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;13401397,55;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;7523598,46;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;7523598,46;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;7523598,46;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;7523598,46;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1729529,08;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1729529,08;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1729529,08;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;199986,00;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.0.0;2.4.1.1.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;199986,00;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.3.0;2.4.1.1.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;199986,00;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1529543,08;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.99.0.0;2.4.1.9.99.0.0 - Outras Transferências De Recursos da União e de suas Entidades;1529543,08;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);89332707,21;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);7023087,33;15309
+2023;Prefeitura Municipal de Meruoca - CE;2308203;CE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);209033,43;15309

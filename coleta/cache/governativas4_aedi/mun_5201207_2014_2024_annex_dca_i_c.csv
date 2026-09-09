@@ -1,0 +1,948 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;12334531,33;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1772144,77;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;11397860,57;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1772144,77;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;179319,33;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;176689,79;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;140709,65;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;8689,21;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;131663,90;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;131663,90;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";356,54;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;35980,14;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;35980,14;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;2629,54;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;324,00;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;2305,54;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;2305,54;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;353156,09;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.1.0.00.00.00;1.2.1.0.00.00.00 - Contribuições Sociais;353156,09;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.1.0.29.00.00;1.2.1.0.29.00.00 - Contribuições para o Regime Próprio de Previdência do Servidor Público;353156,09;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.1.0.29.07.00;1.2.1.0.29.07.00 - Contribuição do Servidor Ativo Civil para o Regime Próprio;259131,16;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.1.0.29.15.00;1.2.1.0.29.15.00 - Contribuição Previdenciária em Regime de Parcelamento de Débitos;94024,93;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;232457,22;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;232457,22;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.2.00.00.00;1.3.2.2.00.00.00 - Dividendos;1116,27;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;20845,41;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.6.00.00.00;1.3.2.6.00.00.00 - Remuneração de Depósitos Especiais;5477,62;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.8.00.00.00;1.3.2.8.00.00.00 - Remuneração dos Investimentos do Regime Próprio de Previdência do Servidor;205017,92;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;10622486,44;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1772144,77;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;10605986,44;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1772144,77;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;8576723,42;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1462288,66;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7847777,34;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1461740,02;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7323554,14;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1460942,38;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;304111,91;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);216122,93;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;3988,36;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;797,64;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;203143,38;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.11.00;1.7.2.1.22.11.00 - Cota-Parte da Compensação Financeira de Recursos Hídricos;141686,44;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;61456,94;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;306382,31;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;172464,56;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;39791,28;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2743,20;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;548,64;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;4421,35;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1668555,14;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;309856,11;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1567340,89;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;309856,11;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1486926,13;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;297385,11;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;51565,55;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;10312,73;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;10791,47;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;2158,27;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;18057,74;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);33178,85;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.90.00;1.7.2.2.22.90.00 - Outras Transferências Decorrentes de Compensações Financeiras;33178,85;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;68035,40;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;360707,88;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;360707,88;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;16500,00;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;16500,00;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;16500,00;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;10441,49;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;2921,85;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.2.00.00.00;1.9.1.2.00.00.00 - Multas e Juros de Mora das Contribuições;2921,85;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.2.29.00.00;1.9.1.2.29.00.00 - Multas e Juros de Mora das Contribuições para o Regime Próprio de Previdência do Servidor;2921,85;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;1031,50;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;1031,50;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;1031,50;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;6488,14;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;6488,14;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;394500,00;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.0.0.00.00.00;2.2.0.0.00.00.00 - Alienação de Bens;97600,00;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.1.0.00.00.00;2.2.1.0.00.00.00 - Alienação de Bens Móveis;97600,00;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;296900,00;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;296900,00;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;296900,00;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.01.00.00;2.4.7.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;296900,00;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.0.0.0.00.00.00;7.0.0.0.00.00.00 - Receitas Correntes Intraorçamentárias;542170,76;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.2.0.0.00.00.00;7.2.0.0.00.00.00 - Receitas de Contribuições Intraorçamentárias;542170,76;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.2.1.0.00.00.00;7.2.1.0.00.00.00 - Contribuições Sociais Intraorçamentárias;542170,76;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.2.1.0.29.00.00;7.2.1.0.29.00.00 - Contribuições para o Regime Próprio de Previdência do Servidor Público Intraorçamentárias;542170,76;1104
+2016;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RI7.2.1.0.29.01.00;7.2.1.0.29.01.00 - Contribuição Patronal de Servidor Ativo Civil para o Regime Próprio Intraorçamentária;542170,76;1104
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;12037810,74;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1704367,15;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;11216430,76;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1704367,15;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;202972,57;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;200545,83;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;173864,97;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;30523,82;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;102681,15;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;102681,15;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";40660,00;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;26680,86;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;26680,86;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;2426,74;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;270,50;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;2156,24;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;2156,24;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;297708,09;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.00.00;1.2.1.0.00.00.00 - Contribuições Sociais;297708,09;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.29.00.00;1.2.1.0.29.00.00 - Contribuições para o Regime Próprio de Previdência do Servidor Público;297708,09;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.29.07.00;1.2.1.0.29.07.00 - Contribuição do Servidor Ativo Civil para o Regime Próprio;208249,17;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.29.15.00;1.2.1.0.29.15.00 - Contribuição Previdenciária em Regime de Parcelamento de Débitos;89458,92;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;212552,52;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;212552,52;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.2.00.00.00;1.3.2.2.00.00.00 - Dividendos;1485,66;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;25275,30;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.6.00.00.00;1.3.2.6.00.00.00 - Remuneração de Depósitos Especiais;32225,70;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.8.00.00.00;1.3.2.8.00.00.00 - Remuneração dos Investimentos do Regime Próprio de Previdência do Servidor;153565,86;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;10419068,50;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1704367,15;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;10404188,50;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1704367,15;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;8283765,48;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1389073,51;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7569142,65;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1388527,39;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6936299,28;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1387259,51;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;318144,64;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.04.00;1.7.2.1.01.04.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho (67)(I);308359,14;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;6339,59;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1267,88;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;165512,38;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.11.00;1.7.2.1.22.11.00 - Cota-Parte da Compensação Financeira de Recursos Hídricos;84940,78;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;80571,60;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;274911,53;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;202910,68;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;49089,25;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2730,72;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;546,12;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;19468,27;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1737284,80;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;315293,64;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1601833,73;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;315293,64;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1517828,94;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;302127,26;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;45865,92;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;10611,61;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;12773,97;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;2554,77;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;25364,90;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;135451,07;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;383138,22;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;383138,22;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;14880,00;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;14880,00;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;14880,00;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;84129,08;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;124,10;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.2.00.00.00;1.9.1.2.00.00.00 - Multas e Juros de Mora das Contribuições;124,10;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.2.29.00.00;1.9.1.2.29.00.00 - Multas e Juros de Mora das Contribuições para o Regime Próprio de Previdência do Servidor;124,10;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;8057,34;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;8057,34;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.4.0.00.00.00;1.9.4.0.00.00.00 - Receitas Decorrentes de Aportes Periódicos para Amortização de Déficit Atuarial do RPPS;59339,50;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;16608,14;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;16608,14;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;374100,00;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;374100,00;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;374100,00;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;374100,00;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;81600,00;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;292500,00;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.0.0.0.00.00.00;7.0.0.0.00.00.00 - Receitas Correntes Intraorçamentárias;447279,98;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.0.0.00.00.00;7.2.0.0.00.00.00 - Receitas de Contribuições Intraorçamentárias;447279,98;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.0.00.00.00;7.2.1.0.00.00.00 - Contribuições Sociais Intraorçamentárias;447279,98;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.0.29.00.00;7.2.1.0.29.00.00 - Contribuições para o Regime Próprio de Previdência do Servidor Público Intraorçamentárias;447279,98;1115
+2017;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.0.29.06.00;7.2.1.0.29.06.00 - Contribuição Patronal - Pensionista Militar Intraorçamentária;447279,98;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;13614355,82;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;-1813005,53;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;Total Receitas;-3330,86;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;12492604,97;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-1813005,53;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-3330,86;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;161079,40;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;159496,90;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;119069,66;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;119069,66;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;119069,66;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;40427,24;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;13635,32;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;12611,99;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;1023,33;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;26791,92;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;26791,92;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;1582,50;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;276,50;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;276,50;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;1306,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;1306,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;318116,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;318116,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.04.0.0;1.2.1.0.04.0.0 - Contribuição para o Regime Próprio de Previdência Social - RPPS;318116,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.04.1.0;1.2.1.0.04.1.0 - Contribuição Patronal de Servidor Ativo Civil para o RPPS;8,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.04.2.0;1.2.1.0.04.2.0 - Contribuição do Servidor Ativo Civil para o RPPS;243651,57;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.04.5.0;1.2.1.0.04.5.0 - Contribuição Patronal para o RPPS Oriunda de Sentenças Judiciais;74456,43;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;107116,32;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;-3330,86;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;107116,32;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;-3330,86;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;107116,32;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;-3330,86;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;18960,96;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.2.0;1.3.2.1.00.2.0 - Remuneração de Depósitos Especiais;110,80;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.4.0;1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;88044,56;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.00.4.0;1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;-3330,86;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;11237937,83;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;-1813005,53;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;9182083,68;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;-1505623,42;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;9182083,68;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;-1505623,42;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8053612,60;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;-1505079,82;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;7395559,30;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;-1503425,94;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;328465,54;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;320468,26;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;9119,50;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;-1653,88;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;344136,67;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.1.0;1.7.1.8.02.1.0 Cota-parte da Compensação Financeira de Recursos Hídricos;221123,14;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;123013,53;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;594017,27;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;91166,39;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;44964,81;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;44964,81;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2718,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;-543,60;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2718,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;-543,60;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;51467,94;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1694053,14;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;-307382,11;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1694053,14;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;-307382,11;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1679096,14;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;-307382,11;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1582063,92;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;-292098,26;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;62369,73;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;-12473,44;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;14052,30;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;-2810,41;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;20610,19;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;2847,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;12110,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;12110,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;361801,01;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;361801,01;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;361801,01;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;668355,42;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;33919,21;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;31919,21;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;2000,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;2000,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;634436,21;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.01.0.0;1.9.9.0.01.0.0 - Aportes Periódicos para Amortização de Déficit Atuarial do RPPS;556090,61;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.03.0.0;1.9.9.0.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores;77939,60;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;406,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;406,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;650064,85;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;650064,85;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;317500,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;317500,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;317500,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;332564,85;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;332564,85;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;332564,85;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.0.0.0.00.0.0;7.0.0.0.00.0.0 - Receitas Correntes - Intraorçamentárias;471686,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.2.0.0.00.0.0;7.2.0.0.00.0.0 - Contribuições - Intraorçamentárias;471686,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.2.1.0.00.0.0;7.2.1.0.00.0.0 - Contribuições Sociais - Intraorçamentárias;471686,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.2.1.0.04.0.0;7.2.1.0.04.0.0 - Contribuição para o Regime Próprio de Previdência Social - RPPS - Intraorçamentárias;471686,00;1115
+2018;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.2.1.0.04.1.0;7.2.1.0.04.1.0 - Contribuição Patronal de Servidor Ativo Civil para o RPPS - Intraorçamentárias;471686,00;1115
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);14412421,60;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);-1970039,55;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;13974911,60;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-1970039,55;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;243525,89;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;234077,88;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;138300,48;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;138300,48;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;138300,48;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;95777,40;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;72707,59;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;28981,59;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;43726,00;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;23069,81;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;23069,81;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;9448,01;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;1088,04;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;1088,04;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;8359,97;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;8359,97;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;8359,97;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;272393,21;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;272393,21;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.00.0.0;1.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e Municípios;272393,21;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.01.0.0;1.2.1.8.01.0.0 - Contribuição do Servidor Civil para o Plano de Seguridade Social - CPSSS - Específico de EST/DF/MUN;204018,00;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.01.1.0;1.2.1.8.01.1.0 - CPSSS do Servidor Civil Ativo;204018,00;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.04.0.0;1.2.1.8.04.0.0 - CPSSS Patronal - Parcelamentos - Específico de EST/DF/MUN;68375,21;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.04.1.0;1.2.1.8.04.1.0 - CPSSS Patronal - Parcelamentos - Servidor Civil Ativo;68375,21;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;152485,59;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;9,36;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.02.0.0;1.3.1.0.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos;9,36;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;152476,23;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;152476,23;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;9791,08;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.2.0;1.3.2.1.00.2.0 - Remuneração de Depósitos Especiais;14737,53;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.4.0;1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;127947,62;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;12571251,61;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;-1970039,55;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;10264685,54;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;-1613174,24;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;10264685,54;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;-1613174,24;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8763987,05;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;-1613174,24;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8058272,23;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;-1611654,12;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;355626,46;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;342487,72;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;7600,64;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;-1520,12;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;335995,04;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.1.0;1.7.1.8.02.1.0 Cota-parte da Compensação Financeira de Recursos Hídricos;211833,97;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;124161,07;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";453338,77;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;453338,77;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;42839,26;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;42839,26;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;242605,86;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;425919,56;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1861448,46;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;-356865,31;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1861448,46;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;-356865,31;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1796573,46;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;-356865,31;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1700140,55;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;-340027,94;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;69759,77;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;-13951,49;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;14429,74;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;-2885,88;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;12243,40;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;64875,00;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.1.0;1.7.2.8.10.1.0 Transferências de Convênio dos Estados para o Sistema Único de Saúde ¿ SUS;38925,00;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;25950,00;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;445117,61;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;445117,61;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;445117,61;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;735255,30;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;735255,30;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.01.0.0;1.9.9.0.01.0.0 - Aportes Periódicos para Amortização de Déficit Atuarial do RPPS;710919,65;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.03.0.0;1.9.9.0.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores;22444,23;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;1891,42;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;1891,42;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;437510,00;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;437510,00;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;437510,00;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;437510,00;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;437510,00;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.1.0;2.4.1.8.10.1.0 - Transferências de Convênio da União para o Sistema Único de Saúde ¿ SUS;290000,00;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;147510,00;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasIntraOrcamentarias;RECEITAS (INTRA-ORÇAMENTÁRIAS) (II);491091,46;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.0.0.0.00.0.0;7.0.0.0.00.0.0 - Receitas Correntes;491091,46;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.2.0.0.00.0.0;7.2.0.0.00.0.0 - Contribuições;491091,46;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.2.1.0.00.0.0;7.2.1.0.00.0.0 - Contribuições Sociais;491091,46;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.2.1.8.00.0.0;"7.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e 
+ Municípios";491091,46;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.2.1.8.03.0.0;7.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN;491091,46;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO7.2.1.8.03.1.0;7.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo;491091,46;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);14903513,06;1137
+2019;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);-1970039,55;1137
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);14920960,00;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);-1903983,55;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);-17857,48;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;14712704,00;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-1903983,55;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-17857,48;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;264502,00;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;262444,13;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;169663,86;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;169663,86;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;169663,86;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;92780,27;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;58215,74;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;24426,26;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;33789,48;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;34564,53;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;34564,53;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;2057,87;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;2057,87;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;2057,87;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;2057,87;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;301596,86;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;301596,86;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.00.0.0;1.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e Municípios;301596,86;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.01.0.0;1.2.1.8.01.0.0 - Contribuição do Servidor Civil para o Plano de Seguridade Social - CPSSS - Específico de EST/DF/MUN;230524,22;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.01.1.0;1.2.1.8.01.1.0 - CPSSS do Servidor Civil Ativo;230524,22;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.04.0.0;1.2.1.8.04.0.0 - CPSSS Patronal - Parcelamentos - Específico de EST/DF/MUN;71072,64;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.04.1.0;1.2.1.8.04.1.0 - CPSSS Patronal - Parcelamentos - Servidor Civil Ativo;71072,64;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;123325,35;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;-17857,48;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;123325,35;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;-17857,48;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;123325,35;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;-17857,48;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;2584,06;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.2.0;1.3.2.1.00.2.0 - Remuneração de Depósitos Especiais;6368,16;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.4.0;1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;114373,13;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.00.4.0;1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;-17857,48;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;495,10;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;495,10;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.99.0.0;1.6.9.0.99.0.0 - Outros Serviços;495,10;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;13147641,10;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;-1903983,55;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;10647474,66;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;-1534386,29;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;10647474,66;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;-1534386,29;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8362279,27;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;-1534386,29;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;7662284,24;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;-1532456,58;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;344805,62;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;345540,75;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;9648,66;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;-1929,71;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;400917,98;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.1.0;1.7.1.8.02.1.0 Cota-parte da Compensação Financeira de Recursos Hídricos;277640,24;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;123277,74;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";876484,64;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;497196,26;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;379288,38;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;37986,87;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;37986,87;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;201555,83;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;768250,07;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2062188,24;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;-369597,26;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2062188,24;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;-369597,26;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1858141,23;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;-369597,26;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1776256,34;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;-355251,13;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;59311,94;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;-11862,06;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;12420,80;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;-2484,07;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;10152,15;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;204047,01;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.1.0;1.7.2.8.10.1.0 Transferências de Convênio dos Estados para o Sistema Único de Saúde ¿ SUS;66747,01;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;17300,00;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;120000,00;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;437978,20;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;437978,20;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;437978,20;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;875143,59;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;261,00;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.01.0.0;1.9.1.0.01.0.0 - Multas Previstas em Legislação Específica;261,00;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;63824,94;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;63824,94;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;63824,94;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;811057,65;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.01.0.0;1.9.9.0.01.0.0 - Aportes Periódicos para Amortização de Déficit Atuarial do RPPS;793616,06;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.03.0.0;1.9.9.0.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores;17441,59;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;208256,00;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;208256,00;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;128256,00;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;128256,00;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;128256,00;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.1.0;2.4.1.8.10.1.0 - Transferências de Convênio da União para o Sistema Único de Saúde ¿ SUS;29916,00;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;98340,00;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;80000,00;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;80000,00;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;80000,00;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.1.0;2.4.2.8.10.1.0 - Transferências de Convênios dos Estados para o Sistema Único de Saúde ¿ SUS;80000,00;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasIntraOrcamentarias;RECEITAS (INTRA-ORÇAMENTÁRIAS) (II);501015,98;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.0.0.0.00.0.0;7.0.0.0.00.0.0 - Receitas Correntes;501015,98;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.0.0.00.0.0;7.2.0.0.00.0.0 - Contribuições;501015,98;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.0.00.0.0;7.2.1.0.00.0.0 - Contribuições Sociais;501015,98;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.8.00.0.0;"7.2.1.8.00.0.0 Contribuições Sociais Específicas de Estados, DF e 
+ Municípios";501015,98;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.8.03.0.0;7.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN;501015,98;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.8.03.1.0;7.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo;501015,98;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);15421975,98;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);-1903983,55;1149
+2020;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);-17857,48;1149
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);17598199,88;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);-2547432,41;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);-20924,24;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;17325445,83;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-2547432,41;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-20924,24;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;383899,57;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;379968,72;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;167398,21;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;167398,21;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;167398,21;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;212570,51;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;164639,30;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;44741,02;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;119898,28;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;47931,21;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;47931,21;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;3930,85;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;3930,85;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.02.0.0;1.1.2.8.02.0.0 - Taxas pela Prestação de Serviços;3930,85;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.02.9.0;1.1.2.8.02.9.0 - Taxas pela Prestação de Serviços - Outras;3930,85;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;319223,97;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;319223,97;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.00.0.0;1.2.1.8.00.0.0 - Contribuições Sociais Específicas de Estados, DF e Municípios;319223,97;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.01.0.0;1.2.1.8.01.0.0 - Contribuição do Servidor Civil para o Plano de Seguridade Social - CPSSS - Específico de EST/DF/MUN;241521,53;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.01.1.0;1.2.1.8.01.1.0 - CPSSS do Servidor Civil Ativo;241521,53;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.04.0.0;1.2.1.8.04.0.0 - CPSSS Patronal - Parcelamentos - Específico de EST/DF/MUN;77702,44;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.8.04.1.0;1.2.1.8.04.1.0 - CPSSS Patronal - Parcelamentos - Servidor Civil Ativo;77702,44;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;149356,08;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;-20924,24;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;567,00;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.02.0.0;1.3.1.0.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos;567,00;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;148789,08;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;-20924,24;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;148789,08;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;-20924,24;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;66275,32;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.4.0;1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;82513,76;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.00.4.0;1.3.2.1.00.4.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;-20924,24;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;15706773,51;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;-2547432,41;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;12465407,54;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;-2052891,68;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;12465407,54;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;-2052891,68;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;11111081,05;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;-2052891,68;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;10255928,55;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;-2051185,40;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;449529,87;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;397091,11;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;8531,52;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;-1706,28;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;397578,25;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.1.0;1.7.1.8.02.1.0 - Cota-parte da Compensação Financeira de Recursos Hídricos;199325,76;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;198252,49;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;797689,46;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;797689,46;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;36041,69;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;36041,69;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;75857,93;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;47159,16;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2668120,31;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;-494540,73;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;2668120,31;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;-494540,73;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;2479256,69;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;-494540,73;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;2362482,34;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;-472496,37;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;90727,90;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;-18145,51;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;19494,29;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;-3898,85;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;6552,16;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 - Transferências de Estados destinadas à Assistência Social;128349,50;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;60514,12;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.1.0;1.7.2.8.10.1.0 - Transferências de Convênio dos Estados para o Sistema Único de Saúde ¿ SUS;43214,12;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 - Transferências de Convênio dos Estados Destinadas a Programas de Educação;17300,00;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;573245,66;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;573245,66;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;573245,66;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;766192,70;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;953,00;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.01.0.0;1.9.1.0.01.0.0 - Multas Previstas em Legislação Específica;953,00;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;501,49;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;296,49;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;296,49;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;205,00;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;205,00;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;764738,21;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.01.0.0;1.9.9.0.01.0.0 - Aportes Periódicos para Amortização de Déficit Atuarial do RPPS;755313,36;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.03.0.0;1.9.9.0.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência dos Servidores;9424,85;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;272754,05;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;272754,05;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;127763,00;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;127763,00;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;127763,00;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.1.0;2.4.1.8.10.1.0 - Transferências de Convênio da União para o Sistema Único de Saúde ¿ SUS;127763,00;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;144991,05;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 - Transferências dos Estados, Distrito Federal, e de suas Entidades;144991,05;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;144991,05;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.1.0;2.4.2.8.10.1.0 - Transferências de Convênios dos Estados para o Sistema Único de Saúde ¿ SUS;100000,00;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;44991,05;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasIntraOrcamentarias;RECEITAS (INTRA-ORÇAMENTÁRIAS) (II);493106,97;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.0.0.0.00.0.0;7.0.0.0.00.0.0 - Receitas Correntes;493106,97;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.0.0.00.0.0;7.2.0.0.00.0.0 - Contribuições;493106,97;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.0.00.0.0;7.2.1.0.00.0.0 - Contribuições Sociais;493106,97;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.8.00.0.0;7.2.1.8.00.0.0 - Contribuições Sociais Específicas de Estados, DF e   Municípios;493106,97;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.8.03.0.0;7.2.1.8.03.0.0 - CPSSS Patronal - Servidor Civil - Específico de EST/DF/MUN;493106,97;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.8.03.1.0;7.2.1.8.03.1.0 - CPSSS Patronal - Servidor Civil Ativo;493106,97;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);18091306,85;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);-2547432,41;1160
+2021;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);-20924,24;1160
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);22658045,34;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);-3047426,94;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);-8514,08;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;21748119,34;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-3047426,94;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-8514,08;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;553384,64;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;500481,14;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;126553,51;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;15871,26;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";110682,25;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;233878,52;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;233878,52;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;233878,52;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;140049,11;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;140049,11;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;140049,11;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;52903,50;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;52903,50;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;52903,50;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;373114,02;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;373114,02;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.00.0.0;1.2.1.5.00.0.0 - Contribuições para Regimes Próprios de Previdência e Sistema de Proteção Social;373114,02;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.01.0.0;1.2.1.5.01.0.0 - Contribuição do Servidor Civil;287148,64;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.01.1.0;1.2.1.5.01.1.0 - Contribuição do Servidor Civil Ativo;287148,64;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.03.0.0;1.2.1.5.03.0.0 - Contribuição do Servidor Civil - Parcelamentos;85965,38;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;368585,60;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;-8514,08;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;801,49;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.00.0.0;1.3.1.1.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;801,49;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.02.0.0;1.3.1.1.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos;801,49;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;367784,11;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;-8514,08;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;367784,11;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;-8514,08;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;218405,55;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.04.0.0;1.3.2.1.04.0.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;149378,56;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.04.0.0;1.3.2.1.04.0.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;-8514,08;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;19411371,24;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;-3047426,94;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;15565911,31;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;-2534681,82;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;13842696,42;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;-2534681,82;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;13831732,73;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;-2532489,11;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;12756461,99;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;-2532489,11;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;554942,20;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;520328,54;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;10963,69;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;-2192,71;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;537728,86;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.50.0.0;1.7.1.2.50.0.0 - Cota-parte da Compensação Financeira pela Exploração de Recursos Hídricos;210956,57;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;305173,85;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;305173,85;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;21598,44;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;902509,31;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;902509,31;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;902509,31;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;40422,03;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;12931,60;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;27490,43;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;84298,33;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;158256,36;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;158256,36;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3211286,62;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;-512745,12;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2575117,77;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;-512745,12;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2465426,45;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;-493085,28;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;83680,80;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;-16477,61;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;15911,20;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;-3182,23;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;10099,32;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;624884,35;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;90684,35;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;534200,00;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;11284,50;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;11284,50;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;634173,31;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;634173,31;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;1041663,84;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;1041663,84;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;1041663,84;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.01.0.0;1.9.9.9.01.0.0 - Aportes Periódicos para Amortização de Déficit Atuarial do Regimes Próprios de Previdência e Sistema de Proteção Social;974789,20;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.03.0.0;1.9.9.9.03.0.0 - Compensações Financeiras entre o Regime Geral e os Regimes Próprios de Previdência e Sistema de Proteção Social;66874,64;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;909926,00;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;116700,00;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;116700,00;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;116700,00;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;793226,00;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;731226,00;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;731226,00;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.50.0.0;2.4.1.4.50.0.0 - Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;238726,00;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;492500,00;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;62000,00;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.00.0.0;2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados;62000,00;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.99.0.0;2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados;62000,00;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasIntraOrcamentarias;RECEITAS (INTRA-ORÇAMENTÁRIAS) (II);575322,85;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.0.0.0.00.0.0;7.0.0.0.00.0.0 - Receitas Correntes;575322,85;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.0.0.00.0.0;7.2.0.0.00.0.0 - Contribuições;575322,85;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.0.00.0.0;7.2.1.0.00.0.0 - Contribuições Sociais;575322,85;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.5.00.0.0;7.2.1.5.00.0.0 - Contribuições para Regimes Próprios de Previdência e Sistema de Proteção Social;575322,85;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.5.02.0.0;7.2.1.5.02.0.0 - Contribuição Patronal - Servidor Civil;575322,85;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.5.02.1.0;7.2.1.5.02.1.0 - Contribuição Patronal - Servidor Civil Ativo;575322,85;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);23233368,19;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);-3047426,94;1171
+2022;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);-8514,08;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);24408435,54;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3150535,92;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3626,12;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;23936435,54;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3150535,92;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3626,12;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;387039,98;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;386735,66;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;18283,20;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;12283,20;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";6000,00;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;258623,31;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;258623,31;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;258623,31;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;109829,15;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;109829,15;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;109829,15;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;304,32;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;304,32;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;304,32;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;1677967,62;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;1677967,62;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.00.0.0;1.2.1.5.00.0.0 - Contribuições para Regimes Próprios de Previdência e Sistema de Proteção Social;1677967,62;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.01.0.0;1.2.1.5.01.0.0 - Contribuição do Servidor Civil;374103,15;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.01.1.0;1.2.1.5.01.1.0 - Contribuição do Servidor Civil Ativo;374103,15;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.02.0.0;1.2.1.5.02.0.0 - Contribuição Patronal - Servidor Civil;1274377,14;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.02.1.0;1.2.1.5.02.1.0 - Contribuição Patronal - Servidor Civil Ativo;1274377,14;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.03.0.0;1.2.1.5.03.0.0 - Contribuição do Servidor Civil - Parcelamentos;29487,33;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;337880,03;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;3626,12;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;478,28;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.00.0.0;1.3.1.1.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;478,28;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.02.0.0;1.3.1.1.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos;478,28;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;337401,75;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;3626,12;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;337401,75;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;3626,12;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;118548,60;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.04.0.0;1.3.2.1.04.0.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;218853,15;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.04.0.0;1.3.2.1.04.0.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;3626,12;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;20721893,52;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3150535,92;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;16473599,39;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2594426,62;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;14245663,70;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2594426,62;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;14235005,78;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2592295,06;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;12967949,70;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2592295,06;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1267056,08;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;10657,92;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2131,56;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;539048,91;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.50.0.0;1.7.1.2.50.0.0 - Cota-parte da Compensação Financeira pela Exploração de Recursos Hídricos;238950,06;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;276567,09;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;276567,09;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;23531,76;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;944249,56;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;944249,56;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;833819,44;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;19209,69;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;6779,04;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;81920,53;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;2520,86;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;78274,57;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;34974,41;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;17310,40;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;591,46;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;25398,30;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;307157,33;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;359205,32;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;359205,32;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3489217,94;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;556109,30;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2782568,96;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;556109,30;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2646836,70;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;529367,37;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;118820,52;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;23764,11;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;14889,11;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;2977,82;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;2022,63;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;706648,98;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;270404,84;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;64200,00;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;372044,14;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;759076,19;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;759076,19;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;811654,39;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;2102,08;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;2102,08;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;2102,08;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;809552,31;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;809552,31;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.01.0.0;1.9.9.9.01.0.0 - Aportes Periódicos para Amortização de Déficit Atuarial do Regimes Próprios de Previdência e Sistema de Proteção Social;192387,96;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.03.0.0;1.9.9.9.03.0.0 - Compensações Financeiras entre os Regimes de Previdência;617164,35;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;472000,00;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;472000,00;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;472000,00;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;472000,00;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;472000,00;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);24408435,54;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3150535,92;1171
+2023;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3626,12;1171
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);27918344,48;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3964309,03;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);8231,45;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;27618344,48;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3964309,03;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;8231,45;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;420416,79;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;420416,79;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;46242,26;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;17302,26;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";28940,00;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;296918,39;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;296918,39;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;296918,39;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;77256,14;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;77256,14;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;77256,14;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;1272709,05;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;1272709,05;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.00.0.0;1.2.1.5.00.0.0 - Contribuições para Regimes Próprios de Previdência e Sistema de Proteção Social;1272709,05;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.01.0.0;1.2.1.5.01.0.0 - Contribuição do Servidor Civil;548847,43;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.01.1.0;1.2.1.5.01.1.0 - Contribuição do Servidor Civil Ativo;548847,43;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.5.03.0.0;1.2.1.5.03.0.0 - Contribuição do Servidor Civil - Parcelamentos;723861,62;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;343431,19;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;8231,45;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;805,31;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.00.0.0;1.3.1.1.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;805,31;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.02.0.0;1.3.1.1.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos;805,31;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;342625,88;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;8231,45;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;342625,88;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;8231,45;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;130315,15;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.04.0.0;1.3.2.1.04.0.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;212310,73;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.04.0.0;1.3.2.1.04.0.0 - Remuneração dos Recursos do Regime Próprio de Previdência Social - RPPS;8231,45;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;25298156,30;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3964309,03;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;18554218,70;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2984073,04;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;16459323,34;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2984073,04;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;16446221,04;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2981452,62;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14907265,33;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2981452,62;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1538955,71;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;13102,30;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2620,42;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;656721,04;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.50.0.0;1.7.1.2.50.0.0 - Cota-parte da Compensação Financeira pela Exploração de Recursos Hídricos;313844,71;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;3721,41;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;296117,96;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;296117,96;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;43036,96;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;1210689,37;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1210689,37;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1038532,28;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;64538,82;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;8388,04;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;68979,91;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;30250,32;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;114392,09;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;57557,79;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;31436,00;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;25398,30;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;17668,71;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;87438,03;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;7986,12;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;7986,12;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;5642882,37;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;980235,99;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;4915115,91;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;980235,99;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;4761935,55;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;952387,16;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;107500,04;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;21500,13;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;31743,44;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;6348,70;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;13936,88;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;655766,46;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;261566,46;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;74200,00;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;320000,00;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;72000,00;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;72000,00;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1101055,23;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;1101055,23;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;283631,15;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;165355,82;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;165319,67;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;165319,67;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;36,15;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;36,15;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;118275,33;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;118275,33;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.03.0.0;1.9.9.9.03.0.0 - Compensações Financeiras entre os Regimes de Previdência;118275,33;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;300000,00;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;300000,00;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;300000,00;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;300000,00;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;300000,00;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasIntraOrcamentarias;RECEITAS (INTRA-ORÇAMENTÁRIAS) (II);2488163,17;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.0.0.0.00.0.0;7.0.0.0.00.0.0 - Receitas Correntes;2488163,17;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.0.0.00.0.0;7.2.0.0.00.0.0 - Contribuições;2488163,17;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.0.00.0.0;7.2.1.0.00.0.0 - Contribuições Sociais;2488163,17;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.5.00.0.0;7.2.1.5.00.0.0 - Contribuições para Regimes Próprios de Previdência e Sistema de Proteção Social;2488163,17;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.5.02.0.0;7.2.1.5.02.0.0 - Contribuição Patronal - Servidor Civil;2488163,17;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RI7.2.1.5.02.1.0;7.2.1.5.02.1.0 - Contribuição Patronal - Servidor Civil Ativo;2488163,17;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);30406507,65;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3964309,03;927
+2024;Prefeitura Municipal de Anhanguera - GO;5201207;GO;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);8231,45;927

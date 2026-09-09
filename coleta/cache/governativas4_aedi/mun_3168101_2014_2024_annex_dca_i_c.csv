@@ -1,0 +1,901 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;42459754,19;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;3696238,63;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;42459754,19;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;3696238,63;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;10896789,96;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;10153030,33;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;504618,52;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;46136,61;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;338634,96;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.11.00;1.1.1.2.04.11.00 - Receita de Parcelamentos - Imposto sobre a Renda - Pessoas Físicas;338634,96;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";119846,95;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;9648411,81;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;9648411,81;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;743759,63;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;542373,67;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;201385,96;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;653305,09;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;644672,09;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;644672,09;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.9.0.00.00.00;1.3.9.0.00.00.00 - Outras Receitas Patrimoniais;8633,00;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;801,09;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.13.00.00;1.6.0.0.13.00.00 - Serviços Administrativos;550,00;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Demais Receitas de Serviços;251,09;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;30746868,13;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;3696238,63;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;29321034,90;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;3696238,63;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;17362198,93;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1738220,28;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8924449,17;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1725910,20;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6943382,07;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1329696,93;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1981067,10;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;396213,27;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;7586688,65;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.20.00;1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;7483024,22;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;103664,43;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;377554,69;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;135524,91;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;183339,72;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;61550,52;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;12310,08;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;93091,27;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;9794441,63;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1958018,35;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;9794441,63;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1958018,35;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;9334751,63;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1866354,02;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;289559,95;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;57911,06;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;168778,14;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;33753,27;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1351,91;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2164394,34;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2164394,34;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;1425833,23;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;1030445,29;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.01.00.00;1.7.6.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;111330,00;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.02.00.00;1.7.6.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;105368,92;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;813746,37;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;395387,94;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.01.00.00;1.7.6.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;1400,00;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;37487,94;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;356500,00;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;161989,92;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;1143,76;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;711,57;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.3.00.00.00;1.9.1.3.00.00.00 - Multas e Juros de Mora da Dívida Ativa dos Tributos;432,19;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;159136,57;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;159136,57;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;159136,57;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;1258,15;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;1258,15;4484
+2014;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;451,44;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;35734871,78;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;4051169,27;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;35726861,78;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;4051169,27;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;4726873,32;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;4465910,13;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;383175,25;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.01.00.00;1.1.1.2.01.00.00 - Imposto sobre a Propriedade Territorial Rural - ITR;39653,99;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;56419,21;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;134070,41;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.30.00;1.1.1.2.04.30.00 - Retido nas Fontes;134070,41;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";153031,64;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;4082734,88;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;4082734,88;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;260963,19;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;211001,73;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;49961,46;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;548782,54;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;537392,54;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;537392,54;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.9.0.00.00.00;1.3.9.0.00.00.00 - Outras Receitas Patrimoniais;11390,00;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;547,48;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.13.00.00;1.6.0.0.13.00.00 - Serviços Administrativos;250,00;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;297,48;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;30366555,08;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;4051169,27;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;30028832,07;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;4051169,27;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;16193710,73;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1734943,59;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8991367,91;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1720583,41;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7364286,86;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1395167,34;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1627081,05;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;325416,07;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;6280418,44;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.20.00;1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;6202200,90;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;78217,54;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;363366,00;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;89748,98;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;307235,09;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;71801,15;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;14360,18;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;89773,16;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;11465452,22;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2316225,68;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;11465452,22;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2316225,68;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;10767135,50;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2177594,48;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;499008,34;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;99797,64;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;194170,02;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;38833,56;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;5138,36;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2369669,12;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2369669,12;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;337723,01;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;290113,33;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.01.00.00;1.7.6.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;93713,33;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;196400,00;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;47609,68;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;47609,68;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;84103,36;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;3214,05;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;3214,05;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.01.00.00;1.9.1.1.01.00.00 - Multa e Juros de Mora do Imposto sobre a Importação;2177,71;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.03.00.00;1.9.1.1.03.00.00 - Multas e Juros de Mora do Imposto sobre Produtos Industrializados;1036,34;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;63923,69;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;63923,69;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;3642,35;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;3642,35;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.01.00.00;1.9.3.1.01.00.00 - Receita da Dívida Ativa do Imposto sobre a Renda e Proventos de Qualquer Natureza;3642,35;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;13323,27;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;8010,00;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.0.0.00.00.00;2.2.0.0.00.00.00 - Alienação de Bens;8010,00;4484
+2015;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.1.0.00.00.00;2.2.1.0.00.00.00 - Alienação de Bens Móveis;8010,00;4484
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;40834200,08;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;4375910,73;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;40560663,85;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;4375910,73;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;4758476,86;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;4740820,28;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;1042598,68;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;42595,56;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;929076,22;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.23.00;1.1.1.2.04.23.00 - Imposto de Renda Pessoa Jurídica - Simples Federal e Nacional;929076,22;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";70926,90;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;3698221,60;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;3698221,60;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;17656,58;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;17656,58;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;461338,13;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;452995,31;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;452995,31;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.9.0.00.00.00;1.3.9.0.00.00.00 - Outras Receitas Patrimoniais;8342,82;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;34196,63;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.13.00.00;1.6.0.0.13.00.00 - Serviços Administrativos;32818,07;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;1378,56;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;35256536,22;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;4375910,73;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;34485345,26;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;4375910,73;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;18719180,82;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1748611,07;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;9254261,17;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1733332,56;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;8553688,37;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1593164,48;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;700572,80;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;140168,08;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;8407888,85;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.20.00;1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;8340869,78;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;67019,07;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;419125,51;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;100619,00;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;261939,01;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;76139,16;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;15278,51;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;199208,12;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;13150965,34;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2627299,66;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;13150965,34;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2627299,66;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;12455923,97;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2491184,49;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;527556,42;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;105466,46;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;153245,86;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;30648,71;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;14239,09;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2615199,10;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2615199,10;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;771190,96;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;393421,59;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.01.00.00;1.7.6.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;247171,59;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;146250,00;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;377769,37;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;42769,37;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;335000,00;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;50116,01;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;17414,15;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;11084,17;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.02.00.00;1.9.1.1.02.00.00 - Multas e Juros de Mora ¿ Imposto de Renda e Proventos Qualquer Natureza;7199,87;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.99.00.00;1.9.1.1.99.00.00 - Multas e Juros de Mora de Outros Tributos;3884,30;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.3.00.00.00;1.9.1.3.00.00.00 - Multas e Juros de Mora da Dívida Ativa dos Tributos;6329,98;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.3.11.00.00;1.9.1.3.11.00.00 - Multas e Juros de Mora da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;6329,98;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;32701,86;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;32701,86;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;32701,86;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;273536,23;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.0.0.00.00.00;2.2.0.0.00.00.00 - Alienação de Bens;54462,14;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.1.0.00.00.00;2.2.1.0.00.00.00 - Alienação de Bens Móveis;54462,14;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.5.0.0.00.00.00;2.5.0.0.00.00.00 - Outras Receitas de Capital;219074,09;4542
+2016;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.5.9.0.00.00.00;2.5.9.0.00.00.00 - Outras Receitas;219074,09;4542
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;49676288,38;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;4530885,38;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;49676288,38;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;4530885,38;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;12190544,51;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;9763525,03;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;5074674,63;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;46510,07;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;357423,06;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;316272,24;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;41150,82;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";4670741,50;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;4688850,40;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;4688850,40;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;2427019,48;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;2427019,48;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;655381,16;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.00.00;1.3.1.0.00.00.00 - Receitas Imobiliárias;450,26;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.2.00.00.00;1.3.1.2.00.00.00 - Arrendamentos;44,44;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.3.00.00.00;1.3.1.3.00.00.00 - Foros;23,93;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.4.00.00.00;1.3.1.4.00.00.00 - Laudêmios;17,09;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.5.00.00.00;1.3.1.5.00.00.00 - Taxa de Ocupação de Imóveis;189,68;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.9.00.00.00;1.3.1.9.00.00.00 - Outras Receitas Imobiliárias;175,12;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;614292,92;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.00.00;1.3.2.1.00.00.00 - Juros de Títulos de Renda;2053,12;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.2.00.00.00;1.3.2.2.00.00.00 - Dividendos;513,21;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;341981,56;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.7.00.00.00;1.3.2.7.00.00.00 - Remuneração de Saldos de Recursos Não Desembolsados;251552,91;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.8.00.00.00;1.3.2.8.00.00.00 - Remuneração dos Investimentos do Regime Próprio de Previdência do Servidor;11824,91;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.9.00.00.00;1.3.2.9.00.00.00 - Outras Receitas de Valores Mobiliários;6367,21;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.3.0.00.00.00;1.3.3.0.00.00.00 - Receitas de Concessões e Permissões;4547,98;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.4.0.00.00.00;1.3.4.0.00.00.00 - Compensações Financeiras;36090,00;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;29712,38;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.13.00.00;1.6.0.0.13.00.00 - Serviços Administrativos;29647,78;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.16.00.00;1.6.0.0.16.00.00 - Serviços Educacionais;62,40;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;2,20;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;36800650,33;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;4530885,38;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;36748279,71;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;4530885,38;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;19080042,82;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1653936,71;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8872839,93;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1637557,10;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;8038141,33;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1470617,50;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;834698,60;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;166939,60;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;8911651,39;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.20.00;1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;8830940,22;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;80711,17;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;774135,23;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;76353,20;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;286310,61;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;81898,31;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;16379,61;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;76854,15;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;15131036,66;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2876948,67;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;15131036,66;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2876948,67;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;13695532,61;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2739038,87;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;552630,77;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;110525,29;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;164306,25;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;27384,51;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;718567,03;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;2537200,23;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2537200,23;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;52370,62;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;12219,82;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.1.02.00.00;1.7.6.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;12219,82;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;40150,80;4598
+2017;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;40150,80;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;45785897,25;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;5513148,72;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;45251097,25;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;5513148,72;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;5630652,93;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;5238746,52;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;661420,01;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;661420,01;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;587608,33;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;73811,68;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;4577326,51;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;1675192,05;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;1296574,59;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;378617,46;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;2902134,46;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.1.0;1.1.1.8.02.1.0 Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação;2902134,46;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;391906,41;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;373321,49;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;5935,62;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;367385,87;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;18584,92;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;18584,92;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;52419,61;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;52419,61;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;949561,47;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;949561,47;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;949561,47;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;949561,47;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;29348,91;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;29348,91;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.99.0.0;1.6.9.0.99.0.0 - Outros Serviços;29348,91;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;38481851,74;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;5513148,72;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;19079028,44;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2046019,05;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;19079028,44;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2046019,05;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;10848824,42;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2027469,45;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8819785,35;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1621661,76;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2029039,07;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;405807,69;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;6583662,35;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.2.0;1.7.1.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;6448793,33;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;134869,02;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;1067236,09;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;37177,92;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;371696,40;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;234603,34;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;39237,00;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;97856,06;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;92748,12;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;18549,60;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;92748,12;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;18549,60;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.08.0.0;1.7.1.8.08.0.0 Transferências Advindas de Emendas Parlamentares Individuais;77683,14;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;17393066,92;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3467129,67;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;17393066,92;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;3467129,67;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;17393066,92;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;3467129,67;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;16510073,47;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;3302014,33;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;615711,44;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;123141,26;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;251844,94;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;41974,08;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;15437,07;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2009756,38;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;2009756,38;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;2009756,38;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;107262,59;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;107262,59;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;107262,59;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;107262,59;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;534800,00;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;89800,00;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;89800,00;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes;89800,00;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;445000,00;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;445000,00;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;445000,00;4598
+2018;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;445000,00;4598
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);55800922,16;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);6450481,96;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;55166991,59;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;6450481,96;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;8166394,72;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;7674197,52;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;833125,43;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;833125,43;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;833125,43;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;6841072,09;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;598726,57;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;351132,72;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;247593,85;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;6242345,52;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;6242345,52;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;492197,20;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;39724,71;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;39724,71;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;444088,03;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;444088,03;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;8384,46;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;8384,46;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;8384,46;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;141217,86;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;141217,86;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;158673,92;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;158673,92;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;158673,92;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;158673,92;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;46577424,92;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;6450481,96;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;18226013,11;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1973406,08;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;18226013,11;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1973406,08;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;10631791,08;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1973406,08;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.1.0;1.7.1.8.01.1.0 Cota-Parte do Fundo de Participação dos Estados e do Distrito Federal;9592301,23;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.1.0;1.7.1.8.01.1.0 Cota-Parte do Fundo de Participação dos Estados e do Distrito Federal;1765508,24;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1039489,85;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;207897,84;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;5236806,13;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.2.0;1.7.1.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;5100792,20;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;136013,93;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";1225100,72;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;111346,31;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;224,00;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;65525,84;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;29716,30;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.5.0;1.7.1.8.03.5.0 - Transferência de Recursos do SUS ¿ Gestão do SUS;1018288,27;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;354842,24;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;258055,92;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;96686,00;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;100,32;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;315892,63;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.2.0;1.7.1.8.10.2.0 Transferências de Convênios da União Destinadas a Programas de Educação;109978,36;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.3.0;1.7.1.8.10.3.0 Transferências de Convênios da União Destinadas a Programas de Assistência Social;205914,27;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;461580,31;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;25037465,92;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4477075,88;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;25037465,92;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;4477075,88;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;25037465,92;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;4477075,88;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;24211466,78;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;4322119,06;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;565572,45;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;113113,51;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;251060,36;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;41843,31;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;9366,33;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3313945,89;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3313945,89;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3313945,89;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;123280,17;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;104243,09;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.00.0.0;1.9.2.8.00.0.0 - Indenizações, Restituições e Ressarcimentos - Específicas para Estados/DF/Municípios;104243,09;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.01.0.0;1.9.2.8.01.0.0 - Indenizações- Específicas para Estados/DF/Municípios;104243,09;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;19037,08;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;19037,08;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;19037,08;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;633930,57;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;633930,57;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;16219,82;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;16219,82;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;16219,82;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.1.0;2.4.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;16219,82;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;617710,75;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;617710,75;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.03.0.0;2.4.2.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;31792,97;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;585917,78;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;585917,78;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);55800922,16;4711
+2019;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);6450481,96;4711
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);55152880,37;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);5380624,42;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);281516,91;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;51922549,31;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;5380624,42;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;8193998,27;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;7736583,05;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;637773,87;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;637773,87;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;637773,87;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;7098809,18;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;420007,96;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;64341,35;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;355666,61;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;6678801,22;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;6678801,22;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;457415,22;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;293,23;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;293,23;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.1.0;1.1.2.1.02.1.0 - Taxa de Fiscalização de Instalação - TFI;293,23;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;444867,09;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;444867,09;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;12254,90;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;12254,90;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;12254,90;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;161411,61;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;161411,61;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;37100,51;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;37100,51;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;37100,51;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;37100,51;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;39280,00;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;39280,00;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.02.0.0;1.6.1.0.02.0.0 - Inscrição em Concursos e Processos Seletivos;39280,00;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;43376890,54;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;5380624,42;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;20481431,71;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1628691,73;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;20481431,71;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1628691,73;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9644828,21;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1628691,73;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8420110,05;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1535690,05;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;758623,97;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;466094,19;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;93001,68;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;7540439,62;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.2.0;1.7.1.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;7404969,28;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;135470,34;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";1023247,51;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;557791,29;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;80773,80;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;50945,94;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;333736,48;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;397410,06;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;242695,75;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;107401,80;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;47312,51;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;170137,65;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1705368,66;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;18970834,94;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3751932,69;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;18970834,94;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;3751932,69;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;18934131,82;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;3751932,69;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;17915307,14;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;3556346,53;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;812718,14;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;162542,61;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;198261,86;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;33043,55;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7844,68;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;18889,40;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;17813,72;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3924623,89;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3924623,89;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3924623,89;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;113868,38;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;44863,95;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;42861,76;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;42861,76;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;2002,19;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;2002,19;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;69004,43;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;69004,43;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;69004,43;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;3230331,06;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;281516,91;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;3230331,06;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;281516,91;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;840758,20;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;840758,20;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;840758,20;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.1.0;2.4.1.8.10.1.0 - Transferências de Convênio da União para o Sistema Único de Saúde ¿ SUS;67758,20;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.7.0;2.4.1.8.10.7.0 - Transferências de Convênios da União destinadas a Programas de Infraestrutura em Transporte;773000,00;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2389572,86;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;281516,91;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;2389572,86;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;281516,91;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.03.0.0;2.4.2.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;655239,53;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;1734333,33;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;281516,91;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;1734333,33;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;281516,91;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);55152880,37;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);5380624,42;4773
+2020;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);281516,91;4773
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);62278286,15;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);6697340,19;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;60745431,21;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;6697340,19;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;8921023,13;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;8367418,67;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;670147,66;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;670147,66;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;670147,66;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;7697271,01;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;935897,39;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;209964,32;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;725933,07;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;6761373,62;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;6761373,62;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;553604,46;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;553478,51;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;553478,51;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.1.0;1.1.2.1.02.1.0 - Taxa de Fiscalização de Instalação - TFI - Não Proveniente da Utilização de Posições Orbitais;553478,51;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;125,95;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;125,95;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;169391,32;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;169391,32;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;482777,98;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;6698,20;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.02.0.0;1.3.1.0.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos;6698,20;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;476079,78;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;476079,78;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;476079,78;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;51104818,24;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;6697340,19;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;24159306,35;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2489812,00;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;24159306,35;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;2489812,00;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;13385348,39;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;2489812,00;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11774757,86;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2267062,16;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;496840,58;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1113749,95;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;222749,84;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;7604099,22;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.2.0;1.7.1.8.02.2.0 - Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;7384981,70;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;219117,52;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1510880,71;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;1383379,65;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;91432,42;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;28160,64;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.5.0;1.7.1.8.03.5.0 - Transferência de Recursos do SUS ¿ Gestão do SUS;7908,00;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;438638,49;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;268767,89;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;93077,60;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;76793,00;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 - Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;163386,76;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;120014,85;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;936937,93;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;21532594,78;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4207528,19;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;21532594,78;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;4207528,19;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;21042700,86;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;4207528,19;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;20068294,08;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;4013587,79;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;733669,34;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;146646,36;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;235747,72;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;47294,04;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;4989,72;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;23077,22;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 - Transferências de Estados destinadas à Assistência Social;44000,00;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 - Outras Transferências dos Estados;422816,70;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.0.00.0.0;1.7.4.0.00.0.0 - Transferências de Instituições Privadas;300000,00;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.8.00.0.0;1.7.4.8.00.0.0 - Transferências de Instituições Privadas - Específicas de Estados, DF e Municípios;300000,00;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.8.10.0.0;1.7.4.8.10.0.0 - Outras Transferência de Instituições Privadas para EST/DF/MUN - Não Especificadas Anteriormente;300000,00;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5112917,11;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;5112917,11;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;5112917,11;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;67420,54;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;11761,35;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;11761,35;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;11761,35;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;55659,19;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;55659,19;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;55659,19;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1532854,94;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;329900,00;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;329900,00;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;329900,00;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1202954,94;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1202954,94;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 - Transferências dos Estados, Distrito Federal, e de suas Entidades;1202954,94;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.03.0.0;2.4.2.8.03.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;1202954,94;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);62278286,15;4832
+2021;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);6697340,19;4832
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);69986074,11;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);6154200,09;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;68336074,11;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;6154200,09;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;14552620,76;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;13370571,46;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;783411,94;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;169132,13;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";614279,81;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;944678,02;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;944678,02;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;123734,62;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;820943,40;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;11642481,50;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;11642481,50;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;11642481,50;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;1182049,30;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;1082917,65;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;1082917,65;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;99131,65;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;99131,65;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;191027,25;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;191027,25;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;2132466,31;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;2132466,31;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;2132466,31;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;2132466,31;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;50971259,13;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;6154200,09;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;29406828,73;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3287945,26;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;16657581,24;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3287945,26;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15430541,84;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2861166,90;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;15430541,84;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2861166,90;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1227039,40;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;426778,36;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;10200282,23;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;9595570,72;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;321811,72;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;321811,72;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;282899,79;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;1270600,20;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1204948,20;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1081985,03;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;89934,03;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;33029,14;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.0.0;1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;65652,00;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.1.0;1.7.1.3.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária;65652,00;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;377254,63;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;316037,61;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;36227,67;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;24989,35;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;103458,73;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;797651,70;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.51.0.0;1.7.1.9.51.0.0 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;138623,12;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;659028,58;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;15997384,40;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2866254,83;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;15239812,94;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2866254,83;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;14196383,37;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2657521,57;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;844488,95;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;170500,07;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;191165,91;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;38233,19;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7774,71;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;595555,67;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;162015,79;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;58884,80;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.52.0.0;1.7.2.9.52.0.0 - Transferências de Recursos Destinados a Programas de Educação;51565,50;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;51565,49;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5567046,00;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;5567046,00;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;488700,66;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;488700,66;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;364002,43;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;364002,43;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;124698,23;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;124698,23;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1650000,00;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1650000,00;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;800000,00;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;800000,00;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.99.0.0;2.4.1.9.99.0.0 - Outras Transferências De Recursos da União e de suas Entidades;800000,00;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;850000,00;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.00.0.0;2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados;850000,00;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.99.0.0;2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados;850000,00;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);69986074,11;4890
+2022;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);6154200,09;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);75458897,83;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);7092392,94;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);1152693,87;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;71640612,66;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;7092392,94;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;33328,87;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;11342693,56;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;10324215,58;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;563705,65;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;138532,24;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";425173,41;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1476595,80;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1476595,80;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;263816,76;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;1212779,04;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;8283914,13;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;8283914,13;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;8283914,13;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;1018477,98;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;905411,16;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;905411,16;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;113066,82;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;113066,82;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;185987,58;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;185987,58;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;1999579,56;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;20770,37;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;1999579,56;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;20770,37;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;1999579,56;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;20770,37;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;1999579,56;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;20770,37;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;58063690,29;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;7092392,94;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;12558,50;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;32935111,50;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3499368,43;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;12558,50;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;18939375,35;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3499368,43;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;12558,50;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15986194,47;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2909136,23;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;12558,50;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;15986194,47;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2909136,23;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;12558,50;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2953180,88;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;590232,20;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;11945942,58;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;11635575,47;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;310367,11;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;310367,11;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;840287,90;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;840287,90;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;652605,05;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;73408,25;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;86113,96;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;28160,64;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;500492,77;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;387209,03;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;50692,00;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;62591,74;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;159498,87;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;549514,03;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;126254,75;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;423259,28;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;19057189,13;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3593024,51;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;18171762,43;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3593024,51;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;16776088,61;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3313701,13;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;1229346,68;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;246272,04;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;164759,53;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;33051,34;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1567,61;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;643164,72;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;242261,98;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;36000,00;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.52.0.0;1.7.2.9.52.0.0 - Transferências de Recursos Destinados a Programas de Educação;206261,98;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.0.00.0.0;1.7.4.0.00.0.0 - Transferências de Instituições Privadas;20000,00;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.1.00.0.0;1.7.4.1.00.0.0 - Transferências de Instituições Privadas;20000,00;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.4.1.99.0.0;1.7.4.1.99.0.0 - Outras Transferências de Instituições Privadas;20000,00;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;6050778,54;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;6050778,54;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.0.00.0.0;1.7.9.0.00.0.0 - Demais Transferências Correntes;611,12;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.1.00.0.0;1.7.9.1.00.0.0 - Transferências de Pessoas Físicas;611,12;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.1.99.0.0;1.7.9.1.99.0.0 - Outras Transferências de Pessoas Físicas;611,12;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;48661,67;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;48661,67;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;48661,67;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;48661,67;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;3818285,17;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1119365,00;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;3818285,17;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1119365,00;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;619365,00;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;619365,00;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.51.0.0;2.4.1.9.51.0.0 - Transferência Especial da União;619365,00;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3198920,17;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1119365,00;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;1079250,00;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;745000,00;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.0.0;2.4.2.2.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;334250,00;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.00.0.0;2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados;2119670,17;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO2.4.2.9.00.0.0;2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados;1119365,00;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.99.0.0;2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados;2119670,17;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO2.4.2.9.99.0.0;2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados;1119365,00;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);75458897,83;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);7092392,94;4890
+2023;Prefeitura Municipal de Tapira - MG;3168101;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);1152693,87;4890

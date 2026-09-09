@@ -1,0 +1,953 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;60918561,58;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;TotalReceitas;Total Receitas;7378535,95;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;60475472,95;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;7378535,95;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;4382731,21;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;4117941,06;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;1758770,64;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;133198,88;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;1475171,43;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;1475171,43;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";150400,33;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;2359170,42;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;2359170,42;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;264790,15;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;165165,20;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;99624,95;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;329253,57;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.2.0.00.00.00;1.2.2.0.00.00.00 - Contribuições de Intervenção no Domínio Econômico;329253,57;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;100465,75;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;100465,53;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;100465,53;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.9.0.00.00.00;1.3.9.0.00.00.00 - Outras Receitas Patrimoniais;0,22;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;55551340,07;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;7378535,95;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;55525772,78;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;7378535,95;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;17424224,56;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2247006,82;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;11667187,51;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2236980,66;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;11355423,96;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2174628,07;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;311763,55;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;62352,59;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;260398,38;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.11.00;1.7.2.1.22.11.00 - Cota-Parte da Compensação Financeira de Recursos Hídricos;90862,38;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;169536,00;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;3734859,28;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;451059,04;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;997096,49;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;50130,96;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;10026,16;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;263492,90;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;26328022,54;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;5131529,13;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;25715404,50;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;5131529,13;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;25657646,85;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;5131529,13;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;45496,85;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;7977,68;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;4283,12;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;612618,04;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;11773525,68;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;9274171,44;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2499354,24;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;25567,29;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;25567,29;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;25567,29;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;111682,35;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;9616,28;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;9616,28;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;9616,28;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;102066,07;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;443088,63;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;443088,63;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;443088,63;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;443088,63;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.02.00.00;2.4.2.1.02.00.00 - Transferências de Recursos Destinados a Programas de Educação;254958,63;20902
+2014;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;188130,00;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;66805393,85;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;TotalReceitas;Total Receitas;8061853,99;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;66739402,12;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;8061853,99;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;4124030,30;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;3830967,99;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;1816335,98;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;143858,94;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;1545458,58;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;1545458,58;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";127018,46;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;2014632,01;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;2014632,01;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;293062,31;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;207182,70;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;85879,61;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;269804,41;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.2.0.00.00.00;1.2.2.0.00.00.00 - Contribuições de Intervenção no Domínio Econômico;269804,41;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;73947,07;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;73947,07;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;73947,07;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;62201366,41;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;8061853,99;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;62201366,41;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;8061853,99;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;18531175,43;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2383733,19;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;12000988,70;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2373152,67;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;11560459,72;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2285046,99;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;440528,98;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;88105,68;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;209184,47;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.11.00;1.7.2.1.22.11.00 - Cota-Parte da Compensação Financeira de Recursos Hídricos;81077,48;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;128106,99;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;3746948,18;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;646807,31;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1301000,54;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;52902,63;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;10580,52;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;573343,60;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;29690252,25;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;5678120,80;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;28720915,52;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;5678120,80;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;28627120,82;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;5678120,80;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;67689,10;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;8853,26;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;17252,34;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;593760,22;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;375576,51;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;13979938,73;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;11472586,72;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2507352,01;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;70253,93;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;70253,93;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;65991,73;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;65991,73;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;65991,73;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;65991,73;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;15000,00;20902
+2015;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.02.00.00;2.4.2.1.02.00.00 - Transferências de Recursos Destinados a Programas de Educação;50991,73;20902
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;68612921,30;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;TotalReceitas;Total Receitas;8042708,90;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;67867824,44;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;8042708,90;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;4781462,25;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;4632949,56;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;1886828,00;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.01.00.00;1.1.1.2.01.00.00 - Imposto sobre a Propriedade Territorial Rural - ITR;1886828,00;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;2746121,56;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;2746121,56;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;148512,69;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;148512,69;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;52476,12;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;52476,12;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;52476,12;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;63033886,07;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;8042708,90;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;63033886,07;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;8042708,90;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;20892453,11;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2704353,99;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;14438563,21;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2695003,41;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;14438563,21;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2695003,41;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;201604,44;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.11.00;1.7.2.1.22.11.00 - Cota-Parte da Compensação Financeira de Recursos Hídricos;201604,44;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;6161258,08;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;9350,58;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;91027,38;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;27270464,24;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;5338354,91;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;26938155,69;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;5338354,91;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;26938155,69;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;5338354,91;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;314347,82;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;17960,73;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;14870968,72;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;14870968,72;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;745096,86;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;745096,86;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;745096,86;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;745096,86;21011
+2016;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;745096,86;21011
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;72450401,11;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;Total Receitas;9058475,56;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;72178551,11;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;9058475,56;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;4260630,70;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;4118391,31;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;1087125,96;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;11243,53;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;792754,73;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;792754,73;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";283127,70;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;3031265,35;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;3031265,35;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;142239,39;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;122669,57;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;19569,82;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;19569,82;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;598712,01;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;598712,01;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;295718,58;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;295718,58;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;295718,58;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;66969687,69;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;9058475,56;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;66968505,65;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;9058475,56;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;20835977,30;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2653395,32;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;14352886,22;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2645689,43;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;13020133,73;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2489826,47;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;553436,94;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;779315,55;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;155862,96;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;219262,91;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.11.00;1.7.2.1.22.11.00 - Cota-Parte da Compensação Financeira de Recursos Hídricos;74600,80;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.20.00;1.7.2.1.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;53,74;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;144608,37;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;4326095,19;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;580114,42;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;860251,79;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;47091,88;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;7705,89;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;450274,89;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;32197534,02;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;6405080,24;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;32154434,84;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;6405080,24;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;32012559,03;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;6404224,03;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;60646,82;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;14150,82;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;856,21;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;67078,17;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;34891,58;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;8207,60;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;13934994,33;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;10410497,38;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3524496,95;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;1182,04;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;1182,04;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;1182,04;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;53802,13;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;53672,13;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;53672,13;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;53672,13;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;130,00;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;130,00;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;271850,00;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;271850,00;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;271850,00;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;271850,00;21105
+2017;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;271850,00;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;93269584,43;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;10411807,57;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;92952664,43;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;10411807,57;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;5845866,41;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;5631901,79;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1486828,84;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1486828,84;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1486828,84;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;4145072,95;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;483161,49;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;61291,85;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;421869,64;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;3661911,46;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;3661911,46;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;213964,62;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;128727,07;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;95901,95;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;32825,12;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;85237,55;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;85237,55;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;784483,62;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;784483,62;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;306517,76;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;306517,76;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;306517,76;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;306517,76;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;140370,00;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;140370,00;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.02.0.0;1.6.1.0.02.0.0 - Inscrição em Concursos e Processos Seletivos;140370,00;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;78443973,19;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;10411807,57;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;24887992,71;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2887404,55;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;24887992,71;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2887404,55;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;15555235,52;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2877035,35;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;13334522,28;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2666904,15;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;592238,00;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;577818,54;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1050656,70;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;210131,20;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;318717,79;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.1.0;1.7.1.8.02.1.0 Cota-parte da Compensação Financeira de Recursos Hídricos;96918,92;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;221798,87;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;6872817,21;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;595457,55;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1020145,98;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;321113,62;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;5470,00;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;520672,00;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;87327,64;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;85562,72;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;51846,00;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;10369,20;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;51846,00;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;10369,20;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;473772,66;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;38279743,64;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;7524403,02;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;38279743,64;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;7524403,02;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;37841995,49;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;7524403,02;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;37622875,47;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;7524403,02;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;74411,29;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;11921,57;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;54231,20;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.5.0;1.7.2.8.01.5.0 Outras Participações na Receita dos Estados;78555,96;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;437748,15;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;15276236,84;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;15276236,84;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;15276236,84;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;7431453,45;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;7374936,55;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;7374936,55;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;56516,90;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;56516,90;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;56516,90;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;316920,00;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;316920,00;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;316920,00;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;316920,00;21105
+2018;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;316920,00;21105
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);95903867,42;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);11608438,26;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;93289722,94;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;11608438,26;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;5683024,47;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;5424634,90;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;683155,09;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;683155,09;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;683155,09;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;4741479,81;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;1064263,81;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;86895,38;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.3.0;1.1.1.8.01.3.0 Imposto sobre Transmissão ¿Causa Mortis¿ e Doação de Bens e Direitos;36782,97;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;940585,46;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;3677216,00;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;3677216,00;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;258389,57;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;179150,27;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;134561,09;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;35674,30;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.1.0;1.1.2.1.02.1.0 - Taxa de Fiscalização de Instalação - TFI;13197,91;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.2.0;1.1.2.1.02.2.0 - Taxa de Fiscalização de Funcionamento - TFF;22476,39;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;8914,88;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;53318,57;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;53318,57;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;25920,73;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;25920,73;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.1.0;1.1.2.8.01.1.0 - Taxa de Fiscalização de Vigilância Sanitária;22136,65;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;3784,08;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;894961,46;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;894961,46;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;536956,67;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;2673,70;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.02.0.0;1.3.1.0.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos;2673,70;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;534282,97;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;534282,97;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;534282,97;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;86174780,34;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;11608438,26;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;28756728,79;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3003798,16;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;28756728,79;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;3003798,16;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;16275924,23;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;3003798,16;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14508066,11;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2901612,92;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;640267,79;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;616612,89;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;510977,44;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;102185,24;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;341266,98;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.1.0;1.7.1.8.02.1.0 Cota-parte da Compensação Financeira de Recursos Hídricos;117904,72;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;223362,26;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";3516171,58;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;3162584,32;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;564,48;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;211655,98;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;118641,30;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;22725,50;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;882904,37;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;352671,75;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;4200,00;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;526032,62;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.08.0.0;1.7.1.8.08.0.0 Transferências Advindas de Emendas Parlamentares Individuais;1906000,00;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3967041,08;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;581204,38;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1286216,17;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;44139445,95;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;8604640,10;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;44139445,95;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;8604640,10;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;43763541,06;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;8604640,10;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;43023201,63;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;8604640,10;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;696677,33;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;10921,65;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;32740,45;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;375904,89;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;13278605,60;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;13278605,60;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;13278605,60;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;2614144,48;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;2614144,48;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;2614144,48;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2614144,48;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;1177105,00;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.9.0;2.4.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;1177105,00;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;1437039,48;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.5.0;2.4.1.8.10.5.0 - Transferências de Convênios da União destinadas a Programas de Saneamento Básico;1437039,48;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);95903867,42;21457
+2019;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);11608438,26;21457
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);121149881,49;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);15134276,86;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;119237539,00;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;15134276,86;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;7253496,16;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;6981547,40;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1650421,80;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1650421,80;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1650421,80;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;5331125,60;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;895722,85;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;62311,43;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.3.0;1.1.1.8.01.3.0 Imposto sobre Transmissão ¿Causa Mortis¿ e Doação de Bens e Direitos;25,00;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;833386,42;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;4435402,75;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;4435402,75;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;271948,76;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;247179,05;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;233750,95;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;2444,14;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.1.0;1.1.2.1.02.1.0 - Taxa de Fiscalização de Instalação - TFI;2444,14;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;10983,96;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;3570,54;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;3570,54;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;21199,17;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;21199,17;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.1.0;1.1.2.8.01.1.0 - Taxa de Fiscalização de Vigilância Sanitária;17617,76;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;3581,41;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;1334144,93;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;1334144,93;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;224835,27;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;21,85;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.02.0.0;1.3.1.0.02.0.0 - Concessão, Permissão, Autorização ou Cessão do Direito de Uso de Bens Imóveis Públicos;21,85;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;224813,42;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;224813,42;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;224813,42;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;25870,00;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;25870,00;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.02.0.0;1.6.1.0.02.0.0 - Inscrição em Concursos e Processos Seletivos;25870,00;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;110399192,64;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;15134276,86;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;35185605,33;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3199965,49;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;35185605,33;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;3199965,49;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;16467748,23;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;3199965,49;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14476135,15;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3070915,36;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;623321,90;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;716213,01;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;652078,17;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;129050,13;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;343441,01;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.1.0;1.7.1.8.02.1.0 Cota-parte da Compensação Financeira de Recursos Hídricos;120585,82;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;222855,19;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";8734458,21;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;7135562,39;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;91875,00;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;215683,87;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;128270,04;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;1163066,91;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;654542,38;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;240352,58;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;5520,00;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;408669,80;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4063914,42;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;699315,82;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;4222185,26;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;62840409,64;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;11934311,37;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;62840409,64;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;11934311,37;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;62065427,50;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;11934311,37;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;61174652,44;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;11934311,37;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;854971,95;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;8622,01;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;27181,10;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;565482,14;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;19600,00;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;189900,00;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;189900,00;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;12373177,67;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;12373177,67;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;12373177,67;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1912342,49;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1912342,49;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1912342,49;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1912342,49;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;182303,00;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.9.0;2.4.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;182303,00;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.05.0.0;2.4.1.8.05.0.0 Transferências de Recursos Destinados a Programas de Educação;293000,00;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;1437039,49;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.7.0;2.4.1.8.10.7.0 - Transferências de Convênios da União destinadas a Programas de Infraestrutura em Transporte;1437039,49;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);121149881,49;21558
+2020;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);15134276,86;21558
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);137896798,08;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);17893805,46;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;137682167,28;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;17893805,46;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;8586199,42;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;8174722,45;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1732635,42;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1732635,42;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1732635,42;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;6442087,03;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;1081115,09;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;41938,56;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;1039176,53;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;5360971,94;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;5360971,94;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;411444,56;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;399346,23;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;398553,43;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;792,80;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;1897,77;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;1897,77;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;10200,56;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;10200,56;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.1.0;1.1.2.8.01.1.0 - Taxa de Fiscalização de Vigilância Sanitária;9929,06;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;271,50;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;32,41;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.8.00.0.0;1.1.3.8.00.0.0 - Contribuição de Melhoria - Específica de Estados, DF e Municípios;32,41;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.8.99.0.0;1.1.3.8.99.0.0 - Outras Contribuições de Melhoria;32,41;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;1457385,16;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;1457385,16;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;1397431,71;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;1397431,71;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;1397431,71;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;1397431,71;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;126231292,28;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;17893805,46;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;39007219,61;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;4368305,33;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;39007219,61;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;4368305,33;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;21832044,44;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;4368305,33;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;18690996,93;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;4048682,19;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;819249,22;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;723681,79;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1598116,50;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;319623,14;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;471227,79;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.1.0;1.7.1.8.02.1.0 - Cota-parte da Compensação Financeira de Recursos Hídricos;109920,99;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;361306,80;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;8948142,96;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;8591604,48;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;221700,20;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;128270,04;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;6568,24;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;676572,80;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;287268,80;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;389304,00;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;5409138,44;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;318897,66;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;1351195,52;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;69876724,01;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;13525500,13;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;69876724,01;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;13525500,13;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;69314173,05;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;13525500,13;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;69179917,32;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;13525500,13;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;99984,95;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;16619,36;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;17651,42;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;548550,96;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 - Transferências de Estados destinadas à Assistência Social;14000,00;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;17347348,66;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;17347348,66;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;17347348,66;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;9858,71;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;9858,71;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;9858,71;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;9858,71;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;214630,80;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;214630,80;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;214630,80;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;214630,80;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.05.0.0;2.4.1.8.05.0.0 - Transferências de Recursos Destinados a Programas de Educação;214630,80;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);137896798,08;21655
+2021;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);17893805,46;21655
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);177196159,37;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);19476847,11;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;164443159,36;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;19476847,11;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;12021083,18;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;11855919,44;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;1229792,73;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;38681,56;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.52.0.0;1.1.1.2.52.0.0 - Imposto sobre Transmissão ¿Causa Mortis¿ e Doação de Bens e Direitos;1191111,17;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1632797,94;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1632797,94;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1632797,94;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;8993328,77;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;8993328,77;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;8993328,77;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;165163,74;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;165163,74;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;153369,99;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;3153,69;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;8640,06;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;1499220,06;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;1499220,06;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;6289956,84;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;6289956,84;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;6289956,84;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;6289956,84;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;37316,50;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;37316,50;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.00.0.0;1.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais;37316,50;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.02.0.0;1.6.1.1.02.0.0 - Inscrição em Concursos e Processos Seletivos;37316,50;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;144594772,73;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;19476847,11;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;51738755,22;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;5055933,86;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;27436443,98;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;5055933,86;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;25485249,40;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;4665695,09;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;23501889,45;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;4665695,09;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;959757,16;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;1023602,79;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1951194,58;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;390238,77;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;710916,18;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.50.0.0;1.7.1.2.50.0.0 - Cota-parte da Compensação Financeira pela Exploração de Recursos Hídricos;145973,03;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;564728,81;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;564728,81;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;214,34;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;11173491,25;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;11173491,25;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;10478105,08;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;333851,82;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;127829,23;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;233705,12;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;495214,29;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;217069,29;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;4410,00;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;273735,00;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;9053047,19;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;442379,19;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;2427263,14;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;901825,09;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1525438,05;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;73193832,60;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;14420913,25;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;72344192,81;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;14420913,25;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;72106343,59;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;14420913,25;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;194811,12;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;14842,62;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;28195,48;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;636102,02;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;636102,02;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;213537,77;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;19600,00;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.52.0.0;1.7.2.9.52.0.0 - Transferências de Recursos Destinados a Programas de Educação;193937,77;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;19662184,91;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;19662184,91;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;810,05;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;810,05;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;810,05;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;810,05;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.3.0;1.9.9.9.99.3.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Financeiras;810,05;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;12753000,01;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.0.0.00.0.0;2.1.0.0.00.0.0 - Operações de Crédito;12500000,01;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.0.00.0.0;2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno;12500000,01;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.9.00.0.0;2.1.1.9.00.0.0 - Outras Operações de Crédito - Mercado Interno;12500000,01;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;253000,00;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;253000,00;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;253000,00;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.54.0.0;2.4.1.4.54.0.0 - Transferências de Convênios da União destinadas a Programas de Infraestrutura em Transporte;253000,00;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);177196159,37;21746
+2022;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);19476847,11;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);233155824,38;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);29338931,61;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;219944074,39;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;29338931,61;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;16461869,35;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;16177055,78;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;1389811,36;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;44819,82;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.52.0.0;1.1.1.2.52.0.0 - Imposto sobre Transmissão ¿Causa Mortis¿ e Doação de Bens e Direitos;1344991,54;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;2167772,80;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;2167772,80;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1868217,08;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;299555,72;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;12604626,84;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;12604626,84;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;12604626,84;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.9.00.0.0;1.1.1.9.00.0.0 - Outros Impostos;14844,78;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;267930,05;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;250085,41;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;224805,94;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;1344,09;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;23935,38;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;17844,64;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;17844,64;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;16883,52;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.00.0.0;1.1.3.1.00.0.0 - Contribuição de Melhoria;16883,52;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.1.99.0.0;1.1.3.1.99.0.0 - Outras Contribuições de Melhoria;16883,52;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;1707004,93;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;1707004,93;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;6569732,36;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.0.0;1.3.1.0.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;13947,40;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.00.0.0;1.3.1.1.00.0.0 - Exploração do Patrimônio Imobiliário do Estado;13947,40;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.99.0.0;1.3.1.1.99.0.0 - Outras Receitas Imobiliárias;13947,40;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;6555784,96;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;6555784,96;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;6555784,96;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;311415,55;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;311415,55;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.00.0.0;1.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais;311415,55;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.02.0.0;1.6.1.1.02.0.0 - Inscrição em Concursos e Processos Seletivos;40330,00;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.03.0.0;1.6.1.1.03.0.0 - Serviços de Registro, Certificação e Fiscalização;271085,55;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;194872353,63;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;29338931,61;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;56147397,80;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;5630857,37;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;31455795,77;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;5630857,37;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;28512374,24;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;5151912,75;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;26063126,95;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;5151912,75;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;2449247,29;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2943421,53;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;478944,62;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;151679,30;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.50.0.0;1.7.1.2.50.0.0 - Cota-parte da Compensação Financeira pela Exploração de Recursos Hídricos;151679,30;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;10464460,59;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;10464460,59;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;7628709,69;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;350128,93;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;128270,04;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;2357351,93;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;2326787,54;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;333895,64;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;8880,00;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;497344,20;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;1486667,70;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;6897923,12;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;466756,04;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;469830,86;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.51.0.0;1.7.1.7.51.0.0 - Transferências de Convênios da União Destinadas a Programas de Educação;469830,86;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;3914164,58;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;978979,23;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;2935185,35;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;119492267,01;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;23708074,24;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;118652639,15;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;23708074,24;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;118380944,18;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;23657600,99;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;252804,74;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;50473,25;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;13183,84;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;5706,39;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;700412,76;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;700412,76;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;139215,10;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;16800,00;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.52.0.0;1.7.2.9.52.0.0 - Transferências de Recursos Destinados a Programas de Educação;121954,72;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;460,38;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;19231102,77;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;19231102,77;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.0.00.0.0;1.7.9.0.00.0.0 - Demais Transferências Correntes;1586,05;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.1.00.0.0;1.7.9.1.00.0.0 - Transferências de Pessoas Físicas;1586,05;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.1.99.0.0;1.7.9.1.99.0.0 - Outras Transferências de Pessoas Físicas;1586,05;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;21698,57;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;834,82;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;36,72;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;36,72;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;798,10;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;798,10;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;20863,75;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;20863,75;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;20863,75;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.3.0;1.9.9.9.99.3.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Financeiras;20863,75;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;13211749,99;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.0.0.00.0.0;2.1.0.0.00.0.0 - Operações de Crédito;11749999,99;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.0.00.0.0;2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno;11749999,99;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.9.00.0.0;2.1.1.9.00.0.0 - Outras Operações de Crédito - Mercado Interno;11749999,99;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1461750,00;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1461750,00;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;1210000,00;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.0.0;2.4.1.1.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;1210000,00;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.2.0;2.4.1.1.51.2.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Especializada;1210000,00;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;251750,00;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;251750,00;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);233155824,38;21746
+2023;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);29338931,61;21746
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);271270050,53;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);32556339,81;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;251296734,16;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;32556339,81;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;26685278,50;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;26612056,43;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;929370,66;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;35086,01;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.52.0.0;1.1.1.2.52.0.0 - Imposto sobre Transmissão ¿Causa Mortis¿ e Doação de Bens e Direitos;868995,47;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";25289,18;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;4500679,36;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;4500679,36;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;3124112,38;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;1376566,98;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;21169533,56;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;21169533,56;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;21169533,56;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.9.00.0.0;1.1.1.9.00.0.0 - Outros Impostos;12472,85;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;73222,07;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;58476,27;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;50243,17;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;567,12;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;7665,98;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;14745,80;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;14745,80;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;1948897,77;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;1948897,77;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;3599058,36;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;3599058,36;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;3599058,36;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;3596229,71;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.02.0.0;1.3.2.1.02.0.0 - Remuneração de Depósitos Especiais;2828,65;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;763982,06;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;763982,06;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.00.0.0;1.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais;763982,06;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.02.0.0;1.6.1.1.02.0.0 - Inscrição em Concursos e Processos Seletivos;339575,42;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.03.0.0;1.6.1.1.03.0.0 - Serviços de Registro, Certificação e Fiscalização;424406,64;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;217157479,47;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;32556339,81;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;68794293,81;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;7015338,11;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;38398969,40;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;7015338,11;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;35503869,21;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;6436318,23;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;32761913,30;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;6436318,23;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;2741955,91;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2895100,19;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;579019,88;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;876243,77;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.50.0.0;1.7.1.2.50.0.0 - Cota-parte da Compensação Financeira pela Exploração de Recursos Hídricos;151599,97;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;84567,26;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;640076,54;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;640076,54;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;12952667,46;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;12952667,46;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;8235881,72;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;465688,19;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;294429,91;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;34412,00;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;3922255,64;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;5345251,04;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;1874401,02;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;7320,00;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;489164,00;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;81738,52;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;2892627,50;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;6186896,34;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;698121,29;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;326636,02;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.51.0.0;1.7.1.7.51.0.0 - Transferências de Convênios da União Destinadas a Programas de Educação;326636,02;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;4009508,49;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.57.0.0;1.7.1.9.57.0.0 - Transferência Especial da União;821800,00;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;642690,73;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.60.0.0;1.7.1.9.60.0.0 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022;197925,79;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;2347091,97;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;128734503,97;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;25541001,70;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;128433497,44;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;25541001,70;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;128147735,99;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;25496154,23;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;224236,70;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;44847,47;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;15454,96;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;46069,79;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;284053,07;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;284053,07;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;16953,46;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;16800,00;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;153,46;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;19626295,26;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;19626295,26;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.0.00.0.0;1.7.9.0.00.0.0 - Demais Transferências Correntes;2386,43;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.1.00.0.0;1.7.9.1.00.0.0 - Transferências de Pessoas Físicas;2386,43;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.9.1.99.0.0;1.7.9.1.99.0.0 - Outras Transferências de Pessoas Físicas;2386,43;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;1142038,00;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;1142038,00;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;1142038,00;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;1142038,00;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.3.0;1.9.9.9.99.3.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Financeiras;1142038,00;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;19973316,37;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.0.0.00.0.0;2.1.0.0.00.0.0 - Operações de Crédito;19305688,00;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.0.00.0.0;2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno;19305688,00;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.9.00.0.0;2.1.1.9.00.0.0 - Outras Operações de Crédito - Mercado Interno;19305688,00;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;126939,00;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.2.0.00.0.0;2.2.2.0.00.0.0 - Alienação de Bens Imóveis;126939,00;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;540689,37;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;540689,37;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;399974,00;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.0.0;2.4.1.1.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;399974,00;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.2.0;2.4.1.1.51.2.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Especializada;399974,00;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;140715,37;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;140715,37;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);271270050,53;25166
+2024;Prefeitura Municipal de Uruçuí - PI;2211209;PI;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);32556339,81;25166

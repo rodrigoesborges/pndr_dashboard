@@ -1,0 +1,988 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;33394901,12;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;3213312,52;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;33394901,12;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;3213312,52;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;1400980,44;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;1185500,58;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;406300,82;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;40203,39;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;266287,83;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;250139,18;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;16148,65;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";99809,60;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;779199,76;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;779199,76;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;215479,86;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;215479,86;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;152787,73;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;152787,73;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;123548,92;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;123548,92;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;123548,92;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;31667443,98;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;3213312,52;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;31665528,35;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;3213312,52;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;18353852,04;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2565915,38;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;13396107,81;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2565509,54;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;13386809,85;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2563650,07;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;9297,96;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1859,47;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;331528,03;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;112653,61;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;218874,42;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;3262475,73;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;382031,35;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;626694,95;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2029,56;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;405,84;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;352984,61;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;3605005,38;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;647397,14;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;3240940,65;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;647397,14;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2986897,40;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;597379,27;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;247450,97;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;49490,20;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;2638,59;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;527,67;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;3953,69;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);103512,76;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.30.00;1.7.2.2.22.30.00 - Cota-Parte Royalties - Compensação Financeira pela Produção de Petróleo - Lei nº 7.990/89 artigo 9º;103512,76;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;128549,40;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;132002,57;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;9706670,93;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;9706670,93;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;1915,63;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;1915,63;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.02.00.00;1.7.6.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;1915,63;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;50140,05;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;1957,83;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;1957,83;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;43877,82;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;43877,82;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;43877,82;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;4269,20;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;4269,20;21170
+2014;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;35,20;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;35459446,79;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;-3392516,21;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;33526246,79;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;-3392516,21;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;859686,93;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;750661,30;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;409339,88;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;48746,41;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;263966,53;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;263966,53;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";96626,94;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;341321,42;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;341321,42;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;109025,63;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;104959,58;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;4066,05;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;541606,40;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;541606,40;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;162949,01;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;162949,01;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;162949,01;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;31927056,32;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;-3392516,21;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;31927056,32;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;-3392516,21;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;18608851,39;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;-2679630,59;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;14141396,06;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;-2679192,22;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;14132075,31;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;-2677328,15;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;9320,75;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;-1864,07;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.09.00.00;1.7.2.1.09.00.00 - Outras Transferências da União;-438,37;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.09.01.00;1.7.2.1.09.01.00 - Transferência Financeira - L.C. nº 87/96;-438,37;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;218234,73;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;68135,21;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;150099,52;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;3008257,23;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;487402,49;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;749589,47;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2191,93;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;1779,48;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;3820438,95;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;-712885,62;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;3579591,82;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;-712885,62;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;3270022,71;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;-654004,32;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;292493,74;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;-58498,74;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;1913,10;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;-382,56;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;15162,27;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);75061,47;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.30.00;1.7.2.2.22.30.00 - Cota-Parte Royalties - Compensação Financeira pela Produção de Petróleo - Lei nº 7.990/89 artigo 9º;75061,47;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;87342,42;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;78443,24;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;9497765,98;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;9497765,98;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;34948,13;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;3212,37;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;3212,37;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.38.00.00;1.9.1.1.38.00.00 - Multas e Juros de Mora do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;925,71;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.39.00.00;1.9.1.1.39.00.00 - Multas e Juros de Mora do Imposto sobre a Transmissão Inter Vivos de Bens Imóveis - ITBI;68,44;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.40.00.00;1.9.1.1.40.00.00 - Multas e Juros de Mora do Imposto sobre Serviços de Qualquer Natureza ¿ ISS;2218,22;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;27937,79;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;27937,79;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;27937,79;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;3797,97;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;3797,97;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;2317,23;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.12.00.00;1.9.3.1.12.00.00 - Receita da Dívida Ativa do Imposto sobre a Transmissão Inter Vivos de Bens Imóveis - ITBI;1235,44;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.13.00.00;1.9.3.1.13.00.00 - Receita da Dívida Ativa do Imposto sobre Serviços de Qualquer Natureza ¿ ISS;245,30;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;1933200,00;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.0.0.00.00.00;2.2.0.0.00.00.00 - Alienação de Bens;173200,00;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.1.0.00.00.00;2.2.1.0.00.00.00 - Alienação de Bens Móveis;173200,00;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;1760000,00;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;1760000,00;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.2.00.00.00;2.4.2.2.00.00.00 - Transferências dos Estados;1760000,00;21170
+2015;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.2.01.00.00;2.4.2.2.01.00.00 - Participação na Receita dos Estados;1760000,00;21170
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;39117964,06;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;3775984,74;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;38474964,06;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;3775984,74;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;950226,60;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;845618,92;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;458618,70;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;30557,03;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;335521,77;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;335521,77;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";92539,90;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;387000,22;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;387000,22;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;104607,68;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;100341,08;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;4266,60;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;4266,60;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;702382,43;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.2.0.00.00.00;1.2.2.0.00.00.00 - Contribuições de Intervenção no Domínio Econômico;702382,43;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.2.0.99.00.00;1.2.2.0.99.00.00 - Outras Contribuições Econômicas;702382,43;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;103277,97;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;103277,97;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;103277,97;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;36694337,08;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;3775984,74;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;36296837,08;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;3775984,74;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;22167817,40;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;3057908,20;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;16414870,94;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;3057468,88;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;16405983,66;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;3055691,52;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;8887,28;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1777,36;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;171319,96;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;42777,29;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;128542,67;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;4392527,96;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;459568,27;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;723612,36;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2196,84;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;439,32;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;3721,07;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;3735405,97;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;718076,54;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;3632193,52;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;718076,54;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;3210971,12;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;642194,01;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;377610,16;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;75522,05;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;1802,74;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;360,48;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;41809,50;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);56544,63;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.30.00;1.7.2.2.22.30.00 - Cota-Parte Royalties - Compensação Financeira pela Produção de Petróleo - Lei nº 7.990/89 artigo 9º;56544,63;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;7940,22;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;38727,60;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;10393613,71;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;10393613,71;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;397500,00;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;397500,00;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;397500,00;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;24739,98;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;1859,77;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;1859,77;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.38.00.00;1.9.1.1.38.00.00 - Multas e Juros de Mora do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;1859,77;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;22880,21;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;22880,21;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;22880,21;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;643000,00;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;643000,00;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;423000,00;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;423000,00;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;423000,00;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;220000,00;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;220000,00;21312
+2016;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;220000,00;21312
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;37035656,66;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;3714978,76;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;36855280,56;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;3714978,76;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;966095,13;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;857861,69;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;392666,34;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;36444,80;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;266966,38;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;266966,38;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";89255,16;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;465195,35;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;465195,35;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;108233,44;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;105734,67;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;2498,77;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;2498,77;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;529954,18;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.0.00.00.00;1.2.2.0.00.00.00 - Contribuições de Intervenção no Domínio Econômico;529954,18;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.0.99.00.00;1.2.2.0.99.00.00 - Outras Contribuições Econômicas;529954,18;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;187082,43;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;187082,43;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;187082,43;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;34900576,44;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;3714978,76;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;34900576,44;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;3714978,76;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;20724834,18;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2916032,34;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;15245713,02;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2915507,10;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;15235963,87;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2913557,37;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;9749,15;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1949,73;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;213294,45;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;44075,91;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;169218,54;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;3372647,09;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;540456,40;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;699671,56;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2626,68;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;525,24;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;650424,98;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;4157146,32;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;798946,42;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;4051440,98;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;798946,42;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;3618755,32;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;723750,85;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;373143,02;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;74628,59;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;2834,99;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;566,98;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;56707,65;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);50652,04;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.22.30.00;1.7.2.2.22.30.00 - Cota-Parte Royalties - Compensação Financeira pela Produção de Petróleo - Lei nº 7.990/89 artigo 9º;50652,04;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;55053,30;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;10018595,94;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;10018595,94;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;271572,38;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;267111,16;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;267111,16;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;267111,16;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;2650,43;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;2650,43;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;2650,43;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;1810,79;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;1810,79;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;180376,10;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.00.00;2.2.0.0.00.00.00 - Alienação de Bens;124792,99;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.2.0.00.00.00;2.2.2.0.00.00.00 - Alienação de Bens Imóveis;124792,99;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;5583,11;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;5583,11;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.00.00;2.4.2.2.00.00.00 - Transferências dos Estados;5583,11;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.00.00;2.4.2.2.99.00.00 - Outras Transferências dos Estados;5583,11;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.5.0.0.00.00.00;2.5.0.0.00.00.00 - Outras Receitas de Capital;50000,00;21452
+2017;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.5.9.0.00.00.00;2.5.9.0.00.00.00 - Outras Receitas;50000,00;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;51418018,11;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;4151011,39;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;51177018,10;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4151011,39;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1935099,03;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1527444,15;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;670474,63;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;670474,63;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;586913,52;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;83561,11;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;856969,52;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;144771,56;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;52894,94;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;91876,62;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;712197,96;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;712197,96;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;407654,88;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;334092,04;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;334092,04;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;73562,84;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;73562,84;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;1054348,59;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;1054348,59;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;81828,47;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;81828,47;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;81828,47;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;81828,47;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;47954666,89;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4151011,39;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;27247605,14;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3119457,27;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;27247605,14;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;3119457,27;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;16961836,21;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;3118876,95;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;15584108,17;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3116821,36;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;692150,85;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;675298,77;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;10278,42;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2055,59;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;318522,46;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.5.0;1.7.1.8.02.5.0 Cota-parte Royalties pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;59305,26;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;259217,20;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;7154025,22;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;582621,57;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;2061035,48;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;605114,41;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;10021,53;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;448216,00;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;193681,05;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;804002,49;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2901,72;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;580,32;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2901,72;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;580,32;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;166662,48;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.1.0;1.7.1.8.10.1.0 Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;166662,48;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;5303915,38;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1031554,12;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;5303915,38;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1031554,12;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;5203366,35;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1031554,12;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;4754489,17;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;950897,60;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;398622,68;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;79724,56;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;4660,05;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;931,96;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;45594,45;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 Transferência da Cota-parte da Compensação Financeira (25%);63787,92;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.3.0;1.7.2.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º;63787,92;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;22710,79;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;14050,32;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;15403146,37;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;15403146,37;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;15403146,37;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;151075,12;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;151075,12;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;151075,12;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;151075,12;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;241000,01;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;241000,01;21452
+2018;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.2.0.00.0.0;2.2.2.0.00.0.0 - Alienação de Bens Imóveis;241000,01;21452
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);53886230,94;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4393021,71;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;53886230,94;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4393021,71;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1569973,97;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1455007,55;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;807093,57;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;807093,57;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;680993,08;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;126100,49;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;647913,98;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;149773,03;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;54600,30;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;95172,73;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;498140,95;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;498140,95;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;114966,42;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;47598,82;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;47598,82;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;67367,60;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;67367,60;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;1067767,15;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;1067767,15;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;36806,21;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;36806,21;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;36806,21;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;36806,21;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;60113,88;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;60113,88;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.02.0.0;1.6.1.0.02.0.0 - Inscrição em Concursos e Processos Seletivos;60113,88;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;51107658,33;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4393021,71;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;27864601,48;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3400938,71;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;27864601,48;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;3400938,71;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;18476982,10;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;3400938,71;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;16994477,94;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3398895,30;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;749997,74;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;722288,83;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;10217,59;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2043,41;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;301794,34;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.5.0;1.7.1.8.02.5.0 Cota-parte Royalties pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;39945,10;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;261849,24;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";5548484,76;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;5548484,76;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;549358,50;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.1.0;1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;549358,50;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1686632,42;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;592439,58;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;433100,40;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;319374,36;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;341718,08;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;412731,00;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.1.0;1.7.1.8.10.1.0 Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;329935,00;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.5.0;1.7.1.8.10.5.0 Transferências de Convênios da União Destinadas a Programas de Saneamento Básico;82796,00;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;888618,36;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;5121167,29;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;992083,00;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;5121167,29;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;992083,00;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;4988092,26;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;992083,00;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;4488523,19;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;897704,42;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;469006,26;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;93800,81;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;2889,14;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;577,77;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;27673,67;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 Transferência da Cota-parte da Compensação Financeira (25%);52543,79;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.3.0;1.7.2.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º;52543,79;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;33751,12;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;45300,00;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;1480,12;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;18121889,56;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;18121889,56;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;18121889,56;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;43911,40;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;37790,86;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.00.0.0;1.9.2.8.00.0.0 - Indenizações, Restituições e Ressarcimentos - Específicas para Estados/DF/Municípios;37790,86;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.01.0.0;1.9.2.8.01.0.0 - Indenizações- Específicas para Estados/DF/Municípios;20107,25;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.02.0.0;1.9.2.8.02.0.0 - Restituições - Específicas para Estados/DF/Municípios;17683,61;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.02.9.0;1.9.2.8.02.9.0 - Outras Restituições - Específicas para Estados/DF/Municípios - Não Especificadas Anteriormente;17683,61;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;6120,54;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;6120,54;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;6120,54;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);53886230,94;21443
+2019;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4393021,71;21443
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);60150807,07;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4225596,48;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);0,04;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;60150807,07;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4225596,48;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;0,04;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1961560,20;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1860130,75;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1176134,75;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1176134,75;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1142481,22;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;33653,53;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;683996,00;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;185323,04;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;66486,40;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;118836,64;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;498672,96;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;498672,96;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;101429,45;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;18856,28;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;18856,28;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;82573,17;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;82573,17;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;987948,82;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;987948,82;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;7328,29;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;0,04;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;7328,29;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;0,04;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;7328,29;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;0,04;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;7328,29;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;0,04;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;20615,92;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;20615,92;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.99.0.0;1.6.9.0.99.0.0 - Outros Serviços;20615,92;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;56956429,28;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4225596,48;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;33242518,98;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3247303,31;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;33242518,98;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;3247303,31;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;17698370,73;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;3247303,31;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;16225370,27;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3245073,74;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;730147,65;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;731704,34;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;11148,47;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2229,57;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;281979,31;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.5.0;1.7.1.8.02.5.0 Cota-parte Royalties pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;20930,89;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;261048,42;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";8699833,94;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;6551782,08;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;2148051,86;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;687161,35;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.1.0;1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;687161,35;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1424524,93;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;539279,86;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;533858,60;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;351386,47;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;606184,00;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.1.0;1.7.1.8.10.1.0 Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;275000,00;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 Outras Transferências de Convênios da União;331184,00;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;3844464,72;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;5081010,68;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;978293,17;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;5081010,68;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;978293,17;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;4914339,77;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;978293,17;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;4390223,82;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;878044,56;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;499111,18;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;99821,62;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;2135,18;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;426,99;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;22869,59;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 Transferência da Cota-parte da Compensação Financeira (25%);37191,06;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.3.0;1.7.2.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º;37191,06;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;38166,51;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;66000,00;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;25313,34;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.1.0;1.7.2.8.10.1.0 Transferências de Convênio dos Estados para o Sistema Único de Saúde ¿ SUS;25313,34;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;18632899,62;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;18632899,62;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;18632899,62;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;216924,56;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;204763,43;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.00.0.0;1.9.2.8.00.0.0 - Indenizações, Restituições e Ressarcimentos - Específicas para Estados/DF/Municípios;204763,43;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.01.0.0;1.9.2.8.01.0.0 - Indenizações- Específicas para Estados/DF/Municípios;606,44;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.02.0.0;1.9.2.8.02.0.0 - Restituições - Específicas para Estados/DF/Municípios;204156,99;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.02.9.0;1.9.2.8.02.9.0 - Outras Restituições - Específicas para Estados/DF/Municípios - Não Especificadas Anteriormente;204156,99;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;12161,13;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;12161,13;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;12161,13;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);60150807,07;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4225596,48;21563
+2020;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);0,04;21563
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);70363238,80;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);5555216,02;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);103734,14;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;69915758,80;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;5555216,02;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;103734,14;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;2403567,41;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2302766,44;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1579206,48;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1579206,48;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1579125,52;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;80,96;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;723559,96;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;220010,38;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;65168,81;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;154841,57;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;503549,58;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;503549,58;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;100800,97;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;49498,00;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;49498,00;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;51302,97;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;51302,97;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;862026,84;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;862026,84;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;68646,92;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;68646,92;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;68646,92;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;68646,92;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;3378,01;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;3378,01;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.99.0.0;1.6.9.0.99.0.0 - Outros Serviços;3378,01;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;66103271,49;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;5555216,02;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;103734,14;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;36752663,50;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;4360023,56;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;36752663,50;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;4360023,56;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;23598812,05;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;4360023,56;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;21789276,46;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;4357855,00;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;955050,59;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;843641,60;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;10843,40;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2168,56;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;424138,09;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;2939,95;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;421198,14;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;7392433,11;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;6117815,89;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção Especializada;751551,40;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;225795,96;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;129378,00;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;167891,86;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1583590,88;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;524332,05;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;580142,20;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;479116,63;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 - Transferências de Convênios da União e de Suas Entidades;250000,00;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 - Outras Transferências de Convênios da União;250000,00;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;417987,41;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;3085701,96;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;6602521,02;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1195192,46;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;6602521,02;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;1195192,46;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;5990525,16;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;1195192,46;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;5395517,14;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;1079103,24;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;578393,76;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;115678,55;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;2053,71;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;410,67;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;14560,55;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 - Transferência da Cota-parte da Compensação Financeira (25%);43986,42;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.3.0;1.7.2.8.02.3.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º;43986,42;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;222764,97;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.1.0;1.7.2.8.10.1.0 - Transferências de Convênio dos Estados para o Sistema Único de Saúde ¿ SUS;49685,05;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;173079,92;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 - Outras Transferências dos Estados;345244,47;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;22748086,97;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;103734,14;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;22748086,97;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;103734,14;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;22748086,97;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;103734,14;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;474868,13;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;474868,13;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.00.0.0;1.9.2.8.00.0.0 - Indenizações, Restituições e Ressarcimentos - Específicas para Estados/DF/Municípios;474868,13;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.01.0.0;1.9.2.8.01.0.0 - Indenizações- Específicas para Estados/DF/Municípios;674,67;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.02.0.0;1.9.2.8.02.0.0 - Restituições - Específicas para Estados/DF/Municípios;474193,46;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.8.02.9.0;1.9.2.8.02.9.0 - Outras Restituições - Específicas para Estados/DF/Municípios - Não Especificadas Anteriormente;474193,46;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;447480,00;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;447480,00;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;447480,00;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;447480,00;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);70363238,80;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);5555216,02;21681
+2021;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);103734,14;21681
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);83601764,43;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);6664520,67;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);35487,07;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;83372964,43;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;6664520,67;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;35487,07;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;2957510,97;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2796840,76;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;474906,26;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;160901,30;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";314004,96;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1618845,54;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1618845,54;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1618845,54;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;703088,96;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;703088,96;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;703088,96;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;160670,21;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;160670,21;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;160670,21;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;1307346,40;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;1307346,40;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;200007,93;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;200007,93;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;200007,93;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;200007,93;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;78883650,34;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;6664520,67;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;35487,07;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;43783671,63;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;5389681,92;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1525,27;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;29438809,16;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;5389681,92;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;29427487,99;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;5387417,82;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;26937090,63;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;5387417,82;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;1382178,18;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;1108219,18;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;11321,17;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2264,10;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;655808,33;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;1457,95;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;654350,38;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;2265,31;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;652085,07;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;9103930,44;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;9103930,44;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;7577749,28;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;1071551,40;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;296540,10;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;151803,52;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;6286,14;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;1379123,87;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;546244,84;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;443315,20;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;389563,83;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;2178840,75;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;1525,27;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;746565,22;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;280593,86;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;280593,86;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;8171886,28;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1274838,75;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;33961,80;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;6396522,66;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1274838,75;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;33961,80;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;5616366,83;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1123273,17;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;33961,80;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;756313,20;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;151262,08;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;1517,75;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;303,50;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;22324,88;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.0.0;1.7.2.2.00.0.0 - Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;32991,30;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.50.0.0;1.7.2.2.50.0.0 - Cota-parte da Compensação Financeira de Recursos Hídricos;32991,30;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;1570420,96;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;42407,22;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;1528013,74;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;171951,36;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;171951,36;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;26928092,43;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;26928092,43;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;24448,79;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;24448,79;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;24448,79;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;24448,79;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;228800,00;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;228800,00;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;228800,00;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;228800,00;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);83601764,43;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);6664520,67;21796
+2022;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);35487,07;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);93794800,02;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);6981906,17;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);120035,74;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;93227300,02;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;6981906,17;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;120035,74;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;2096410,95;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1896847,14;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;332563,86;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;91009,46;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";241554,40;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;359316,57;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;359316,57;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;323316,57;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;36000,00;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;1204966,71;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;1204966,71;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;1204966,71;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;199563,81;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;199563,81;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;199563,81;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;1002620,70;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;1002620,70;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;136687,45;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;136687,45;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;136687,45;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;136687,45;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;26243,00;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;26243,00;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.00.0.0;1.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais;26243,00;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.02.0.0;1.6.1.1.02.0.0 - Inscrição em Concursos e Processos Seletivos;26243,00;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;89856807,01;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;6981906,17;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;120035,74;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;47566229,62;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;5546138,62;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;48687,18;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;30513034,77;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;5546138,62;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;39688,36;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;30500784,18;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;5543688,64;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;39688,36;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;28060574,78;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;5543688,64;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;39688,36;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;2440209,40;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;12250,59;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2449,98;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;595290,63;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;595290,63;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;2973,03;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;592317,60;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;10890378,36;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;10890378,36;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;8602900,52;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;1125262,40;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;421533,10;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;141378,00;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;599304,34;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;2050087,02;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;612994,30;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;680491,80;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;351842,68;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;404758,24;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;1590045,36;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;8998,82;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;830992,38;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1096401,10;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1096401,10;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;14576746,01;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1435767,55;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;67923,60;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;7183447,23;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1435767,55;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;67923,60;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;6240221,29;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1248044,03;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;67923,60;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;935410,81;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;187082,00;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;3207,87;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;641,52;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;4607,26;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.0.0;1.7.2.2.00.0.0 - Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;35333,38;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.50.0.0;1.7.2.2.50.0.0 - Cota-parte da Compensação Financeira de Recursos Hídricos;35333,38;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;7357965,40;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;7357965,40;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;27713831,38;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3424,96;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;27713831,38;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;3424,96;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;108530,91;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;108530,91;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;108530,91;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;108530,91;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;567500,00;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;567500,00;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;567500,00;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;567500,00;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);93794800,02;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);6981906,17;21796
+2023;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);120035,74;21796
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);109278851,33;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);7905098,40;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);62263,30;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;109278851,33;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;7905098,40;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;62263,30;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;2111177,01;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1804597,10;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;233255,09;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;115990,57;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";117264,52;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;470541,19;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;470541,19;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;415515,63;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;55025,56;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;1100800,82;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;1100800,82;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;1100800,82;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;306579,91;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;306579,91;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;306579,91;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;723504,63;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;723504,63;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;256031,72;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;256031,72;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;256031,72;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;256031,72;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;293687,00;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;293687,00;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.00.0.0;1.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais;293687,00;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.02.0.0;1.6.1.1.02.0.0 - Inscrição em Concursos e Processos Seletivos;293687,00;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;105411338,89;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;7905098,40;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;62263,30;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;62479580,05;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;6434902,94;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;35494475,45;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;6434902,94;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;35482071,45;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;6432366,63;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;32161835,36;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;6432366,63;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;3320236,09;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;12404,00;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2536,31;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;639562,00;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;639562,00;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;1847,38;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;637714,62;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;14893398,07;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;14893398,07;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;10778138,69;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;2643010,45;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;407351,56;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;213834,80;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;742093,62;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;108968,95;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;3010668,98;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;1914829,48;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;698516,00;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;295730,14;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;101593,36;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;4028630,56;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;908997,23;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;3503847,76;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;961,94;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;3502885,82;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;9719759,10;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1470195,46;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;62263,30;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;7383459,25;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1470195,46;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;62263,30;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;6338833,80;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1267766,54;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;62263,30;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;1006111,24;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;201222,19;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;6033,98;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;1206,73;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;32480,23;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.0.0;1.7.2.2.00.0.0 - Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;53820,30;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.50.0.0;1.7.2.2.50.0.0 - Cota-parte da Compensação Financeira de Recursos Hídricos;53820,30;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;369685,04;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;18500,00;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.0.0;1.7.2.4.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União;18500,00;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;1894294,51;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;1894294,51;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;33211999,74;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;33211999,74;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;483112,08;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;483112,08;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;483112,08;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;483112,08;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);109278851,33;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);7905098,40;20126
+2024;Prefeitura Municipal de Aquidabã - SE;2800209;SE;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);62263,30;20126

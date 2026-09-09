@@ -1,0 +1,966 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;13262352,60;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1689757,21;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;13042366,97;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1689757,21;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;308768,41;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;293278,64;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;248309,67;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;8475,99;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;105831,26;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;105831,26;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";134002,42;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;44968,97;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;44968,97;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;15489,77;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;11988,69;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;3501,08;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;39714,53;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;39714,53;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;39714,53;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;363788,70;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Demais Receitas de Serviços;363788,70;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;12313009,96;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1689757,21;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;11863991,46;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1689757,21;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;8756611,87;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1334515,09;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;6956187,92;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1332258,01;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6943382,07;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1329696,93;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;12805,85;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2561,08;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;103664,43;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;103664,43;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;872650,29;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;209177,26;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;198422,07;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;11285,76;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2257,08;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;405224,14;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1796668,39;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;355242,12;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1777617,74;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;355242,12;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1682171,70;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;336434,13;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;63352,09;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;12669,62;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;30669,59;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;6138,37;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1424,36;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);11050,65;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.90.00;1.7.2.2.22.90.00 - Outras Transferências Decorrentes de Compensações Financeiras;11050,65;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;8000,00;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;1310711,20;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1310711,20;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;449018,50;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;449018,50;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;449018,50;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;17085,37;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;17085,37;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;219985,63;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;219985,63;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;219985,63;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;101985,63;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;101985,63;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;118000,00;5333
+2014;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;118000,00;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;13742208,81;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1785307,00;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;13640375,59;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1785307,00;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;312239,28;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;304642,83;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;209225,05;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;5682,33;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;161708,86;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;47323,78;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;114385,08;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";41833,86;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;95417,78;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;95417,78;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;7596,45;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;4075,20;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;3521,25;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;93910,19;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;93910,19;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;93910,19;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;407945,55;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.41.00.00;1.6.0.0.41.00.00 - Serviços de Captação, Adução, Tratamento, Reserva e Distribuição de Água;374701,11;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.48.00.00;1.6.0.0.48.00.00 - Serviços de Religamento de Água;4287,38;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;28957,06;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;12802653,09;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1785307,00;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;12062882,22;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1785307,00;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;8728367,94;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1400274,00;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7377886,64;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1397886,00;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7364286,86;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1395167,00;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;13599,78;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2719,00;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;78217,54;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;78217,54;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;776598,08;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;239693,83;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;224695,38;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;11940,22;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2388,00;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;19336,25;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2022257,58;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;385033,00;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1930570,93;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;385033,00;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1818948,60;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;363789,00;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;73038,16;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;14606,00;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;33192,58;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;6638,00;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;5391,59;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);40576,25;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.20.00;1.7.2.2.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;40576,25;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;51110,40;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;1312256,70;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1312256,70;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;739770,87;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;739770,87;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.01.00.00;1.7.6.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;229400,00;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;510370,87;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;23627,48;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;17509,48;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;17509,48;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;6118,00;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;101833,22;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;101833,22;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;101833,22;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;101833,22;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.01.00.00;2.4.7.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;21833,22;5333
+2015;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;80000,00;5333
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;15749406,48;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;2010424,07;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;15176797,84;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2010424,07;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;263054,14;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;255989,64;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;175654,38;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;12829,19;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;118529,52;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;60324,36;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;58205,16;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";44295,67;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;80335,26;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;80335,26;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;7064,50;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;3796,50;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;3268,00;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;3268,00;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;74179,34;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;74179,34;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;74179,34;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;439580,40;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.41.00.00;1.6.0.0.41.00.00 - Serviços de Captação, Adução, Tratamento, Reserva e Distribuição de Água;402254,20;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.48.00.00;1.6.0.0.48.00.00 - Serviços de Religamento de Água;5846,21;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;31479,99;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;14335105,18;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2010424,07;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;13752838,54;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2010424,07;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;10238251,99;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1599009,55;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8571113,40;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1596649,39;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;8553688,37;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1593164,48;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;17425,03;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;3484,91;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;67019,07;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;67019,07;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1010343,08;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;325363,26;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;218300,83;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;11800,80;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2360,16;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;34311,55;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2104248,81;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;411414,52;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2071996,53;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;411414,52;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1938168,75;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;387633,46;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;95156,92;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;19030,58;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;23752,38;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;4750,48;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;14918,48;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);19474,68;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.20.00;1.7.2.2.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;19474,68;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;12777,60;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;1410337,74;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1410337,74;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;582266,64;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;582266,64;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.01.00.00;1.7.6.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;131387,20;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;420879,44;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;30000,00;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;64878,78;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;21189,66;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;21189,66;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;112,80;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;112,80;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;112,80;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;43576,32;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.08.00.00;1.9.9.0.08.00.00 - Demais Receitas para o Desenvolvimento do Desporto;43576,32;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;572608,64;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;572608,64;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;36000,00;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;36000,00;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;36000,00;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;536608,64;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;536608,64;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.01.00.00;2.4.7.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;116608,64;5361
+2016;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;420000,00;5361
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;15378407,35;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1971937,66;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;15350119,40;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1971937,66;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;408832,07;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;396590,30;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;233423,88;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;21234,59;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;162724,19;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;95681,06;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;67043,13;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";49465,10;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;163166,42;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;163166,42;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;12241,77;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;11988,07;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;253,70;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;253,70;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;38662,10;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.0.00.00.00;1.3.1.0.00.00.00 - Receitas Imobiliárias;456,73;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.1.1.00.00.00;1.3.1.1.00.00.00 - Aluguéis;456,73;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;38205,37;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;38205,37;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;447952,75;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.41.00.00;1.6.0.0.41.00.00 - Serviços de Captação, Adução, Tratamento, Reserva e Distribuição de Água;413199,33;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.42.00.00;1.6.0.0.42.00.00 - Serviços de Coleta, Transporte, Tratamento e Destino Final de Esgotos;11101,40;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.48.00.00;1.6.0.0.48.00.00 - Serviços de Religamento de Água;5690,44;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;17961,58;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;14389540,14;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1971937,66;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;13897328,85;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1971937,66;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;10145168,52;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1523653,94;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8295114,91;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1521334,58;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7935780,01;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1516902,94;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;337176,18;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;22158,72;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;4431,64;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;88101,27;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;88101,27;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1261914,70;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;321113,92;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;167326,92;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;11596,80;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2319,36;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2324439,04;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;448283,72;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2261773,11;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;448283,72;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2107661,40;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;421532,00;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;107390,05;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;21477,25;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;26372,35;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;5274,47;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;20349,31;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);49888,33;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.22.20.00;1.7.2.2.22.20.00 - Cota-Parte da Compensação Financeira de Recursos Minerais - CFEM;38098,87;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.22.90.00;1.7.2.2.22.90.00 - Outras Transferências Decorrentes de Compensações Financeiras;11789,46;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;12777,60;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;1427721,29;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1427721,29;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;492211,29;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;492211,29;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.01.00.00;1.7.6.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;52954,20;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;338257,09;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;101000,00;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;65132,34;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;21247,81;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.3.00.00.00;1.9.1.3.00.00.00 - Multas e Juros de Mora da Dívida Ativa dos Tributos;133,20;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.3.11.00.00;1.9.1.3.11.00.00 - Multas e Juros de Mora da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;133,20;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;21114,61;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;38389,34;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;38389,34;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;5495,19;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.08.00.00;1.9.9.0.08.00.00 - Demais Receitas para o Desenvolvimento do Desporto;2400,00;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;3095,19;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;28287,95;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;28287,95;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;28287,95;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;28287,95;5389
+2017;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.2.01.00.00;2.4.7.2.01.00.00 - Transferências de Convênios dos Estados para o Sistema Único de Saúde - SUS;28287,95;5389
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;16414252,50;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;16280159,86;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;430635,44;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;418524,88;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;170437,80;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;170437,80;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;96787,74;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;73650,06;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;248087,08;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;133936,28;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;17794,61;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;116141,67;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;114150,80;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;114150,80;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;12110,56;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;12110,56;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;12110,56;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;18269,66;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;18269,66;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;18269,66;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;18269,66;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;1775,47;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;1775,47;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.99.0.0;1.6.9.0.99.0.0 - Outros Serviços;1775,47;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;15780595,04;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;11560540,73;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;11560540,73;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8851109,38;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8108310,19;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;360121,59;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;351353,57;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;31324,03;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;134869,02;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;134869,02;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;1506555,46;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;330277,17;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;378382,42;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;155647,56;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;61396,00;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;57558,01;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;103780,85;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;9347,28;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;9347,28;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.08.0.0;1.7.1.8.08.0.0 Transferências Advindas de Emendas Parlamentares Individuais;350000,00;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2903079,72;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2903079,72;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1801741,27;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1642586,17;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;116864,88;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;26172,99;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;16117,23;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 Transferência da Cota-parte da Compensação Financeira (25%);10839,33;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.2.0;1.7.2.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;10839,33;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;110410,04;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;507952,85;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;507952,85;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;472136,23;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1316974,59;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1316974,59;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1316974,59;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;48884,25;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;48884,25;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;48884,25;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;134092,64;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;134092,64;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;134092,64;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;134092,64;5414
+2018;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;134092,64;5414
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);20604176,78;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2168148,88;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);619600,93;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;20415198,34;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2168148,88;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;619600,93;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;624877,86;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;615323,06;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;149827,70;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;149827,70;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;113253,02;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;36574,68;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;465495,36;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;153603,93;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;29550,27;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;124053,66;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;311891,43;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;311891,43;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;9554,80;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;9554,80;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;9554,80;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.1.0;1.1.2.8.01.1.0 - Taxa de Fiscalização de Vigilância Sanitária;9554,80;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;11520,56;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;11520,56;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;11520,56;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;11169,82;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.5.0;1.3.2.1.00.5.0 - Juros de Títulos de Renda;350,74;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;574723,44;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;423,25;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;557879,37;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;423,25;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;557879,37;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;423,25;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;16844,07;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.99.0.0;1.6.9.0.99.0.0 - Outros Serviços;16844,07;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;18848359,43;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2168148,88;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;619140,00;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;12982816,73;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1670514,41;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;619140,00;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;12982816,73;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1670514,41;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;619140,00;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9089286,95;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1670514,41;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8300359,22;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1665680,68;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;389575,78;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;375182,78;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;24169,17;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;4833,73;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;136013,93;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;136013,93;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";1584645,94;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";619140,00;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;1578245,94;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;619140,00;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;6400,00;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;449790,00;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.2.0;1.7.1.8.04.2.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Especializada;449790,00;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;279377,10;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;166629,96;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;50344,00;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;61563,14;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;840,00;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.08.0.0;1.7.1.8.08.0.0 Transferências Advindas de Emendas Parlamentares Individuais;619140,00;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;6948,00;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;356034,50;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;461580,31;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3863139,93;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;497634,47;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;3863139,93;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;497634,47;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2497913,81;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;497634,47;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2334570,59;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;466913,80;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;125126,23;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;25024,45;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;28481,15;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;5696,22;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;9735,84;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 Transferência da Cota-parte da Compensação Financeira (25%);22418,60;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.2.0;1.7.2.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;22418,60;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;481242,35;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;14657,16;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;846908,01;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;596908,01;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;250000,00;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2002402,77;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;2002402,77;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;2002402,77;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;355717,05;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;37,68;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;41046,28;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.01.0.0;1.9.1.0.01.0.0 - Multas Previstas em Legislação Específica;41046,28;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;314578,47;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;4379,65;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;4379,65;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;310198,82;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;310198,82;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;92,30;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;37,68;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;92,30;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;37,68;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;92,30;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;37,68;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;188978,44;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;188978,44;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;152978,44;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;152978,44;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.12.0.0;2.4.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;152978,44;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;36000,00;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;36000,00;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;36000,00;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.2.0;2.4.2.8.10.2.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;36000,00;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);20604176,78;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2168148,88;5378
+2019;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);619600,93;5378
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);25641853,87;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2341368,14;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);334996,56;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;23633413,16;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2341368,14;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;334996,56;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;726267,89;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;715861,81;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;182983,83;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;182983,83;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;122618,28;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;60365,55;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;532877,98;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;79123,36;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;32904,36;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;46219,00;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;453754,62;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;453754,62;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;10406,08;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;10406,08;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;10406,08;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.2.0;1.1.2.1.02.2.0 - Taxa de Fiscalização de Funcionamento - TFF;10406,08;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;6865,06;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;6865,06;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;6865,06;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;6865,06;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;517099,32;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;11,83;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;517099,32;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;11,83;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;517099,32;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;11,83;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;22336608,16;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2341368,14;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;334965,00;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;14713031,26;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1795365,55;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;334965,00;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;14713031,26;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1795365,55;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;334965,00;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9867490,81;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1795365,55;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;9081247,77;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1789841,89;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;378908,07;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;379715,90;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;27619,07;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;5523,66;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;135470,23;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;135470,23;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";2925670,17;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";334965,00;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;2348357,83;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;334965,00;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;597,22;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;576715,12;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;259365,71;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;147965,31;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;760,00;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;51704,40;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;58936,00;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;390885,01;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1134149,33;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;5376218,87;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;546002,59;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;5376218,87;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;546002,59;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2738148,67;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;546002,59;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2550053,33;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;510010,38;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;153381,18;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;30675,39;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;26584,11;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;5316,82;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;8130,05;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 Transferência da Cota-parte da Compensação Financeira (25%);36683,80;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.2.0;1.7.2.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;36683,80;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;2449387,66;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;46002,30;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;105996,44;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2247358,03;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;2247358,03;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;2247358,03;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;46572,73;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;19,73;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;37781,17;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.01.0.0;1.9.1.0.01.0.0 - Multas Previstas em Legislação Específica;37781,17;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;8791,56;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;19,73;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;8791,56;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;19,73;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;8791,56;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;19,73;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;2008440,71;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;2008440,71;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;2008440,71;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2008440,71;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;300000,00;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.1.0;2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;300000,00;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;1008440,71;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;1008440,71;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 Outras Transferências da União;700000,00;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);25641853,87;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2341368,14;5404
+2020;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);334996,56;5404
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);27279135,44;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2957774,80;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);1333,48;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;25440435,44;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2957774,80;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;1333,48;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;787421,67;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;782410,67;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;252618,10;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;252618,10;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;238805,30;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;13812,80;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;529792,57;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;200098,21;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;23250,14;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;176848,07;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;329694,36;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;329694,36;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;5011,00;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;228,33;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;228,33;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.2.0;1.1.2.1.02.2.0 - Taxa de Fiscalização de Funcionamento - TFF - Não Proveniente da Utilização de Posições Orbitais;228,33;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;4782,67;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;4782,67;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.1.0;1.1.2.8.01.1.0 - Taxa de Fiscalização de Vigilância Sanitária;507,40;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;4275,27;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;45818,55;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;45818,55;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;45818,55;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;45818,55;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;521734,41;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;190,12;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;521734,41;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;190,12;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;521734,41;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;190,12;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;24035942,91;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2957774,80;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;14969331,42;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2273946,96;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;14969331,42;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;2273946,96;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;12305460,37;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;2273946,96;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11335312,33;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2267062,17;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;496840,58;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;438882,91;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;34424,55;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;6884,79;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;219117,52;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;219117,52;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1952235,39;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;1554630,68;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção Especializada;105544,40;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;107719,27;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;98775,20;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;85565,84;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;238657,54;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;146015,06;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;520,00;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;46563,00;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;45559,48;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;171560,13;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;82300,47;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;6366562,10;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;683827,84;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;6366562,10;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;683827,84;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;3424307,98;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;683827,84;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;3227377,98;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;645475,29;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;155962,36;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;31190,94;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;35808,18;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;7161,61;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;5159,46;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 - Transferência da Cota-parte da Compensação Financeira (25%);77413,38;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.2.0;1.7.2.8.02.2.0 - Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;77413,38;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;1944083,52;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 - Transferências de Estados destinadas à Assistência Social;69991,52;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 - Outras Transferências dos Estados;850765,70;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2700049,39;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;2700049,39;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;2700049,39;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;49517,90;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;1143,36;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;40780,30;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;1043,99;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.01.0.0;1.9.1.0.01.0.0 - Multas Previstas em Legislação Específica;40780,30;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.1.0.01.0.0;1.9.1.0.01.0.0 - Multas Previstas em Legislação Específica;1043,99;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;8737,60;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;99,37;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;8737,60;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;99,37;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;8520,26;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;217,34;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;99,37;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1838700,00;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;199950,00;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;199950,00;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;199950,00;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1638750,00;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1238750,00;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;1238750,00;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;238750,00;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;238750,00;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 - Outras Transferências da União;1000000,00;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;400000,00;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 - Transferências dos Estados, Distrito Federal, e de suas Entidades;400000,00;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.99.0.0;2.4.2.8.99.0.0 - Outras Transferências dos Estados;400000,00;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);27279135,44;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2957774,80;5429
+2021;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);1333,48;5429
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);32586668,17;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3528151,20;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);1580,87;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;30097786,14;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3528151,20;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;1580,87;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;912897,18;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;903262,66;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;209863,67;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;24266,12;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";185597,55;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;285428,20;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;285428,20;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;284338,26;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;1089,94;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;407970,79;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;407970,79;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;407970,79;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;9634,52;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;9634,52;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;9634,52;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;275231,12;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;275231,12;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;275231,12;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;275231,12;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;621935,79;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;1422,58;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;621935,79;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;1422,58;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.00.0.0;1.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais;621935,79;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.6.1.1.00.0.0;1.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais;1422,58;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.01.0.0;1.6.1.1.01.0.0 - Serviços Administrativos e Comerciais Gerais;621935,79;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.6.1.1.01.0.0;1.6.1.1.01.0.0 - Serviços Administrativos e Comerciais Gerais;1422,58;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;27706941,67;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3528151,20;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;19241558,35;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2832697,81;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;15453476,13;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2830874,31;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15423649,73;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2824909,15;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14113759,59;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2824909,15;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;619754,39;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;690135,75;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;29826,40;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;5965,16;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;587928,68;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;74522,45;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;303014,76;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;303014,76;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;210391,47;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;2116974,00;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2030911,61;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;978105,52;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;566432,84;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;440525,17;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;45848,08;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.99.0.0;1.7.1.3.99.0.0 - Outras Transferências de Recursos do Sistema Único de Saúde - SUS;86062,39;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;266204,73;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;166285,17;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;440,00;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;40278,00;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;59201,56;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;780472,88;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;36501,93;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1823,50;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;36501,93;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1823,50;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;5656526,59;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;695453,39;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3485297,16;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;695453,39;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3254618,14;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;650923,33;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;185478,14;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;37094,73;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;37176,67;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;7435,33;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;8024,21;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;979428,76;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;1191800,67;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;530315,14;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.52.0.0;1.7.2.9.52.0.0 - Transferências de Recursos Destinados a Programas de Educação;542744,02;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;118741,51;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2808856,73;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;2808856,73;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;580780,38;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;158,29;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;28425,85;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;158,29;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;28425,85;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;158,29;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.01.0.0;1.9.1.1.01.0.0 - Multas Previstas em Legislação Específica;28425,85;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.1.1.01.0.0;1.9.1.1.01.0.0 - Multas Previstas em Legislação Específica;158,29;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;550000,00;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;550000,00;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;550000,00;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;2354,53;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;2354,53;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;2354,53;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.2.0;1.9.9.9.99.2.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Primárias;2354,53;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;2488882,03;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;61400,00;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;61400,00;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;61400,00;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;2427482,03;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;927482,03;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.00.0.0;2.4.1.2.00.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE ;127482,03;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.0.0;2.4.1.2.50.0.0 - Transferências de Recursos Destinados a Programas de Educação;127482,03;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.2.50.9.0;2.4.1.2.50.9.0 - Outras transferências destinadas a Programas de Educação;127482,03;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;800000,00;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.99.0.0;2.4.1.9.99.0.0 - Outras Transferências De Recursos da União e de suas Entidades;800000,00;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1500000,00;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;400000,00;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;100000,00;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.99.0.0;2.4.2.2.99.0.0 - Outras Transferências de Convênio dos Estados e DF e de Suas Entidades;300000,00;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.00.0.0;2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados;1100000,00;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.99.0.0;2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados;1100000,00;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);32586668,17;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3528151,20;5453
+2022;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);1580,87;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);32457562,21;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3620013,29;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);61212,29;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;31037938,35;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3620013,29;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;61212,29;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;966437,42;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;965168,92;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;180448,91;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;4132,52;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";176316,39;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;395516,31;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;395516,31;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;395110,30;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;406,01;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;389203,70;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;389203,70;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;389203,70;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;1268,50;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;1268,50;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;1014,80;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;253,70;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;81926,06;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;81926,06;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;81926,06;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;81926,06;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;654204,79;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;1001,25;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;654204,79;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;1001,25;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.00.0.0;1.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais;654204,79;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.6.1.1.00.0.0;1.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais;1001,25;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.01.0.0;1.6.1.1.01.0.0 - Serviços Administrativos e Comerciais Gerais Prestados por Entidades e Órgãos Públicos em Geral;654204,79;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.6.1.1.01.0.0;1.6.1.1.01.0.0 - Serviços Administrativos e Comerciais Gerais Prestados por Entidades e Órgãos Públicos em Geral;1001,25;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;29299992,39;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3620013,29;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;60161,62;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;19770406,45;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2916163,80;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;60161,62;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;16006592,29;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2916163,80;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15971453,90;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2909136,23;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14530941,85;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2909136,23;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1440512,05;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;35138,39;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;7027,57;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;382933,91;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;99590,60;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;283343,31;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;283343,31;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;2450831,08;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;60161,62;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2365282,95;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;60161,62;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1309029,49;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;60161,62;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;217732,92;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;466934,87;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;76332,15;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;295253,52;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.0.0;1.7.1.3.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;85548,13;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.51.2.0;1.7.1.3.51.2.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Especializada;85548,13;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;285359,66;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;176136,43;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;360,00;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;52886,20;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;55977,03;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;261476,44;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;383213,07;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;4394,16;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;378818,91;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;6912461,76;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;703849,49;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3520870,96;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;703849,49;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3246565,51;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;649312,82;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;241239,87;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;48246,93;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;31448,67;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;6289,74;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1616,91;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;2158029,66;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;1233561,14;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;51574,40;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.52.0.0;1.7.2.9.52.0.0 - Transferências de Recursos Destinados a Programas de Educação;1104173,41;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;77813,33;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2617124,18;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;2617124,18;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;35377,69;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;49,42;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;27976,69;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;49,42;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;27976,69;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;49,42;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.01.0.0;1.9.1.1.01.0.0 - Multas Previstas em Legislação Específica;27976,69;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;RO1.9.1.1.01.0.0;1.9.1.1.01.0.0 - Multas Previstas em Legislação Específica;49,42;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;4801,10;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;4801,10;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;4801,10;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;2599,90;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;2599,90;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;2599,90;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.2.0;1.9.9.9.99.2.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Primárias;2599,90;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1419623,86;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1419623,86;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1419623,86;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;919623,86;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.50.0.0;2.4.2.2.50.0.0 - Transferências de Convênios dos Estados para o Sistema Único de Saúde ¿ SUS;87623,86;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;832000,00;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.00.0.0;2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados;500000,00;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.99.0.0;2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados;500000,00;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);32457562,21;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3620013,29;5453
+2023;Prefeitura Municipal de Jampruca - MG;3135076;MG;DCA-Anexo I-C;Padrão;Outras Deduções da Receita;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);61212,29;5453

@@ -1,0 +1,828 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;20993048,74;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;20896878,74;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;621637,29;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;621637,29;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;315530,12;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;9595,00;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;262575,47;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;262575,47;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";43359,65;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;306107,17;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;306107,17;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;19953,71;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;19953,71;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;19953,71;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;284817,39;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Demais Receitas de Serviços;284817,39;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;19887100,89;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;19715300,89;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;11934596,68;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;9593933,69;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;9578646,49;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;15287,20;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;352724,67;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.40.00;1.7.2.1.22.40.00 - Cota-Parte Royalties pelo Excedente da Produção do Petróleo - Lei nº 9.478/97 artigo 49 I e II;12585,60;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;146982,41;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.90.00;1.7.2.1.22.90.00 - Outras Transferências Decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;193156,66;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1015619,55;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;215667,92;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;749956,14;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;6694,71;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2558092,03;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1760777,17;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1668409,02;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;62808,88;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;21862,66;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;7696,61;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;766514,86;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;30800,00;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;5222612,18;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;4028823,80;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1193788,38;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;171800,00;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;46800,00;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.01.00.00;1.7.6.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;46800,00;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;125000,00;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;125000,00;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;83369,46;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;3500,00;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;3500,00;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;66303,36;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;66303,36;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;66303,36;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;220,00;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;220,00;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;13346,10;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;96170,00;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.0.0.00.00.00;2.2.0.0.00.00.00 - Alienação de Bens;36200,00;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.1.0.00.00.00;2.2.1.0.00.00.00 - Alienação de Bens Móveis;36200,00;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;59970,00;10486
+2014;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.6.0.00.00.00;2.4.6.0.00.00.00 - Transferências de Outras Instituições Públicas;59970,00;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;22682645,75;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;21948595,75;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;669800,96;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;650550,96;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;362056,42;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;6785,00;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;272789,14;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.30.00;1.1.1.2.04.30.00 - Retido nas Fontes;272789,14;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";82482,28;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;288494,54;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;288494,54;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;19250,00;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;19250,00;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;87571,75;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;87571,75;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;85908,09;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.7.00.00.00;1.3.2.7.00.00.00 - Remuneração de Saldos de Recursos Não Desembolsados;1663,66;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;303591,51;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.05.00.00;1.6.0.0.05.00.00 - Serviços de Saúde;303591,51;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;20856766,21;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;20535088,09;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;12740147,68;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;10185062,68;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;10174394,05;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;10668,63;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.09.00.00;1.7.2.1.09.00.00 - Outras Transferências da União;9266,56;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.09.99.00;1.7.2.1.09.99.00 - Demais Transferências da União;9266,56;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;123375,20;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;122574,83;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.90.00;1.7.2.1.22.90.00 - Outras Transferências Decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;800,37;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1414604,91;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;299560,47;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;701962,56;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;6315,30;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2272268,45;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1976889,90;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1832751,70;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;84134,98;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;20612,47;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;39390,75;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;274253,62;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;21124,93;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;5522671,96;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;4057047,41;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1465624,55;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;321678,12;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;321678,12;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.02.00.00;1.7.6.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;321678,12;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;30865,32;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;12146,14;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;12146,14;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;16491,25;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;16491,25;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;16491,25;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;2000,00;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;2000,00;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;2000,00;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;227,93;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;734050,00;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;734050,00;10486
+2015;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.6.0.00.00.00;2.4.6.0.00.00.00 - Transferências de Outras Instituições Públicas;734050,00;10486
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;22455549,79;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;21308083,29;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;565431,87;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;560666,87;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;340791,07;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;11726,87;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;266132,20;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;266132,20;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";62932,00;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;219875,80;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;219875,80;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;4765,00;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;4765,00;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;4765,00;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;120579,38;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.0.00.00.00;1.3.1.0.00.00.00 - Receitas Imobiliárias;4208,33;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.1.00.00.00;1.3.1.1.00.00.00 - Aluguéis;4208,33;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;116371,05;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;116371,05;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;271985,94;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.05.00.00;1.6.0.0.05.00.00 - Serviços de Saúde;271985,94;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;20348069,46;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;20098069,46;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;12126615,34;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8870740,87;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;8857648,76;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;13092,11;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;69445,65;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;69445,65;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;2024388,46;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;245306,45;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;895471,08;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;7215,69;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;14047,14;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2071781,27;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1996247,74;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1877151,33;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;76196,76;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;16254,63;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;18175,32;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;8469,70;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;75533,48;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;0,05;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;5899672,85;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;4249511,71;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1650161,14;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;250000,00;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;250000,00;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.01.00.00;1.7.6.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;250000,00;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;2016,64;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;500,00;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;500,00;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;1516,64;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;1516,64;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;1147466,50;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;1147466,50;10166
+2016;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.6.0.00.00.00;2.4.6.0.00.00.00 - Transferências de Outras Instituições Públicas;1147466,50;10166
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;29996771,08;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1996399,47;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;29618097,08;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1996399,47;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;674001,87;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;669980,87;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;469312,55;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;8202,50;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;310935,27;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;310935,27;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";150174,78;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;200668,32;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;200668,32;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;4021,00;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;446,00;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;3575,00;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;3575,00;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;339586,96;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;339586,96;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;339586,96;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;120318,42;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.05.00.00;1.6.0.0.05.00.00 - Serviços de Saúde;120318,42;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;28476246,44;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1996399,47;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;28276246,44;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1996399,47;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;11327767,55;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1576900,14;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8583890,79;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1575463,74;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;8569522,76;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1572590,25;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;14368,03;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2873,49;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;105141,62;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.40.00;1.7.2.1.22.40.00 - Cota-Parte Royalties pelo Excedente da Produção do Petróleo - Lei nº 9.478/97 artigo 49 I e II;13789,35;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;91352,27;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1662224,91;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;338907,46;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;622834,60;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;7182,12;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1436,40;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;7586,05;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2243072,11;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;419499,33;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2141398,00;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;419499,33;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2007102,14;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;401420,25;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;90398,55;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;18079,08;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;19092,28;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;22815,38;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;1989,65;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;57000,00;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;44674,11;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;14705406,78;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;4688580,59;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1441850,68;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.00.00;1.7.2.4.99.00.00 - Outras Transferências Multigovernamentais;8574975,51;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;200000,00;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;200000,00;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.1.01.00.00;1.7.6.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;200000,00;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;7943,39;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;3400,00;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;3400,00;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;4155,77;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;4155,77;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;4155,77;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;387,62;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;387,62;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;378674,00;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;378674,00;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;378674,00;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;378674,00;10044
+2017;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;378674,00;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;20898207,04;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;-2144877,72;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;20809361,07;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-2144877,72;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;533766,30;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;-3732,93;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;509459,56;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;-3732,93;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;-3732,93;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.1.1.2.01.0.0;1.1.1.2.01.0.0 - Imposto sobre a Propriedade Territorial Rural;-3732,93;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;258338,17;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;258338,17;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;258338,17;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;251121,39;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;70825,81;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;57028,81;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;13797,00;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;180295,58;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;180295,58;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;24306,74;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;12840,00;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;12840,00;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;11466,74;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;11466,74;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;158546,13;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;158546,13;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;158546,13;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;158546,13;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;225642,28;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;3060,00;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.02.0.0;1.6.1.0.02.0.0 - Inscrição em Concursos e Processos Seletivos;3060,00;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;222582,28;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.01.0.0;1.6.3.0.01.0.0 - Serviços de Atendimento à Saúde;222582,28;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;19874254,71;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;-2141144,79;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;12719156,80;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;-1682349,30;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;12719156,80;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;-1682349,30;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9160781,59;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;-1680976,86;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8404885,67;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;-1680976,86;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;373158,06;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;364072,63;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;18665,23;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;152819,63;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.4.0;1.7.1.8.02.4.0 Cota-parte Royalties pelo Excedente da Produção do Petróleo ¿ Lei nº 9.478/97, artigo 49, I e II;12963,73;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;139855,90;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;2194516,97;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;353934,81;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;456321,24;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;195202,62;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;9340,00;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;120848,00;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;48320,43;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;82610,19;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;6862,56;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;-1372,44;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;6862,56;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;-1372,44;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;393920,00;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 Outras Transferências de Convênios da União;393920,00;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2379383,99;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;-458795,49;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2379383,99;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;-458795,49;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2335928,78;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;-458795,49;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2207823,35;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;-441564,43;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;86158,47;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;-17231,06;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;18318,45;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;16814,00;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.5.0;1.7.2.8.01.5.0 Outras Participações na Receita dos Estados;6814,51;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.0.0;1.7.2.8.02.0.0 Transferência da Cota-parte da Compensação Financeira (25%);2879,40;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.02.3.0;1.7.2.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção do Petróleo ¿ Lei nº 7.990/89, artigo 9º;2879,40;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;9000,00;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;21978,00;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;8675,46;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;8675,46;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;922,35;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4775713,92;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4775713,92;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4775713,92;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;17151,65;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;14200,00;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;2550,00;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;2550,00;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;2550,00;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;401,65;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;401,65;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;401,65;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;88845,97;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;72309,57;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;72309,57;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 Alienação de Bens Móveis e Semoventes;72309,57;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;16536,40;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;16536,40;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;16536,40;10044
+2018;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.03.0.0;2.4.1.8.03.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;16536,40;10044
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);22703202,22;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2298477,56;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;21975209,72;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2298477,56;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;683951,95;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;666367,95;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;176089,51;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;176089,51;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;176089,51;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;490278,44;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;190333,58;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;116119,58;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;74214,00;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;299944,86;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;299944,86;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;17584,00;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;5851,00;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;5851,00;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;11733,00;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;11733,00;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;50330,43;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;50330,43;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;50330,43;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;50330,43;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;274982,12;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;274982,12;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.01.0.0;1.6.3.0.01.0.0 - Serviços de Atendimento à Saúde;274982,12;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;20951067,99;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2298477,56;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;14319620,71;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1836285,15;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;14319620,71;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1836285,15;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9974876,83;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1836285,15;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;9159849,87;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1831969,70;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;404042,76;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;389406,29;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;21577,91;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;4315,45;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;153063,12;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.4.0;1.7.1.8.02.4.0 Cota-parte Royalties pelo Excedente da Produção do Petróleo ¿ Lei nº 9.478/97, artigo 49, I e II;11892,81;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;141170,31;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";1719581,05;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;1564688,27;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;98545,94;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;56346,84;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;412654,37;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;219599,97;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;8880,00;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;129938,00;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;52346,60;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1889,80;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1254795,44;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;325928,72;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;478721,18;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2430658,51;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;462192,41;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2430658,51;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;462192,41;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2337888,84;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;462192,41;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2212299,46;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;442459,66;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;98667,01;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;19732,75;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;17324,68;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;9597,69;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;54000,00;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;11013,06;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;11013,06;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;27756,61;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4200788,77;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4200788,77;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4200788,77;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;14877,23;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;13967,14;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;13967,14;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;273,11;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;273,11;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;273,11;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;636,98;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;636,98;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;636,98;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;727992,50;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;727992,50;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;727992,50;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;727992,50;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;450000,00;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.1.0;2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;450000,00;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;277992,50;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;277992,50;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);22703202,22;7043
+2019;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2298477,56;7043
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);21843268,78;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);1956718,05;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;21843268,78;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;1956718,05;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1215439,59;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1197345,59;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;507626,61;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;507626,61;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;507626,61;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;689718,98;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;122565,28;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;64881,28;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;57684,00;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;567153,70;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;567153,70;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;18094,00;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;775,00;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;775,00;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;7319,00;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;7319,00;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;10000,00;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;10000,00;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;10000,00;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;7816,41;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;7816,41;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;7816,41;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;7816,41;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;204380,99;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;204380,99;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.01.0.0;1.6.3.0.01.0.0 - Serviços de Atendimento à Saúde;204380,99;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;20195146,19;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;1956718,05;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;14481832,52;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1565484,21;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;14481832,52;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1565484,21;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8229591,69;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1565484,21;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;7811651,40;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1562330,01;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;394334,99;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;15771,51;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3154,20;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7833,79;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;139003,76;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.2.0;1.7.1.8.02.2.0 Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;3377,36;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;7357,23;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;128269,17;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";2861289,47;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;1707860,30;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;76310,84;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;1077118,33;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;344829,92;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;151982,16;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;8370,00;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;131018,00;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;53359,76;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;100,00;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1155830,51;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;133714,28;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 Outras Transferências de Convênios da União;133714,28;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;319314,30;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1298258,59;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2021634,30;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;391233,84;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2021634,30;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;391233,84;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1970885,75;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;391233,84;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1864706,25;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;372941,07;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;91466,92;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;18292,77;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;14712,58;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;36000,00;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;14748,55;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3691679,37;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;3691679,37;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;3691679,37;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;220485,60;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;16274,28;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;16274,28;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;5945,51;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.00.0.0;1.9.2.3.00.0.0 - Ressarcimentos;5945,51;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.99.0.0;1.9.2.3.99.0.0 - Outros Ressarcimentos;5945,51;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;198265,81;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;198265,81;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;198265,81;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);21843268,78;6758
+2020;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);1956718,05;6758
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);27998294,59;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2933571,87;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;27412471,73;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2933571,87;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;728648,70;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;678015,03;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;308078,84;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;308078,84;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;308078,84;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;369936,19;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;74036,61;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;10471,75;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;63564,86;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;295899,58;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;295899,58;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;50633,67;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;30168,58;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;30168,58;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;20465,09;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;20465,09;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.1.0;1.1.2.8.01.1.0 - Taxa de Fiscalização de Vigilância Sanitária;1269,00;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;19196,09;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;34409,32;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;34409,32;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;34409,32;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;34409,32;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;197957,99;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;197957,99;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.01.0.0;1.6.3.0.01.0.0 - Serviços de Atendimento à Saúde;197957,99;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;26424944,17;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2933571,87;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;18489471,44;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2364007,67;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;18489471,44;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;2364007,67;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;12798720,70;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;2364007,67;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11795005,07;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2359000,78;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;516989,47;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;456681,38;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;25035,10;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;5006,89;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;5009,68;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;246756,35;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.2.0;1.7.1.8.02.2.0 - Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;1727,28;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;17025,43;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;228003,64;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;3197326,54;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;2426581,76;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;72553,96;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;49572,00;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;648618,82;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;380199,07;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;167783,03;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;7020,00;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;129839,60;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;30714,66;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;44841,78;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1581018,55;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;205716,17;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;79734,06;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2973266,21;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;569564,20;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;2973266,21;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;569564,20;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;2868201,21;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;569564,20;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;2741949,14;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;548389,63;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;105876,28;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;21174,57;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;20375,79;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;60000,00;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;17589,00;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 - Transferências de Convênio dos Estados Destinadas a Programas de Educação;17589,00;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 - Outras Transferências dos Estados;27476,00;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4962206,52;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4962206,52;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4962206,52;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;26511,55;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;26511,55;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;26511,55;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;585822,86;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;585822,86;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;585822,86;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;585822,86;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;585822,86;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;585822,86;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);27998294,59;6488
+2021;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2933571,87;6488
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);41847529,14;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3680251,93;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;41830445,14;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3680251,93;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1696734,38;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1675466,96;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;139441,24;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;65658,74;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";73782,50;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;581844,55;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;581844,55;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;581844,55;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;954181,17;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;954181,17;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;954181,17;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;21267,42;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;20977,42;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;18613,92;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;2363,50;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;290,00;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;290,00;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;162854,22;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;162854,22;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;185623,08;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;185623,08;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;185623,08;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;185623,08;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;39701437,62;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3680251,93;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;29921955,63;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3025520,94;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;16618029,81;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3025520,94;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;16593456,49;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3020606,37;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;15103033,18;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3020606,37;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1490423,31;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;24573,32;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;4914,57;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;338510,72;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;7695,93;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;330814,79;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;16148,19;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;314666,60;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;5076760,77;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;5076760,77;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;4315755,95;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;87635,74;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;66096,00;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;563648,10;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;43624,98;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;571237,35;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;208026,84;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;9600,00;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;205364,67;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;46652,50;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.58.0.0;1.7.1.4.58.0.0 - Transferências referentes ao Programa de Apoio a Aquisição de Equipamentos para a Rede Pública de Ensino Fundamental;101593,34;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;3222450,37;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;612198,54;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;3482768,07;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.57.0.0;1.7.1.9.57.0.0 - Transferência Especial da União;333987,00;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;14775,12;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;3134005,95;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3913464,47;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;654730,99;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3295536,05;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;654730,99;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3123024,82;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;624069,45;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;153311,48;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;30661,54;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;17693,91;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1505,84;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;535172,06;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;51440,57;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;483731,49;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;82756,36;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;79004,00;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;3752,36;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5866017,52;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;5866017,52;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;83795,84;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;34848,83;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;34848,83;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.07.0.0;1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;34848,83;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;48910,35;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;48910,35;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;48910,35;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;36,66;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;36,66;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;36,66;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.2.0;1.9.9.9.99.2.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Primárias;36,66;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;17084,00;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;17084,00;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;17084,00;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;17084,00;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.0.0;2.4.1.1.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;17084,00;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.1.0;2.4.1.1.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária;17084,00;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);41847529,14;6232
+2023;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3680251,93;6232
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);42760943,36;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;42740943,36;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;2508415,71;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2143587,45;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;183090,62;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;54207,14;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";128883,48;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1150820,29;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1150820,29;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1150820,29;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;809676,54;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;809676,54;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;809676,54;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;364828,26;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;24215,21;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;22585,21;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;1630,00;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;340613,05;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;340613,05;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;158502,91;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;158502,91;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;203078,18;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;203078,18;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;203078,18;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;203078,18;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;55993,35;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;55993,35;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.1.00.0.0;1.6.3.1.00.0.0 - Serviços de Atendimento à Saúde;55993,35;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.1.53.0.0;1.6.3.1.53.0.0 - Serviços Ambulatoriais;55993,35;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;39685392,83;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;29311918,18;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;15851130,26;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15820656,88;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14012415,59;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1808241,29;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;30473,38;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;364422,06;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;14607,45;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;349814,61;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;13717,36;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;336097,25;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;5576461,31;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;5576461,31;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;4031330,73;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;99511,26;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;85925,00;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;814920,51;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;544773,81;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;988967,14;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;591880,14;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;6780,00;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;238102,00;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;50611,64;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.58.0.0;1.7.1.4.58.0.0 - Transferências referentes ao Programa de Apoio a Aquisição de Equipamentos para a Rede Pública de Ensino Fundamental;101593,36;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;5521781,53;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;309052,07;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;21601,87;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.51.0.0;1.7.1.7.51.0.0 - Transferências de Convênios da União Destinadas a Programas de Educação;21601,87;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;678501,94;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.57.0.0;1.7.1.9.57.0.0 - Transferência Especial da União;600000,00;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;15237,36;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.60.0.0;1.7.1.9.60.0.0 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022;63264,58;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3207076,84;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3121994,05;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2950929,59;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;134006,41;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;26126,10;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;10931,95;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;25010,24;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;60072,55;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;56604,00;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;3468,55;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;7166397,81;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;7166397,81;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;129560,38;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;6656,95;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;6656,95;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.07.0.0;1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;6656,95;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;114807,51;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;57105,29;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;57105,29;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.00.0.0;1.9.2.3.00.0.0 - Ressarcimentos;57702,22;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.99.0.0;1.9.2.3.99.0.0 - Outros Ressarcimentos;57702,22;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;8095,92;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;8095,92;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;8095,92;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.2.0;1.9.9.9.99.2.0 - Outras Receitas Não Arrecadadas e Não Projetadas pela RFB - Primárias;8095,92;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;20000,00;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;20000,00;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;20000,00;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;20000,00;6915
+2024;Prefeitura Municipal de Caatiba - BA;2904803;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);42760943,36;6915

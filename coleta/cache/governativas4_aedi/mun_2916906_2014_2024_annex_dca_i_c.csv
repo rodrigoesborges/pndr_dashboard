@@ -1,0 +1,945 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;23034538,96;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;2308542,48;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;23028538,96;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2308542,48;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;613006,15;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;570354,78;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;230924,26;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;21879,99;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;187195,26;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;187195,26;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";21849,01;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;339430,52;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;339430,52;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;42651,37;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;42651,37;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;112557,52;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;112557,52;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;112557,52;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;22122866,20;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2308542,48;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;21361736,95;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2308542,48;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;12680621,73;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1836828,49;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;9581486,45;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1834932,97;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;9578646,49;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1834365,04;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2839,96;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;567,93;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;160356,53;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;143008,78;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.90.00;1.7.2.1.22.90.00 - Outras Transferências Decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;17347,75;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1890985,18;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;259271,31;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;584453,59;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;9477,96;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1895,52;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;194590,71;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;3561785,84;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;471713,99;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2433072,35;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;471713,99;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2164225,72;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;430084,41;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;194349,11;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;41629,58;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;28372,52;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;2114,10;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;44010,90;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;1084256,98;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;44456,51;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;5119329,38;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3969938,55;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1149390,83;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;761129,25;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;628490,49;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.02.00.00;1.7.6.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;332499,99;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;295990,50;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;132638,76;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;132638,76;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;180109,09;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;1761,24;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;1761,24;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;1761,24;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;178202,96;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;178202,96;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;144,89;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;6000,00;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;6000,00;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;6000,00;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;6000,00;13336
+2014;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;6000,00;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;24592527,87;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;2453702,74;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;24592527,87;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2453702,74;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;660891,37;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;569072,19;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;237292,35;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;28661,25;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;191742,98;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;191742,98;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";16888,12;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;331779,84;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;331779,84;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;91819,18;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;91819,18;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;130027,58;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.9.0.00.00.00;1.3.9.0.00.00.00 - Outras Receitas Patrimoniais;130027,58;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;23774553,75;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2453702,74;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;23458692,87;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2453702,74;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;14042966,84;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1929978,57;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;10176429,01;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1928119,99;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;10174394,05;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1927722,56;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2034,96;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;397,43;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;123265,82;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;108064,23;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.90.00;1.7.2.1.22.90.00 - Outras Transferências Decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;15201,59;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;2057035,22;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;342073,02;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1322844,79;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;9293,18;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1858,58;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;12025,80;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;3823399,20;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;523724,17;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2719546,28;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;523724,17;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2382223,24;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;476444,45;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;237250,42;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;47279,72;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;26793,32;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;8478,96;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;64800,34;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;1096577,86;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;7275,06;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;5592326,83;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;4049260,56;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1543066,27;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;315860,88;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;315860,88;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.02.00.00;1.7.6.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;66319,38;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;249541,50;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;27055,17;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;10302,32;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;10302,32;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.1.99.00.00;1.9.1.1.99.00.00 - Multas e Juros de Mora de Outros Tributos;10302,32;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;3045,95;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;3045,95;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;3045,95;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;13706,90;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;13706,90;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;12598,31;13336
+2015;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.14.00.00;1.9.3.1.14.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade de Veículos Automotores ¿ IPVA;1108,59;13336
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;28772585,02;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;2710038,34;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;28772585,02;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2710038,34;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;627119,59;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;546251,11;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;237653,83;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;36784,66;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;173550,54;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.11.00;1.1.1.2.04.11.00 - Receita de Parcelamentos - Imposto sobre a Renda - Pessoas Físicas;173550,54;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";27318,63;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;308597,28;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;308597,28;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;80868,48;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;80868,48;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;133473,43;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;133473,43;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;133473,43;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;27768952,88;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2710038,34;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;25688413,45;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2710038,34;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;15303878,17;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2201912,10;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;11812189,18;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2200131,66;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;11810198,36;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2199733,56;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1990,82;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;398,10;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;107332,48;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;92594,18;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.90.00;1.7.2.1.22.90.00 - Outras Transferências Decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;14738,30;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;2406112,94;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;283666,86;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;669145,31;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;8902,29;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1780,44;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;16529,11;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;3856540,02;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;508126,24;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2633464,83;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;508126,24;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2315246,91;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;445158,68;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;225389,09;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;62967,56;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;20050,27;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;22778,50;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;50000,06;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;1216645,00;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;6430,19;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;6527995,26;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;5120149,79;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1407845,47;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;2080539,43;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;2080539,43;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;2080539,43;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;243039,12;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;35323,60;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;35323,60;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;192730,32;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;192730,32;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;14985,20;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;14985,20;13307
+2016;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.01.00.00;1.9.3.1.01.00.00 - Receita da Dívida Ativa do Imposto sobre a Renda e Proventos de Qualquer Natureza;14985,20;13307
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;27471024,36;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;2630806,83;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;25941626,29;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2630806,83;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;588053,91;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;517538,16;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;228232,15;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;38777,48;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;181812,37;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;181812,37;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";7642,30;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;289306,01;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;289306,01;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;70515,75;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;70515,75;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;113856,41;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;113856,41;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;113856,41;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;543526,09;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.05.00.00;1.6.0.0.05.00.00 - Serviços de Saúde;543526,09;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;24668534,85;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2630806,83;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;23973461,81;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2630806,83;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;14861802,91;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2110228,07;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;11432854,24;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2108492,87;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;11430690,10;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2108060,09;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2164,14;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;432,78;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;136249,04;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.30.00;1.7.2.1.22.30.00 - Cota-Parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;6560,95;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;129688,09;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;2391681,99;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;306860,70;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;576316,02;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;8676,48;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1735,20;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;9164,44;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;3111504,29;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;520578,76;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2713528,87;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;520578,76;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;2425041,73;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;473696,34;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;234415,70;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;46882,42;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;22870,76;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;30285,47;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;915,21;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;359796,78;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;38178,64;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;6000154,61;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;4873241,28;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1126913,33;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;695073,04;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;490073,04;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.1.99.00.00;1.7.6.1.99.00.00 - Outras Transferências de Convênios da União;490073,04;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;205000,00;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;205000,00;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;27655,03;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;4705,07;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;4705,07;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.99.00.00;1.9.1.1.99.00.00 - Multas e Juros de Mora de Outros Tributos;4705,07;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;10761,05;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;10761,05;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;10761,05;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;5552,59;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;5552,59;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.04.00.00;1.9.3.1.04.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Territorial Rural;5552,59;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;6636,32;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;6636,32;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;1529398,07;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;1529398,07;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;617815,00;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;617815,00;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;617815,00;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;911583,07;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;911583,07;13280
+2017;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;911583,07;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;29726946,32;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;2853720,80;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;28608898,66;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2853720,80;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;592320,92;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;539582,71;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;226707,29;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;226707,29;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;226707,29;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;312875,42;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;312875,42;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;312875,42;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;52738,21;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;52738,21;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;52738,21;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;500510,74;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;270510,74;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;270510,74;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;270510,74;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.6.0.00.0.0;1.3.6.0.00.0.0 - Cessão de Direitos;230000,00;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;1053347,58;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;1053347,58;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;1053347,58;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;26462689,32;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2853720,80;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;16976091,87;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2244126,24;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;16976091,87;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2244126,24;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;12191218,73;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2242534,54;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11206514,23;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2242188,51;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;497544,08;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;485430,17;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1730,25;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;346,03;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;226839,25;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.1.0;1.7.1.8.02.1.0 Cota-parte da Compensação Financeira de Recursos Hídricos;23767,13;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;16597,58;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;186474,54;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;3497718,16;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;424377,98;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;627255,63;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;248220,61;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;259820,00;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;47279,26;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;71935,76;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;8682,12;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1591,70;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;8682,12;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1591,70;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3059166,41;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;609594,56;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;3059166,41;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;609594,56;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2841569,27;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;609594,56;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2561922,42;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;558528,95;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;255332,00;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;51065,61;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;23175,59;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.9.0;1.7.2.8.01.9.0 Outras Transferências dos Estados;1139,26;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;79500,00;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;138097,14;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;6427431,04;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;6427431,04;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4996685,94;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.99.0.0;1.7.5.8.99.0.0 Outras Transferências Multigovernamentais;1430745,10;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;30,10;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;30,10;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;30,10;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;30,10;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1118047,66;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1118047,66;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1118047,66;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;1118047,66;13280
+2018;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;1118047,66;13280
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);31666938,16;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3060620,61;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;29618946,41;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3060620,61;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;982826,00;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;846988,85;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;251527,94;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.01.0.0;1.1.1.3.01.0.0 - Imposto sobre a Renda de Pessoa Física - IRPF;1129,44;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;250398,50;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;250398,50;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;595460,91;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;108301,26;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;85612,27;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;22688,99;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;487159,65;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;487159,65;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;135837,15;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;96698,03;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;3063,53;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;93634,50;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.2.0;1.1.2.1.02.2.0 - Taxa de Fiscalização de Funcionamento - TFF;93634,50;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;39107,96;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;39107,96;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;31,16;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;31,16;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;31,16;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;28566,32;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;28566,32;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;28566,32;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;28566,32;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;1035351,86;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;780,00;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.02.0.0;1.6.1.0.02.0.0 - Inscrição em Concursos e Processos Seletivos;780,00;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;1034571,86;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.01.0.0;1.6.3.0.01.0.0 - Serviços de Atendimento à Saúde;1034571,86;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;27556381,99;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3060620,61;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;19252399,80;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2442965,55;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;19252399,80;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2442965,55;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;13286935,63;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2442965,55;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.1.0;1.7.1.8.01.1.0 Cota-Parte do Fundo de Participação dos Estados e do Distrito Federal;12213133,20;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.1.0;1.7.1.8.01.1.0 Cota-Parte do Fundo de Participação dos Estados e do Distrito Federal;2442626,37;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;538723,67;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;519208,40;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1696,20;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;339,18;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;14174,16;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;200686,22;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;12459,14;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;188227,08;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";2644481,28;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;2644481,28;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;545133,26;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;242916,30;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;224976,00;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;46657,20;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;30583,76;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1546170,20;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;390698,30;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;638294,91;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3346139,78;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;617655,06;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;3346139,78;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;617655,06;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;3111157,15;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;617655,06;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2785274,07;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;557054,56;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;303006,70;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;60600,50;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;21812,45;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.9.0;1.7.2.8.01.9.0 Outras Transferências dos Estados;1063,93;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;103500,00;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;131482,63;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4957842,41;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4957842,41;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4957842,41;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;15820,24;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;15247,24;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;15247,24;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;573,00;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;573,00;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;573,00;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;2047991,75;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.0.0.00.0.0;2.1.0.0.00.0.0 - Operações de Crédito;851053,72;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.0.00.0.0;2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno;851053,72;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.2.00.0.0;2.1.1.2.00.0.0 Operações de Crédito Contratuais - Mercado Interno;851053,72;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1196938,03;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1039121,50;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1039121,50;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;17740,00;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.1.0;2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;17740,00;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;1021381,50;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;1021381,50;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;157816,53;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 Transferências dos Estados, Distrito Federal, e de suas Entidades;157816,53;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;157816,53;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;157816,53;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);31666938,16;12624
+2019;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3060620,61;12624
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);35795352,49;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2920188,95;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;34085486,20;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2920188,95;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1121794,87;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;980120,94;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;369960,11;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;369960,11;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;369960,11;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;610160,83;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;78242,51;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;30170,18;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;48072,33;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;531918,32;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;531918,32;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;141673,93;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;109678,21;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;109678,21;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.2.0;1.1.2.1.02.2.0 - Taxa de Fiscalização de Funcionamento - TFF;109678,21;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;31995,72;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;31995,72;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;12142,33;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;12142,33;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;12142,33;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;12142,33;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;1137113,96;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;1137113,96;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.01.0.0;1.6.3.0.01.0.0 - Serviços de Atendimento à Saúde;1137113,96;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;31679749,10;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2920188,95;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;23670845,71;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2331788,00;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;23670845,71;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2331788,00;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;12721105,90;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2331788,00;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11656878,26;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2331375,35;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;524661,40;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;525779,99;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2063,48;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;412,65;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;11722,77;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;196352,30;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;8841,15;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;187511,15;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";5702990,96;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;2790399,99;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;6000,00;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;2906590,97;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;450875,67;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;182747,39;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;219749,20;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;48379,08;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1620985,49;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;43137,50;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.3.0;1.7.1.8.10.3.0 Transferências de Convênios da União Destinadas a Programas de Assistência Social;43137,50;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;448034,57;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;2487363,32;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3063856,42;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;588400,95;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;3063856,42;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;588400,95;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2962462,42;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;588400,95;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2630681,04;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;526135,99;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;311329,37;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;62264,96;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;20329,86;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.5.0;1.7.2.8.01.5.0 Outras Participações na Receita dos Estados;122,15;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;87000,00;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;14394,00;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;4919052,90;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;4919052,90;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;4919052,90;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.7.0.00.0.0;1.7.7.0.00.0.0 - Transferências de Pessoas Físicas;25994,07;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.7.0.00.1.0;1.7.7.0.00.1.0 - Transferências de Pessoas Físicas;25994,07;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;134685,94;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;2120,00;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;2120,00;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;132565,94;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;132565,94;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;132565,94;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1709866,29;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.0.0.00.0.0;2.1.0.0.00.0.0 - Operações de Crédito;706694,47;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.0.00.0.0;2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno;706694,47;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.2.00.0.0;2.1.1.2.00.0.0 Operações de Crédito Contratuais - Mercado Interno;706694,47;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1003171,82;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1003171,82;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1003171,82;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;1003171,82;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;1003171,82;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);35795352,49;12576
+2020;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2920188,95;12576
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);44133204,38;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3883588,26;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;43986954,38;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3883588,26;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1233284,80;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1109127,11;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;396004,36;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.01.0.0;1.1.1.3.01.0.0 - Imposto sobre a Renda de Pessoa Física - IRPF;396004,36;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;713122,75;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;101325,77;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;79633,13;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;21692,64;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;611796,98;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;611796,98;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;124157,69;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;76567,39;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;1856,70;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;74710,69;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.2.0;1.1.2.1.02.2.0 - Taxa de Fiscalização de Funcionamento - TFF - Não Proveniente da Utilização de Posições Orbitais;74710,69;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;46615,30;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;46615,30;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;975,00;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;975,00;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.1.0;1.1.2.8.01.1.0 - Taxa de Fiscalização de Vigilância Sanitária;975,00;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;269001,55;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;269001,55;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;269001,55;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;269001,55;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;985404,31;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;985404,31;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.01.0.0;1.6.3.0.01.0.0 - Serviços de Atendimento à Saúde;942446,59;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.8.00.0.0;1.6.3.8.00.0.0 - Serviços e Atividades Referentes à Saúde - Específico para Estados/DF/Municípios;42957,72;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.8.01.0.0;1.6.3.8.01.0.0 - Serviços de Saúde - Específico para Estados/DF/Municípios;42957,72;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.8.01.1.0;1.6.3.8.01.1.0 - Serviços Hospitalares;42957,72;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;41460423,79;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3883588,26;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;31502221,58;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3145720,48;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;31502221,58;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;3145720,48;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;17034421,02;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;3145720,48;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;15726673,47;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3145334,43;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;689319,30;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;608908,51;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1930,56;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;386,05;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7589,18;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;321841,01;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;17836,16;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;304004,85;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;5173449,48;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;4576783,91;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;75090,51;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;521575,06;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;13900,00;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.1.0;1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS Destinados à Atenção Primária;13900,00;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;431237,70;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;188810,81;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;199718,20;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;42708,69;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;2205941,17;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 - Transferências de Convênios da União e de Suas Entidades;45062,50;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.3.0;1.7.1.8.10.3.0 - Transferências de Convênios da União Destinadas a Programas de Assistência Social;45062,50;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;325104,45;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.13.0.0;1.7.1.8.13.0.0 - Transferências Decorrentes de Decisão Judicial (precatórios) Relativas ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério ¿ FUNDEF;5933749,17;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;17515,08;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4010314,96;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;737867,78;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;4010314,96;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;737867,78;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;3715831,43;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;737867,78;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;3380754,50;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;676150,65;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;308589,59;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;61717,13;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;25124,37;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.5.0;1.7.2.8.01.5.0 - Outras Participações na Receita dos Estados;140,57;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.9.0;1.7.2.8.01.9.0 - Outras Transferências dos Estados;1222,40;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;82500,00;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 - Transferências de Estados destinadas à Assistência Social;26389,00;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;185594,53;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.1.0;1.7.2.8.10.1.0 - Transferências de Convênio dos Estados para o Sistema Único de Saúde ¿ SUS;185594,53;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5947887,25;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;5947887,25;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;5947887,25;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;38839,93;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;13680,00;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;13680,00;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;25136,76;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;23483,38;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;23483,38;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.00.0.0;1.9.2.3.00.0.0 - Ressarcimentos;1653,38;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.99.0.0;1.9.2.3.99.0.0 - Outros Ressarcimentos;1653,38;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;23,17;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.14.0.0;1.9.9.0.14.0.0 - Outras Receitas Administradas pela RFB;23,17;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;146250,00;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;146250,00;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;146250,00;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;146250,00;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;146250,00;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;146250,00;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);44133204,38;12528
+2021;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3883588,26;12528
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);49573768,49;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4745489,25;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;48912121,28;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4745489,25;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1805089,70;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1662940,21;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;110893,19;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;64049,77;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";46843,42;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;690929,03;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.01.0.0;1.1.1.3.01.0.0 - Imposto sobre a Renda de Pessoa Física - IRPF;690929,03;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;861117,99;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;861117,99;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;861117,99;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;142149,49;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;104739,54;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;101489,54;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.1.0;1.1.2.1.02.1.0 - Taxa de Fiscalização de Instalação - TFI - Não Proveniente da Utilização de Posições Orbitais;101489,54;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;3250,00;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;37409,95;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;37409,95;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;746639,56;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;746639,56;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;746639,56;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;746639,56;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;1385850,32;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;1385850,32;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.1.00.0.0;1.6.3.1.00.0.0 - Serviços de Atendimento à Saúde;1385850,32;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.1.50.0.0;1.6.3.1.50.0.0 - Serviços Hospitalares;1029186,72;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.1.53.0.0;1.6.3.1.53.0.0 - Serviços Ambulatoriais;356663,60;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;44908035,35;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4745489,25;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;33000900,80;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3923177,91;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;21441043,17;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3923177,91;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;21427367,92;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3922801,08;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;19759807,88;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3922801,08;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;860619,94;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;806940,10;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1884,43;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;376,83;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;11790,82;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;493333,76;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;493333,76;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;18523,70;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;474810,06;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;4840376,64;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;4840376,64;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;4452210,42;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;2800,00;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;217590,29;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;99776,61;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;67999,32;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;492484,81;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;215035,94;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;202250,00;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;75198,87;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;4661395,55;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;323858,88;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;502243,79;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.50.0.0;1.7.1.7.50.0.0 - Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;502243,79;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;246164,20;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;27974,01;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;218190,19;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4958492,59;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;822311,34;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;4131251,57;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;822311,34;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3737256,82;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;747451,14;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;374305,52;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;74860,20;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;19689,23;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;103500,00;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;615269,51;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.0.0;1.7.2.4.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União;615269,51;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;108471,51;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;22991,00;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.52.0.0;1.7.2.9.52.0.0 - Transferências de Recursos Destinados a Programas de Educação;82764,00;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;2716,51;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;6948641,96;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;6948641,96;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;66506,35;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;2141,25;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;2141,25;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.07.0.0;1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;2141,25;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;64215,10;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;64215,10;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;64215,10;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;150,00;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;150,00;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;150,00;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.1.0;1.9.9.9.99.1.0 - Outras Receitas Administradas pela RFB;150,00;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;661647,21;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;661647,21;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;300000,00;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;300000,00;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.99.0.0;2.4.1.9.99.0.0 - Outras Transferências De Recursos da União e de suas Entidades;300000,00;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;361647,21;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;361647,21;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.01.0.0;2.4.2.2.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União;361647,21;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);49573768,49;12482
+2022;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4745489,25;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);8012886,48;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);965958,85;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;8012886,48;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;965958,85;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;180279,92;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;142995,03;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;11509,12;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.01.0.0;1.1.1.2.01.0.0 - Imposto sobre a Propriedade Territorial Rural;9509,12;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";2000,00;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;24661,14;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.01.0.0;1.1.1.3.01.0.0 - Imposto sobre a Renda de Pessoa Física - IRPF;24661,14;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;106824,77;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;106824,77;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;106824,77;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;37284,89;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;32770,36;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;1702,90;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;31067,46;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.2.0;1.1.2.1.02.2.0 - Taxa de Fiscalização de Funcionamento - TFF - Não Proveniente da Utilização de Posições Orbitais;31067,46;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;4514,53;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;4514,53;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;121177,34;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;121177,34;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;121177,34;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;121177,34;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;7711429,22;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;965958,85;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;5940896,90;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;839978,60;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;4199970,12;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;839978,60;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;4199852,17;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;839970,38;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;4199852,17;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;839970,38;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;41,10;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;8,22;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;76,85;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;73779,02;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;73779,02;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;1939,63;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;71839,39;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;463175,76;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;463175,76;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;433468,98;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;13020,00;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;16686,78;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;67771,47;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;47466,11;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;20305,36;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;1113962,60;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;19121,41;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;3116,52;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;3116,52;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;643133,52;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;125980,25;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;633175,77;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;125980,25;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;508221,43;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;101644,23;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;121680,65;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;24336,02;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;3273,69;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;7500,00;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;2457,75;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;2457,75;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1127398,80;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;1127398,80;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);8012886,48;12482
+2023;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Deduções - Transferências Constitucionais;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);965958,85;12482
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);62909785,50;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;62613710,60;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;2781705,34;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2669305,83;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;96250,86;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;65527,05;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";30723,81;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1327941,49;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.01.0.0;1.1.1.3.01.0.0 - Imposto sobre a Renda de Pessoa Física - IRPF;1327941,49;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;1245113,48;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;1245113,48;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;1245113,48;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;112399,51;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;110078,08;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;106018,08;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;4060,00;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;2321,43;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;2321,43;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;433996,07;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;433996,07;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;433996,07;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;433996,07;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;1181031,76;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.0.00.0.0;1.6.3.0.00.0.0 - Serviços e Atividades Referentes à Saúde;1181031,76;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.1.00.0.0;1.6.3.1.00.0.0 - Serviços de Atendimento à Saúde;1181031,76;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.1.50.0.0;1.6.3.1.50.0.0 - Serviços Hospitalares;862876,43;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.3.1.53.0.0;1.6.3.1.53.0.0 - Serviços Ambulatoriais;318155,33;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;54560695,58;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;41118058,99;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;21112567,69;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;21094209,01;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;18683220,62;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;2410988,39;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2131,99;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;16226,69;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;465965,00;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;465965,00;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;3898,84;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;462066,16;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;8119098,87;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;7028428,09;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;6151355,78;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;499955,00;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;250073,63;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;127043,68;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.99.0.0;1.7.1.3.99.0.0 - Outras Transferências de Recursos do Sistema Único de Saúde - SUS;1090670,78;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;1760834,06;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;680192,25;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;355288,00;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;62168,00;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.54.0.0;1.7.1.4.54.0.0 - Transferências referentes ao Programa Nacional de Inclusão de Jovens - Projovem;663185,81;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.54.1.0;1.7.1.4.54.1.0 - Transferências referentes ao Programa Nacional de Inclusão de Jovens - Projovem Urbano;663185,81;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;5490009,60;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;431617,72;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;117244,45;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.51.0.0;1.7.1.7.51.0.0 - Transferências de Convênios da União Destinadas a Programas de Educação;117244,45;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;3620721,60;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;18237,72;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.60.0.0;1.7.1.9.60.0.0 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022;100433,40;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;3502050,48;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4831017,87;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3931722,91;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3535341,77;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;365110,73;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;31270,41;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;90000,00;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;781447,43;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.0.0;1.7.2.4.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União;644680,15;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;136767,28;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;27847,53;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;23696,00;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;4151,53;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;8611618,72;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;8611618,72;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;3656281,85;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;6880,62;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;6880,62;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.07.0.0;1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;6880,62;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;3640389,18;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;12796,61;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;12796,61;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.00.0.0;1.9.2.3.00.0.0 - Ressarcimentos;3627592,57;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.3.99.0.0;1.9.2.3.99.0.0 - Outros Ressarcimentos;3627592,57;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;9012,05;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;9012,05;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;9012,05;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.1.0;1.9.9.9.99.1.0 - Outras Receitas Administradas pela RFB;9012,05;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;296074,90;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.0.0.00.0.0;2.1.0.0.00.0.0 - Operações de Crédito;296074,90;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.0.00.0.0;2.1.1.0.00.0.0 - Operações de Crédito - Mercado Interno;296074,90;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.2.00.0.0;2.1.1.2.00.0.0 - Operações de Crédito Contratuais - Mercado Interno;296074,90;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.1.1.2.01.0.0;2.1.1.2.01.0.0 - Operações de Crédito Contratuais - Mercado Interno;296074,90;11016
+2024;Prefeitura Municipal de Itiruçu - BA;2916906;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);62909785,50;11016

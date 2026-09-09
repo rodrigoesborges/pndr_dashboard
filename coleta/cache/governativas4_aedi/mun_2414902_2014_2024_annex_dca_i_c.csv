@@ -1,0 +1,647 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;11000803,11;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1594837,50;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;10807743,11;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1594837,50;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;9274,89;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;9274,89;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;5509,18;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;138,49;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;5370,69;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.30.00;1.1.1.2.04.30.00 - Retido nas Fontes;5370,69;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;3765,71;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;3765,71;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;10646216,56;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1594837,50;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;10646216,56;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1594837,50;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;8182613,04;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1374157,14;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7173056,58;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1373803,73;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7172767,15;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1373745,86;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;289,43;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;57,87;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.09.00.00;1.7.2.1.09.00.00 - Outras Transferências da União;3161,85;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.09.01.00;1.7.2.1.09.01.00 - Transferência Financeira - L.C. nº 87/96;3161,85;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;104836,28;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.50.00;1.7.2.1.22.50.00 - Cota-Parte Royalties pela Participação Especial - Lei nº 9.478/97 artigo 50;34268,68;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;70567,60;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;584205,23;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;206436,25;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;109149,62;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1767,23;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;353,41;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1103660,81;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;220680,36;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1103660,81;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;220680,36;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1103345,12;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;220668,79;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;315,69;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;11,57;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;1359942,71;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1359942,71;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;152251,66;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;152251,66;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;193060,00;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;193060,00;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;193060,00;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;193060,00;1705
+2015;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.99.00.00;2.4.2.1.99.00.00 - Outras Transferências da União;193060,00;1705
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;11665148,07;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1792772,15;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;11665148,07;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1792772,15;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;23135,97;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;23135,97;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;14532,85;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.01.00.00;1.1.1.2.01.00.00 - Imposto sobre a Propriedade Territorial Rural - ITR;8008,27;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;6524,58;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;6524,58;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;8603,12;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;8603,12;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;11598348,12;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1792772,15;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;11598348,12;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1792772,15;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;9018831,88;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1557003,33;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8017411,19;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1556680,04;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;8017064,42;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1556610,69;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;346,77;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;69,35;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;88116,72;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.50.00;1.7.2.1.22.50.00 - Cota-Parte Royalties pela Participação Especial - Lei nº 9.478/97 artigo 50;21634,35;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;66482,37;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;516446,99;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;74776,81;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;320463,50;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1616,67;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;323,29;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1192983,94;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;235768,82;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1191673,40;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;235768,82;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1178843,32;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;235768,43;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;1035,98;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;0,39;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;11794,10;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;1310,54;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;1386532,30;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1386532,30;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;43663,98;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;43663,98;1714
+2016;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;43663,98;1714
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;11796153,66;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1827913,56;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;11796153,66;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1827913,56;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;96630,39;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;96630,39;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;17086,85;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;17086,85;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;17086,85;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;79543,54;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;79543,54;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;11655789,94;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1827913,56;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;11655789,94;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1827913,56;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;9182987,77;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1575737,84;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8238703,75;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1575326,36;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;8222530,16;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1575326,36;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;16173,59;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;112293,06;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.50.00;1.7.2.1.22.50.00 - Cota-Parte Royalties pela Participação Especial - Lei nº 9.478/97 artigo 50;27877,94;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;84415,12;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;528210,02;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;158560,42;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;143162,94;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;2057,58;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;411,48;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1310053,52;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;252175,72;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1310053,52;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;252175,72;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1259857,11;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;251971,18;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;48310,50;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;1885,91;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;204,54;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;1162748,65;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1162748,65;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;43733,33;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;43733,33;1722
+2017;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;43733,33;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;13360926,76;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;2019283,54;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;13359868,18;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2019283,54;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;28,69;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;28,69;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;28,69;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.01.0.0;1.1.1.2.01.0.0 - Imposto sobre a Propriedade Territorial Rural;28,69;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;13359839,49;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2019283,54;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;10544339,19;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1766514,61;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;10544339,19;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1766514,61;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8835125,81;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1766227,91;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8830859,92;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1766171,74;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;4265,89;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;56,17;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;79451,57;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.5.0;1.7.1.8.02.5.0 Cota-parte Royalties pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;17216,38;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;62235,19;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;1315351,10;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;236499,71;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;76477,20;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;76477,20;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1433,80;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;286,70;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1433,80;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;286,70;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1263845,57;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;252768,93;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1263845,57;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;252768,93;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1263845,57;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;252768,93;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1263845,57;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;252768,93;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1551654,73;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1551654,73;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1551654,73;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1058,58;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.9.0.0.00.0.0;2.9.0.0.00.0.0 - Outras Receitas de Capital;1058,58;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.9.9.0.00.0.0;2.9.9.0.00.0.0 - Demais Receitas de Capital;1058,58;1722
+2018;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.9.9.0.00.1.0;2.9.9.0.00.1.0 Demais Receitas de Capital;1058,58;1722
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);13819083,59;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2182132,45;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;13819083,59;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2182132,45;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;13819083,59;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2182132,45;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;9880923,40;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1910045,78;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;9880923,40;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1910045,78;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9552075,05;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1910045,78;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;9550229,07;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1910045,78;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1845,98;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;124268,35;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;124268,35;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;204580,00;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.3.0;1.7.1.8.10.3.0 Transferências de Convênios da União Destinadas a Programas de Assistência Social;204580,00;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1360433,97;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;272086,67;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1360433,97;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;272086,67;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1360433,97;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;272086,67;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1360433,97;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;272086,67;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.3.0.00.0.0;1.7.3.0.00.0.0 - Transferências dos Municípios e de suas Entidades;1030658,57;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.3.8.00.0.0;1.7.3.8.00.0.0 Transferências dos Municípios -Específicas de Estados, DF e Municípios;1030658,57;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.3.8.01.0.0;1.7.3.8.01.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS;1030658,57;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1547067,65;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1547067,65;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1547067,65;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);13819083,59;1712
+2019;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2182132,45;1712
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);15102749,22;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);1906498,42;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;14941774,22;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;1906498,42;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;55583,66;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;55409,91;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;3219,48;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;3219,48;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;2616,82;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;602,66;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;52190,43;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;146,28;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;146,28;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;52044,15;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;52044,15;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;173,75;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;173,75;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;173,75;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;5705,43;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;5705,43;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;5705,43;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;3984,46;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.2.0;1.3.2.1.00.2.0 - Remuneração de Depósitos Especiais;1720,97;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;14870089,41;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;1906498,42;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;11729175,48;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1624671,75;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;11729175,48;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1624671,75;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8882134,85;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1624671,75;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8122794,45;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1624558,60;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;375798,91;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;376600,12;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;565,84;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;113,15;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;6375,53;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;173272,84;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;38914,11;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;134358,73;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";1257499,00;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;710949,25;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;86154,24;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;46302,24;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;41136,00;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;372957,27;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;103397,17;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;41697,32;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;60777,20;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;922,65;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;235435,43;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.3.0;1.7.1.8.10.3.0 Transferências de Convênios da União Destinadas a Programas de Assistência Social;235435,43;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1077436,19;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1574973,73;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;281826,67;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1574973,73;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;281826,67;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1409134,27;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;281826,67;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1407544,69;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;281508,72;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;1589,58;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;317,95;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;100000,00;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.1.0;1.7.2.8.10.1.0 Transferências de Convênio dos Estados para o Sistema Único de Saúde ¿ SUS;100000,00;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;65839,46;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1565940,20;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1565940,20;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1565940,20;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;10395,72;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;10395,72;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;10395,72;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;10395,72;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;160975,00;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;160975,00;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;160975,00;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;160975,00;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.0.0;2.4.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;63475,00;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.04.1.0;2.4.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;63475,00;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;97500,00;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;97500,00;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);15102749,22;1718
+2020;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);1906498,42;1718
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);19033257,21;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2584060,01;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;18855559,12;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2584060,01;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;204422,63;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;204372,63;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;0,02;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.01.0.0;1.1.1.2.01.0.0 - Imposto sobre a Propriedade Territorial Rural;0,02;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;97527,01;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;97527,01;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;97527,01;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;106845,60;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;9704,43;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;9704,43;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;97141,17;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;97141,17;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;50,00;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;50,00;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;50,00;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;76970,42;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;76970,42;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;76970,42;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;49411,82;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.2.0;1.3.2.1.00.2.0 - Remuneração de Depósitos Especiais;27558,60;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;18561854,95;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2584060,01;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;14853033,38;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2241654,76;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;14853033,38;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;2241654,76;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;12137527,14;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;2241654,76;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11207751,41;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2241550,01;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;925193,41;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;523,77;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;104,75;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;4058,55;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;254905,66;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.5.0;1.7.1.8.02.5.0 - Cota-parte Royalties pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;31656,74;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;223248,92;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1744238,98;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;1647566,74;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;59677,60;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;29813,32;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.5.0;1.7.1.8.03.5.0 - Transferência de Recursos do SUS ¿ Gestão do SUS;7181,32;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;69000,77;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;69000,77;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 - Transferências de Convênios da União e de Suas Entidades;285654,00;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.1.0;1.7.1.8.10.1.0 - Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;285654,00;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;361706,83;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1790181,19;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;342405,25;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;1790181,19;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;342405,25;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;1712023,77;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;342405,25;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;1665948,34;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;333189,51;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;44380,56;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;8876,29;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;1694,87;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;339,45;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 - Outras Transferências dos Estados;78157,42;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1896970,38;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1896970,38;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1896970,38;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.7.0.00.0.0;1.7.7.0.00.0.0 - Transferências de Pessoas Físicas;21670,00;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.7.0.00.1.0;1.7.7.0.00.1.0 - Transferências de Pessoas Físicas;21670,00;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;12311,12;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;12311,12;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;12311,12;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;12311,12;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;177698,09;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;177698,09;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;132586,22;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;132586,22;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.12.0.0;2.4.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;93641,30;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.99.0.0;2.4.1.8.99.0.0 - Outras Transferências da União;38944,92;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;45111,87;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 - Transferências dos Estados, Distrito Federal, e de suas Entidades;45111,87;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.99.0.0;2.4.2.8.99.0.0 - Outras Transferências dos Estados;45111,87;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);19033257,21;1725
+2021;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2584060,01;1725
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);23602265,37;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3174201,79;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;21913960,31;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3174201,79;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;410981,44;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;404639,70;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;18008,01;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;17108,01;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";900,00;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;231831,51;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;231831,51;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;231831,51;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;154800,18;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;154800,18;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;154800,18;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;6341,74;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;6341,74;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;6341,74;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;245897,15;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;245897,15;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;245897,15;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;143788,69;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.02.0.0;1.3.2.1.02.0.0 - Remuneração de Depósitos Especiais;102108,46;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;21067296,97;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3174201,79;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;17213087,86;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2810239,72;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;15247373,92;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2810239,72;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15240567,59;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2810129,09;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14054488,11;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2810129,09;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;612130,07;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;573949,41;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;553,19;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;110,63;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;6253,14;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;347364,71;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;347364,71;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.3.0;1.7.1.2.52.3.0 - Cota-parte pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;9648,27;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;337716,44;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;983424,61;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;983424,61;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;620541,47;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;303459,64;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;42956,20;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;16467,30;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;252472,52;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;252472,52;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;307787,36;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;74664,74;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;74664,74;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1843040,03;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;363962,07;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1819811,89;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;363962,07;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1768619,31;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;353723,68;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;48943,21;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;9788,59;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;2249,37;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;449,80;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;23228,14;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;23228,14;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2011169,08;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;2011169,08;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;189784,75;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;189784,75;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;189784,75;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;189784,75;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.1.0;1.9.9.9.99.1.0 - Outras Receitas Administradas pela RFB;189784,75;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1688305,06;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1688305,06;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1285449,98;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;693135,57;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.0.0;2.4.1.1.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;693135,57;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.1.0;2.4.1.1.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;693135,57;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;592314,41;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;592314,41;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;402855,08;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;340000,00;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.50.0.0;2.4.2.2.50.0.0 - Transferências de Convênios dos Estados para o Sistema Único de Saúde ¿ SUS;340000,00;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.00.0.0;2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados;62855,08;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.99.0.0;2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados;62855,08;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);23602265,37;1731
+2022;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3174201,79;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);25425302,99;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3297339,22;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;24638074,58;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3297339,22;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;437394,36;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;434428,35;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;3985,22;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;3985,22;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;221068,61;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;221068,61;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;221068,61;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;209374,52;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;209374,52;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;209374,52;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;2966,01;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;2966,01;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;2966,01;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;191728,27;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;191728,27;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;191728,27;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.02.0.0;1.3.2.1.02.0.0 - Remuneração de Depósitos Especiais;191728,27;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;23951617,94;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3297339,22;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;18841672,01;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2863313,19;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;15729737,76;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2863313,19;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;15727904,95;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2863194,65;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;14945010,54;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2863194,65;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;782894,41;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;592,86;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;118,54;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1239,95;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;311210,25;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;311210,25;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.3.0;1.7.1.2.52.3.0 - Cota-parte pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;16723,90;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;294486,35;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;1472399,94;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1472399,94;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1336805,67;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;85974,72;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;47423,12;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;2196,43;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;22357,72;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;246532,31;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1059434,03;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;1059434,03;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2474182,35;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;434026,03;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2170132,00;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;434026,03;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2102759,59;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;420551,64;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;62912,92;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;12582,51;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;4459,49;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;891,88;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;304050,35;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;304050,35;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2635763,58;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;2635763,58;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;57334,01;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;57334,01;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;57334,01;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;57334,01;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.1.0;1.9.9.9.99.1.0 - Outras Receitas Administradas pela RFB;57334,01;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;787228,41;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;787228,41;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;536294,53;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;424448,66;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.0.0;2.4.1.1.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;424448,66;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.1.0;2.4.1.1.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;424448,66;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;111845,87;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;111845,87;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;250933,88;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.00.0.0;2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados;250933,88;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.99.0.0;2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados;250933,88;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);25425302,99;1731
+2023;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3297339,22;1731
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);28142219,40;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3658900,57;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;25504334,83;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3658900,57;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;494033,40;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;492245,40;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;6724,90;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;6724,90;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;211830,40;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;211830,40;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;211830,40;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;273690,10;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;273690,10;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;273690,10;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;1788,00;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;1788,00;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;1788,00;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;2824,97;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;2824,97;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.9.00.0.0;1.2.1.9.00.0.0 - Outras Contribuições Sociais;2824,97;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.9.99.0.0;1.2.1.9.99.0.0 - Demais Contribuições Sociais;2824,97;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.9.99.1.0;1.2.1.9.99.1.0 - Demais Contribuições Sociais Não Arrecadadas e Não Projetadas pela RFB;2824,97;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;304469,79;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;304469,79;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;304469,79;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;240329,32;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.02.0.0;1.3.2.1.02.0.0 - Remuneração de Depósitos Especiais;64140,47;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;24701719,60;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3658900,57;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;19763167,57;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3313444,94;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;18286179,70;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3313444,94;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;18276933,90;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3313333,37;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;17548844,90;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3313333,37;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;728089,00;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;557,90;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;111,57;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;8687,90;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;332885,34;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;332885,34;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.3.0;1.7.1.2.52.3.0 - Cota-parte pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;4587,16;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;328298,18;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;316035,79;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;316035,79;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;13506,40;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;123682,94;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;174569,65;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;4276,80;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;335961,87;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;335961,87;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;33352,10;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;415779,57;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;42973,20;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;42973,20;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2141299,17;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;345455,63;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;1727279,56;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;345455,63;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;1660824,57;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;332164,69;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;63167,84;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;12633,53;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;3287,15;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;657,41;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;414019,61;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;414019,61;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2797252,86;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;2797252,86;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;1287,07;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;1287,07;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;1287,07;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;1287,07;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.1.0;1.9.9.9.99.1.0 - Outras Receitas Administradas pela RFB;1287,07;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;2637884,57;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;2637884,57;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;2637884,57;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;1679280,57;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.0.0;2.4.1.1.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1679280,57;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.50.1.0;2.4.1.1.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1679280,57;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;958604,00;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;958604,00;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);28142219,40;1822
+2024;Prefeitura Municipal de Viçosa - RN;2414902;RN;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3658900,57;1822

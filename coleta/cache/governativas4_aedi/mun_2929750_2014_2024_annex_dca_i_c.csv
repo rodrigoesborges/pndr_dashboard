@@ -1,0 +1,808 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;28164577,16;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;2184624,79;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Outras Deduções da Receita;TotalReceitas;Total Receitas;150,00;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;27543554,32;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2184624,79;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Outras Deduções da Receita;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;150,00;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;1191124,52;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Outras Deduções da Receita;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;150,00;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;1175921,42;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Outras Deduções da Receita;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;150,00;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;195640,43;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;144950,82;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;50689,61;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;50689,61;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;980280,99;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Outras Deduções da Receita;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;150,00;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;980280,99;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Outras Deduções da Receita;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;150,00;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;15203,10;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;15203,10;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;65976,70;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.2.3.0.00.00.00;1.2.3.0.00.00.00 - Contribuição para Custeio do Serviço de Iluminação Pública;65976,70;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;94935,25;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;94935,25;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;94935,25;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;26127833,76;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2184624,79;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;26121267,36;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2184624,79;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;17560207,83;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1835910,83;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;9579328,00;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1834501,31;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;9578646,49;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1834365,04;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;681,51;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;136,27;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;5370655,28;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.40.00;1.7.2.1.22.40.00 - Cota-Parte Royalties pelo Excedente da Produção do Petróleo - Lei nº 9.478/97 artigo 49 I e II;5227646,50;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;143008,78;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1506121,71;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;214509,60;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;691608,24;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;7047,96;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1409,52;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;190937,04;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1785730,69;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;348713,96;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1745960,24;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;348713,96;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1609311,43;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;321862,06;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;107890,56;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;21577,35;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;26372,87;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;5274,55;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;2031,38;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;354,00;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;33195,00;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;6575,45;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;6775328,84;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;4978552,83;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1796776,01;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;6566,40;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;6566,40;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.02.00.00;1.7.6.2.02.00.00 - Transferências de Convênios dos Estados Destinadas a Programas de Educação;6566,40;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;63684,09;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;4220,45;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;4220,45;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;5622,64;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;5622,64;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;5622,64;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;53841,00;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;621022,84;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;621022,84;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;516022,84;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;516022,84;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;344800,00;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.02.00.00;2.4.2.1.02.00.00 - Transferências de Recursos Destinados a Programas de Educação;171222,84;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;105000,00;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;105000,00;12161
+2014;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;105000,00;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;26991360,73;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;2325370,74;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Outras Deduções da Receita;TotalReceitas;Total Receitas;23426,98;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;26562005,95;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2325370,74;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Outras Deduções da Receita;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;23426,98;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;1172262,70;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;1172262,70;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;7510,34;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;364,48;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;7145,86;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;7145,86;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;1164752,36;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;1164752,36;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;108966,80;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;108966,80;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;108966,80;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;17501,10;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.05.00.00;1.6.0.0.05.00.00 - Serviços de Saúde;17501,10;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;25224385,46;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2325370,74;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Outras Deduções da Receita;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;23426,98;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;25224385,46;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2325370,74;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Outras Deduções da Receita;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;23426,98;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;15836553,25;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1930132,03;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;10180178,89;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1928700,42;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;10174394,05;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1927543,51;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;5784,84;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;1156,91;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;3612404,53;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.40.00;1.7.2.1.22.40.00 - Cota-Parte Royalties pelo Excedente da Produção do Petróleo - Lei nº 9.478/97 artigo 49 I e II;3504340,30;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;108064,23;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;926143,63;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;449932,75;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;651792,67;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;7158,14;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1431,61;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;8942,64;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2066440,35;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;395238,71;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1984375,13;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;395238,71;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1833288,62;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;366657,55;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;117112,18;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;23421,69;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;25797,27;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;5159,47;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;8177,06;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;51500,00;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;30565,22;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;7321391,86;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Outras Deduções da Receita;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;23426,98;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;5261948,99;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2059442,87;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Outras Deduções da Receita;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;23426,98;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;38889,89;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;9045,94;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;9045,94;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.07.00.00;1.9.2.2.07.00.00 - Recuperação de Despesas de Exercícios Anteriores;8306,03;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;739,91;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;29843,95;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;429354,78;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;429354,78;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;76342,26;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;76342,26;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.02.00.00;2.4.2.1.02.00.00 - Transferências de Recursos Destinados a Programas de Educação;76342,26;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;353012,52;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;353012,52;12161
+2015;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;353012,52;12161
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;34956813,99;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;TotalReceitas;Total Receitas;2674035,25;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;34602106,11;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2674035,25;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;1190658,09;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;1190658,09;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;375,27;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;375,27;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;1190282,82;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;1190282,82;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;113609,19;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;113609,19;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;113609,19;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;195994,81;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.05.00.00;1.6.0.0.05.00.00 - Serviços de Saúde;36028,80;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.13.00.00;1.6.0.0.13.00.00 - Serviços Administrativos;159966,01;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;33072016,84;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2674035,25;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;33072016,84;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2674035,25;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;22806798,15;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;2201308,19;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;12270470,29;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;2199872,24;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;11812062,90;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;2199733,56;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;457674,83;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;732,56;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;138,68;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;8134771,21;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.40.00;1.7.2.1.22.40.00 - Cota-Parte Royalties pelo Excedente da Produção do Petróleo - Lei nº 9.478/97 artigo 49 I e II;8042177,03;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;92594,18;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1351263,38;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;174726,18;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;726647,45;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;135847,99;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1435,95;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;13071,65;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2161575,17;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;403515,42;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2039603,95;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;403515,42;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1867869,81;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;373573,74;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;129754,42;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;25950,08;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;19957,81;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;3991,60;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;22021,91;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;63000,00;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;58971,22;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;8103643,52;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;69211,64;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;5697849,31;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;2405794,21;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;69211,64;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;29827,18;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;6929,00;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;6929,00;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;22561,66;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;22561,66;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;22561,66;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;336,52;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;336,52;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;354707,88;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;354707,88;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;354707,88;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;354707,88;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;108000,00;12238
+2016;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;246707,88;12238
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;34184244,61;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;773667,52;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;33949947,35;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;773667,52;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;1711987,59;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;1588419,77;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;1588419,77;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;1588419,77;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.00.00;1.1.3.0.00.00.00 - Contribuição de Melhoria;123567,82;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.99.00.00;1.1.3.0.99.00.00 - Outras Contribuições de Melhoria;123567,82;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;189012,31;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;189012,31;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;189012,31;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;31979784,98;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;773667,52;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;31979784,98;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;773667,52;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;31979784,98;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;773667,52;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;31979784,98;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;773667,52;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;31979784,98;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;773667,52;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;69162,47;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;69162,47;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.00.00;1.9.1.1.00.00.00 - Multas e Juros de Mora dos Tributos;69162,47;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.02.00.00;1.9.1.1.02.00.00 - Multas e Juros de Mora ¿ Imposto de Renda e Proventos Qualquer Natureza;69162,47;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;234297,26;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.5.0.0.00.00.00;2.5.0.0.00.00.00 - Outras Receitas de Capital;234297,26;12311
+2017;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.5.9.0.00.00.00;2.5.9.0.00.00.00 - Outras Receitas;234297,26;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;44817747,02;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;2745375,83;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;44817747,02;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2745375,83;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1886410,59;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1853979,15;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;369053,21;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;369053,21;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;366887,43;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;2165,78;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;1484925,94;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;714855,84;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;687228,13;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;27627,71;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;770070,10;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;770070,10;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;32431,44;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;32431,44;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;472,68;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;31958,76;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;301567,91;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.0.00.0.0;1.2.2.0.00.0.0 - Contribuições Econômicas;301567,91;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.8.00.0.0;1.2.2.8.00.0.0 - Contribuições Econômicas Específicas de EST/DF/MUN;301567,91;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;66048,22;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;66048,22;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;66048,22;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;66048,22;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;42559060,41;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2745375,83;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;31563325,11;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2248326,38;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;31563325,11;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2248326,38;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;12217377,42;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2246880,26;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11206514,23;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2241302,52;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;497544,08;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;485430,17;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;27888,94;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;5577,74;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;15859742,11;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.5.0;1.7.1.8.02.5.0 Cota-parte Royalties pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;15673267,57;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;186474,54;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;2322413,11;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;479319,38;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;666489,89;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;285078,04;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;375647,60;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;5764,25;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;7230,96;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1446,12;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;7230,96;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1446,12;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;10752,24;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2740639,64;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;497049,45;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2740639,64;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;497049,45;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2521346,65;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;497049,45;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2325196,50;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;465039,08;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;160055,83;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;32010,37;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;19301,98;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;16792,34;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;81293,10;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;137999,89;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;8255095,66;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;8255095,66;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;6532609,32;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.99.0.0;1.7.5.8.99.0.0 Outras Transferências Multigovernamentais;1722486,34;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;4659,89;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;3580,52;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;1079,37;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;1079,37;12311
+2018;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;1079,37;12311
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);62257492,34;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2966476,26;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;62109982,34;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2966476,26;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1818621,70;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1741862,19;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;327678,32;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;327678,32;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;327678,32;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;1414183,87;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;592791,13;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;545987,60;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;46803,53;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;821392,74;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;821392,74;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;76759,51;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;67547,80;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;9129,33;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;58418,47;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.1.0;1.1.2.1.02.1.0 - Taxa de Fiscalização de Instalação - TFI;58418,47;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;9211,71;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;9211,71;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;321855,02;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.0.00.0.0;1.2.2.0.00.0.0 - Contribuições Econômicas;321855,02;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.0.99.0.0;1.2.2.0.99.0.0 - Outras Contribuições Econômicas;321855,02;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;380092,04;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;380092,04;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;380092,04;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;380092,04;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;59572990,49;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2966476,26;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;31794927,58;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2446017,14;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;31794927,58;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2446017,14;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;13304988,76;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2446017,14;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.1.0;1.7.1.8.01.1.0 Cota-Parte do Fundo de Participação dos Estados e do Distrito Federal;2442626,37;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;12213133,20;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;538723,67;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;519208,40;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;33923,49;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3390,77;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;13128556,99;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.5.0;1.7.1.8.02.5.0 Cota-parte Royalties pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;12940329,91;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;188227,08;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";1666696,83;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;1420783,80;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar;224,00;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;176747,00;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;68942,03;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;773784,33;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;273167,86;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;282313,20;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;4525,81;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;213777,46;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1805368,31;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;405020,00;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;710512,36;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2862482,20;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;520459,12;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2862482,20;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;520459,12;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2635164,77;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;520459,12;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2425880,45;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;485175,86;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;176420,38;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;35283,26;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;19000,94;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;13863,00;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;106054,07;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;4970,00;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;116293,36;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;24915580,71;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;24915580,71;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;6221280,17;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.99.0.0;1.7.5.8.99.0.0 Outras Transferências Multigovernamentais;18694300,54;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;16423,09;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;3533,18;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;3533,18;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;11417,93;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;11417,93;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;11417,93;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;1471,98;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;1471,98;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;1471,98;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;147510,00;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;147510,00;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;147510,00;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;147510,00;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;147510,00;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;147510,00;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);62257492,34;11978
+2019;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2966476,26;11978
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);43915395,28;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2846918,52;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;43595023,00;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2846918,52;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1607002,64;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1551013,17;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;261393,70;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;261393,70;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;261393,70;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;1289619,47;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;568809,35;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;538717,89;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;30091,46;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;720810,12;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;720810,12;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;55989,47;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;50217,16;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;1450,51;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;48766,65;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.2.0;1.1.2.1.02.2.0 - Taxa de Fiscalização de Funcionamento - TFF;48766,65;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;5772,31;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;5772,31;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;335562,39;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.0.00.0.0;1.2.2.0.00.0.0 - Contribuições Econômicas;335562,39;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.0.99.0.0;1.2.2.0.99.0.0 - Outras Contribuições Econômicas;335562,39;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;456278,52;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;456278,52;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;456278,52;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;456278,52;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;41181565,75;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2846918,52;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;32526568,55;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2334648,17;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;32526568,55;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;2334648,17;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;12723683,89;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;2334648,17;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11656878,26;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2331375,35;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;524661,40;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;525779,99;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;16364,24;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3272,82;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;11368013,78;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;7104784,21;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.5.0;1.7.1.8.02.5.0 Cota-parte Royalties pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;4075718,42;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;187511,15;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";3716856,76;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;1660953,62;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;188279,49;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;71655,84;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;1795967,81;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;465205,11;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;204207,27;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;244241,80;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;16756,04;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1552699,66;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;380932,41;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;2319176,94;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2752393,71;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;512270,35;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;2752393,71;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;512270,35;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2591045,68;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;512270,35;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2351814,01;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;470362,56;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;209542,68;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;41907,79;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;18175,43;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;11513,56;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;141358,83;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;19880,00;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;109,20;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5902603,49;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;5902603,49;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;5902603,49;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;14613,70;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;11393,63;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;11393,63;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;3175,01;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;196,97;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;196,97;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;2978,04;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;2978,04;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;45,06;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;45,06;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;45,06;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;320372,28;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;320372,28;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;320372,28;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;320372,28;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;320372,28;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;320372,28;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);43915395,28;12043
+2020;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2846918,52;12043
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);52526586,50;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3778224,33;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;52048261,64;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3778224,33;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1783183,23;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1610674,48;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;329804,51;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;329804,51;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;323639,81;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;6164,70;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;1280869,97;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;408592,77;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;338487,45;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;70105,32;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;872277,20;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;872277,20;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;172508,75;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;160790,34;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;3269,88;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;157520,46;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.2.0;1.1.2.1.02.2.0 - Taxa de Fiscalização de Funcionamento - TFF - Não Proveniente da Utilização de Posições Orbitais;157520,46;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;11718,41;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;11718,41;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;364713,45;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.0.00.0.0;1.2.2.0.00.0.0 - Contribuições Econômicas;364713,45;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.2.0.99.0.0;1.2.2.0.99.0.0 - Outras Contribuições Econômicas;364713,45;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;740511,61;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;740511,61;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;740511,61;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;740511,61;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;49084043,22;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3778224,33;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;38398613,23;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3148611,31;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;38398613,23;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;3148611,31;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;17041285,77;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;3148611,31;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;15726673,47;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3145334,43;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;689319,30;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;608908,51;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;16384,49;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3276,88;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;14252477,85;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;9780856,23;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.5.0;1.7.1.8.02.5.0 - Cota-parte Royalties pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;4167616,77;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;304004,85;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;4087855,50;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;4087855,50;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;470578,93;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;216506,33;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;1440,00;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;246903,80;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;5728,80;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;2278791,66;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;233045,46;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;34578,06;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3525417,44;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;629613,02;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;3525417,44;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;629613,02;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;3177378,28;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;629613,02;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;2937021,48;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;587404,07;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;211049,32;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;42208,95;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;21824,63;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7482,85;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;154561,06;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 - Transferências de Estados destinadas à Assistência Social;22365,00;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 - Outras Transferências dos Estados;171113,10;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;7160012,55;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.1.0;1.7.5.0.00.1.0 - Transferências de Outras Instituições Públicas;7160012,55;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;75810,13;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;5782,97;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;5782,97;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;69977,16;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;69977,16;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;69977,16;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;50,00;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;50,00;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;50,00;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;478324,86;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;478324,86;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;478324,86;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;478324,86;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;478324,86;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;478324,86;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);52526586,50;12105
+2021;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3778224,33;12105
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);66130780,60;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4611148,92;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;65338617,83;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4611148,92;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1982866,36;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1261171,98;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;595850,08;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;506533,90;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";89316,18;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;91800,89;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;91800,89;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;91800,89;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;573521,01;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;573521,01;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;573521,01;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;721694,38;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;280835,29;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;15653,59;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;265181,70;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.2.0;1.1.2.1.02.2.0 - Taxa de Fiscalização de Funcionamento - TFF - Não Proveniente da Utilização de Posições Orbitais;265181,70;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;440859,09;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;440859,09;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;1668952,17;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;1668952,17;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;1668952,17;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;1668952,17;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;61651960,86;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4611148,92;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;49396352,75;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3927166,98;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;21449197,74;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3927166,98;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;21427367,92;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3922801,08;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;19559875,13;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3922801,08;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;1060552,69;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;806940,10;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;21829,82;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;4365,90;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;17179189,72;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;17179189,72;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;11491882,42;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.3.0;1.7.1.2.52.3.0 - Cota-parte pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;5212497,24;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;474810,06;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;3504489,95;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;3266442,75;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;2924042,22;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;270744,69;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;71655,84;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.99.0.0;1.7.1.3.99.0.0 - Outras Transferências de Recursos do Sistema Único de Saúde - SUS;238047,20;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;545455,14;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;255407,42;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;39605,72;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;250442,00;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;6265300,07;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;221845,30;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;230874,83;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;230874,83;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3756633,22;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;683981,94;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3449857,60;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;683981,94;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3157938,37;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;631587,47;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;261976,61;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;52394,47;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;16637,18;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;11660,79;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.98.0.0;1.7.2.1.98.0.0 -Transferências Decorrentes de Participação em Outras Receitas de Impostos dos Estados e do Distrito Federal;1644,65;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;146645,40;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;160130,22;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;27265,00;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;132865,22;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;8498974,89;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;8498974,89;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;34838,44;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;15895,27;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;15895,27;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.07.0.0;1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;15895,27;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;18943,17;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;18943,17;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;18943,17;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;792162,77;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;792162,77;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;792162,77;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;792162,77;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.50.0.0;2.4.1.4.50.0.0 - Transferências de Convênios da União para o Sistema Único de Saúde ¿ SUS;28162,77;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.54.0.0;2.4.1.4.54.0.0 - Transferências de Convênios da União destinadas a Programas de Infraestrutura em Transporte;764000,00;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);66130780,60;12163
+2022;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4611148,92;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);64902429,09;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4750269,22;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;64759648,73;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4750269,22;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1850247,52;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1342100,33;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;618042,75;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;520889,17;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";97153,58;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;68647,32;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;68647,32;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;68647,32;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;655410,26;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;655410,26;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;655410,26;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;508147,19;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;497603,61;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;450653,67;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.0.0;1.1.2.1.02.0.0 - Taxas de Fiscalização das Telecomunicações;46949,94;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.1.0;1.1.2.1.02.1.0 - Taxa de Fiscalização de Instalação - TFI - Não Proveniente da Utilização de Posições Orbitais;463,31;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.2.0;1.1.2.1.02.2.0 - Taxa de Fiscalização de Funcionamento - TFF - Não Proveniente da Utilização de Posições Orbitais;41907,00;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.3.0;1.1.2.1.02.3.0 - Taxa de Fiscalização de Instalação - TFI - Proveniente da Utilização de Posições Orbitais;4252,26;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.02.4.0;1.1.2.1.02.4.0 - Taxa de Fiscalização de Funcionamento - TFF - Proveniente da Utilização de Posições Orbitais;327,37;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;10543,58;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;10543,58;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;991818,81;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;991818,81;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;991818,81;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;991818,81;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;61685894,56;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4750269,22;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;48747919,61;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;4031852,41;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;22146494,96;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;4031852,41;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;22124608,67;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;4027475,24;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;20144967,53;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;4027475,24;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1979641,14;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;21886,29;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.55.0.0;1.7.1.1.55.0.0 - Cota-Parte do Imposto Sobre Operações de Crédito, Câmbio e Seguro, ou Relativas a Títulos ou Valores Mobiliários ¿ Comercialização do Ouro;4377,17;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;12626325,41;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;12626325,41;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.1.0;1.7.1.2.52.1.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;8368461,24;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.2.0;1.7.1.2.52.2.0 - Cota-parte pelo Excedente da Produção do Petróleo ¿ Lei nº 9.478/97, artigo 49, I e II;3827714,26;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;430149,91;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;5299362,90;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;5299362,90;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;4060560,54;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;622077,64;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;545068,88;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;71655,84;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;787563,45;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;293162,40;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;311146,20;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;20705,49;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;162549,36;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;6121157,58;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;230397,19;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;760000,00;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.99.0.0;1.7.1.7.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;760000,00;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;776618,12;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;776618,12;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4069849,27;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;718416,81;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;4052321,17;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;718416,81;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3250906,91;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;650181,13;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;341182,48;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;68235,68;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;18418,44;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;2287,57;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.98.0.0;1.7.2.1.98.0.0 -Transferências Decorrentes de Participação em Outras Receitas de Impostos dos Estados e do Distrito Federal;439525,77;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;17528,10;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;17528,10;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;8868125,68;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;8868125,68;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;231687,84;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;229365,54;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;229365,54;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.01.0.0;1.9.1.1.01.0.0 - Multas Previstas em Legislação Específica;226535,54;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.07.0.0;1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;2830,00;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;2322,30;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;2322,30;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;2322,30;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;142780,36;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;142780,36;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;15380,04;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.00.0.0;2.4.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;15380,04;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.9.99.0.0;2.4.1.9.99.0.0 - Outras Transferências De Recursos da União e de suas Entidades;15380,04;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;127400,32;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;127400,32;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.51.0.0;2.4.2.2.51.0.0 - Transferências de Convênios dos Estados destinadas a Programas de Educação;127400,32;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);64902429,09;12163
+2023;Prefeitura Municipal de Saubara - BA;2929750;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4750269,22;12163

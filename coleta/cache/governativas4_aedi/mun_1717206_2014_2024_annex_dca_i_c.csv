@@ -1,0 +1,743 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;14045972,95;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1315068,71;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;13030985,35;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1315068,71;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;3550816,38;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;1653,19;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;3549364,42;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;1653,19;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;3032492,83;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;7500,00;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;268555,76;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;268555,76;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";2756437,07;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;516871,59;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;1653,19;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;516871,59;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;1653,19;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;1451,96;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;265,32;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;1186,64;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;85861,90;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;85844,96;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;85844,96;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.9.0.00.00.00;1.3.9.0.00.00.00 - Outras Receitas Patrimoniais;16,94;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;9367307,07;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1313415,52;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;9262608,23;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1313415,52;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;6403524,73;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1024768,00;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;5348133,00;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1024527,04;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;5308156,48;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1016541,91;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;39976,52;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;7985,13;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;79250,57;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;79250,57;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;491355,18;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;164831,97;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;206544,66;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1205,04;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;240,96;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;112204,31;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1591087,40;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;288647,52;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1445348,06;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;288647,52;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1421203,10;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;284240,33;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;22036,59;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;4407,19;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;2108,37;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;6139,34;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;139600,00;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;1267996,10;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1267996,10;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;104698,84;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;94698,84;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.1.01.00.00;1.7.6.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;94698,84;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;10000,00;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;10000,00;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;27000,00;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;27000,00;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;27000,00;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;27000,00;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;1014987,60;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;1014987,60;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;1014987,60;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;984987,60;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;36000,00;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.02.00.00;2.4.7.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;456487,60;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.99.00.00;2.4.7.1.99.00.00 - Outras Transferências de Convênios da União;492500,00;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.00.00.00;2.4.7.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;30000,00;3024
+2014;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.2.99.00.00;2.4.7.2.99.00.00 - Outras Transferências de Convênios dos Estados;30000,00;3024
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;11727161,76;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;TotalReceitas;Total Receitas;1523548,41;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;11198781,76;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1523548,41;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;344244,16;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;333036,44;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;140209,04;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;6694,90;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;56514,10;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;56514,10;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";77000,04;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;192827,40;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;192827,40;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;11207,72;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;11207,72;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;11207,72;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;117662,51;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;117662,51;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;117662,51;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;10736875,09;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1523548,41;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;10736875,09;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1523548,41;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;7976447,48;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1233863,53;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;6619804,47;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1233670,57;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6133118,86;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1223467,78;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.03.00;1.7.2.1.01.03.00 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota Anual;435671,27;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;51014,34;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;10202,79;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;51467,18;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;51467,18;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;599394,78;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;360131,74;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;344684,03;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;965,28;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;192,96;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1507457,51;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;289684,88;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1507457,51;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;289684,88;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1397721,54;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;279467,32;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;51088,81;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Deduções - Transferências Constitucionais;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;10217,56;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;34351,94;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;24295,22;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;1252970,10;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1252970,10;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;528380,00;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;528380,00;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.0.00.00.00;2.4.2.0.00.00.00 - Transferências Intergovernamentais;282950,00;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.00.00.00;2.4.2.1.00.00.00 - Transferências da União;282950,00;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.2.1.01.00.00;2.4.2.1.01.00.00 - Participação na Receita da União;282950,00;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;245430,00;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;245430,00;3031
+2016;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.01.00.00;2.4.7.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;245430,00;3031
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;12382191,03;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1466077,27;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;12382191,03;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1466077,27;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;969238,32;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;942984,72;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;942984,72;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;942984,72;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;17919,52;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;17919,52;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.00.00;1.1.3.0.00.00.00 - Contribuição de Melhoria;8334,08;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.01.00.00;1.1.3.0.01.00.00 - Contribuição de Melhoria para Expansão da Rede de Água Potável e Esgoto Sanitário;8334,08;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;17312,79;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.00.00;1.2.1.0.00.00.00 - Contribuições Sociais;17312,79;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.01.00.00;1.2.1.0.01.00.00 - Contribuição Social para o Financiamento da Seguridade Social;17312,79;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;322473,47;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;322473,47;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.00.00;1.3.2.1.00.00.00 - Juros de Títulos de Renda;322473,47;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;23185,42;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.01.00.00;1.6.0.0.01.00.00 - Serviços Comerciais;23185,42;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;11049981,03;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1466077,27;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;10949255,44;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1466077,27;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;10949255,44;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1466077,27;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;10949255,44;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1466077,27;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;10949255,44;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1466077,27;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;100725,59;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.1.00.00.00;1.7.6.1.00.00.00 - Transferências de Convênios da União e de Suas Entidades;100725,59;3038
+2017;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.1.01.00.00;1.7.6.1.01.00.00 - Transferências de Convênios da União para o Sistema Único de Saúde - SUS;100725,59;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;12831002,57;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;1588250,24;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;12831002,57;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;1588250,24;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;112672,85;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;29549,99;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;29549,99;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;29549,99;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;29549,99;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;67478,38;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;30047,07;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;30047,07;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;37431,31;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;37431,31;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;15644,48;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.8.00.0.0;1.1.3.8.00.0.0 - Contribuição de Melhoria - Específica de Estados, DF e Municípios;15644,48;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;39225,24;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;39225,24;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;39225,24;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;37836,42;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.6.0;1.3.2.1.00.6.0 - Juros sobre o Capital Próprio;1388,82;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;52864,44;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;51845,14;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;51845,14;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.2.0.00.0.0;1.6.2.0.00.0.0 - Serviços e Atividades Referentes à Navegação e ao Transporte;1019,30;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.2.0.02.0.0;1.6.2.0.02.0.0 - Serviços de Transporte;1019,30;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;12606701,58;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;1588250,24;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;8984567,96;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1267047,36;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;8984567,96;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1267047,36;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;6883092,93;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1266868,20;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;6254791,28;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1250973,03;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;277799,61;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;271035,91;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;79466,13;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;15895,17;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;142333,13;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;142333,13;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;1357465,83;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;262380,26;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;260261,02;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;45057,87;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;21909,75;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;193293,40;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;895,80;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;179,16;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;895,80;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;179,16;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;78138,99;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 Outras Transferências de Convênios da União;78138,99;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1734472,20;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;321202,88;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1734472,20;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;321202,88;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1626965,20;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;321202,88;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1566800,57;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;313272,51;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;39651,87;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;7930,37;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;2096,64;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;18416,12;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;107507,00;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 Transferências de Convênio dos Estados Destinadas a Programas de Educação;107507,00;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1466952,89;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1466952,89;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1466952,89;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.0.0;1.7.6.0.00.0.0 - Transferências do Exterior;420708,53;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.8.00.0.0;1.7.6.8.00.0.0 Transferências do Exterior - Específicas de Estados, DF e Municípios;420708,53;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;19538,46;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;19538,46;3038
+2018;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;19538,46;3038
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);12359359,59;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;12359359,59;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;253054,90;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;252580,47;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.1.00.0.0;1.1.1.1.00.0.0 - Impostos sobre o Comércio Exterior;252580,47;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.1.01.0.0;1.1.1.1.01.0.0 - Imposto sobre a Importação;252580,47;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;474,43;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;474,43;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;474,43;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;10650,66;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;10650,66;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;10650,66;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;10650,66;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;40093,12;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;40093,12;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;40093,12;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;11789671,53;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;8578450,28;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;8578450,28;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;8578450,28;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.1.0;1.7.1.8.01.1.0 Cota-Parte do Fundo de Participação dos Estados e do Distrito Federal;8578450,28;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1544022,31;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.1.0;1.7.2.0.00.1.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1544022,31;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.3.0.00.0.0;1.7.3.0.00.0.0 - Transferências dos Municípios e de suas Entidades;19520,86;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.3.0.00.1.0;1.7.3.0.00.1.0 - Transferências dos Municípios e de suas Entidades;19520,86;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1647678,08;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1647678,08;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1647678,08;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;265889,38;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;7087,77;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;7087,77;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.01.0.0;1.9.2.1.01.0.0 - Indenizações por Danos Causados ao Patrimônio Público;7087,77;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;258801,61;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.02.0.0;1.9.9.0.02.0.0 - Aportes Periódicos para Compensações ao RGPS;258801,61;3023
+2019;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);12359359,59;3023
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);13875011,83;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);-1780934,94;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;13726186,55;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-1780934,94;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;188420,12;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;167000,83;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;167000,83;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;3772,33;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;3772,33;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;163228,50;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;163228,50;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;3,12;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;3,12;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;3,12;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.0.00.0.0;1.1.3.0.00.0.0 - Contribuição de Melhoria;21416,17;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.8.00.0.0;1.1.3.8.00.0.0 - Contribuição de Melhoria - Específica de Estados, DF e Municípios;21416,17;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.8.02.0.0;1.1.3.8.02.0.0 - Contribuição de Melhoria para Expansão da Rede de Iluminação Pública na Cidade;17109,12;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.3.8.03.0.0;1.1.3.8.03.0.0 - Contribuição de Melhoria para Expansão de Rede de Iluminação Pública Rural;4307,05;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;10934,51;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;10934,51;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;10934,51;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;10934,51;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;13526831,92;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;-1780934,94;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;10056762,33;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;-1433785,78;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;10056762,33;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;-1433785,78;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;7570666,05;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;-1433785,78;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;7084777,71;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;-1416955,50;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;388805,42;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;84151,40;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;-16830,28;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.7.0;1.7.1.8.01.7.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;12931,52;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;114536,40;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;114536,40;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";1293000,71;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;847373,96;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;81778,81;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;39289,00;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;324558,94;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;165995,84;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;35972,84;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;35523,00;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;94500,00;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;3578,16;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.3.0;1.7.1.8.10.3.0 Transferências de Convênios da União Destinadas a Programas de Assistência Social;3578,16;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;280747,70;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;628237,47;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;1736400,93;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;-347149,16;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;1736400,93;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;-347149,16;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;1736400,93;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;-347149,16;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;1679114,87;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;-335859,53;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;56448,14;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;-11289,63;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;837,92;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1733668,66;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1733668,66;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1733668,66;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;148825,28;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;148825,28;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;148825,28;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;148825,28;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 Transferência de Convênios da União e de suas Entidades;148825,28;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;148825,28;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);13875011,83;3028
+2020;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);-1780934,94;3028
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);17837170,29;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);-2209015,23;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;16548403,62;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-2209015,23;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;332388,91;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;329092,23;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;67309,96;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;67309,96;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;67202,70;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;107,26;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;261782,27;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;58102,99;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;58102,99;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;203679,28;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;203679,28;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;3296,68;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;316,32;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;316,32;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;660,94;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;660,94;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.00.0.0;1.1.2.8.00.0.0 - Taxas - Específicas de Estados, DF e Municípios;2319,42;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.0.0;1.1.2.8.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;2319,42;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.1.0;1.1.2.8.01.1.0 - Taxa de Fiscalização de Vigilância Sanitária;607,50;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.8.01.9.0;1.1.2.8.01.9.0 - Taxas de Inspeção, Controle e Fiscalização - Outras;1711,92;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;32493,77;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;32493,77;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;32493,77;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;32493,77;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;16174656,92;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;-2209015,23;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;11833803,31;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;-1768551,10;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;11833803,31;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;-1768551,10;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;9562419,86;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;-1768551,10;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8717959,17;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;-1743591,54;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;382118,79;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;337543,70;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;124798,20;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;-24959,56;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;168522,71;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;168522,71;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1880973,09;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;898610,70;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.2.0;1.7.1.8.03.2.0 - Transferência de Recursos do SUS ¿ Atenção Especializada;25329,80;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;58885,73;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;24016,56;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.5.0;1.7.1.8.03.5.0 - Transferência de Recursos do SUS ¿ Gestão do SUS;283671,09;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;590459,21;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;66060,14;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;31674,14;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;34386,00;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 - Transferências de Convênios da União e de Suas Entidades;19,18;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.3.0;1.7.1.8.10.3.0 - Transferências de Convênios da União Destinadas a Programas de Assistência Social;19,18;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;109734,04;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 - Outras Transferências da União;46074,29;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2423929,66;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;-440464,13;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;2423929,66;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;-440464,13;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;2211024,58;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;-440464,13;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;2127973,93;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;-425589,24;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;68737,96;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;-13747,52;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;5853,73;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;-1127,37;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;8458,96;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 - Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;8005,08;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 - Transferências de Estados destinadas à Assistência Social;54000,00;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 - Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;150900,00;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.2.0;1.7.2.8.10.2.0 - Transferências de Convênio dos Estados Destinadas a Programas de Educação;150900,00;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;1916923,95;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;1916923,95;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1916923,95;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;8864,02;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;8864,02;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;8864,02;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;8864,02;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1288766,67;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;72100,00;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;72100,00;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;72100,00;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1216666,67;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;550000,00;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.00.0.0;2.4.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;550000,00;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.0.0;2.4.1.8.10.0.0 - Transferência de Convênios da União e de suas Entidades;550000,00;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.8.10.9.0;2.4.1.8.10.9.0 - Outras Transferências de Convênios da União;550000,00;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;666666,67;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.00.0.0;2.4.2.8.00.0.0 - Transferências dos Estados, Distrito Federal, e de suas Entidades;666666,67;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.0.0;2.4.2.8.10.0.0 - Transferências de Convênios dos Estados e do Distrito Federal e de suas Entidades;666666,67;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.8.10.9.0;2.4.2.8.10.9.0 - Outras Transferências de Convênio dos Estados;666666,67;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);17837170,29;3033
+2021;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);-2209015,23;3033
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);27014561,26;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);-2661156,23;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;25122981,26;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;-2661156,23;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1245774,85;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1225275,57;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;181388,87;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";181388,87;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;83432,12;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;83432,12;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;64517,05;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;18915,07;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;960454,58;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;960454,58;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;960454,58;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;20499,28;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;11930,90;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;11445,00;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;485,90;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;8568,38;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;8568,38;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;368614,32;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;368614,32;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;368614,32;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;363734,93;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.02.0.0;1.3.2.1.02.0.0 - Remuneração de Depósitos Especiais;4879,39;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;23508592,09;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;-2661156,23;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;17191348,26;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;-2219655,39;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;12104252,61;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;-2219655,39;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;11806088,34;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;-2176199,46;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;10880998,51;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;-2176199,46;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;477434,53;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;447655,30;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;217280,20;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;-43455,93;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.98.0.0;1.7.1.1.98.0.0 - Transferências Decorrentes de Participação em Outras Receitas de Impostos da União;80884,07;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;396494,29;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;263403,96;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;263403,96;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.99.0.0;1.7.1.2.99.0.0 - Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais ;133090,33;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;1540784,70;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1540784,70;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1399333,86;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;83454,44;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;35199,58;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;2532,98;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;20263,84;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;127092,87;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;33564,42;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.51.0.0;1.7.1.4.51.0.0 - Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;2,40;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;34588,24;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;58937,81;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;609005,99;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;2413717,80;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;22198,80;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;2391519,00;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3945627,63;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;-441500,84;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2220956,31;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;-441500,84;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2117111,00;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;-423420,65;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;86131,14;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;-17226,50;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;4616,05;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;-853,69;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.53.0.0;1.7.2.1.53.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;13098,12;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;7337,99;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;1690333,33;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;357000,00;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.99.0.0;1.7.2.4.99.0.0 - Outras Transferências de Convênios dos Estados e DF e de Suas Entidades;1333333,33;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;27000,00;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;27000,00;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.3.0.00.0.0;1.7.3.0.00.0.0 - Transferências dos Municípios e de suas Entidades;0,59;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.3.2.00.0.0;1.7.3.2.00.0.0 - Transferências de Convênios dos Municípios e de Suas Entidades;0,59;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.3.2.51.0.0;1.7.3.2.51.0.0 - Transferências de Convênios dos Municípios destinadas a Programas de Educação;0,59;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2371615,61;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;2371615,61;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1891580,00;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;82600,00;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;82600,00;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;82600,00;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1808980,00;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1808980,00;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;1808980,00;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.51.0.0;2.4.1.4.51.0.0 - Transferências de Convênios da União destinadas a Programas de Educação;1302208,49;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;506771,51;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);27014561,26;3038
+2022;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);-2661156,23;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);26281003,82;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2781762,63;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;24491274,41;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2781762,63;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1063574,16;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1026689,58;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;128504,11;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;258,09;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";128246,02;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;119530,80;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;119530,80;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;118246,17;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;1284,63;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;778654,67;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;778654,67;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;778654,67;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;36884,58;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;2978,27;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;2817,27;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;161,00;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;33906,31;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;25146,82;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.02.0.0;1.1.2.2.02.0.0 - Emolumentos e Custas Judiciais;8759,49;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;553530,20;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;553530,20;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;553530,20;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;550289,80;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.02.0.0;1.3.2.1.02.0.0 - Remuneração de Depósitos Especiais;3240,40;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;22874170,05;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2781762,63;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;15864118,09;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2288469,60;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;12549369,60;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2288469,60;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;12284910,38;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2236101,36;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11180508,20;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2236101,36;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1104402,18;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;261841,78;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;52368,24;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;2617,44;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;238370,12;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;238370,12;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;238370,12;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;1760685,99;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;1760685,99;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1247683,33;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.2.0;1.7.1.3.50.2.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Especializada;2532,98;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;96716,15;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;88234,28;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;197656,47;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;127862,78;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;158333,09;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;37061,70;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;74717,60;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;46553,79;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;172163,06;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;588813,80;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.51.0.0;1.7.1.7.51.0.0 - Transferências de Convênios da União Destinadas a Programas de Educação;88813,80;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.99.0.0;1.7.1.7.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;500000,00;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;396382,43;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.57.0.0;1.7.1.9.57.0.0 - Transferência Especial da União;50000,00;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;26185,92;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;320196,51;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4264384,20;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;493293,03;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2399740,97;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;479839,40;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2293604,47;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;458719,11;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;100825,31;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;20165,23;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;5311,19;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;955,06;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;8005,08;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;886611,40;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;597000,00;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;289611,40;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;970026,75;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;13453,63;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;33028,60;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.53.0.0;1.7.2.9.53.0.0 - Cota-Parte da Transferência da Compensação Financeira das Perdas com Arrecadação de ICMS - LC nº 194/2022;67268,15;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.9.53.0.0;1.7.2.9.53.0.0 - Cota-Parte da Transferência da Compensação Financeira das Perdas com Arrecadação de ICMS - LC nº 194/2022;13453,63;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;869730,00;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.3.0.00.0.0;1.7.3.0.00.0.0 - Transferências dos Municípios e de suas Entidades;0,49;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.3.2.00.0.0;1.7.3.2.00.0.0 - Transferências de Convênios dos Municípios e de Suas Entidades;0,49;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.3.2.51.0.0;1.7.3.2.51.0.0 - Transferências de Convênios dos Municípios destinadas a Programas de Educação;0,49;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;2745667,27;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;2745667,27;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;1789729,41;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;118100,00;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;118100,00;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;118100,00;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;1671629,41;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1671629,41;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;65532,00;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.0.0;2.4.1.1.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;65532,00;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.1.0;2.4.1.1.51.1.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Primária;65532,00;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.3.00.0.0;2.4.1.3.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS ;150000,00;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.3.50.0.0;2.4.1.3.50.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;150000,00;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;1456097,41;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;1456097,41;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);26281003,82;3038
+2023;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2781762,63;3038
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);29688827,19;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3198053,13;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;27429791,32;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3198053,13;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;2154976,82;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2067341,91;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;1336651,39;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";1336651,39;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;284512,42;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;284512,42;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;283421,08;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;1091,34;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;446178,10;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;446178,10;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;446178,10;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;87634,91;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;13860,96;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;6426,38;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.04.0.0;1.1.2.1.04.0.0 - Taxa de Controle e Fiscalização Ambiental;6613,58;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.50.0.0;1.1.2.1.50.0.0 - Taxa de Fiscalização de Vigilância Sanitária;821,00;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;73773,95;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;55794,92;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.02.0.0;1.1.2.2.02.0.0 - Emolumentos e Custas Judiciais;17979,03;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;445666,57;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;445666,57;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;445666,57;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;441995,21;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.02.0.0;1.3.2.1.02.0.0 - Remuneração de Depósitos Especiais;3671,36;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;24829147,93;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3198053,13;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;18338301,34;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2644399,69;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;14572727,20;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2644399,69;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;14248790,87;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2583091,58;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;12915459,76;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2583091,58;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1333331,11;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;306541,04;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;61308,11;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;17395,29;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;329503,81;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.51.0.0;1.7.1.2.51.0.0 -Cota-parte da Compensação Financeira pela Exploração de Recursos Minerais - CFEM;72710,86;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;256792,95;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;256792,95;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;2125070,13;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2125070,13;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;1667873,21;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.3.0;1.7.1.3.50.3.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Vigilância em Saúde;99586,27;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.4.0;1.7.1.3.50.4.0 -Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Assistência Farmacêutica;63105,61;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;264109,28;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.9.0;1.7.1.3.50.9.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Outros Programas;30395,76;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;245856,62;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;145028,43;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;67006,00;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.53.0.0;1.7.1.4.53.0.0 - Transferências referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;33822,19;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;146991,42;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.00.0.0;1.7.1.7.00.0.0 - Transferências de Convênios da União e de Suas Entidades;854600,18;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.7.51.0.0;1.7.1.7.51.0.0 - Transferências de Convênios da União Destinadas a Programas de Educação;854600,18;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;63551,98;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;30336,24;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.60.0.0;1.7.1.9.60.0.0 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022;33215,74;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3460356,00;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;553653,44;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;2768535,10;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;553653,44;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2641662,95;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;528330,76;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;118028,93;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;23605,85;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;8843,22;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;1716,83;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.3.00.0.0;1.7.2.3.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS;6670,90;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;273000,00;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.51.0.0;1.7.2.4.51.0.0 -Transferências de Convênios dos Estados Destinadas a Programas de Educação;273000,00;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;412150,00;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;32400,00;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;379750,00;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;3030490,59;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;3030490,59;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;2259035,87;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;181700,00;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;181700,00;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;181700,00;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;2077335,87;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;1997335,87;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.00.0.0;2.4.1.4.00.0.0 - Transferências de Convênios da União e de suas Entidades ;1997335,87;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.4.99.0.0;2.4.1.4.99.0.0 - Outras Transferências de Convênios da União e de Suas Entidades;1997335,87;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;80000,00;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.00.0.0;2.4.2.9.00.0.0 - Outras Transferências de Recursos dos Estados;80000,00;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.9.99.0.0;2.4.2.9.99.0.0 - Outras Transferências de Recursos dos Estados;80000,00;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);29688827,19;2278
+2024;Prefeitura Municipal de Piraquê - TO;1717206;TO;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3198053,13;2278

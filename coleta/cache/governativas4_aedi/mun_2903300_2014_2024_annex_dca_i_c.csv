@@ -1,0 +1,914 @@
+exercicio;instituicao;cod_ibge;uf;anexo;rotulo;coluna;cod_conta;conta;valor;populacao
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;18996569,54;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1719382,03;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;18842899,01;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1719382,03;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;282374,02;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;247878,90;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;209965,85;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;12432,02;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;158982,36;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;158982,36;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";38551,47;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;37913,05;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;37913,05;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;34495,12;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;23592,70;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;10902,42;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;96446,83;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.0.00.00.00;1.3.1.0.00.00.00 - Receitas Imobiliárias;2856,85;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.1.00.00.00;1.3.1.1.00.00.00 - Aluguéis;33,85;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.1.5.00.00.00;1.3.1.5.00.00.00 - Taxa de Ocupação de Imóveis;2823,00;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;93589,98;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;93589,98;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;518216,71;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.05.00.00;1.6.0.0.05.00.00 - Serviços de Saúde;371826,38;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.26.00.00;1.6.0.0.26.00.00 - Serviços de Fornecimento de Água;126100,00;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Demais Receitas de Serviços;20290,33;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;17933896,32;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1719382,03;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;17933896,32;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1719382,03;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;10482416,55;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1377654,44;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;7186062,57;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1376189,48;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;7183984,87;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1375774,04;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;2077,70;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;415,44;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;123027,29;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;9290,39;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.90.00;1.7.2.1.22.90.00 - Outras Transferências Decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;113736,90;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1582248,05;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;197552,35;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1250406,80;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;7325,16;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1464,96;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;135794,33;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2040664,83;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;341727,59;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1731932,66;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;341727,59;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1672638,35;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;334527,42;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;36003,04;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;7200,17;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;21928,01;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1363,26;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.00.00;1.7.2.2.22.00.00 - Transferências da Cota-Parte da Compensação Financeira (25%);302997,78;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.22.90.00;1.7.2.2.22.90.00 - Outras Transferências Decorrentes de Compensações Financeiras;302997,78;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;5734,39;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;5410814,94;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;4199883,45;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1210931,49;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;11965,13;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;1861,76;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;1108,24;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;753,52;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;753,52;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;10103,37;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;9744,05;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.2.00.00.00;1.9.3.2.00.00.00 - Receita da Dívida Ativa Não Tributária;359,32;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;153670,53;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.0.0.00.00.00;2.4.0.0.00.00.00 - Transferências de Capital;153670,53;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.0.00.00.00;2.4.7.0.00.00.00 - Transferências de Convênios;153670,53;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.00.00.00;2.4.7.1.00.00.00 - Transferências de Convênios da União e de suas Entidades;153670,53;6627
+2014;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.4.7.1.02.00.00;2.4.7.1.02.00.00 - Transferências de Convênios da União Destinadas a Programas de Educação;153670,53;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;15317737,89;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;1481138,93;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;15281117,89;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;1481138,93;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;360884,91;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;305165,60;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;213280,68;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;10540,07;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;135461,13;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;135461,13;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";67279,48;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;91884,92;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;91884,92;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;55719,31;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;19165,55;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;36553,76;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;62931,23;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;62931,23;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;62931,23;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;45948,00;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.05.00.00;1.6.0.0.05.00.00 - Serviços de Saúde;45948,00;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;14754690,60;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;1481138,93;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;14754690,60;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;1481138,93;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;7833156,20;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1195676,49;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;6058165,86;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1194522,79;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;6054398,65;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1193769,42;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;3767,21;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;753,37;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;78667,22;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;22171,19;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.90.00;1.7.2.1.22.90.00 - Outras Transferências Decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;56496,03;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;814584,24;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;173149,84;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;702820,53;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;5768,51;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1153,70;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1725179,50;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;285462,44;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1452161,56;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;285462,44;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1388778,19;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;277755,47;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;38537,14;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;7706,97;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI sobre Exportação;16643,54;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;5493,21;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;2709,48;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;273017,94;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;5196354,90;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;3639793,94;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1556560,96;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;56663,15;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;6813,56;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;6813,56;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;18079,84;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;1606,01;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;16473,83;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;16473,83;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;31769,75;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;28827,94;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.11.00.00;1.9.3.1.11.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;28827,94;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.2.00.00.00;1.9.3.2.00.00.00 - Receita da Dívida Ativa Não Tributária;2941,81;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.0.0.0.00.00.00;2.0.0.0.00.00.00 - Receitas de Capital;36620,00;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.0.0.00.00.00;2.2.0.0.00.00.00 - Alienação de Bens;36620,00;6627
+2015;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO2.2.1.0.00.00.00;2.2.1.0.00.00.00 - Alienação de Bens Móveis;36620,00;6627
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;21982006,99;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;TotalReceitas;Total Receitas;2019339,88;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;21982006,99;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2019339,88;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;664647,80;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;604708,60;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;403188,17;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;4319,71;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;390675,55;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;341562,90;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;49112,65;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";8192,91;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;201520,43;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;201520,43;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;59939,20;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.1.00.00.00;1.1.2.1.00.00.00 - Taxas pelo Exercício do Poder de Polícia;13639,78;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;46299,42;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;46299,42;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;69011,29;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;69011,29;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.3.2.9.00.00.00;1.3.2.9.00.00.00 - Outras Receitas de Valores Mobiliários;69011,29;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;225352,86;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;225352,86;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;21006934,10;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2019339,88;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;20757989,74;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2019339,88;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;11894569,23;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1651782,57;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8861660,63;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1650402,48;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;8857648,96;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1649600,12;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;4011,67;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;802,36;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;82844,09;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;82844,09;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1630500,28;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;195348,14;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1117315,52;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;6900,57;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1380,09;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;1873016,16;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;367557,31;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;1873016,12;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;367557,31;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1794740,18;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;358947,85;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;43049,63;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;8609,46;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;15542,59;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;14699,67;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.01.99.00;1.7.2.2.01.99.00 - Outras Participações na Receita dos Estados;4984,05;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;0,04;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;6990404,35;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;5047355,97;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1943048,38;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;248944,36;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;248944,36;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;248944,36;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;16060,94;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;3916,66;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;3916,66;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.0.00.00.00;1.9.2.0.00.00.00 - Indenizações e Restituições;2752,55;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.1.00.00.00;1.9.2.1.00.00.00 - Indenizações;894,25;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.00.00.00;1.9.2.2.00.00.00 - Restituições;1858,30;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.2.2.99.00.00;1.9.2.2.99.00.00 - Outras Restituições;1858,30;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;9311,73;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;9311,73;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.3.1.99.00.00;1.9.3.1.99.00.00 - Receita da Dívida Ativa de Outros Tributos;9311,73;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;80,00;6492
+2016;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;NA;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;80,00;6492
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;21268917,58;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;2025238,17;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;21268917,58;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.00.00;1.0.0.0.00.00.00 - Receitas Correntes;2025238,17;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.00.00;1.1.0.0.00.00.00 - Receita Tributária;405995,24;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.00.00;1.1.1.0.00.00.00 - Impostos;387373,04;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.00.00;1.1.1.2.00.00.00 - Impostos sobre o Patrimônio e a Renda;334925,82;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.02.00.00;1.1.1.2.02.00.00 - Imposto sobre a Propriedade Predial e Territorial Urbana ¿ IPTU;14762,08;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.00.00;1.1.1.2.04.00.00 - Imposto sobre a Renda e Proventos de Qualquer Natureza ¿ IR;311014,97;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.31.00;1.1.1.2.04.31.00 - Retido nas Fontes - Trabalho;270702,33;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.04.34.00;1.1.1.2.04.34.00 - Retido nas Fontes - Outros Rendimentos;40312,64;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.08.00.00;"1.1.1.2.08.00.00 - Imposto sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis ¿ ITBI";9148,77;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.00.00;1.1.1.3.00.00.00 - Impostos sobre a Produção e a Circulação;52447,22;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.05.00.00;1.1.1.3.05.00.00 - Imposto sobre Serviços de Qualquer Natureza ¿ ISSQN;52447,22;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.00.00;1.1.2.0.00.00.00 - Taxas;18622,20;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.00.00;1.1.2.2.00.00.00 - Taxas pela Prestação de Serviços;18622,20;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.28.00.00;1.1.2.2.28.00.00 - Taxa de Cemitérios;2110,00;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.99.00.00;1.1.2.2.99.00.00 - Outras Taxas pela Prestação de Serviços;16512,20;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.00.00;1.2.0.0.00.00.00 - Receitas de Contribuições;9211,04;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.00.00;1.2.1.0.00.00.00 - Contribuições Sociais;9211,04;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.99.00.00;1.2.1.0.99.00.00 - Outras Contribuições Sociais;9211,04;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.00.00;1.3.0.0.00.00.00 - Receita Patrimonial;160905,33;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.00.00;1.3.2.0.00.00.00 - Receitas de Valores Mobiliários;160905,33;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.5.00.00.00;1.3.2.5.00.00.00 - Remuneração de Depósitos Bancários;160905,33;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.00.00;1.6.0.0.00.00.00 - Receita de Serviços;213073,09;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.41.00.00;1.6.0.0.41.00.00 - Serviços de Captação, Adução, Tratamento, Reserva e Distribuição de Água;163574,56;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.99.00.00;1.6.0.0.99.00.00 - Outros Serviços;49498,53;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;20405574,81;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.00.00;1.7.0.0.00.00.00 - Transferências Correntes;2025238,17;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;20058894,81;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.00.00;1.7.2.0.00.00.00 - Transferências Intergovernamentais;2025238,17;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;10877179,74;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.00.00;1.7.2.1.00.00.00 - Transferências da União;1622888,25;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;8577574,33;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.00.00;1.7.2.1.01.00.00 - Participação na Receita da União;1621597,62;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;8573017,62;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.02.00;1.7.2.1.01.02.00 - Cota-Parte do Fundo de Participação dos Municípios ¿ FPM;1620686,35;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;4556,71;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.01.05.00;1.7.2.1.01.05.00 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural ¿ ITR;911,27;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.00.00;1.7.2.1.22.00.00 - Transferências da Compensação Financeira pela Exploração de Recursos Naturais;104484,98;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.50.00;1.7.2.1.22.50.00 - Cota-Parte Royalties pela Participação Especial - Lei nº 9.478/97 artigo 50;13132,71;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.22.70.00;1.7.2.1.22.70.00 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;91352,27;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.33.00.00;1.7.2.1.33.00.00 - Transferências de Recursos do Sistema Único de Saúde - SUS - Repasses Fundo a Fundo;1361113,85;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.34.00.00;1.7.2.1.34.00.00 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;217911,82;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.35.00.00;1.7.2.1.35.00.00 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;603626,63;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;6453,37;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.36.00.00;1.7.2.1.36.00.00 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;1290,63;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.99.00.00;1.7.2.1.99.00.00 - Outras Transferências da União;6014,76;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;2340614,75;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.00.00.00;1.7.2.2.00.00.00 - Transferências dos Estados;402349,92;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;2049739,46;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.00.00;1.7.2.2.01.00.00 - Participação na Receita dos Estados;402349,92;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;1967243,37;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.01.00;1.7.2.2.01.01.00 - Cota-Parte do ICMS;393565,78;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;44258,19;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.2.01.02.00;1.7.2.2.01.02.00 - Cota-Parte do IPVA;8784,14;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.04.00;1.7.2.2.01.04.00 - Cota-Parte do IPI - Municípios;18787,76;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.01.13.00;1.7.2.2.01.13.00 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;19450,14;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.33.00.00;1.7.2.2.33.00.00 - Transferências de Recursos do Estado para Programas de Saúde - Repasse Fundo a Fundo;222925,00;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.99.00.00;1.7.2.2.99.00.00 - Outras Transferências dos Estados;67950,29;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.00.00;1.7.2.4.00.00.00 - Transferências Multigovernamentais;6841100,32;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.01.00.00;1.7.2.4.01.00.00 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;5519128,03;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.02.00.00;1.7.2.4.02.00.00 - Transferências de Recursos da Complementação ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEB;1321972,29;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.0.00.00.00;1.7.6.0.00.00.00 - Transferências de Convênios;346680,00;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.00.00.00;1.7.6.2.00.00.00 - Transferências de Convênios dos Estados e do Distrito Federal e de Suas Entidades;346680,00;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.6.2.99.00.00;1.7.6.2.99.00.00 - Outras Transferências de Convênios dos Estados;346680,00;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.00.00;1.9.0.0.00.00.00 - Outras Receitas Correntes;74158,07;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.00.00;1.9.1.0.00.00.00 - Multas e Juros de Mora;5200,30;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.9.00.00.00;1.9.1.9.00.00.00 - Multas de Outras Origens;5200,30;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.0.00.00.00;1.9.3.0.00.00.00 - Receita da Dívida Ativa;47330,36;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.00.00.00;1.9.3.1.00.00.00 - Receita da Dívida Ativa Tributária;47330,36;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.04.00.00;1.9.3.1.04.00.00 - Receita da Dívida Ativa do Imposto sobre a Propriedade Territorial Rural;7046,04;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.12.00.00;1.9.3.1.12.00.00 - Receita da Dívida Ativa do Imposto sobre a Transmissão Inter Vivos de Bens Imóveis - ITBI;8111,34;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.3.1.13.00.00;1.9.3.1.13.00.00 - Receita da Dívida Ativa do Imposto sobre Serviços de Qualquer Natureza ¿ ISS;32172,98;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.00.00;1.9.9.0.00.00.00 - Receitas Diversas;21627,41;6367
+2017;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.00.00;1.9.9.0.99.00.00 - Outras Receitas;21627,41;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;Total Receitas;24520907,89;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;Total Receitas;2148119,19;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;24520907,89;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2148119,19;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;878182,63;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;857365,14;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;435998,34;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;435998,34;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;435998,34;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;421366,80;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;421366,80;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;421366,80;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;20817,49;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;20817,49;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;20817,49;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;4830,89;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.00.0.0;1.2.1.0.00.0.0 - Contribuições Sociais;4830,89;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.1.0.99.0.0;1.2.1.0.99.0.0 - Outras Contribuições Sociais;4830,89;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;34380,49;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;34380,49;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;34380,49;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;34380,49;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;171656,13;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;171656,13;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.99.0.0;1.6.9.0.99.0.0 - Outros Serviços;171656,13;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;23424804,89;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2148119,19;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;12097807,17;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1683402,50;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;12097807,17;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1683402,50;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9147150,02;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1683402,50;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;9142116,36;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1681983,50;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;5033,66;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;1419,00;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;154944,60;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.1.0;1.7.1.8.02.1.0 Cota-parte da Compensação Financeira de Recursos Hídricos;154944,60;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo;1443355,72;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;265382,39;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;1022925,07;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;296135,25;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.2.0;1.7.1.8.05.2.0 Transferências Diretas do FNDE referentes ao Programa Dinheiro Direto na Escola ¿ PDDE;1560,00;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;134361,60;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.4.0;1.7.1.8.05.4.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Apoio ao Transporte do Escolar ¿ PNATE;201542,40;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;389325,82;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;7095,24;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.1.0;1.7.1.8.06.1.0 Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;7095,24;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 Transferências de Convênios da União e de Suas Entidades;49170,00;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 Outras Transferências de Convênios da União;49170,00;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;7784,13;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3690899,50;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;464716,69;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;3690899,50;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;464716,69;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2357538,44;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;464716,69;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2281432,23;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;456286,25;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;42154,22;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;8430,44;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.9.0;1.7.2.8.01.9.0 Outras Transferências dos Estados;33951,99;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;966020,97;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;199525,91;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;199525,91;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.99.0.0;1.7.2.8.99.0.0 Outras Transferências dos Estados;167814,18;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;7636098,22;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;7636098,22;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;7636098,22;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;7052,86;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;7052,86;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;7052,86;6367
+2018;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;7052,86;6367
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);25316705,18;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2312947,15;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;25316705,18;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2312947,15;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;760695,79;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;751072,26;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;440244,80;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.01.0.0;1.1.1.3.01.0.0 - Imposto sobre a Renda de Pessoa Física - IRPF;440244,80;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção, Circulação e Serviços;40217,56;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.01.0.0;1.1.1.4.01.0.0 - Imposto sobre Produtos Industrializados - IPI;40217,56;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.01.1.0;1.1.1.4.01.1.0 - Imposto sobre Produtos Industrializados - IPI - Fumo;40217,56;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;270609,90;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;111635,95;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;58018,01;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;53617,94;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;158973,95;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;158973,95;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;9623,53;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;9623,53;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;9623,53;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;32039,49;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;32039,49;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;32039,49;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;32039,49;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;159446,82;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;159446,82;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;159446,82;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;24359911,35;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2312947,15;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;15351974,04;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1832594,75;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;15351974,04;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1832594,75;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9956416,90;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1832594,75;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;9159849,87;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1831969,70;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;404042,76;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;389406,29;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3117,98;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;625,05;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;631218,01;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;1184,24;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;151312,59;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.9.0;1.7.1.8.02.9.0 Outras Transferências decorrentes de Compensação Financeira pela Exploração de Recursos Naturais;478721,18;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";2048284,52;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;2003284,52;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;45000,00;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Bloco Investimentos na Rede de Serviços Públicos de Saúde;347535,00;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.1.0;1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS destinados à Atenção Básica;347535,00;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;597165,56;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;272058,26;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;294924,40;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;30182,90;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1755819,10;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;15534,95;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3428364,42;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;480352,40;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;3428364,42;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;480352,40;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2432776,52;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;480352,40;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2347834,77;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;469566,72;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;57561,57;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;10785,68;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;18389,40;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;8990,78;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;86525,70;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;909062,20;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;909062,20;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5579572,89;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;5579572,89;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;5579572,89;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;4611,73;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;4610,90;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;4610,90;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;0,83;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;0,83;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.2.0;1.9.9.0.99.2.0 - Outras Receitas - Financeiras;0,83;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);25316705,18;5743
+2019;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2312947,15;5743
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);25732348,64;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2220934,89;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;25732348,64;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2220934,89;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;918902,34;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;916574,34;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;555536,10;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;555536,10;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;555536,10;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 Impostos Específicos de Estados, DF e Municípios;361038,24;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 Impostos sobre o Patrimônio para Estados/DF/Municípios;94104,64;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 Imposto sobre a Propriedade Predial e Territorial Urbana;38111,55;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;55993,09;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 Impostos sobre a Produção, Circulação de Mercadorias e Serviços;266933,60;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 Imposto sobre Serviços de Qualquer Natureza;266933,60;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;2328,00;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;2268,00;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;2268,00;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;60,00;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;60,00;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;5016,03;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;5016,03;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;7213,47;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;7213,47;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;7213,47;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;7213,47;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;137419,00;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;137419,00;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.01.0.0;1.6.1.0.01.0.0 - Serviços Administrativos e Comerciais Gerais;137419,00;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;24627357,68;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2220934,89;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;16026074,10;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;1749012,43;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;16026074,10;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 Transferências da União - Específicas de Estados, DF e Municípios;1749012,43;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;9532894,95;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 Participação na Receita da União;1749012,43;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;8742658,76;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;1748531,46;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;393496,05;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;394334,99;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2405,15;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;480,97;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 Transferência da Compensação Financeira pela Exploração de Recursos Naturais;148670,79;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;8037,41;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 Cota-Parte do Fundo Especial do Petróleo ¿ FEP;140633,38;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;"1.7.1.8.03.0.0 Transferência de Recursos do Sistema Único de Saúde ¿ 
+ SUS ¿ Bloco Custeio das Ações e Serviços Públicos de Saúde";2452298,12;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Básica;1141712,75;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;99546,47;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;1211038,90;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;525070,36;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 Transferências do Salário-Educação;199065,56;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;326004,80;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;1700354,68;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;425102,59;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.99.0.0;1.7.1.8.99.0.0 Outras Transferências da União;1241682,61;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3092804,82;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;471922,46;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;3092804,82;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 Transferências dos Estados - Específicas de Estados, DF e Municípios;471922,46;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;2671808,59;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 Participação na Receita dos Estados;471922,46;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;2294603,35;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 Cota-Parte do ICMS;458953,24;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;65012,77;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 Cota-Parte do IPVA;12969,22;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 Cota-Parte do IPI - Municípios;17733,49;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7388,57;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.5.0;1.7.2.8.01.5.0 Outras Participações na Receita dos Estados;287070,41;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.03.0.0;1.7.2.8.03.0.0 Transferência de Recursos do Estado para Programas de Saúde ¿ Repasse Fundo a Fundo;99000,00;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 Transferências de Estados destinadas à Assistência Social;48234,62;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.0.0;1.7.2.8.10.0.0 Transferência de Convênios dos Estados e do Distrito Federal e de Suas Entidades;273761,61;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.10.9.0;1.7.2.8.10.9.0 Outras Transferências de Convênio dos Estados;273761,61;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;5508478,76;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;5508478,76;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;5508478,76;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;36440,12;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;7443,77;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;7443,77;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;12224,83;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;12224,83;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;12224,83;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;16771,52;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;16771,52;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;16771,52;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);25732348,64;5591
+2020;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2220934,89;5591
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);29985808,39;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);2935045,60;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;29980022,23;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;2935045,60;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1233345,98;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1191094,32;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;764575,24;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.01.0.0;1.1.1.3.01.0.0 - Imposto sobre a Renda de Pessoa Física - IRPF;743933,72;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;20641,52;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;20641,52;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.00.0.0;1.1.1.8.00.0.0 - Impostos Específicos de Estados, DF e Municípios;417875,00;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.0.0;1.1.1.8.01.0.0 - Impostos sobre o Patrimônio para Estados/DF/Municípios;230371,46;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.1.0;1.1.1.8.01.1.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;108775,40;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.3.0;1.1.1.8.01.3.0 - Imposto sobre Transmissão ¿Causa Mortis¿ e Doação de Bens e Direitos;2637,75;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.01.4.0;1.1.1.8.01.4.0 - Imposto sobre Transmissão ¿Inter Vivos¿ de Bens Imóveis e de Direitos Reais sobre Imóveis;118958,31;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.0.0;1.1.1.8.02.0.0 - Impostos sobre a Produção, Circulação de Mercadorias e Serviços;187503,54;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.8.02.3.0;1.1.1.8.02.3.0 - Imposto sobre Serviços de Qualquer Natureza;187503,54;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.9.00.0.0;1.1.1.9.00.0.0 - Outros Impostos;8644,08;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;42251,66;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;31664,76;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;31664,76;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;10586,90;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;10586,90;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;67096,56;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;67096,56;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;67096,56;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.1.0;1.3.2.1.00.1.0 - Remuneração de Depósitos Bancários;67096,56;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;28675770,99;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;2935045,60;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;19387216,50;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2359691,30;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;19387216,50;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.00.0.0;1.7.1.8.00.0.0 - Transferências da União - Específicas de Estados, DF e Municípios;2359691,30;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;12772129,01;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.0.0;1.7.1.8.01.0.0 - Participação na Receita da União;2359691,30;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;11795005,07;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.2.0;1.7.1.8.01.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2359000,78;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.3.0;1.7.1.8.01.3.0 - Cota-Parte do Fundo de Participação do Municípios ¿ 1% Cota entregue no mês de dezembro;516989,47;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.4.0;1.7.1.8.01.4.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;456681,38;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3453,09;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.8.01.5.0;1.7.1.8.01.5.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;690,52;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.0.0;1.7.1.8.02.0.0 - Transferência da Compensação Financeira pela Exploração de Recursos Naturais;244218,34;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.3.0;1.7.1.8.02.3.0 - Cota-parte Royalties ¿ Compensação Financeira pela Produção de Petróleo ¿ Lei nº 7.990/89;16214,70;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.02.6.0;1.7.1.8.02.6.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;228003,64;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.0.0;1.7.1.8.03.0.0 - Transferência de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;2492137,91;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.1.0;1.7.1.8.03.1.0 - Transferência de Recursos do SUS ¿ Atenção Primária;1710179,74;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.3.0;1.7.1.8.03.3.0 - Transferência de Recursos do SUS ¿ Vigilância em Saúde;97387,81;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.4.0;1.7.1.8.03.4.0 - Transferência de Recursos do SUS ¿ Assistência Farmacêutica;25454,08;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.03.9.0;1.7.1.8.03.9.0 - Transferência de Recursos do SUS ¿ Outros Programas Financiados por Transferências Fundo a Fundo;659116,28;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.0.0;1.7.1.8.04.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Repasses Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;877652,06;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.04.1.0;1.7.1.8.04.1.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS Destinados à Atenção Primária;877652,06;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.0.0;1.7.1.8.05.0.0 - Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;482332,56;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.1.0;1.7.1.8.05.1.0 - Transferências do Salário-Educação;194358,56;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.3.0;1.7.1.8.05.3.0 - Transferências Diretas do FNDE referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;275174,00;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.05.9.0;1.7.1.8.05.9.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE;12800,00;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.06.0.0;1.7.1.8.06.0.0 - Transferência Financeira do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;14450,16;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.09.0.0;1.7.1.8.09.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;2135718,46;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.0.0;1.7.1.8.10.0.0 - Transferências de Convênios da União e de Suas Entidades;95904,76;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.10.9.0;1.7.1.8.10.9.0 - Outras Transferências de Convênios da União;95904,76;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.8.12.0.0;1.7.1.8.12.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;272673,24;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;2948723,44;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;575354,30;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;2948723,44;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.00.0.0;1.7.2.8.00.0.0 - Transferências dos Estados - Específicas de Estados, DF e Municípios;575354,30;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;2927834,44;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.0.0;1.7.2.8.01.0.0 - Participação na Receita dos Estados;575354,30;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;2789680,07;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.1.0;1.7.2.8.01.1.0 - Cota-Parte do ICMS;557935,81;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;87095,23;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.8.01.2.0;1.7.2.8.01.2.0 - Cota-Parte do IPVA;17418,49;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.3.0;1.7.2.8.01.3.0 - Cota-Parte do IPI - Municípios;20727,85;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.4.0;1.7.2.8.01.4.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;4755,29;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.01.5.0;1.7.2.8.01.5.0 - Outras Participações na Receita dos Estados;25576,00;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.8.07.0.0;1.7.2.8.07.0.0 - Transferências de Estados destinadas à Assistência Social;20889,00;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;6339831,05;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.00.0.0;1.7.5.8.00.0.0 - Transferências de Outras Instituições Públicas - Específicas de Estados, DF e Municípios;6339831,05;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.8.01.0.0;1.7.5.8.01.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB;6339831,05;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;3808,70;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;2675,23;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.07.0.0;1.9.1.0.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;2675,23;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;1017,50;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;1017,50;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;1017,50;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;115,97;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.0.0;1.9.9.0.99.0.0 - Outras Receitas;115,97;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.99.1.0;1.9.9.0.99.1.0 - Outras Receitas - Primárias;115,97;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;5786,16;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.0.0.00.0.0;2.2.0.0.00.0.0 - Alienação de Bens;5786,16;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.0.00.0.0;2.2.1.0.00.0.0 - Alienação de Bens Móveis;5786,16;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.2.1.3.00.0.0;2.2.1.3.00.0.0 - Alienação de Bens Móveis e Semoventes;5786,16;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);29985808,39;5448
+2021;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);2935045,60;5448
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);45380209,23;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3548869,98;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;44382714,97;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3548869,98;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;1824417,83;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;1742653,67;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;109092,41;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;70092,26;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";39000,15;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1435091,11;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.01.0.0;1.1.1.3.01.0.0 - Imposto sobre a Renda de Pessoa Física - IRPF;350758,70;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1084332,41;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1000530,05;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;83802,36;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;198382,83;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;198382,83;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;198382,83;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.9.00.0.0;1.1.1.9.00.0.0 - Outros Impostos;87,32;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;81764,16;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;21022,18;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;21022,18;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;60741,98;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços;60741,98;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;460390,55;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;460390,55;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;460390,55;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;460390,55;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;141363,68;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;141363,68;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;41835860,39;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3548869,98;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;29463941,73;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;2942671,32;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;16811637,32;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;2942671,32;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;16801429,72;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;2942100,74;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;15355970,16;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;2942100,74;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.3.0;1.7.1.1.51.3.0 - Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho;1445459,56;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;2853,42;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;570,58;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;7354,18;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;372947,27;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;372947,27;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.3.0;1.7.1.2.52.3.0 - Cota-parte pela Participação Especial ¿ Lei nº 9.478/97, artigo 50;16839,74;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;356107,53;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;3656067,79;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;3656067,79;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;3656067,79;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;624402,91;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;280210,91;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;344192,00;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;7524979,88;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;287864,42;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;186042,14;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.51.0.0;1.7.1.9.51.0.0 - Transferências Financeiras do ICMS ¿ Desoneração ¿ L.C. Nº 87/96;7553,80;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;14284,56;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;164203,78;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3340902,76;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;606198,66;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3046368,76;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;606198,66;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;2917551,82;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;583510,13;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;113446,22;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;22688,53;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;15370,72;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.00.0.0;1.7.2.4.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades;249545,00;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.4.50.0.0;1.7.2.4.50.0.0 - Transferências de Convênios dos Estados e DF para o Sistema Único de Saúde ¿ SUS;249545,00;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;44989,00;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;44989,00;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;9031015,90;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;9031015,90;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;120682,52;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;672,52;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.00.0.0;1.9.2.1.00.0.0 - Indenizações;430,69;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.1.99.0.0;1.9.2.1.99.0.0 - Outras Indenizações;430,69;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;241,83;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;241,83;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;120010,00;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;120010,00;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;120010,00;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.1.0;1.9.9.9.99.1.0 - Outras Receitas Administradas pela RFB;120010,00;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;997494,26;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;997494,26;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;997494,26;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;997494,26;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.01.0.0;2.4.2.2.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União;997494,26;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);45380209,23;5312
+2022;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3548869,98;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);48592594,66;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);3665097,63;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;48492351,15;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;3665097,63;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;2514906,30;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2459217,65;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;132111,06;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;90802,57;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";41308,49;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;1668184,58;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.01.0.0;1.1.1.3.01.0.0 - Imposto sobre a Renda de Pessoa Física - IRPF;275771,35;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1392413,23;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1118082,98;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;274330,25;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;367803,23;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;367803,23;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;367803,23;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.9.00.0.0;1.1.1.9.00.0.0 - Outros Impostos;291118,78;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;55688,65;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;48149,54;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;48149,54;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;7539,11;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;7539,11;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;575964,65;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;575964,65;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;575964,65;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;575964,65;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;146460,93;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;146460,93;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;45246927,24;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;3665097,63;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;32191486,77;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3021368,04;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;16598704,30;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3021368,04;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;16593456,49;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3020606,37;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;15103033,32;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3020606,37;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1490423,17;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3808,77;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;761,67;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;1439,04;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;330424,20;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;330424,20;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;330424,20;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;3223360,43;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;3095782,55;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;2573731,38;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.5.0;1.7.1.3.50.5.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Gestão do SUS;522051,17;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.99.0.0;1.7.1.3.99.0.0 - Outras Transferências de Recursos do Sistema Único de Saúde - SUS;127577,88;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;821595,73;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;343226,83;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;410640,00;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;67728,90;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;9924777,51;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;542846,87;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;749777,73;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;14676,12;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.99.0.0;1.7.1.9.99.0.0 - Outras Transferências de Recursos da União e de suas Entidades;735101,61;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;3474710,49;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;643729,59;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3238885,24;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;643729,59;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3102120,40;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;620423,80;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;116531,85;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;23305,79;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;17575,48;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.98.0.0;1.7.2.1.98.0.0 -Transferências Decorrentes de Participação em Outras Receitas de Impostos dos Estados e do Distrito Federal;2657,51;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;235825,25;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;62916,00;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;172909,25;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;9580729,98;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;9580729,98;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;8092,03;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;2000,00;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;2000,00;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.07.0.0;1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;2000,00;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;6092,03;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;6092,03;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;6092,03;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;100243,51;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;100243,51;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.0.00.0.0;2.4.1.0.00.0.0 - Transferências da União e de suas Entidades;100000,00;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.00.0.0;2.4.1.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde - SUS;100000,00;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.0.0;2.4.1.1.51.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS - Fundo a Fundo - Bloco de Estruturação da Rede de Serviços Públicos de Saúde;100000,00;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.1.1.51.2.0;2.4.1.1.51.2.0 - Transferências de Recursos do Bloco de Estruturação da Rede de Serviços Públicos de Saúde - Atenção Especializada;100000,00;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.3.0.00.0.0;2.4.3.0.00.0.0 - Transferências dos Municípios e de suas Entidades;243,51;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.3.1.00.0.0;2.4.3.1.00.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS dos Municípios ;243,51;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.3.1.50.0.0;2.4.3.1.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS dos Municípios ;243,51;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);48592594,66;5312
+2023;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);3665097,63;5312
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);53993080,82;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;ReceitasExcetoIntraOrcamentarias;RECEITAS (EXCETO INTRA-ORÇAMENTÁRIAS) (I);4255603,16;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;53337873,01;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.0.0.0.00.0.0;1.0.0.0.00.0.0 - Receitas Correntes;4255603,16;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.0.0.00.0.0;1.1.0.0.00.0.0 - Impostos, Taxas e Contribuições de Melhoria;3066188,84;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.0.00.0.0;1.1.1.0.00.0.0 - Impostos;2976058,34;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.00.0.0;1.1.1.2.00.0.0 - Impostos sobre o Patrimônio;81098,48;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.50.0.0;1.1.1.2.50.0.0 - Imposto sobre a Propriedade Predial e Territorial Urbana;59836,02;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.2.53.0.0;"1.1.1.2.53.0.0 - Impostos sobre Transmissão ""Inter Vivos"" de Bens Imóveis e de Direitos Reais sobre Imóveis";21262,46;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.00.0.0;1.1.1.3.00.0.0 - Impostos sobre a Renda e Proventos de Qualquer Natureza;2362519,73;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.01.0.0;1.1.1.3.01.0.0 - Imposto sobre a Renda de Pessoa Física - IRPF;389293,24;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.0.0;1.1.1.3.03.0.0 - Imposto sobre a Renda - Retido na Fonte;1973226,49;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.1.0;1.1.1.3.03.1.0 - Imposto sobre a Renda - Retido na Fonte - Trabalho;1546432,99;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.3.03.4.0;1.1.1.3.03.4.0 - Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos;426793,50;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.00.0.0;1.1.1.4.00.0.0 - Impostos sobre a Produção e Circulação de Mercadorias e Serviços;523461,09;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.0.0;1.1.1.4.51.0.0 - Impostos sobre Serviços;523461,09;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.4.51.1.0;1.1.1.4.51.1.0 - Imposto sobre Serviços de Qualquer Natureza - ISSQN;523461,09;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.1.9.00.0.0;1.1.1.9.00.0.0 - Outros Impostos;8979,04;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.0.00.0.0;1.1.2.0.00.0.0 - Taxas;90130,50;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.00.0.0;1.1.2.1.00.0.0 - Taxas pelo Exercício do Poder de Polícia;88704,48;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.1.01.0.0;1.1.2.1.01.0.0 - Taxas de Inspeção, Controle e Fiscalização;88704,48;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.00.0.0;1.1.2.2.00.0.0 - Taxas pela Prestação de Serviços;1426,02;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.1.2.2.01.0.0;1.1.2.2.01.0.0 - Taxas pela Prestação de Serviços em Geral;1426,02;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.0.0.00.0.0;1.2.0.0.00.0.0 - Contribuições;5435,66;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.2.4.0.00.0.0;1.2.4.0.00.0.0 - Contribuição para o Custeio do Serviço de Iluminação Pública;5435,66;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.0.0.00.0.0;1.3.0.0.00.0.0 - Receita Patrimonial;368717,40;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.0.00.0.0;1.3.2.0.00.0.0 - Valores Mobiliários;368717,40;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.00.0.0;1.3.2.1.00.0.0 - Juros e Correções Monetárias;368717,40;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.3.2.1.01.0.0;1.3.2.1.01.0.0 - Remuneração de Depósitos Bancários;368717,40;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.0.0.00.0.0;1.6.0.0.00.0.0 - Receita de Serviços;179937,62;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.0.00.0.0;1.6.1.0.00.0.0 - Serviços Administrativos e Comerciais Gerais;34990,97;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.00.0.0;1.6.1.1.00.0.0 - Serviços Administrativos e Comerciais Gerais;34990,97;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.1.1.02.0.0;1.6.1.1.02.0.0 - Inscrição em Concursos e Processos Seletivos;34990,97;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.6.9.0.00.0.0;1.6.9.0.00.0.0 - Outros Serviços;144946,65;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;49698368,02;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.0.0.00.0.0;1.7.0.0.00.0.0 - Transferências Correntes;4255603,16;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;34374511,57;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.0.00.0.0;1.7.1.0.00.0.0 - Transferências da União e de suas Entidades;3503800,18;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;19337912,05;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.00.0.0;1.7.1.1.00.0.0 - Transferências Decorrentes de Participação na Receita da União;3503800,18;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;19323760,23;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.0.0;1.7.1.1.51.0.0 -Cota-Parte do Fundo de Participação dos Municípios - FPM;3503103,35;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;17415692,15;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.51.1.0;1.7.1.1.51.1.0 - Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal;3503103,35;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.51.2.0;1.7.1.1.51.2.0 - Cota-Parte do Fundo de Participação dos Municípios - Cotas Extraordinárias;1908068,08;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;3484,55;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.1.1.52.0.0;1.7.1.1.52.0.0 - Cota-Parte do Imposto Sobre a Propriedade Territorial Rural;696,83;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.1.54.0.0;1.7.1.1.54.0.0 - Cota-Parte da Contribuição de Intervenção no Domínio Econômico;10667,27;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.00.0.0;1.7.1.2.00.0.0 -Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;349659,13;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.0.0;1.7.1.2.52.0.0 - Cota-parte da Compensação Financeira pela Produção de Petróleo;349659,13;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.2.52.4.0;1.7.1.2.52.4.0 - Cota-Parte do Fundo Especial do Petróleo ¿ FEP;349659,13;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.00.0.0;1.7.1.3.00.0.0 -Transferências de Recursos do Sistema Único de Saúde ¿ SUS ;3929268,55;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.0.0;1.7.1.3.50.0.0 - Transferências de Recursos do Sistema Único de Saúde ¿ SUS ¿ Repasses Fundo a Fundo - Bloco de Manutenção das Ações e Serviços Públicos de Saúde;3823899,52;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.50.1.0;1.7.1.3.50.1.0 - Transferências de Recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde ¿ Atenção Primária;3823899,52;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.3.99.0.0;1.7.1.3.99.0.0 - Outras Transferências de Recursos do Sistema Único de Saúde - SUS;105369,03;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.00.0.0;1.7.1.4.00.0.0 -Transferências de Recursos do Fundo Nacional do Desenvolvimento da Educação ¿ FNDE¿ ;1454406,29;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.50.0.0;1.7.1.4.50.0.0 - Transferências do Salário-Educação;987499,39;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.52.0.0;1.7.1.4.52.0.0 - Transferências referentes ao Programa Nacional de Alimentação Escolar ¿ PNAE;399178,00;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.4.99.0.0;1.7.1.4.99.0.0 - Outras Transferências Diretas do Fundo Nacional do Desenvolvimento da Educação - FNDE;67728,90;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.5.00.0.0;1.7.1.5.00.0.0 - Transferências de Recursos de Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação ¿ FUNDEB ;8811467,58;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.6.00.0.0;1.7.1.6.00.0.0 - Transferências de Recursos do Fundo Nacional de Assistência Social ¿ FNAS;417208,07;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.00.0.0;1.7.1.9.00.0.0 - Outras Transferências de Recursos da União e de suas Entidades;74589,90;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.58.0.0;1.7.1.9.58.0.0 - Transferência Obrigatória Decorrente da Lei Complementar nº 176/2020;14994,96;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.1.9.60.0.0;1.7.1.9.60.0.0 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022;59594,94;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;4133132,82;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.0.00.0.0;1.7.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;751802,98;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;3784729,41;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.00.0.0;1.7.2.1.00.0.0 - Participação na Receita dos Estados e Distrito Federal;751802,98;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;3630538,87;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.50.0.0;1.7.2.1.50.0.0 - Cota-Parte do ICMS;726107,55;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;128480,10;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;RO1.7.2.1.51.0.0;1.7.2.1.51.0.0 - Cota-Parte do IPVA;25695,43;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.1.52.0.0;1.7.2.1.52.0.0 - Cota-Parte do IPI - Municípios;25710,44;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.00.0.0;1.7.2.2.00.0.0 - Transferências das Compensações Financeiras pela Exploração de Recursos Naturais;1507,45;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.2.51.0.0;1.7.2.2.51.0.0 - Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;1507,45;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.00.0.0;1.7.2.9.00.0.0 - Outras Transferências dos Estados e Distrito Federal;346895,96;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.51.0.0;1.7.2.9.51.0.0 - Transferências de Estados destinadas à Assistência Social;71684,00;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.2.9.99.0.0;1.7.2.9.99.0.0 - Outras Transferências dos Estados e DF;275211,96;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.0.00.0.0;1.7.5.0.00.0.0 - Transferências de Outras Instituições Públicas;11190723,63;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.7.5.1.00.0.0;1.7.5.1.00.0.0 - Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB;11190723,63;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.0.0.00.0.0;1.9.0.0.00.0.0 - Outras Receitas Correntes;19225,47;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.0.00.0.0;1.9.1.0.00.0.0 - Multas Administrativas, Contratuais e Judiciais;1000,00;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.00.0.0;1.9.1.1.00.0.0 - Multas Administrativas, Contratuais e Judiciais;1000,00;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.1.1.07.0.0;1.9.1.1.07.0.0 - Multas Aplicadas pelos Tribunais de Contas;1000,00;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.0.00.0.0;1.9.2.0.00.0.0 - Indenizações, Restituições e Ressarcimentos;8747,70;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.00.0.0;1.9.2.2.00.0.0 - Restituições;8747,70;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.2.2.99.0.0;1.9.2.2.99.0.0 - Outras Restituições;8747,70;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.0.00.0.0;1.9.9.0.00.0.0 - Demais Receitas Correntes;9477,77;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.00.0.0;1.9.9.9.00.0.0 - Outras Receitas Correntes;9477,77;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.0.0;1.9.9.9.99.0.0 - Outras Receitas;9477,77;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO1.9.9.9.99.1.0;1.9.9.9.99.1.0 - Outras Receitas Administradas pela RFB;9477,77;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.0.0.0.00.0.0;2.0.0.0.00.0.0 - Receitas de Capital;655207,81;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.0.0.00.0.0;2.4.0.0.00.0.0 - Transferências de Capital;655207,81;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.0.00.0.0;2.4.2.0.00.0.0 - Transferências dos Estados e do Distrito Federal e de suas Entidades;655207,81;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.00.0.0;2.4.2.2.00.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades ;655207,81;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;RO2.4.2.2.01.0.0;2.4.2.2.01.0.0 - Transferências de Convênios dos Estados e DF e de Suas Entidades para Órgãos e Entidades da União;655207,81;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Receitas Brutas Realizadas;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);53993080,82;5820
+2024;Prefeitura Municipal de Barro Preto - BA;2903300;BA;DCA-Anexo I-C;Padrão;Deduções - FUNDEB;TotalReceitas;TOTAL DAS RECEITAS (III) = (I + II);4255603,16;5820
