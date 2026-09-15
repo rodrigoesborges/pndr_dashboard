@@ -1,4 +1,4 @@
-### Cria indexes nas tabelas de vínculos do banco postgresql da RAIS criado
+### rep r-dist
 
 # userais="mte_rais"
 # passwordrais="aEd1#man@gRpublicrais"
@@ -27,8 +27,8 @@
 objetivo4_3_aedi <- emprego_por_cnae_mun|>
 
   dplyr::mutate(
-         uf = trunc(municipio/10000),
-         setor = trunc(setor/1000))|>
+    uf = trunc(municipio/10000),
+    setor = trunc(setor/1000))|>
   dplyr::group_by(municipio, ano, setor, uf) |>
   dplyr::summarise(vinc_setor = sum(qtd_vinc, na.rm = TRUE)) |>
   dplyr::group_by(municipio, ano) |>
@@ -37,7 +37,7 @@ objetivo4_3_aedi <- emprego_por_cnae_mun|>
   dplyr::mutate(vinc_setor_br = sum(vinc_setor, na.rm = TRUE)) |>
   dplyr::group_by(ano) |>
   dplyr::mutate(vinc_br = sum(vinc_setor, na.rm = TRUE),
-         value = abs((vinc_setor/vinc_munic)-(vinc_setor_br/vinc_br))) |>
+                value = abs((vinc_setor/vinc_munic)-(vinc_setor_br/vinc_br))) |>
   dplyr::group_by(municipio, ano) |>
   dplyr::summarise(value = sum(value, na.rm = TRUE)/2) |>
   dplyr::mutate(variavel = "objetivo4_3") |>
@@ -45,23 +45,27 @@ objetivo4_3_aedi <- emprego_por_cnae_mun|>
   dplyr::select(ano, codmun, variavel, value) |>
   dplyr::ungroup()
 
-saveRDS(objetivo4_3_aedi,'coleta/cache/objetivo4_3_aedi/objetivo4_3_aedi.rds')
+saveRDS(objetivo4_3_aedi,'coleta/cache/objetivo4_3_via_aedi/objetivo4_3_aedi.rds')
 
+objetivo4_3_aedi <- readRDS("coleta/cache/objetivo4_3_via_aedi/objetivo4_3_aedi.rds")
 ##Conferência
 
-objetivo4_3_orig <- readxl::read_excel('coleta/cache/objetivo4_3_aedi/9_ind_objetivo_4.xlsx')
-names(objetivo4_3_orig) <- gsub("__","_",names(objetivo4_3_orig))
-objetivo4_3_orig <- objetivo4_3_orig|>
-  tidyr::pivot_longer(-1:-5,names_sep="_",names_to = c("objetivo","n_indicador","ano"),values_to="valor")
-
-objetivo4_3_orig <- objetivo4_3_orig |>
-  dplyr::filter(n_indicador==3)|>
-  dplyr::transmute(codmun=as.numeric(code_muni6),ano=as.integer(ano),valor)
+objetivo4_3_orig <- dbGetQuery(mdr,
+                               "select refdate,local_id,value from data_values a
+                               left join mdata b on a.mdata_id = b.mdata_id where
+                               orig_name like 'objetivo4_3%'")
 
 obj4_3_compara <- objetivo4_3_orig|>
-  dplyr::left_join(objetivo4_3_aedi)
+  dplyr::left_join(locgeoloc|>dplyr::mutate(local=trunc(geoloc_id/10)))|>
+  dplyr::left_join(objetivo4_3_aedi|>
+                     dplyr::transmute(
+                       refdate=as.Date(paste0(ano,"-12-31")),
+                       local=codmun,
+                       obj4_3_aedi=value
+                     ))
 
-cor(obj4_3_compara$valor,obj4_3_compara$value,use='complete.obs')
+cor(obj4_3_compara$value,obj4_3_compara$obj4_3_aedi,use='complete.obs')
 #0.9207802
-summary(obj4_3_compara)
+#0.9899445
+summary(obj4_3_compara|>dplyr::transmute(refdate,local_id,obj4_3_base=value,obj4_3_aedi))
 #
