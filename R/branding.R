@@ -14,7 +14,7 @@
 #' Header do painel com a marca configuravel (usa pndr_titulo/subtitulo/logo)
 #' @keywords internal
 header_marca <- function() {
-  shinyGovBRstyle::header(
+  shinyGovBRstyle::br_header(
     Sys.getenv("pndr_titulo", "Painel da PNDR"),
     Sys.getenv("pndr_subtitulo", "Protótipo"),
     logo = Sys.getenv("pndr_logo", "www/pndr-sologo.png"))
