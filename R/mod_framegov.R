@@ -12,7 +12,7 @@ mod_framegov_ui <- function(id) {
 #  tagList(
   shiny::fluidPage(
     theme = bslib::bs_theme(preset ="slate"),
-  shinyGovBRstyle::header("Painel da PNDR","Protótipo",logo="www/pndr-sologo.png"),
+  header_marca(),
    shinyGovBRstyle::gov_main_layout(
 #     shinyGovBRstyle::govTabs("abas",)
      shiny::tabsetPanel(
@@ -22,6 +22,7 @@ mod_framegov_ui <- function(id) {
        ),
   shinyGovBRstyle::footer()
      ),
+  contato_rodape_tag(),
 
   )
 #  )
