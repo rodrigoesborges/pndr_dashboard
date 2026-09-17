@@ -153,7 +153,7 @@ mod_convergência_server <- function(id){
 #      )|>
     addWMSTiles("https://geoserver.distintive.com.br/geoserver/pndr/wms",
                      layers =
-                  "objetivo1_2015_camada",
+                  "pndr:objetivo1_2015_camada",
                   #"pndr:Objetivo 1 - Indicador 1 - 2016 - PNDR",
                      layerId="testecamada",
                      options = c(leaflet::pathOptions(pane="polygons"),
