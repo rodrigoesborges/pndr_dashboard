@@ -41,6 +41,14 @@ for (nome_comp in names(grupos)) {
       WHERE m.orig_name IN ('%s')", paste(inds, collapse = "','"))
   base <- DBI::dbGetQuery(con, sql)
 
+  # alinhamento anual (objetivo1_3 usa refdates -07-01 do popmun) e teto 2025:
+  # objetivo1_3_via_aedi ja tem 2026-07-01 preliminar que nao deve propagar
+  # (roadmap_compostos_2025.md / roadmap_atualizacao_2025.md).
+  base <- base |>
+    mutate(refdate = as.Date(paste0(year(refdate), "-12-31"))) |>
+    filter(refdate <= as.Date("2025-12-31")) |>
+    distinct()
+
   base <- base |>
     inner_join(sent, by = "orig_name") |>
     group_by(refdate, orig_name) |>

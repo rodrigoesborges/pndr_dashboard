@@ -12,11 +12,18 @@ BugReports:
     https://gitlab.com/rodrigoesborges/pndr_dashboard
 Imports: 
     config (>= 0.3.2),
+    DBI,
+    ggplot2,
     golem (>= 0.4.0),
+    htmltools,
     leaflet,
     pkgload,
+    plotly,
+    RPostgres,
+    sf,
     shiny (>= 1.8.1.1),
     shinydashboard,
+    shinyGovBRstyle,
     shinyjqui,
     shinymaterial
 Suggests: 

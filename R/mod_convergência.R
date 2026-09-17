@@ -151,14 +151,14 @@ mod_convergência_server <- function(id){
 #           pane = "labels"
 #         )
 #      )|>
-    addWMSTiles("https://geoserver.mdr.gov.br/geoserver/pndr/wms",
+    addWMSTiles("https://geoserver.distintive.com.br/geoserver/pndr/wms",
                      layers =
                   "objetivo1_2015_camada",
                   #"pndr:Objetivo 1 - Indicador 1 - 2016 - PNDR",
                      layerId="testecamada",
                      options = c(leaflet::pathOptions(pane="polygons"),
                                  WMSTileOptions(format = "image/png",transparent = TRUE,
-                                                styles="pndr:desnivelmedio2",
+                                                styles="pndr:desnivelmedio",
                                                 version="1.3.0",
                                                 crs="EPSG:4326"),
                                  pathOptions(pane = "base"))
@@ -174,14 +174,14 @@ mod_convergência_server <- function(id){
   observe({
     input$ano1
     leafletProxy("mapabasse")|>
-      addWMSTiles("https://geoserver.mdr.gov.br/geoserver/pndr/wms",
+      addWMSTiles("https://geoserver.distintive.com.br/geoserver/pndr/wms",
                   layers =
                     paste0("pndr:objetivo1_",input$ano1,"_camada"),
                   #"pndr:Objetivo 1 - Indicador 1 - 2016 - PNDR",
                   layerId="testecamada",
                   options = c(leaflet::pathOptions(pane="base"),
                               WMSTileOptions(format = "image/png",transparent = TRUE,
-                                             styles="pndr:desnivelmedio2",
+                                             styles="pndr:desnivelmedio",
                                              version="1.3.0",
                                              crs="EPSG:4326"))
       )

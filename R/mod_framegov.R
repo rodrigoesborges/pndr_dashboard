@@ -11,16 +11,19 @@ mod_framegov_ui <- function(id) {
   ns <- NS(id)
 #  tagList(
   shiny::fluidPage(
-    theme = bslib::bs_theme(preset ="slate"),
-  header_marca(),
-   shinyGovBRstyle::gov_main_layout(
+    shinyGovBRstyle::use_govbr(),
+    header_marca(),
+   shinyGovBRstyle::br_layout(
 #     shinyGovBRstyle::govTabs("abas",)
-     shiny::tabsetPanel(
-#      shiny::tabPanel("Rede Policêntrica",mod_rede_policêntrica_ui("rede_policêntrica_1")),
-     shiny::tabPanel("Convergência",mod_convergência_ui("convergência_1"))#,
-#     shiny::tabPanel("Competitividade",mod_competitividade_regional_ui("competitividade_regional_1"))
+     shinyGovBRstyle::br_tabs("abas",c("Rede Policêntrica","Convergência","Painel"),
+      shiny::tabPanel("Rede Policêntrica",mod_rede_policêntrica_ui("rede_policêntrica_1")),
+     shiny::tabPanel("Convergência",mod_convergência_ui("convergência_1")),
+     shiny::tabPanel("Painel",
+       mod_panel_map_ui("panel_map_1"),
+       shiny::hr(),
+       mod_panel_series_ui("panel_series_1"))#,
        ),
-  shinyGovBRstyle::footer()
+  shinyGovBRstyle::br_footer()
      ),
   contato_rodape_tag(),
 
@@ -34,7 +37,8 @@ mod_framegov_ui <- function(id) {
 mod_framegov_server <- function(id){
   moduleServer(id, function(input, output, session){
     ns <- session$ns
-
+    mod_panel_map_server("panel_map_1")
+    mod_panel_series_server("panel_series_1")
   })
 }
 
