@@ -1,0 +1,66 @@
+{
+  "gerador": "AEDi::deploy_panel",
+  "versao_aedi": "0.6.0",
+  "data": "2026-09-20",
+  "titulo": "Painel de Indicadores da PNDR",
+  "paleta": "govbr",
+  "arquivos": {
+    "app.R": {
+      "sha256": "6d5c87ed1b9865382e65bf0e8d209b17d936a042cb92c1cfb17fb0778c3fb445"
+    },
+    "README.md": {
+      "sha256": "ffeae820a360352675425856edb8d27beb9b39517d1288ff4371d92458ebec7a"
+    },
+    "R/app_ui.R": {
+      "sha256": "5ede1e45be41e9b16c95c13542b5182e2a6eea8e572480789bd0b80cc2161d01"
+    },
+    "R/branding.R": {
+      "sha256": "3bf549d5cb570a29e99b62f1bee6c58ed100294214f3be40f196516e9b5075ed"
+    },
+    "R/painel_ui.R": {
+      "sha256": "6a912051a837ab9638f26a01a6f2845972202c840f64c204faaa5fe701c88733"
+    },
+    "R/painel_dw.R": {
+      "sha256": "810a8d4f517669cb65376c669e676f8bb833d9e6069a990d8db8396aadffe7f7"
+    },
+    "R/mod_panel_globe.R": {
+      "sha256": "96503c253eee2cab2adf98b90f25e7f2de4e04911253f6400cd45a7a1dbdc391"
+    },
+    "R/mod_panel_map.R": {
+      "sha256": "87b66a33d862ddc31e8ca9e6a373a82edc460ef2848934e352607df8b5cbce31"
+    },
+    "R/mod_panel_regiao.R": {
+      "sha256": "ce1bc5d6dda874bc84298f5018602c483d87be1d2cde2d2d3bc2f9ab97d2fc18"
+    },
+    "R/mod_panel_sobre.R": {
+      "sha256": "20382481099433ffdfc70db74dbdc1d35a1f73e2fdc2b16113e308aa317a805e"
+    },
+    "R/app_server.R": {
+      "sha256": "25ace5bc5de2432ba6fe539c7897aaa3c3c155ff94294334fe8b873b7e6edac5"
+    },
+    "www/painel-geo.js": {
+      "sha256": "fcadbbe4adcd66ecead1c4e203157c050b4252e9edf3f9eef921b842fefa23fa"
+    },
+    "www/painel-geo.LICENSE.md": {
+      "sha256": "fb636c68736b40b30a866f0c9a3ff751360dec1a1e146aa5987863f8b8ad88b9"
+    },
+    "www/painel-globe.js": {
+      "sha256": "7ec5d74703eeb5accfe091f1f703d75e628e78a57b762626d8900b359fa1b279"
+    },
+    "www/painel-map-controls.js": {
+      "sha256": "755b4dff2dd4fa2a0f3041a5e9fd2763c904b54debe3239c07dfb22ac868db44"
+    },
+    "www/painel-map.js": {
+      "sha256": "d5b8de5ef8f1dc46cfc9d9f93a4ee7afaa2610cad14c5c097e5aa8a90b79d326"
+    },
+    "www/painel.css": {
+      "sha256": "571c5b54ee658e50e4a6766fe7c9da992c0ea8bff1314450ed6d807b41f6fcef"
+    },
+    "www/painel.js": {
+      "sha256": "1f5b250f7b07ad1992907d42b1b12ce8a80f0bb70862c64f456ab17ebdcd14f9"
+    },
+    "www/aedi-Wide.png": {
+      "sha256": "61302e464c1210864f46962dba6755f343bec4338616274940f636f029aedf5f"
+    }
+  }
+}
