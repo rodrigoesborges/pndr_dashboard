@@ -21,6 +21,7 @@ tracks Brazilian regional dynamics and monitors/evaluates the PNDR policy.
 | `inst/golem-config.yml` | Golem config (`default`/`production`/`dev` profiles). Read with `get_golem_config()` (`R/app_config.R`). |
 | `data/` | Package datasets, notably `basemap.rda` (municipality polygons, `LazyData: true`). |
 | `data-raw/` | Scripts that prepare datasets (`basemap.R`, `populate_initialdb.R`). Not part of the built package (see `.Rbuildignore`). |
+| `coleta/` | ETL scripts loading the PostgreSQL star schema (`aedidb` local / `painelpndr` remote): `transf_uniao_municipio.R` (D2), `gastos_tributarios_municipio.R` (D3/D3b, 2022–2025, run with year arg), `cnpj_indice_raiz_municipio.R`, `indicadores_transf_renuncias.R` (D4: mdata 107–111), `sincroniza_remoto.R`/`sincroniza_via_aedi_local.R`. Mostly gitignored caches under `coleta/cache/`. See `pndr_coord/roadmap_gastos_tributarios.md` and `roadmap_rais.md`. |
 | `dadostat/` | Data-pipeline outputs: indicator RDS files (`Painel de Indicadores/Cálculo Painel de Indicadores/*.RDS`), bibliometric exports, map layers. Mostly gitignored/untracked working data. |
 | `dev/` | One-off workflow scripts and the golem dev scaffold (`01_start.R`, `02_dev.R`, `03_deploy.R`). Excluded from package builds. |
 | `dev/2024-09-Produto-1/` | Bookdown "Produto 1" report (bibliometric + PCI analysis) with its own `bib/`. |
