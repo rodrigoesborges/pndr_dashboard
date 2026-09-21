@@ -8,9 +8,19 @@ rais <- DBI::dbConnect(RPostgreSQL::PostgreSQL(),
 
 
 vinculos_s38 <- \(ano) {
+  # filtro por era do CNAE (raisqlr conhece o contrato do banco):
+  # divisao 38 (2.0) equivale as divisoes 37,45,90 do CNAE 95
+  filtro <- if (is.na(raisqlr::rais_coluna(ano, "vinculo", "cnae_2_0"))) {
+    paste0("AND trunc(", raisqlr::rais_coluna(ano, "vinculo", "cnae_95"), "/1000) NOT IN (",
+           paste(raisqlr::cnae_equivalentes(38, "2.0", "1.0"), collapse = ","), ")")
+  } else {
+    paste0("AND trunc(", raisqlr::rais_coluna(ano, "vinculo", "cnae_2_0"), "/",
+           raisqlr::rais_divisor(ano, "vinculo", "divisao"), ") != 38")
+  }
   a <- DBI::dbGetQuery(rais,
                        paste0("SELECT municipio local, COUNT(*) qtd_vinculos_agr,SUM(vl_remun_dezembro_nom) massa_salarial FROM rais_vinculo_",
-                              ano," WHERE vinculo_ativo_31_12 = 1  AND trunc(cnae_2_0_classe/1000) != 38 GROUP BY municipio")
+                              ano," WHERE vinculo_ativo_31_12 = 1  ", filtro,
+                              " GROUP BY municipio")
   )
   a$ano <- ano
   a

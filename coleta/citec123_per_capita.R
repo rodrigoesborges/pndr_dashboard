@@ -16,18 +16,29 @@ pega_ct <- \(ano) {
   a <- DBI::dbGetQuery(rais,
     paste0("SELECT municipio local, COUNT(*) qtd_vinculos FROM rais_vinculo_",
            ano, " WHERE vinculo_ativo_31_12 = 1
-               AND trunc(cbo_ocupacao_2002/1000) IN (203,234,395)
+               AND trunc(", raisqlr::rais_coluna(ano, "vinculo", "cbo_2002"),
+           "/1000) IN (203,234,395)
                GROUP BY municipio"))
   a$ano <- ano
   a
 }
-ct <- data.table::rbindlist(lapply(anos, pega_ct))
+# citec2 a partir de 2004: a era anterior usa CBO-94, sem correspondencia
+# oficial 94->2002 disponivel (CONCLA) para traduzir as familias 203,234,395
+ct <- data.table::rbindlist(lapply(anos[anos >= 2004], pega_ct))
 
 pega_cnae72 <- \(ano) {
+  # divisao 72 (2.0) equivale a divisao 73 do CNAE 95
+  filtro <- if (is.na(raisqlr::rais_coluna(ano, "vinculo", "cnae_2_0"))) {
+    paste0("AND trunc(", raisqlr::rais_coluna(ano, "vinculo", "cnae_95"), "/1000) IN (",
+           paste(raisqlr::cnae_equivalentes(72, "2.0", "1.0"), collapse = ","), ")")
+  } else {
+    paste0("AND trunc(", raisqlr::rais_coluna(ano, "vinculo", "cnae_2_0"), "/",
+           raisqlr::rais_divisor(ano, "vinculo", "divisao"), ") = 72")
+  }
   a <- DBI::dbGetQuery(rais,
     paste0("SELECT municipio local, COUNT(*) qtd_vinculos FROM rais_vinculo_",
-           ano, " WHERE vinculo_ativo_31_12 = 1
-               AND trunc(cnae_2_0_classe/1000) = 72 GROUP BY municipio"))
+           ano, " WHERE vinculo_ativo_31_12 = 1 ", filtro,
+           " GROUP BY municipio"))
   a$ano <- ano
   a
 }
@@ -52,7 +63,7 @@ DBI::dbDisconnect(con)
 calc_pc <- function(dados, nome) {
   x <- pop |>
     dplyr::left_join(dados, by = c("local", "ano")) |>
-    dplyr::mutate(qtd = dplyr::coalesce(qtd_vinculos, 0)) |>
+    dplyr::mutate(qtd = dplyr::coalesce(as.numeric(qtd_vinculos), 0)) |>
     dplyr::filter(pop > 0) |>
     dplyr::transmute(local, periodo = as.Date(paste0(ano, "-12-31")),
                      valor = 1e6 * qtd / pop)
