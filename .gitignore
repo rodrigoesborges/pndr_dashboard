@@ -15,3 +15,6 @@ data-raw/credenciais*
 *.sqlite-journal
 *.dumpfile.sql
 dev/2025-03-20-backupaedidb.sql
+
+# Cache de leituras do DW remoto gerado em tempo de execucao pelo painel
+painel/cache/
