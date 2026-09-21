@@ -14,9 +14,17 @@ if (!exists("locgeoloc") || !is.data.frame(locgeoloc)) locgeoloc <- DBI::dbGetQu
 
 
 pegamineracao <- \(ano) {
+  # extracao mineral = divisoes 05-09 (2.0), equivalentes a 10,11,13,14 no 95
+  filtro <- if (is.na(raisqlr::rais_coluna(ano, "vinculo", "cnae_2_0"))) {
+    paste0("AND trunc(", raisqlr::rais_coluna(ano, "vinculo", "cnae_95"), "/1000) IN (",
+           paste(raisqlr::cnae_equivalentes(5:9, "2.0", "1.0"), collapse = ","), ")")
+  } else {
+    paste0("AND trunc(", raisqlr::rais_coluna(ano, "vinculo", "cnae_2_0"), "/",
+           raisqlr::rais_divisor(ano, "vinculo", "divisao"), ") BETWEEN 5 AND 9")
+  }
   a <- DBI::dbGetQuery(rais,
                        paste0("SELECT municipio local, COUNT(*) qtd_vinculos_agr FROM rais_vinculo_",
-                              ano," WHERE vinculo_ativo_31_12 = 1  AND cnae_2_0_classe BETWEEN 4999 AND 9999 GROUP BY municipio")
+                              ano," WHERE vinculo_ativo_31_12 = 1 ", filtro, " GROUP BY municipio")
   )
   a$ano <- ano
   a

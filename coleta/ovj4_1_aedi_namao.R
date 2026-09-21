@@ -14,9 +14,17 @@ if (!exists("con") || !inherits(con, "DBIConnection")) con <- DBI::dbConnect(RPo
 
 
 pegagricola <- \(ano) {
+  # agricultura = divisoes 01-03 (2.0), equivalentes a 1,2,5 no CNAE 95
+  filtro <- if (is.na(raisqlr::rais_coluna(ano, "vinculo", "cnae_2_0"))) {
+    paste0("AND trunc(", raisqlr::rais_coluna(ano, "vinculo", "cnae_95"), "/1000) IN (",
+           paste(raisqlr::cnae_equivalentes(1:3, "2.0", "1.0"), collapse = ","), ")")
+  } else {
+    paste0("AND trunc(", raisqlr::rais_coluna(ano, "vinculo", "cnae_2_0"), "/",
+           raisqlr::rais_divisor(ano, "vinculo", "divisao"), ") IN (1,2,3)")
+  }
   a <- DBI::dbGetQuery(rais,
                 paste0("SELECT municipio local, COUNT(*) qtd_vinculos_agr FROM rais_vinculo_",
-                       ano," WHERE vinculo_ativo_31_12 = 1  AND cnae_2_0_classe <4000 GROUP BY municipio")
+                       ano," WHERE vinculo_ativo_31_12 = 1 ", filtro, " GROUP BY municipio")
                 )
   a$ano <- ano
   a

@@ -15,14 +15,24 @@ anos_estab <- sort(as.numeric(gsub("\\D", "", grep("^rais_estabelecimento_[0-9]+
   value = TRUE))))
 
 peq <- data.table::rbindlist(lapply(anos_estab, \(x) {
-  # granularidade da coluna cnae varia por epoca: ~2013-2023 = 5 digitos
-  # (grupo = /100); 2024-2025 = 7 digitos, subclasse com DV (grupo = /10000)
+  # colunas e granularidade variam por era (raisqlr resolve por ano):
+  # CNAE 2.0 grupos 211,212,266,325 equivalem aos grupos 233,245,331 do 95
+  col20 <- raisqlr::rais_coluna(x, "estabelecimento", "cnae_2_0")
+  porte <- raisqlr::rais_coluna(x, "estabelecimento", "porte")
+  # tamestab antigo tem 0 = sem informacao: restringe a 1-5
+  cond_porte <- if (porte == "tamestab") "BETWEEN 1 AND 5" else "< 6"
+  filtro <- if (is.na(col20)) {
+    paste0("AND trunc(", raisqlr::rais_coluna(x, "estabelecimento", "cnae_95"), "/100) IN (",
+           paste(raisqlr::cnae_equivalentes(c(211, 212, 266, 325), "2.0", "1.0",
+                                            nivel = "grupo"), collapse = ","), ")")
+  } else {
+    paste0("AND trunc(", col20, "/", raisqlr::rais_divisor(x, "estabelecimento", "grupo"),
+           ") IN (211,212,266,325)")
+  }
   p <- DBI::dbGetQuery(rais,
     paste0("SELECT municipio, COUNT(*) estabelecimento FROM rais_estabelecimento_",
-           x, " WHERE tamanho_estabelecimento < 6 AND
-               (trunc(cnae_2_0_classe/100) IN (211,212,266,325)
-                OR trunc(cnae_2_0_classe/10000) IN (211,212,266,325))
-               GROUP BY municipio"))
+           x, " WHERE ", porte, " ", cond_porte, " ", filtro,
+           " GROUP BY municipio"))
   p$ano <- x
   p
 }), fill = TRUE)
