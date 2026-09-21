@@ -4,7 +4,7 @@
 
 app_ui <- function() {
   titulo <- painel_brand_titulo("Painel de Indicadores da PNDR")
-  subtitulo <- painel_brand_subtitulo("AEDi — DW de indicadores")
+  subtitulo <- painel_brand_subtitulo("AEDi — banco de dados do painel")
   paleta <- painel_brand_paleta("govbr")
   shiny::tagList(
     painel_recursos("www", paleta),
