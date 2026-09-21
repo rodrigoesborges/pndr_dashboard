@@ -1,5 +1,5 @@
 # Painel de indicadores do banco de dados do painel — esqueleto gerado por AEDi::deploy_panel()
-# AEDi 0.6.2.9000 · 2026-09-20. Este codigo pertence ao projeto: edite
+# AEDi 0.6.2.9000 · 2026-09-21. Este codigo pertence ao projeto: edite
 # livremente (abas em R/mod_*.R e R/painel_ui.R, composicao em
 # R/app_ui.R, marca em R/branding.R, dados em R/painel_dw.R).
 # Credenciais do banco de dados (variaveis de ambiente): user, password, host, dbname.
