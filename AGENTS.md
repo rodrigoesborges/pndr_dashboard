@@ -28,6 +28,7 @@ tracks Brazilian regional dynamics and monitors/evaluates the PNDR policy.
 | `skeleton/` | Standalone report template (`.Rmd` with fonts/bib), used for producing deliverables. |
 | `dashboard_db.sqlite` + `pndr_dashboard.dumpfile.sql` | New relational database (SQLite) for indicator metadata/values. Work in progress (commit `e2528b2`). |
 | `tests/` | testthat (edition 3) + spelling tests. |
+| `painel/` | Second Shiny app (AEDi-generated, no golem): DW-backed indicator dashboard run via `shiny::runApp("painel")`. Sources `painel/R/*.R` directly; see the painel section under Architecture. |
 | `app.R` | rsconnect entry point (do not remove the first comment; it's a deploy marker). |
 
 `1_data` at repo root is a **symlink** to `dadostat/__Painel de Indicadores/1_data`.
@@ -85,6 +86,49 @@ Data flow specifics:
   star schema around `mdata` (indicators), `datagroup` (Objetivos/Eixos/…), `geoloc`/`local`
   (municipalities), `data_values` (mdata × local × refdate). It is experimental — the UI
   does not consume it yet; the app still reads the RDS files directly.
+
+### The `painel/` app (AEDi skeleton)
+
+`painel/app.R` sources every file in `painel/R/` and runs a plain Shiny app (modules
+`mod_panel_regiao`, `mod_panel_map`, `mod_panel_globe`, `mod_panel_sobre`) against the
+PostgreSQL DW `aedidb` via `painel_dw.R` helpers.
+
+- **Credentials**: `painel_con()` reads env vars `user`/`password`/`host`/`dbname` (AEDi
+  pattern), **deliberately not** `tdbname`/`userdb`/`hostdbdev` (those in `.Renviron` point
+  at the remote DW and would shadow session env; see header comment in `painel_dw.R`).
+- **R reads `.Renviron` only at session start**: after editing it, restart R or run
+  `readRenviron(".Renviron")`, or the app silently connects with the old credentials.
+- **Territorial levels have no column**: a level is the **width of `geoloc_id`**
+  (1=Região, 2=UF, 4=RG intermediária, 5=Microrregião, 6=RG imediata, 7=Município,
+  8=Mesorregião), filtered with `length(g.geoloc_id::text) = N`.
+- **NA-in-SQL gotcha (fixed 2026-09-20)**: `sprintf("%d", as.integer(x))` renders literal
+  `NA` when `x` is NA/`"NA"`/`""`, producing `mdata_id = NA` SQL errors. All `painel_dw.R`
+  query helpers now early-return empty results on NA ids; module reactives use
+  `as.integer(...)[1]` + `req(!is.na(...))`. With `selectizeInput(server = TRUE)`, the
+  client can report `"NA"`/`""` strings before choices load — never pass input strings
+  straight into SQL.
+- Empty `mdata` at startup used to cascade into all-empty selectors (`md$mdata_id[1]` = NA);
+  modules now `validate(need(nrow(md) > 0, ...))` with a pt-BR message pointing at the env
+  vars and the R-session restart.
+- **Remote-DW cache (added 2026-09-20)**: the remote connection is slow (handshake ~4s,
+  aggregate queries 5–15s; startup used to open 3 sequential connections ≈ 50s per
+  session). `painel/R/painel_cache.R` implements a two-tier cache — per-process memory +
+  RDS files under `painel/cache/` (gitignored) — with keys prefixed by `host`+`dbname`.
+  Modules read only through the `painel_*_cache()` accessors in `painel_dw.R`; raw
+  `painel_*()` helpers stay for ad-hoc use. TTLs: geometrias 30d, catálogo 7d, valores
+  24h. After an ETL refresh run `painel_cache_limpar()` (or wait for TTL);
+  `painel_sem_cache=1` bypasses. The map aggregates per-year in SQL
+  (`painel_valores_ano()`: `DISTINCT ON` + `make_date` range, verified equivalent to the
+  old pull-everything R derivation, ~5.6k rows vs ~73k) and keeps the NULL-on-empty
+  contract of `mapa_dados()`. Busy outputs show a pure-CSS spinner (`.recalculating`
+  rules appended to `painel/www/painel.css`).
+- **Same fixes live in AEDi**: `painel/R/painel_dw.R`, `painel_cache.R` and the
+  `mod_panel_*.R` files are byte-identical copies of AEDi's `R/` sources and of the
+  `inst/painel_esqueleto/` templates (a testthat test enforces the sync). Regeneration
+  note: once the AEDi version carrying these fixes is installed,
+  `AEDi::atualizar_painel("painel", forcar = TRUE)` re-points
+  `painel/esqueleto_manifest.json` hashes; plain `atualizar_painel()` would preserve the
+  locally-edited files (they currently differ from the old manifest hashes).
 
 ## Conventions
 
