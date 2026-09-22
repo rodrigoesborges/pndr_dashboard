@@ -34,7 +34,7 @@ emprego_mineracao_municipal <-
   data.table::rbindlist(lapply(AEDi:::anos_rais(rais), pegamineracao))
 
 empregoformalmun <- dbGetQuery(con,
-                               "SELECT trunc(geoloc_id/10) local,value, extract('year' from refdate) ano
+                               "SELECT trunc(geoloc_id/10) AS local,value, extract('year' from refdate) ano
                                  from data_values a left join mdata b on a.mdata_id = b.mdata_id
                                  left join local c on a.local_id = c.local_id where orig_name like 'emprego_formal_mun%' and extract('year' from refdate) > 2013")
 

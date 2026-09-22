@@ -16,7 +16,13 @@ pega_agricola <- \(ano) {
   a
 }
 
-ag <- data.table::rbindlist(lapply(AEDi:::anos_rais(rais), pega_agricola))
+# apenas anos com CNAE 2.0 (2000-2002 usam cnae_95_classe e quebrariam o filtro)
+anos <- AEDi:::anos_rais(rais)
+tem_cnae2 <- as.numeric(gsub("\\D", "", DBI::dbGetQuery(rais, paste(
+  "SELECT DISTINCT c.table_name FROM information_schema.columns c",
+  "WHERE c.table_schema='public' AND c.column_name='cnae_2_0_classe'",
+  "AND c.table_name ~ '^rais_vinculo_[0-9]+$'"))$table_name))
+ag <- data.table::rbindlist(lapply(anos[anos %in% tem_cnae2], pega_agricola))
 readr::write_csv(ag, "coleta/cache/empregoformal_agricola_municipal/empregoformal_agricola_municipal.csv")
 
 AEDi:::gravar_serie_dw("empregoformal_agricola_municipal",
