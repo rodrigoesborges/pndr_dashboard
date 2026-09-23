@@ -1,27 +1,27 @@
 {
   "gerador": "AEDi::deploy_panel",
   "versao_aedi": "0.7.0.9000",
-  "data": "2026-09-23",
+  "data": "2026-09-24",
   "titulo": "Painel de Indicadores da PNDR",
   "paleta": "govbr",
   "arquivos": {
     "app.R": {
-      "sha256": "ed671c520f13c260c410081376af54bf0d8a8d9cf56a7e83eba1aa6b6c58e527"
+      "sha256": "57dc0bad89fadf7f125268eb523cc65ed628158d1473f1d7fef1562e8cff4688"
     },
     "README.md": {
-      "sha256": "f7f66c0c1cae53cba00fb9647999cd5fee664ae003091aeee182e477525608e8"
+      "sha256": "3c1af79397342168a01a6d1a3827f2cc31924622c2dba9c6223baf55f0ee2623"
     },
     "R/app_ui.R": {
       "sha256": "a775c4e33d6dabf5449f4bd4e9f826e07a422cf77bf4fffb3cf8f5ea3d8ef656"
     },
     "R/branding.R": {
-      "sha256": "57ac5a6ec24ec48e7d60d76ea70e00a13d4f499329bf65f640549aabbe9d3b5f"
+      "sha256": "305c2427bd4425e65a9c05abf27d1a06b7547019c6ee90180ef3fb6b1c7277cc"
     },
     "R/painel_basemap.R": {
       "sha256": "22d47a2316abfc30bec0e106dd73909fcf70850dce5617d999aed58f292df8ec"
     },
     "R/painel_ui.R": {
-      "sha256": "96374657ff78d6834a9d5b0b24ebf9be75b59179f8c9e752909be3a03e7eb5a7"
+      "sha256": "99999085219b21281a7cc7e9491695515b37731e8e33a3c9ed497fcebaff7c99"
     },
     "R/painel_cache.R": {
       "sha256": "33ab2f7e756cfb746ca0826de73307ed93de3b16706df9804be897f7d325baf2"
@@ -45,7 +45,7 @@
       "sha256": "eb36d80583be2f792c42d9e27033682fa5eedfce31fd38902ee5499f269aee25"
     },
     "R/mod_panel_sobre.R": {
-      "sha256": "3bce7068d7f49129ef2c6726b8a43520f587fd92c70f00cf01d735352d74a27f"
+      "sha256": "36d3e6606f6699cbab6cdf88fac19d89bf43e55176efcf3b8ee5f2194474f3c0"
     },
     "R/app_server.R": {
       "sha256": "56b3393d4438947aeb84206db4cb0e0a4c7abad2b9f3bc54eb35e0289748a2b1"
@@ -69,7 +69,7 @@
       "sha256": "660afec142cd4f957fff10146541f20b1fb5f17bd78042df7128368eb6ab59d7"
     },
     "www/painel.css": {
-      "sha256": "17cf9ceb9218f3b763cd3c961b5e16bc57f820d6487cca645549cf7d885f49c6"
+      "sha256": "3c0b8e213ef5f5a65aba88d4cf51c17823bf2e92a9422cd60da14392ee05f657"
     },
     "www/painel.js": {
       "sha256": "792a54dd8dd579bb8081ac30a81a806eb3bce639e16a0d63fd0545b52a2f3949"
