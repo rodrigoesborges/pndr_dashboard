@@ -1,7 +1,7 @@
 # Painel de Indicadores da PNDR
 
 Esqueleto de painel de indicadores gerado por `AEDi::deploy_panel()`
-(AEDi 0.6.9, 2026-09-23). **Este projeto é dono deste código** —
+(AEDi 0.7.0, 2026-09-23). **Este projeto é dono deste código** —
 adaptar, criar e mudar elementos é o esperado:
 
 | Arquivo | Papel |
