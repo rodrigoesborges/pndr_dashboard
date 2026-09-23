@@ -1,7 +1,7 @@
 # Painel de Indicadores da PNDR
 
 Esqueleto de painel de indicadores gerado por `AEDi::deploy_panel()`
-(AEDi 0.6.7.9000, 2026-09-22). **Este projeto é dono deste código** —
+(AEDi 0.6.9, 2026-09-23). **Este projeto é dono deste código** —
 adaptar, criar e mudar elementos é o esperado:
 
 | Arquivo | Papel |
@@ -91,7 +91,7 @@ da série histórica.
 ## Dependências
 
 - Pacotes do CRAN usados pelos módulos (shiny, leaflet, plotly, DBI,
-  RPostgres, dplyr, ...);
+  RPostgres, dplyr, openxlsx — planilhas da aba "Baixar", ...);
 - `shinyGovBRstyle` (GitHub):
   `remotes::install_github("DistintiveLab/shinyGovBRstyle")`.
 
