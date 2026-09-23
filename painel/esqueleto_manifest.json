@@ -1,15 +1,15 @@
 {
   "gerador": "AEDi::deploy_panel",
-  "versao_aedi": "0.6.7.9000",
-  "data": "2026-09-22",
+  "versao_aedi": "0.6.9",
+  "data": "2026-09-23",
   "titulo": "Painel de Indicadores da PNDR",
   "paleta": "govbr",
   "arquivos": {
     "app.R": {
-      "sha256": "55574e02e788c3c2d720c9af3df9e17bae0036fef67ebff1a80678963d3b7b05"
+      "sha256": "85e451df007af2e8e24a2d0bd65fdb22c528c1848f0c0d57fa64658c6eac8c8e"
     },
     "README.md": {
-      "sha256": "2bb1d1fac60909ce947fd75b3ef30a5071b1c80bc8a957d8441ac287e5cbcf8b"
+      "sha256": "69240d99d6fcefe14d460cebea862825bf43197e2a3feab67cd6b26531fc6b29"
     },
     "R/app_ui.R": {
       "sha256": "a775c4e33d6dabf5449f4bd4e9f826e07a422cf77bf4fffb3cf8f5ea3d8ef656"
@@ -21,13 +21,16 @@
       "sha256": "22d47a2316abfc30bec0e106dd73909fcf70850dce5617d999aed58f292df8ec"
     },
     "R/painel_ui.R": {
-      "sha256": "d3b1efe708b741498aa56de0a2e124bdfbaca9ec5b94fb1027cc6c31a754604f"
+      "sha256": "96374657ff78d6834a9d5b0b24ebf9be75b59179f8c9e752909be3a03e7eb5a7"
     },
     "R/painel_cache.R": {
       "sha256": "33ab2f7e756cfb746ca0826de73307ed93de3b16706df9804be897f7d325baf2"
     },
     "R/painel_dw.R": {
       "sha256": "73a21e0c296a2fe034e54176c9c454a2405d63e8e1586ff9e88ee35fcee4df4a"
+    },
+    "R/painel_xlsx.R": {
+      "sha256": "1dc389440ab22da34bc52fbb74faeab0fc9a47c20a660536d528f41b991107ee"
     },
     "R/mod_panel_globe.R": {
       "sha256": "1b72b5d735248df116931b618b920e6eab16878d47aa9bf48f92b2381e416d46"
@@ -38,11 +41,14 @@
     "R/mod_panel_regiao.R": {
       "sha256": "aa9f13e531c2ff216ba3b58146eb6c649aa5f89ee5dac82103e33bfb77d16b55"
     },
+    "R/mod_panel_baixar.R": {
+      "sha256": "6725213ca2aee79101b6263d0a5ca0bd233c2a843451addbdb21035dd930b342"
+    },
     "R/mod_panel_sobre.R": {
       "sha256": "63167ede05831dd8a18335aa83e8bab34961db2a6c39380a9f169589c6d15f17"
     },
     "R/app_server.R": {
-      "sha256": "25ace5bc5de2432ba6fe539c7897aaa3c3c155ff94294334fe8b873b7e6edac5"
+      "sha256": "56b3393d4438947aeb84206db4cb0e0a4c7abad2b9f3bc54eb35e0289748a2b1"
     },
     "www/painel-geo.js": {
       "sha256": "fcadbbe4adcd66ecead1c4e203157c050b4252e9edf3f9eef921b842fefa23fa"
