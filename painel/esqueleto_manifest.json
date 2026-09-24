@@ -1,21 +1,21 @@
 {
   "gerador": "AEDi::deploy_panel",
-  "versao_aedi": "0.7.0.9000",
+  "versao_aedi": "0.7.1.9000",
   "data": "2026-09-24",
   "titulo": "Painel de Indicadores da PNDR",
   "paleta": "govbr",
   "arquivos": {
     "app.R": {
-      "sha256": "57dc0bad89fadf7f125268eb523cc65ed628158d1473f1d7fef1562e8cff4688"
+      "sha256": "44448a6e39bb79d83ac4c40df9966ef4363e8195fc092713fc7aa7134020c44b"
     },
     "README.md": {
-      "sha256": "3c1af79397342168a01a6d1a3827f2cc31924622c2dba9c6223baf55f0ee2623"
+      "sha256": "445b0a0917e311f859d55cc1c7d520329345b9ed13c6a670092d020315e8baeb"
     },
     "R/app_ui.R": {
       "sha256": "a775c4e33d6dabf5449f4bd4e9f826e07a422cf77bf4fffb3cf8f5ea3d8ef656"
     },
     "R/branding.R": {
-      "sha256": "305c2427bd4425e65a9c05abf27d1a06b7547019c6ee90180ef3fb6b1c7277cc"
+      "sha256": "97fceb9ea2fe19081f7e6e372cf91a25e476d7f62069b939a9305e6b7e06e459"
     },
     "R/painel_basemap.R": {
       "sha256": "22d47a2316abfc30bec0e106dd73909fcf70850dce5617d999aed58f292df8ec"
@@ -27,13 +27,13 @@
       "sha256": "33ab2f7e756cfb746ca0826de73307ed93de3b16706df9804be897f7d325baf2"
     },
     "R/painel_dw.R": {
-      "sha256": "c0011b2251b34e9229e384ae4113cd8e29e90e5721feede2d7508bb15cf33e2c"
+      "sha256": "0d56d0026ee63fdbd6b59af4b6c4a64b0d9bb396ae86fc96a90ca833b8a28d00"
     },
     "R/painel_xlsx.R": {
       "sha256": "1dc389440ab22da34bc52fbb74faeab0fc9a47c20a660536d528f41b991107ee"
     },
     "R/mod_panel_globe.R": {
-      "sha256": "f60f0deefa2ec57706d211874a8b28e6a77df73caea0de31945cc3a8a1953a22"
+      "sha256": "cffe127d421a921c51f18fe7311b4eb540c983f80d4028d61aff1282e4450258"
     },
     "R/mod_panel_map.R": {
       "sha256": "dfdd28494333ac5d81d1c0a7758800994053b4d15a009b746b2889ca6fa18d10"
@@ -57,7 +57,7 @@
       "sha256": "fb636c68736b40b30a866f0c9a3ff751360dec1a1e146aa5987863f8b8ad88b9"
     },
     "www/painel-globe.js": {
-      "sha256": "4ad2cc1f385b3db3c86aace443426a0efcf12b1ab71348638c662965be76a197"
+      "sha256": "aca4c4b312194617691722d427126779003d54d7d823948d42dc155b1e389b50"
     },
     "www/painel-map-controls.js": {
       "sha256": "755b4dff2dd4fa2a0f3041a5e9fd2763c904b54debe3239c07dfb22ac868db44"
@@ -69,7 +69,7 @@
       "sha256": "660afec142cd4f957fff10146541f20b1fb5f17bd78042df7128368eb6ab59d7"
     },
     "www/painel.css": {
-      "sha256": "3c0b8e213ef5f5a65aba88d4cf51c17823bf2e92a9422cd60da14392ee05f657"
+      "sha256": "ab31f8476133b9f61ae53318e5fbd320f62d45e76c87dff157c0e544334c7a30"
     },
     "www/painel.js": {
       "sha256": "792a54dd8dd579bb8081ac30a81a806eb3bce639e16a0d63fd0545b52a2f3949"
