@@ -1,15 +1,15 @@
 {
   "gerador": "AEDi::deploy_panel",
-  "versao_aedi": "0.7.2.9000",
+  "versao_aedi": "0.7.3.9000",
   "data": "2026-09-24",
   "titulo": "Painel de Indicadores da PNDR",
   "paleta": "govbr",
   "arquivos": {
     "app.R": {
-      "sha256": "08662410c2f029a14cdaeb22513ccdb0208d32190e6ba3340f99816b4f91ad1f"
+      "sha256": "8d4b57fb6ca665e782e45c6585f818996fb0fca8fedf749aa1223d71f3d35f8c"
     },
     "README.md": {
-      "sha256": "41bad3a7541949223a1ee867a1cd962df7a5b697e270f88f6878f3566ace333f"
+      "sha256": "056fac00d26ef2791c9246b119bbcce7bb2ff7c8d285a861bcf452461e6de55e"
     },
     "R/app_ui.R": {
       "sha256": "a775c4e33d6dabf5449f4bd4e9f826e07a422cf77bf4fffb3cf8f5ea3d8ef656"
@@ -27,7 +27,7 @@
       "sha256": "33ab2f7e756cfb746ca0826de73307ed93de3b16706df9804be897f7d325baf2"
     },
     "R/painel_dw.R": {
-      "sha256": "c1934a20cc00a718501b0422a2b0cdd29b9ceb4935deee448f8d02c2fbf380e7"
+      "sha256": "decbc66b85e3d8584aa5171d7b6f6fff66b572b39a393033777d88620587b0a5"
     },
     "R/painel_xlsx.R": {
       "sha256": "490652dade6284f235f85d53b00789d4ee7539d59825a3f118e3691c63a89c33"
