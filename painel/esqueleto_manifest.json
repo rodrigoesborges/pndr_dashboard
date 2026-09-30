@@ -1,15 +1,15 @@
 {
   "gerador": "AEDi::deploy_panel",
-  "versao_aedi": "0.7.7",
-  "data": "2026-09-29",
+  "versao_aedi": "0.8.0",
+  "data": "2026-09-30",
   "titulo": "Painel de Indicadores da PNDR",
   "paleta": "govbr",
   "arquivos": {
     "app.R": {
-      "sha256": "a939b01f6da618b6af1e541b0496425a9b666915611c0bce5b8c0f8d56159dfe"
+      "sha256": "6322146241c6e345b6c00ec909ba4f6e94a0d5decd2230b36fe2deb59bd6c6f9"
     },
     "README.md": {
-      "sha256": "a96c457341a80b4252a27f1bf2b318526c411318d09c98d4f7b4531add8ae109"
+      "sha256": "2cca8848c7aed2a44daaec942b2575afdd6055ebd20a9cc71f3368bb167943e8"
     },
     "R/app_ui.R": {
       "sha256": "a775c4e33d6dabf5449f4bd4e9f826e07a422cf77bf4fffb3cf8f5ea3d8ef656"
@@ -21,7 +21,7 @@
       "sha256": "22d47a2316abfc30bec0e106dd73909fcf70850dce5617d999aed58f292df8ec"
     },
     "R/painel_ui.R": {
-      "sha256": "99999085219b21281a7cc7e9491695515b37731e8e33a3c9ed497fcebaff7c99"
+      "sha256": "c6f6c9452bdc9b19546767dc254392e32e0541626e16e9f857853143ca37b239"
     },
     "R/painel_cache.R": {
       "sha256": "33ab2f7e756cfb746ca0826de73307ed93de3b16706df9804be897f7d325baf2"
@@ -39,7 +39,7 @@
       "sha256": "dfdd28494333ac5d81d1c0a7758800994053b4d15a009b746b2889ca6fa18d10"
     },
     "R/mod_panel_regiao.R": {
-      "sha256": "f385a7551d65ada72c6b3e893bada46d05bf5f5f70eac47e1c162f5327ba83b5"
+      "sha256": "437db372d760b328b697faacbd352fb81f9ab87036965e2c5fa9fe06d6ced47d"
     },
     "R/mod_panel_baixar.R": {
       "sha256": "221b0be110cb7a762115a72b4b124f2c05cfe1977c4fb46e630e77fca4d73173"
@@ -69,10 +69,16 @@
       "sha256": "660afec142cd4f957fff10146541f20b1fb5f17bd78042df7128368eb6ab59d7"
     },
     "www/painel.css": {
-      "sha256": "cf5a214e7cc0b485ef5415ad89972df8ea4ed2377b9334c9010c116a29b9b33f"
+      "sha256": "0a6c470c4424d66a67307bffff33e3768117fa5b711320e964383e2d767ea99f"
     },
     "www/painel.js": {
-      "sha256": "792a54dd8dd579bb8081ac30a81a806eb3bce639e16a0d63fd0545b52a2f3949"
+      "sha256": "a4b2cbba3c03c09dac49097e515ffdbfdaa17afda33a3f433b3ea57e79f913f5"
+    },
+    "www/aedi-tema.css": {
+      "sha256": "7a870fa871c808ea1c9f2a577a1c6ff41b181779e1c72c76181f9ac24a113213"
+    },
+    "www/aedi-tema.js": {
+      "sha256": "8e4b0934bcb3faa6713ffe3fdb49e7ac13d120b5dfec9e827858a0e62a675a79"
     },
     "www/aedi-Wide.png": {
       "sha256": "61302e464c1210864f46962dba6755f343bec4338616274940f636f029aedf5f"

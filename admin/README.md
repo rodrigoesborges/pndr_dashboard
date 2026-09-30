@@ -5,6 +5,8 @@ pulos, inclusive dependencias), grafo de dependencias declarado, frescor
 das series no banco e historico das execucoes. Gerada por
 `AEDi::deploy_admin()` como launcher sobre o pacote AEDi.
 
+Tema visual: paleta `govbr` (alternavel pelo botao da barra superior).
+
 ## Rodar localmente
 
 ```r

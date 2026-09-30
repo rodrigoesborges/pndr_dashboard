@@ -1,5 +1,5 @@
 # Painel de indicadores do banco de dados do painel — esqueleto gerado por AEDi::deploy_panel()
-# AEDi 0.7.7 · 2026-09-29. Este codigo pertence ao projeto: edite
+# AEDi 0.8.0 · 2026-09-30. Este codigo pertence ao projeto: edite
 # livremente (abas em R/mod_*.R e R/painel_ui.R, composicao em
 # R/app_ui.R, marca em R/branding.R, dados em R/painel_dw.R).
 # Credenciais do banco de dados (variaveis de ambiente): user, password, host, dbname.
@@ -9,18 +9,9 @@
 
 library(shiny)  # modulos usam NS(), tagList(), reactive() etc. sem prefixo
 
-for (f in c(
-  "R/branding.R",
-  "R/painel_basemap.R",
-  "R/painel_cache.R",
-  "R/painel_dw.R",
-  "R/painel_ui.R",
-  "R/mod_panel_globe.R",
-  "R/mod_panel_map.R",
-  "R/mod_panel_regiao.R",
-  "R/mod_panel_sobre.R",
-  "R/app_ui.R",
-  "R/app_server.R"
-)) source(f, encoding = "UTF-8")
+# carrega todos os blocos da propria app (qualquer R/*.R do esqueleto —
+# inclusive abas adicionadas pelo projeto depois do deploy)
+for (f in list.files("R", pattern = "[.]R$", full.names = TRUE))
+  source(f, encoding = "UTF-8")
 
 shiny::shinyApp(ui = app_ui(), server = app_server)
