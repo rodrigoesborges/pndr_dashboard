@@ -36,9 +36,12 @@ con <- DBI::dbConnect(RPostgres::Postgres(),
                       password = Sys.getenv("password", "aEd1#man@gR"),
                       host = Sys.getenv("host", "127.0.0.1"),
                       dbname = Sys.getenv("dbname", "aedidb"))
+# estritamente municipal (regra do ecossistema): exclui agregados do bloco
+# 5571-7087 (curado 2026-09-30, ver AGENTS.md)
 pop <- DBI::dbGetQuery(con, "SELECT trunc(l.geoloc_id/10) local, d.value pop
   FROM data_values d JOIN mdata m USING (mdata_id) JOIN local l USING (local_id)
- WHERE m.orig_name = 'datasus_popmun' AND d.refdate = DATE '2024-07-01'")
+ WHERE m.orig_name = 'datasus_popmun' AND d.refdate = DATE '2024-07-01'
+   AND (l.local_id < 5571 OR l.local_id > 7087)")
 DBI::dbDisconnect(con)
 
 # 0-fill: universo = popmun 2024; municipios sem depositos entram com 0
