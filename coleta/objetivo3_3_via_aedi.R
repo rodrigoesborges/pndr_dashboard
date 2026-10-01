@@ -7,8 +7,12 @@ con <- DBI::dbConnect(RPostgres::Postgres(),
                       host = Sys.getenv("host", "127.0.0.1"),
                       dbname = Sys.getenv("dbname", "aedidb"))
 
-dbdbase <- DBI::dbGetQuery(con, "SELECT * FROM geonamed_datavalues
-        WHERE orig_name IN ('datasus_popmun')")
+# estritamente municipal (regra do ecossistema): exclui o bloco de agregados
+# 5571-7087 (regioes PNAD, UFs, grandes regioes, RGIs, RGINTs, Brasil). Antes
+# lia de geonamed_datavalues sem filtro (curado 2026-09-30, ver AGENTS.md).
+dbdbase <- DBI::dbGetQuery(con, "SELECT * FROM named_datavalues
+        WHERE orig_name IN ('datasus_popmun')
+          AND (local_id < 5571 OR local_id > 7087)")
 
 o33 <- dbdbase |>
   dplyr::group_by(local_id) |>
