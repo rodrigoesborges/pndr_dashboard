@@ -50,14 +50,20 @@ con <- DBI::dbConnect(RPostgres::Postgres(),
                       password = Sys.getenv("password", "aEd1#man@gR"),
                       host = Sys.getenv("host", "127.0.0.1"),
                       dbname = Sys.getenv("dbname", "aedidb"))
+# estritamente municipal (regra do ecossistema): exclui agregados do bloco
+# 5571-7087 — trunc(geoloc/10) de agregado já resolveu p/ microrregião no
+# lookup antigo e a row do Brasil (geoloc 7087) cairia no muni local_id 708
+# (curado 2026-09-30, ver AGENTS.md)
 pop <- DBI::dbGetQuery(con, "SELECT trunc(l.geoloc_id/10) local,
         extract(year from d.refdate)::int ano, d.value pop
   FROM data_values d JOIN mdata m USING (mdata_id) JOIN local l USING (local_id)
- WHERE m.orig_name = 'datasus_popmun'")
+ WHERE m.orig_name = 'datasus_popmun'
+   AND (l.local_id < 5571 OR l.local_id > 7087)")
 peq <- DBI::dbGetQuery(con, "SELECT trunc(l.geoloc_id/10) local,
         extract(year from d.refdate)::int ano, d.value peq
   FROM data_values d JOIN mdata m USING (mdata_id) JOIN local l USING (local_id)
- WHERE m.orig_name = 'pequenas_empresas_biotecsaude_mun'")
+ WHERE m.orig_name = 'pequenas_empresas_biotecsaude_mun'
+   AND (l.local_id < 5571 OR l.local_id > 7087)")
 DBI::dbDisconnect(con)
 
 calc_pc <- function(dados, nome) {
