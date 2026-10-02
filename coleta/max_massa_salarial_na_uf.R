@@ -11,7 +11,11 @@ con <- DBI::dbConnect(RPostgres::Postgres(),
                       dbname = Sys.getenv("dbname", "aedidb"))
 
 dbdbase <- DBI::dbGetQuery(con, "SELECT * FROM geonamed_datavalues
-        WHERE orig_name IN ('massa_salarial_municipal')")
+        WHERE orig_name IN ('massa_salarial_municipal')
+          AND (local_id < 5571 OR local_id > 7087)")
+# estritamente municipal: sem o filtro, agregados do insumo herdavam-se
+# para a série e o lookup antigo desviava munis de local_id pequeno
+# (curado 2026-10-01, ver AGENTS.md)
 
 mx <- dbdbase |>
   dplyr::group_by(estado, refdate) |>
