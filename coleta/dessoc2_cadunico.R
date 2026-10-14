@@ -1,5 +1,6 @@
-# dessoc2 (22): % de pessoas em familias com renda ate 1 salario minimo
-# no CadUnico sobre a populacao municipal.
+# dessoc2 (22): % de pessoas em familias com renda per capita de ate meio
+# salario-minimo (Pobreza + Baixa renda) no CadUnico sobre a populacao
+# municipal.
 # Fonte: CSV exportado do portal CadUnico/MDS (visdata3). O link de download
 # (engenharia reversa — URL de exportacao DataTables, sem cookie/token) esta
 # em `linkreversengineer`; bloqueado desta maquina pelo CDN gov.br — baixar
@@ -27,20 +28,30 @@ linkreversengineer <- paste0(
   "&start=0&length=3147483647",
   "&export=1&export_data_comma=1&export_tipo=csv")
 
-# usa o CSV mais recente em cache
+# usa TODOS os CSVs do cache (o export do portal vem fragmentado por periodo;
+# mais recente primeiro para vencer duplicatas) e acha a coluna "ate meio
+# salario" PELO NOME (a posicao muda entre edicoes do portal)
 arqs <- sort(list.files("coleta/cache/dessoc2_aedi", pattern = "^visdata3.*\\.csv$"),
              decreasing = TRUE)
-csv <- file.path("coleta/cache/dessoc2_aedi", arqs[1])
-cat("fonte:", arqs[1], "| linhas:", nrow(dessoc2 <- data.table::fread(csv, encoding = "UTF-8")), "\n")
-
-# renomeia por posicao (nomes acentuados mudam entre edicoes e encodings)
-names(dessoc2)[1:5] <- c("codigo", "nome", "uf", "ref", "pessoas_1sm")
+stopifnot(length(arqs) > 0)
+ler_pessoas <- function(arq) {
+  x <- data.table::fread(file.path("coleta/cache/dessoc2_aedi", arq), encoding = "UTF-8")
+  j <- setdiff(grep("meio sal", names(x), ignore.case = TRUE),
+               grep("acima", names(x), ignore.case = TRUE))
+  stopifnot(length(j) == 1)
+  x[, .(codigo = as.numeric(.SD[[1]]), ref = as.character(.SD[[2]]),
+        pessoas_meio_sm = suppressWarnings(as.numeric(.SD[[3]]))),
+    .SDcols = c(1, 4, j)]
+}
+dessoc2 <- data.table::rbindlist(lapply(arqs, ler_pessoas))
+dessoc2 <- dessoc2[!duplicated(dessoc2, by = c("codigo", "ref"))]
+cat("fontes:", paste(arqs, collapse = " + "), "| linhas:", nrow(dessoc2), "\n")
 cat("referencias:", paste(tail(sort(unique(dessoc2$ref)), 5), collapse = " "), "\n")
 
 dez <- dessoc2[grepl("^12", ref)] |>
   dplyr::transmute(codigo_ibge = as.numeric(codigo),
                    ano = as.numeric(sub(".*/", "", ref)),
-                   pessoas_ate_1sm = as.numeric(pessoas_1sm))
+                   pessoas_ate_meio_sm = as.numeric(pessoas_meio_sm))
 
 # populacao do DW (julho de cada ano -> refdate 31/12)
 con <- DBI::dbConnect(RPostgres::Postgres(),
@@ -59,7 +70,7 @@ serie <- dez |>
   dplyr::filter(populacao > 0) |>
   dplyr::transmute(local = codigo_ibge,
                    periodo = as.Date(paste0(ano, "-12-31")),
-                   valor = pessoas_ate_1sm / populacao)
+                   valor = pessoas_ate_meio_sm / populacao)
 
 cat("dessoc2:", nrow(serie), "municipios-ano | anos:",
     paste(range(as.numeric(format(unique(serie$periodo), "%Y"))), collapse = "-"), "\n")
